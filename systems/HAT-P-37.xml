@@ -3,10 +3,9 @@
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="ma.martinod@free.fr">marc-antoine</contributor>
-		<link>http://xxx.lanl.gov/abs/1201.0659
-</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://xxx.lanl.gov/abs/1201.0659</link>
+	</links>
 </system>

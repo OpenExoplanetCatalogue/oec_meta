@@ -2,10 +2,9 @@
 	<name>HD 114729</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://en.wikipedia.org/wiki/HD_114729
-</link>
-		<link>http://arxiv.org/abs/astro-ph/0507101
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/astro-ph/0507101</link>
+		<link>http://en.wikipedia.org/wiki/HD_114729</link>
+	</links>
 </system>

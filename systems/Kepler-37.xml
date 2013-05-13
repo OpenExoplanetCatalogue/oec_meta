@@ -2,10 +2,9 @@
 	<name>Kepler-37</name>
 	<contributors>
 		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://news.uga.edu/releases/article/planets-in-kepler-37-star-system-designated-uga-1785-by-nasa/
-</link>
-		<link>http://dx.doi.org/10.1038/nature11914
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://dx.doi.org/10.1038/nature11914</link>
+		<link>http://news.uga.edu/releases/article/planets-in-kepler-37-star-system-designated-uga-1785-by-nasa/</link>
+	</links>
 </system>

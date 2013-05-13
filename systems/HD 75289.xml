@@ -2,8 +2,8 @@
 	<name>HD 75289</name>
 	<contributors>
 		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/astro-ph/0610623
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/astro-ph/0610623</link>
+	</links>
 </system>

@@ -2,8 +2,8 @@
 	<name>KIC 4570949</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1304.6841
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/1304.6841</link>
+	</links>
 </system>

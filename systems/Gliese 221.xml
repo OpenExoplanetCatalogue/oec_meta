@@ -2,8 +2,8 @@
 	<name>Gliese 221</name>
 	<contributors>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1305.2203
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/1305.2203</link>
+	</links>
 </system>

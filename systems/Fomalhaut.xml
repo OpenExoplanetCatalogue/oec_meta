@@ -2,12 +2,10 @@
 	<name>Fomalhaut</name>
 	<contributors>
 		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1305.2222
-</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
-</link>
-		<link>http://www.nasa.gov/mission_pages/hubble/science/rogue-fomalhaut.html
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/1305.2222</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://www.nasa.gov/mission_pages/hubble/science/rogue-fomalhaut.html</link>
+	</links>
 </system>

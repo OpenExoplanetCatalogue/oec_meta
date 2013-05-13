@@ -2,10 +2,9 @@
 	<name>WASP-44</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
-</link>
-		<link>http://arxiv.org/pdf/1301.3005.pdf
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/pdf/1301.3005.pdf</link>
+	</links>
 </system>

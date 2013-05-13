@@ -2,10 +2,9 @@
 	<name>Kepler-69</name>
 	<contributors>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1304.6002
-</link>
-		<link>http://kepler.nasa.gov/news/nasakeplernews/index.cfm?FuseAction=ShowNews&amp;NewsID=243
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://kepler.nasa.gov/news/nasakeplernews/index.cfm?FuseAction=ShowNews&amp;NewsID=243</link>
+		<link>http://arxiv.org/abs/1304.6002</link>
+	</links>
 </system>

@@ -2,10 +2,9 @@
 	<name>HIP 11952</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
-</link>
-		<link>http://arxiv.org/abs/1302.3093
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/1302.3093</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

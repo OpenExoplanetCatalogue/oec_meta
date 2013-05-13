@@ -2,12 +2,10 @@
 	<name>PH-2</name>
 	<contributors>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1301.6555
-</link>
-		<link>http://blog.planethunters.org
-</link>
-		<link>http://arxiv.org/pdf/1301.0644.pdf
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/pdf/1301.0644.pdf</link>
+		<link>http://arxiv.org/abs/1301.6555</link>
+		<link>http://blog.planethunters.org</link>
+	</links>
 </system>

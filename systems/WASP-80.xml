@@ -2,16 +2,9 @@
 	<name>WASP-80</name>
 	<contributors>
 		<contributor commits="8" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<link>https://github.com/ryanvarley/open_exoplanet_catalogue_advanced/issues/2
-</link>
-		<link>http://dx.doi.org/10.1051/0004-6361/201220900
-</link>
-		<link>http://dx.doi.org/10.1051/0004-6361/201220900
-</link>
-		<link>http://dx.doi.org/10.1051/0004-6361/201220900
-</link>
-		<link>http://dx.doi.org/10.1051/0004-6361/201220900
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://dx.doi.org/10.1051/0004-6361/201220900</link>
+		<link>https://github.com/ryanvarley/open_exoplanet_catalogue_advanced/issues/2</link>
+	</links>
 </system>

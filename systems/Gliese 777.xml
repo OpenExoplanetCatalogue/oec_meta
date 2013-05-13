@@ -2,8 +2,8 @@
 	<name>Gliese 777</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...462..345D
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...462..345D</link>
+	</links>
 </system>

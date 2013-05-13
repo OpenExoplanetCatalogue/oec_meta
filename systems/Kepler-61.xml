@@ -2,8 +2,8 @@
 	<name>Kepler-61</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1304.6726
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/1304.6726</link>
+	</links>
 </system>

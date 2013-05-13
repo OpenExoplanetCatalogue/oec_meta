@@ -2,10 +2,9 @@
 	<name>PSR 1719-14</name>
 	<contributors>
 		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
-</link>
-		<link>http://www.space.com/12731-diamond-alien-planet-discovered-neutron-star.html
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://www.space.com/12731-diamond-alien-planet-discovered-neutron-star.html</link>
+	</links>
 </system>

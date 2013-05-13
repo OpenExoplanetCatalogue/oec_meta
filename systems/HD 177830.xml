@@ -2,8 +2,8 @@
 	<name>HD 177830</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...474..273E
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...474..273E</link>
+	</links>
 </system>

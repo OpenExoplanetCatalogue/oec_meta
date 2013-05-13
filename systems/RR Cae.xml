@@ -2,8 +2,8 @@
 	<name>RR Cae</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://adsabs.harvard.edu/abs/2007MNRAS.376..919M
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2007MNRAS.376..919M</link>
+	</links>
 </system>

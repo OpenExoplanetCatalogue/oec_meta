@@ -2,10 +2,9 @@
 	<name>OGLE-2011-BLG-0251</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1304.2140
-</link>
-		<link>http://arxiv.org/abs/1303.1184
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://arxiv.org/abs/1303.1184</link>
+		<link>http://arxiv.org/abs/1304.2140</link>
+	</links>
 </system>

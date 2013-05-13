@@ -2,10 +2,9 @@
 	<name>KOI-94</name>
 	<contributors>
 		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<link>http://arxiv.org/abs/1303.2150
-</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
-</link>
 	</contributors>
-	<links />
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1303.2150</link>
+	</links>
 </system>
