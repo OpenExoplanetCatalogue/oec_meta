@@ -13,9 +13,7 @@ git pull
 popd
 commit "automatic update: pulling new open_exoplanet_catalogue"
 
-pushd scripts
 python generate.python
-popd
 commit "automatic update: generate"
 
 #git push
