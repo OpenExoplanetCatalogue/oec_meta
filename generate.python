@@ -43,7 +43,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 		ctag.attrib['commits'] = "%d"% commits
 
 
-	links = os.popen("cd open_exoplanet_catalogue && git --no-pager log '"+metafilename+"' | grep -oE '\\b(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
+	links = os.popen("cd open_exoplanet_catalogue && git --no-pager log '"+metafilename+"' | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
 	if len(links)>0:
 		links = set(links)
 		print "Links: %d" % len(links),
