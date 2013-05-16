@@ -2,5 +2,9 @@
 	<name>KOI-428</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">marc-antoine</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1101.0196</link>
+	</links>
 </system>
