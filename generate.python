@@ -18,6 +18,12 @@ def indent(elem, level=0):
             elem.tail = i
 
 # Loop over all files and  create new data
+totalcommits = 0
+totalplanets = 0
+totalconfirmedplanets = 0
+totalcontributors = []
+
+
 for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	metafilename = '/'.join(filename.split("/")[1:])
 	f = open(filename, 'rt')
@@ -41,6 +47,9 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 		ctag.text = unicode(name,'utf-8')
 		ctag.attrib['email'] = email
 		ctag.attrib['commits'] = "%d"% commits
+		totalcommits += commits
+		if not email in totalcontributors:
+			totalcontributors.append(email)
 
 
 	links = os.popen("cd open_exoplanet_catalogue && git --no-pager log '"+metafilename+"' | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
@@ -54,5 +63,22 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 
 	print ""
 
+	planets = root.findall(".//planet")
+	for planet in planets:
+		lists = planet.findall(".//list")
+		totalplanets += 1
+		for l in lists:
+			if "Confirmed planets" in l.text:
+				totalconfirmedplanets += 1
+
 	indent(metaroot)
 	ET.ElementTree(metaroot).write(metafilename) 
+
+
+statroot = ET.Element("statistiscs")
+ET.SubElement(statroot,"commits").text = "%d" % totalcommits
+ET.SubElement(statroot,"contributors").text = "%d" % len(totalcontributors)
+ET.SubElement(statroot,"planets").text = "%d" % totalplanets
+ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
+indent(statroot)
+ET.ElementTree(statroot).write("statistics.xml") 

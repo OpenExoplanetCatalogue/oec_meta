@@ -2,8 +2,10 @@
 	<name>Kepler-19</name>
 	<contributors>
 		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">marc-antoine</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/743/2/200</link>
 	</links>
 </system>
