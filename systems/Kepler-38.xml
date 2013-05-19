@@ -2,5 +2,9 @@
 	<name>Kepler-38</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">marc-antoine</contributor>
 	</contributors>
+	<links>
+		<link>http://dx.doi.org/10.1088/0004-637X/758/2/87</link>
+	</links>
 </system>
