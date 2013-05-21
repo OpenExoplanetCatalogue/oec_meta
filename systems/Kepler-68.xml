@@ -2,8 +2,11 @@
 	<name>Kepler-68</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">marc-antoine</contributor>
 	</contributors>
 	<links>
+		<link>http://dx.doi.org/10.1088/0004-637X/766/1/40</link>
 		<link>http://arxiv.org/pdf/1302.2596.pdf</link>
 	</links>
 </system>
