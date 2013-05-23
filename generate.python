@@ -20,6 +20,7 @@ def indent(elem, level=0):
 # Loop over all files and  create new data
 totalcommits = 0
 totalplanets = 0
+totalsystems = 0
 totalplanets2011 = 0
 totalplanets2012 = 0
 totalconfirmedplanets = 0
@@ -64,7 +65,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 			atag.text = unicode(link.strip(),'utf-8')
 
 	print ""
-
+	confirmedsystem = 0
 	planets = root.findall(".//planet")
 	for planet in planets:
 		lists = planet.findall(".//list")
@@ -72,11 +73,15 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 		for l in lists:
 			if "Confirmed planets" in l.text:
 				totalconfirmedplanets += 1
+				confirmedsystem = 1
 				date = planet.findtext("./discoveryyear")
 				if date=="2011":
 					totalplanets2011 += 1
 				if date=="2012":
 					totalplanets2012 += 1
+
+	if confirmedsystem==1:
+		totalsystems += 1
 
 
 	indent(metaroot)
@@ -87,6 +92,7 @@ statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 ET.SubElement(statroot,"contributors").text = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
+ET.SubElement(statroot,"systems").text = "%d" % totalsystems
 ET.SubElement(statroot,"planets2011").text = "%d" % totalplanets2011
 ET.SubElement(statroot,"planets2012").text = "%d" % totalplanets2012
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
