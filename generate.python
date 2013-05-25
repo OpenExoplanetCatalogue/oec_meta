@@ -23,6 +23,7 @@ totalplanets = 0
 totalsystems = 0
 totalplanets2011 = 0
 totalplanets2012 = 0
+totalconfirmedsystems = 0
 totalconfirmedplanets = 0
 totalcontributors = []
 
@@ -81,7 +82,8 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 					totalplanets2012 += 1
 
 	if confirmedsystem==1:
-		totalsystems += 1
+		totalconfirmedsystems += 1
+	totalsystems +=1
 
 
 	indent(metaroot)
@@ -96,5 +98,6 @@ ET.SubElement(statroot,"systems").text = "%d" % totalsystems
 ET.SubElement(statroot,"planets2011").text = "%d" % totalplanets2011
 ET.SubElement(statroot,"planets2012").text = "%d" % totalplanets2012
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
+ET.SubElement(statroot,"confirmedsystems").text = "%d" % totalconfirmedsystems
 indent(statroot)
 ET.ElementTree(statroot).write("statistics.xml") 
