@@ -2,8 +2,10 @@
 	<name>HAT-P-42</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">marc-antoine martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1212.6448.pdf</link>
+		<link>http://arxiv.org/abs/1212.6448</link>
 	</links>
 </system>

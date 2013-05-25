@@ -2,9 +2,13 @@
 	<name>WASP-2</name>
 	<contributors>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">marc-antoine martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
+		<link>http://arxiv.org/abs/1006.4464</link>
 		<link>http://arxiv.org/pdf/0902.2179v1.pdf</link>
 	</links>
 </system>

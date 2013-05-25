@@ -1,7 +1,8 @@
 <system>
 	<name>WASP-80</name>
 	<contributors>
-		<contributor commits="8" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="9" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">marc-antoine martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://dx.doi.org/10.1051/0004-6361/201220900</link>
