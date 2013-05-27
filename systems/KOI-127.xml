@@ -1,10 +1,12 @@
 <system>
 	<name>KOI-127</name>
 	<contributors>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 		<contributor commits="1" email="phalnet168@gmail.com">Anonymous</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1305.3891</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
 	</links>
 </system>

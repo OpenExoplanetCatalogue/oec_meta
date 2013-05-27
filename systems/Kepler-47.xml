@@ -2,10 +2,12 @@
 	<name>Kepler-47</name>
 	<contributors>
 		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 		<contributor commits="1" email="Tobias_Mueller@twam.info">Tobias M&#252;ller</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
 		<link>http://dx.doi.org/10.1126%2Fscience.1228380</link>
 	</links>
 </system>
