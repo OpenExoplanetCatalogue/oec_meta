@@ -21,6 +21,7 @@ def indent(elem, level=0):
 totalcommits = 0
 totalplanets = 0
 totalsystems = 0
+totalbinaries = 0
 totalplanets2011 = 0
 totalplanets2012 = 0
 totalconfirmedsystems = 0
@@ -47,7 +48,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 		rows = contributor.split("\t")
 		commits = int(rows[0])
 		email = re.search('<(.*)>', rows[1]).group(1)
-		name = re.search('(.*) <', rows[1]).group(1)
+		name = re.search('(.*) <', rows[1]).group(1).title()
 		ctag = ET.SubElement(cstag,"contributor")
 		ctag.text = unicode(name,'utf-8')
 		ctag.attrib['email'] = email
@@ -87,6 +88,9 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 		totalconfirmedsystems += 1
 	totalsystems +=1
 
+	binaries = root.findall(".//binary")
+	if binaries:
+		totalbinaries += 1
 
 	indent(metaroot)
 	ET.ElementTree(metaroot).write(metafilename) 
@@ -96,10 +100,11 @@ statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 contributors = ET.SubElement(statroot,"contributors")
 for c in totalcontributors:
-	ET.SubElement(contributors,"contributor").text = c
+	ET.SubElement(contributors,"contributor").text = unicode(c,'utf-8')
 contributors.attrib["num"] = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
+ET.SubElement(statroot,"binaries").text = "%d" % totalbinaries
 ET.SubElement(statroot,"planets2011").text = "%d" % totalplanets2011
 ET.SubElement(statroot,"planets2012").text = "%d" % totalplanets2012
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
