@@ -96,7 +96,7 @@ statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 contributors = ET.SubElement(statroot,"contributors")
 for c in totalcontributors:
-	ET.SubElement(contributors).text = c
+	ET.SubElement(contributors,"contributor").text = c
 contributors.attrib["num"] = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
