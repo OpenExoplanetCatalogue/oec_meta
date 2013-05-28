@@ -1,10 +1,11 @@
 <statistiscs>
 	<commits>2613</commits>
-	<contributors>9</contributors>
-	<planets>915</planets>
-	<systems>696</systems>
-	<planets2011>189</planets2011>
-	<planets2012>130</planets2012>
-	<confirmedplanets>893</confirmedplanets>
-	<confirmedsystems>691</confirmedsystems>
-</statistiscs>
+	<contributors num="9">
+		<contributor>Hanno Rein</contributor>
+		<contributor>Andrew Tribick</contributor>
+		<contributor>Kenneth J Cott</contributor>
+		<contributor>Ryan Varley</contributor>
+		<contributor>marc-antoine</contributor>
+		<contributor>marc-antoine martinod</contributor>
+		<contributor>Dave</contributor>
+		<contributor>
