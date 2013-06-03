@@ -2,11 +2,12 @@
 	<name>WASP-77</name>
 	<contributors>
 		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
+		<link>http://arxiv.org/pdf/1211.6033v1.pdf</link>
 		<link>http://arxiv.org/abs/1211.6033</link>
 	</links>
 </system>
