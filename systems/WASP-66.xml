@@ -1,11 +1,13 @@
 <system>
 	<name>WASP-66</name>
 	<contributors>
+		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/13238/fp_2mass.fp_psc13238.tbl</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/pdf/1204.5095v1.pdf</link>
 		<link>http://arxiv.org/abs/1204.5095</link>
 	</links>
 </system>
