@@ -2,9 +2,10 @@
 	<name>Kepler-41</name>
 	<contributors>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/pdf/1207.5796v1.pdf</link>
 		<link>http://arxiv.org/abs/1303.0858</link>
 	</links>
 </system>
