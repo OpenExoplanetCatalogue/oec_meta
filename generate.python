@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import xml.etree.ElementTree as ET, glob, os, sys, re
+import xml.etree.ElementTree as ET, glob, os, sys, re, csv 
 
 # Nicely indents the XML output 
 def indent(elem, level=0):
@@ -29,6 +29,7 @@ totalconfirmedplanets = 0
 totalcontributors = []
 totalcontributorsemail = []
 
+aliases = []
 
 for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	metafilename = '/'.join(filename.split("/")[1:])
@@ -37,7 +38,8 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	f.close()
 
 	metaroot = ET.Element("system")
-	ET.SubElement(metaroot,"name").text = root.findtext("./name")
+	systemname = root.findtext("./name")
+	ET.SubElement(metaroot,"name").text = systemname 
 
 	contributors = os.popen("cd open_exoplanet_catalogue && git shortlog '"+metafilename+"' -n -s -e").readlines()
 	print "Working on "+metafilename+". ",
@@ -67,11 +69,24 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 		for link in links:
 			atag = ET.SubElement(astag,"link")
 			atag.text = unicode(link.strip(),'utf-8')
+	
+	names = root.findall("./name")
+	for name in names:
+		aliases.append([name.text,systemname,"system"])
+	
+	stars = root.findall(".//star")
+	for star in stars:
+		names = star.findall("./name")
+		for name in names:
+			aliases.append([name.text,systemname,"star"])
 
 	print ""
 	confirmedsystem = 0
 	planets = root.findall(".//planet")
 	for planet in planets:
+		names = planet.findall("./name")
+		for name in names:
+			aliases.append([name.text,systemname,"planet"])
 		lists = planet.findall(".//list")
 		totalplanets += 1
 		for l in lists:
@@ -94,6 +109,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 
 	indent(metaroot)
 	ET.ElementTree(metaroot).write(metafilename) 
+	#if totalsystems >3: break
 
 
 statroot = ET.Element("statistiscs")
@@ -111,3 +127,9 @@ ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
 ET.SubElement(statroot,"confirmedsystems").text = "%d" % totalconfirmedsystems
 indent(statroot)
 ET.ElementTree(statroot).write("statistics.xml") 
+
+with open('aliases.csv', 'wb') as csvfile:
+	spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+	spamwriter.writerows(aliases)
+
+
