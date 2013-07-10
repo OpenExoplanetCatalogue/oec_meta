@@ -505,36 +505,12 @@ Gliese 649 b,Gliese 649,planet
 GJ 649 b,Gliese 649,planet
 Gj 649 b,Gliese 649,planet
 Gl 649 b,Gliese 649,planet
-Gliese 667,Gliese 667,system
-Gliese 667 A,Gliese 667,star
-HR 6426 A,Gliese 667,star
-HIP 84709 A,Gliese 667,star
-Gliese 667 B,Gliese 667,star
-HR 6426 B,Gliese 667,star
-HIP 84709 B,Gliese 667,star
-Gliese 667 C,Gliese 667,star
-HR 6426 C,Gliese 667,star
-Gliese 667 C b,Gliese 667,planet
-GJ 667 C b,Gliese 667,planet
-HR 6426C b,Gliese 667,planet
-Gliese 667 C h,Gliese 667,planet
-GJ 667C h,Gliese 667,planet
-HR 6426C h,Gliese 667,planet
-Gliese 667 C c,Gliese 667,planet
-GJ 667C c,Gliese 667,planet
-HR 6426C c,Gliese 667,planet
-Gliese 667 C f,Gliese 667,planet
-GJ 667C f,Gliese 667,planet
-HR 6426C f,Gliese 667,planet
-Gliese 667 C e,Gliese 667,planet
-GJ 667C e,Gliese 667,planet
-HR 6426C e,Gliese 667,planet
-Gliese 667 C d,Gliese 667,planet
-GJ 667 C d,Gliese 667,planet
-HR 6426 C d,Gliese 667,planet
-Gliese 667 C g,Gliese 667,planet
-GJ 667 C g,Gliese 667,planet
-HR 6426 C g,Gliese 667,planet
+Gliese 667C,Gliese 667C,system
+Gliese 667C,Gliese 667C,star
+Gliese 667C b,Gliese 667C,planet
+GJ 667C b,Gliese 667C,planet
+Gliese 667C c,Gliese 667C,planet
+GJ 667C c,Gliese 667C,planet
 Gliese 674,Gliese 674,system
 Gliese 674,Gliese 674,star
 Gliese 674 b,Gliese 674,planet
@@ -606,11 +582,7 @@ GJ 849 b,Gliese 849,planet
 Gj 849 b,Gliese 849,planet
 Gl 849 b,Gliese 849,planet
 Gliese 86,Gliese 86,system
-Gliese 86 A,Gliese 86,star
-HR 637,Gliese 86,star
-HD 13445,Gliese 86,star
-Gliese 86 B,Gliese 86,star
-WD 0208-510,Gliese 86,star
+Gliese 86,Gliese 86,star
 Gliese 86 b,Gliese 86,planet
 GJ 86 b,Gliese 86,planet
 Gj 86 b,Gliese 86,planet
@@ -770,11 +742,6 @@ TYC 2099-00908-1 b,HAT-P-31,planet
 2MASS J18060904+2625359 b,HAT-P-31,planet
 HAT-P-32,HAT-P-32,system
 HAT-P-32,HAT-P-32,star
-TYC 3281-800-1,HAT-P-32,star
-2MASS J02041028+4641162,HAT-P-32,star
-GSC 03281-00800,HAT-P-32,star
-UCAC2 47486078,HAT-P-32,star
-UCAC3 274-27296,HAT-P-32,star
 HAT-P-32 b,HAT-P-32,planet
 TYC 3281-00800-1 b,HAT-P-32,planet
 2MASS J02041028+4641162 b,HAT-P-32,planet
@@ -857,11 +824,6 @@ HAT-P-8 b,HAT-P-8,planet
 TYC 2757-1152-1 b,HAT-P-8,planet
 HAT-P-9,HAT-P-9,system
 HAT-P-9,HAT-P-9,star
-TYC 2463-281-1,HAT-P-9,star
-GSC 02463-00281,HAT-P-9,star
-2MASS J07204044+3708263,HAT-P-9,star
-SDSS J072040.44+370826.3,HAT-P-9,star
-UCAC2 44825174,HAT-P-9,star
 HAT-P-9 b,HAT-P-9,planet
 2MASS J07204044+3708263 b,HAT-P-9,planet
 TYC 2463-00281-1 b,HAT-P-9,planet
@@ -875,15 +837,6 @@ HATS-2,HATS-2,star
 GSC 665-00236,HATS-2,star
 HATS-2 b,HATS-2,planet
 GSC 665-00236 b,HATS-2,planet
-HATS-3,HATS-3,system
-2MASS 20494978-2425436,HATS-3,system
-GSC 6926-00454,HATS-3,system
-HATS-3,HATS-3,star
-2MASS 20494978-2425436,HATS-3,star
-GSC 6926-00454,HATS-3,star
-HATS-3 b,HATS-3,planet
-2MASS 20494978-2425436 b,HATS-3,planet
-GSC 6926-00454 b,HATS-3,planet
 HD 100546,HD 100546,system
 HD 100546,HD 100546,star
 HD 100546 b,HD 100546,planet
@@ -2004,18 +1957,6 @@ HD 9446,HD 9446,system
 HD 9446,HD 9446,star
 HD 9446 b,HD 9446,planet
 HD 9446 c,HD 9446,planet
-HD 95086,HD 95086,system
-HIP 53524,HD 95086,system
-2MASS J10570301-6840023,HD 95086,system
-TYC 9212-4675-1,HD 95086,system
-HD 95086,HD 95086,star
-HIP 53524,HD 95086,star
-2MASS J10570301-6840023,HD 95086,star
-TYC 9212-4675-1,HD 95086,star
-HD 95086 b,HD 95086,planet
-HIP 53524 b,HD 95086,planet
-2MASS J10570301-6840023 b,HD 95086,planet
-TYC 9212-4675-1 b,HD 95086,planet
 HD 95089,HD 95089,system
 HD 95089,HD 95089,star
 HD 95089 b,HD 95089,planet
@@ -2077,9 +2018,6 @@ HIP 57274,HIP 57274,star
 HIP 57274 b,HIP 57274,planet
 HIP 57274 c,HIP 57274,planet
 HIP 57274 d,HIP 57274,planet
-HIP 63242,HIP 63242,system
-HIP 63242,HIP 63242,star
-HIP 63242 b,HIP 63242,planet
 HIP 70849,HIP 70849,system
 HIP 70849,HIP 70849,star
 HIP 70849 b,HIP 70849,planet
@@ -2238,34 +2176,16 @@ KIC 3632418 b,Kepler-21,planet
 KOI-975 b,Kepler-21,planet
 Kepler-22,Kepler-22,system
 Kepler-22,Kepler-22,star
-GSC 03546-02301,Kepler-22,star
-KIC 10593626,Kepler-22,star
-KOI-87,Kepler-22,star
-2MASS J19165219+4753040,Kepler-22,star
-UCAC3 276-148830,Kepler-22,star
 Kepler-22 b,Kepler-22,planet
 KIC10593626 b,Kepler-22,planet
 Kepler-23,Kepler-23,system
 Kepler-23,Kepler-23,star
-GSC 03564-01806,Kepler-23,star
-CMC14 J193652.5+492845,Kepler-23,star
-GSC2.3 N2HD003526,Kepler-23,star
-GSC2 N03021013526,Kepler-23,star
-KIC 11512246,Kepler-23,star
-KOI-168,Kepler-23,star
-2MASS J19365254+4928452,Kepler-23,star
-PPMX J193652.5+492845,Kepler-23,star
-UCAC3 279-152018,Kepler-23,star
-USNO-B1.0 1394-00316778,Kepler-23,star
 Kepler-23 b,Kepler-23,planet
 KOI 168.01,Kepler-23,planet
 Kepler-23 c,Kepler-23,planet
 KOI 168.02,Kepler-23,planet
 Kepler-24,Kepler-24,system
 Kepler-24,Kepler-24,star
-2MASS J19213918+3820375,Kepler-24,star
-KIC 3231341,Kepler-24,star
-KOI-1102,Kepler-24,star
 Kepler-24 b,Kepler-24,planet
 KOI 1102.02,Kepler-24,planet
 Kepler-24 c,Kepler-24,planet
@@ -2562,8 +2482,6 @@ KOI-701,Kepler-62,system
 Kepler-62,Kepler-62,star
 KIC-9002278,Kepler-62,star
 KOI-701,Kepler-62,star
-2MASS J18525105+4520595,Kepler-62,star
-GPM 283.213142+45.350276,Kepler-62,star
 Kepler-62 b,Kepler-62,planet
 KIC-9002278 b,Kepler-62,planet
 KOI-701 b,Kepler-62,planet
@@ -2592,12 +2510,6 @@ KIC 5866724 c,Kepler-65,planet
 Kepler-65 d,Kepler-65,planet
 KOI-85 d,Kepler-65,planet
 KIC 5866724 d,Kepler-65,planet
-Kepler-66,Kepler-66,system
-Kepler-66,Kepler-66,star
-Kepler-66 b,Kepler-66,planet
-Kepler-67,Kepler-67,system
-Kepler-67,Kepler-67,star
-Kepler-67 b,Kepler-67,planet
 Kepler-68,Kepler-68,system
 Kepler-68,Kepler-68,star
 KIC 11295426,Kepler-68,star
@@ -2628,13 +2540,6 @@ Kepler-7 b,Kepler-7,planet
 2MASS J19141956+4105233 b,Kepler-7,planet
 KIC 5780885 b,Kepler-7,planet
 KOI-97 b,Kepler-7,planet
-Kepler-76,Kepler-76,system
-KIC 4570949,Kepler-76,system
-Kepler-76,Kepler-76,star
-KIC 4570949,Kepler-76,star
-Kepler-76 b,Kepler-76,planet
-KIC 4570949 b,Kepler-76,planet
-Einstein's Planet,Kepler-76,planet
 Kepler-8,Kepler-8,system
 Kepler-8,Kepler-8,star
 Kepler-8 b,Kepler-8,planet
@@ -2658,33 +2563,12 @@ KOI-377 d,Kepler-9,planet
 KIC 10905746,KIC 10905746,system
 KIC 10905746,KIC 10905746,star
 KIC 10905746 b,KIC 10905746,planet
+KIC 4570949,KIC 4570949,system
+KIC 4570949,KIC 4570949,star
+KIC 4570949 b,KIC 4570949,planet
 KIC 6185331,KIC 6185331,system
 KIC 6185331,KIC 6185331,star
 KIC 6185331 b,KIC 6185331,planet
-KIC 8435766,KIC 8435766,system
-2MASS 19345800+4426539,KIC 8435766,system
-TYC 3147-188-1,KIC 8435766,system
-KIC 8435766,KIC 8435766,star
-2MASS 19345800+4426539,KIC 8435766,star
-TYC 3147-188-1,KIC 8435766,star
-KIC 8435766 b,KIC 8435766,planet
-2MASS 19345800+4426539 b,KIC 8435766,planet
-TYC 3147-188-1 b,KIC 8435766,planet
-KOI-127,KOI-127,system
-KIC 8359498,KOI-127,system
-GSC2.3 N2K0000444,KOI-127,system
-USNO-A2 1275-11111739,KOI-127,system
-2MASS 19182590+4420435,KOI-127,system
-KOI-127,KOI-127,star
-KIC 8359498,KOI-127,star
-GSC2.3 N2K0000444,KOI-127,star
-USNO-A2 1275-11111739,KOI-127,star
-2MASS 19182590+4420435,KOI-127,star
-KOI-127 b,KOI-127,planet
-KIC 8359498 b,KOI-127,planet
-GSC2.3 N2K0000444,KOI-127,planet
-USNO-A2 1275-11111739 b,KOI-127,planet
-2MASS 19182590+4420435 b,KOI-127,planet
 KOI-13,KOI-13,system
 KOI-13,KOI-13,star
 KOI-13 b,KOI-13,planet
@@ -3388,9 +3272,6 @@ WASP-70,WASP-70,star
 WASP-70 b,WASP-70,planet
 WASP-71,WASP-71,system
 WASP-72,WASP-71,star
-TYC 30-116-1,WASP-71,star
-2MASS J01570320+0045318,WASP-71,star
-PPM 700097,WASP-71,star
 WASP-71 b,WASP-71,planet
 TYC 30-116-1 b,WASP-71,planet
 WASP-72,WASP-72,system

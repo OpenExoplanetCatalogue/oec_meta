@@ -1,11 +1,6 @@
 <system>
 	<name>TrES-1</name>
 	<contributors>
-		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://fr.arxiv.org/abs/astro-ph/0702707</link>
-		<link>http://arxiv.org/pdf/astro-ph/0408421v1.pdf</link>
-	</links>
 </system>

@@ -2,14 +2,10 @@
 	<name>Kepler-62</name>
 	<contributors>
 		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
 	</contributors>
 	<links>
 		<link>http://www.sciencemag.org/content/340/6130/262.full</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
-		<link>http://arxiv.org/abs/1304.6002</link>
-		<link>http://arxiv.org/abs/1304.7387</link>
 		<link>http://www.sciencemag.org/content/early/2013/04/17/science.1234702.full.pdf</link>
+		<link>http://arxiv.org/abs/1304.6002</link>
 	</links>
 </system>

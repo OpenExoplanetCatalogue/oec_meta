@@ -1,23 +1,18 @@
 <statistiscs>
-	<commits>3693</commits>
-	<contributors num="11">
+	<commits>2343</commits>
+	<contributors num="6">
 		<contributor>Hanno Rein</contributor>
-		<contributor>Marc-Antoine Martinod</contributor>
-		<contributor>Planetaryscience</contributor>
 		<contributor>Andrew Tribick</contributor>
-		<contributor>Kenneth J Cott</contributor>
 		<contributor>Ryan Varley</contributor>
 		<contributor>Marc-Antoine</contributor>
-		<contributor>Tobias Mueller</contributor>
-		<contributor>James Gregory</contributor>
 		<contributor>Dave</contributor>
-		<contributor>Anonymous</contributor>
+		<contributor>Tobias M&#252;Ller</contributor>
 	</contributors>
-	<planets>925</planets>
-	<systems>701</systems>
-	<binaries>54</binaries>
-	<planets2011>188</planets2011>
+	<planets>913</planets>
+	<systems>694</systems>
+	<binaries>52</binaries>
+	<planets2011>189</planets2011>
 	<planets2012>130</planets2012>
-	<confirmedplanets>902</confirmedplanets>
-	<confirmedsystems>696</confirmedsystems>
+	<confirmedplanets>891</confirmedplanets>
+	<confirmedsystems>689</confirmedsystems>
 </statistiscs>

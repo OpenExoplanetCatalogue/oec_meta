@@ -1,13 +1,9 @@
 <system>
 	<name>HAT-P-42</name>
 	<contributors>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1212.6448.pdf</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2012yCat.1322....0Z</link>
-		<link>http://arxiv.org/abs/1212.6448</link>
 	</links>
 </system>
