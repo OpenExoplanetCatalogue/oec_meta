@@ -2,8 +2,10 @@
 	<name>HD 132563B</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/pdf/1107.0918v1.pdf</link>
 	</links>
 </system>

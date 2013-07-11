@@ -2,8 +2,12 @@
 	<name>Kepler-27</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/pdf/1201.5412v1.pdf</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
 	</links>
 </system>

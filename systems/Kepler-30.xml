@@ -1,10 +1,16 @@
 <system>
 	<name>Kepler-30</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="dddave@gmail.com">Dave</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
+		<link>http://iopscience.iop.org/0004-637X/750/2/114/pdf/apj_750_2_114.pdf</link>
+		<link>http://arxiv.org/abs/1207.5804</link>
 	</links>
 </system>

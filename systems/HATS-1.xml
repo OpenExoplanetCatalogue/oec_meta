@@ -2,10 +2,14 @@
 	<name>HATS-1</name>
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2013AJ....145....5P</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://arxiv.org/abs/1206.1524</link>
+		<link>http://arxiv.org/pdf/1206.1524v1.pdf</link>
 	</links>
 </system>
