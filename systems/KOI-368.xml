@@ -1,9 +1,10 @@
 <system>
 	<name>KOI-368</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/pdf/1306.0904v1.pdf</link>
 		<link>http://arxiv.org/abs/1307.2249</link>
 	</links>
 </system>
