@@ -1,9 +1,10 @@
 <system>
 	<name>Gliese 328</name>
 	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gliese+328</link>
 		<link>http://arxiv.org/abs/1307.7640</link>
 	</links>
 </system>
