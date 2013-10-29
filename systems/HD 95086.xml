@@ -1,9 +1,10 @@
 <system>
 	<name>HD 95086</name>
 	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1310.7483</link>
 		<link>http://www.eso.org/public/news/eso1324/</link>
 	</links>
 </system>
