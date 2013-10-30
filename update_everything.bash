@@ -16,4 +16,5 @@ commit "automatic update: pulling new open_exoplanet_catalogue"
 python generate.python
 commit "automatic update: generate"
 
-#git push
+git push
+./deploy.bash
