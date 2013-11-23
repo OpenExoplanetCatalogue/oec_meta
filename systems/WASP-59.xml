@@ -3,12 +3,13 @@
 	<contributors>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
 		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/649/fp_2mass.fp_psc649.tbl</link>
 		<link>http://arxiv.org/pdf/1211.0810v1.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A.134H</link>
 	</links>
 </system>
