@@ -38,7 +38,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	f.close()
 
 	metaroot = ET.Element("system")
-	systemname = unicode(root.findtext("./name"),'utf-8')
+	systemname = root.findtext("./name").encode('utf-8')
 	ET.SubElement(metaroot,"name").text = systemname 
 
 	contributors = os.popen("cd open_exoplanet_catalogue && git shortlog '"+metafilename+"' -n -s -e").readlines()
@@ -74,14 +74,14 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	
 	names = root.findall("./name")
 	for name in names:
-		aliases.append([unicode(name.text,'utf-8'),systemname,"system"])
+		aliases.append([name.text.encode('utf-8'),systemname,"system"])
 		
 	
 	stars = root.findall(".//star")
 	for star in stars:
 		names = star.findall("./name")
 		for name in names:
-			aliases.append([unicode(name.text,'utf-8'),systemname,"star"])
+			aliases.append([name.text.encode('utf-8'),systemname,"star"])
 
 	#print ""
 	confirmedsystem = 0
@@ -89,7 +89,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	for planet in planets:
 		names = planet.findall("./name")
 		for name in names:
-			aliases.append([unicode(name.text,'utf-8'),systemname,"planet"])
+			aliases.append([name.text.encode('utf-8'),systemname,"planet"])
 		lists = planet.findall(".//list")
 		totalplanets += 1
 		for l in lists:
