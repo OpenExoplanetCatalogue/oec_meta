@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>4757</commits>
+	<commits>4760</commits>
 	<contributors num="20">
 		<contributor>Hanno Rein</contributor>
 		<contributor>Marc-Antoine Martinod</contributor>
@@ -22,11 +22,11 @@
 		<contributor>Chris Taylor</contributor>
 		<contributor>Orome</contributor>
 	</contributors>
-	<planets>1072</planets>
-	<systems>786</systems>
+	<planets>1073</planets>
+	<systems>787</systems>
 	<binaries>62</binaries>
 	<planets2011>188</planets2011>
 	<planets2012>131</planets2012>
-	<confirmedplanets>1037</confirmedplanets>
-	<confirmedsystems>780</confirmedsystems>
+	<confirmedplanets>1038</confirmedplanets>
+	<confirmedsystems>781</confirmedsystems>
 </statistiscs>
