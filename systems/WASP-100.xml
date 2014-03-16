@@ -1,8 +1,8 @@
 <system>
 	<name>WASP-100</name>
 	<contributors>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2013arXiv1310.5630H</link>

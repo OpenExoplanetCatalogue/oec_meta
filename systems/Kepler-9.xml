@@ -1,14 +1,17 @@
 <system>
 	<name>Kepler-9</name>
 	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="6" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://arxiv.org/abs/1008.4393</link>
-		<link>http://dx.doi.org/10.1088/0004-637X/727/1/24</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://arxiv.org/abs/1008.4393</link>
+		<link>http://arxiv.org/pdf/1403.1372.pdf</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/727/1/24</link>
 		<link>http://www.sciencemag.org/content/330/6000/51.full.pdf</link>
 	</links>
 </system>

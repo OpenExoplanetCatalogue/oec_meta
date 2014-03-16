@@ -1,8 +1,8 @@
 <system>
 	<name>WASP-88</name>
 	<contributors>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1312.1827</link>
