@@ -490,6 +490,10 @@ Gliese 433 b,Gliese 433,planet
 GJ 433 b,Gliese 433,planet
 Gj 433 b,Gliese 433,planet
 Gl 433 b,Gliese 433,planet
+Gliese 433 c,Gliese 433,planet
+GJ 433 c,Gliese 433,planet
+Gj 433 c,Gliese 433,planet
+Gl 433 c,Gliese 433,planet
 Gliese 436,Gliese 436,system
 Gliese 436,Gliese 436,star
 Gliese 436 b,Gliese 436,planet
@@ -1125,9 +1129,9 @@ HD 11964,HD 11964,system
 HD 11964 A,HD 11964,star
 Gliese 81.1 A,HD 11964,star
 GJ 81.1 A,HD 11964,star
-HD 11964 A,HD 11964,star
-Gliese 81.1 A,HD 11964,star
-GJ 81.1 A,HD 11964,star
+HD 11964 B,HD 11964,star
+Gliese 81.1 B,HD 11964,star
+GJ 81.1 B,HD 11964,star
 HD 11964 A b,HD 11964,planet
 Gliese 81.1 A b,HD 11964,planet
 GJ 81.1 A b,HD 11964,planet
@@ -9051,6 +9055,9 @@ HJD 2455773 b,MOA-2011-BLG-322,planet
 MOA-2012-BLG-311,MOA-2012-BLG-311,system
 MOA-2012-BLG-311,MOA-2012-BLG-311,star
 MOA-2012-BLG-311 b,MOA-2012-BLG-311,planet
+MOA-2013-BLG-220L,MOA-2013-BLG-220L,system
+MOA-2013-BLG-220L,MOA-2013-BLG-220L,star
+MOA-2013-BLG-220Lb,MOA-2013-BLG-220L,planet
 MOA-bin-1,MOA-bin-1,system
 MOA-bin-1,MOA-bin-1,star
 MOA-bin-1 b,MOA-bin-1,planet
