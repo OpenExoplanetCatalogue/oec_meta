@@ -2,9 +2,11 @@
 	<name>beta Pic</name>
 	<contributors>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/pdf/1403.7520v1.pdf</link>
 	</links>
 </system>
