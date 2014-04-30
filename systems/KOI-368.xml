@@ -2,11 +2,13 @@
 	<name>KOI-368</name>
 	<contributors>
 		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
 		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/pdf/1306.0904v1.pdf</link>
+		<link>http://arxiv.org/abs/1404.1015</link>
 		<link>http://arxiv.org/abs/1307.2249</link>
+		<link>http://arxiv.org/pdf/1306.0904v1.pdf</link>
 	</links>
 </system>
