@@ -74,14 +74,14 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	
 	names = root.findall("./name")
 	for name in names:
-		aliases.append([name.text.encode('utf-8'),systemname,"system",names[0]])
+		aliases.append([name.text.encode('utf-8'),systemname,"system",names[0].encode('utf-8')])
 		
 	
 	stars = root.findall(".//star")
 	for star in stars:
 		names = star.findall("./name")
 		for name in names:
-			aliases.append([name.text.encode('utf-8'),systemname,"star",names[0]])
+			aliases.append([name.text.encode('utf-8'),systemname,"star",names[0].encode('utf-8')])
 
 	#print ""
 	confirmedsystem = 0
@@ -89,7 +89,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	for planet in planets:
 		names = planet.findall("./name")
 		for name in names:
-			aliases.append([name.text.encode('utf-8'),systemname,"planet",names[0]])
+			aliases.append([name.text.encode('utf-8'),systemname,"planet",names[0].encode('utf-8')])
 		lists = planet.findall(".//list")
 		totalplanets += 1
 		for l in lists:
