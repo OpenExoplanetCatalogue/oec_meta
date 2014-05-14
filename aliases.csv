@@ -203,9 +203,25 @@ BD20 2457,BD20 2457,system,BD20 2457
 BD20 2457,BD20 2457,star,BD20 2457
 BD20 2457 b,BD20 2457,planet,BD20 2457 b
 BD20 2457 c,BD20 2457,planet,BD20 2457 c
+beta Cancri,beta Cancri,system,beta Cancri
+HD 69267,beta Cancri,system,beta Cancri
+beta Cancri,beta Cancri,star,beta Cancri
+HD 69267,beta Cancri,star,beta Cancri
+beta Cancri b,beta Cancri,planet,beta Cancri b
+HD 69267 b,beta Cancri,planet,beta Cancri b
 beta Pic,beta Pic,system,beta Pic
 beta Pic,beta Pic,star,beta Pic
 beta Pic b,beta Pic,planet,beta Pic b
+beta Ursae Minoris,beta Ursae Minoris,system,beta Ursae Minoris
+HD 131873,beta Ursae Minoris,system,beta Ursae Minoris
+beta Ursae Minoris,beta Ursae Minoris,star,beta Ursae Minoris
+HD 131873,beta Ursae Minoris,star,beta Ursae Minoris
+beta UMi,beta Ursae Minoris,star,beta Ursae Minoris
+Kochab,beta Ursae Minoris,star,beta Ursae Minoris
+beta Ursae Minoris b,beta Ursae Minoris,planet,beta Ursae Minoris b
+HD 131873 b,beta Ursae Minoris,planet,beta Ursae Minoris b
+beta UMi b,beta Ursae Minoris,planet,beta Ursae Minoris b
+Kochab b,beta Ursae Minoris,planet,beta Ursae Minoris b
 CFBDS 1458,CFBDS 1458,system,CFBDS 1458
 CFBDS 1458,CFBDS 1458,star,CFBDS 1458
 CFBDS 1458 b,CFBDS 1458,planet,CFBDS 1458 b
@@ -680,6 +696,9 @@ GQ Lup b,GQ Lup,planet,GQ Lup b
 GSC 06214-00210,GSC 06214-00210,system,GSC 06214-00210
 GSC 06214-00210,GSC 06214-00210,star,GSC 06214-00210
 GSC 06214-00210 b,GSC 06214-00210,planet,GSC 06214-00210 b
+GU Psc,GU Psc,system,GU Psc
+GU Psc,GU Psc,star,GU Psc
+GU Psc b,GU Psc,planet,GU Psc b
 HAT-P-1,HAT-P-1,system,HAT-P-1
 HAT-P-1,HAT-P-1,star,HAT-P-1
 HAT-P-1 b,HAT-P-1,planet,HAT-P-1 b
@@ -9112,6 +9131,18 @@ mu Ara b,mu Ara,planet,mu Ara b
 mu Ara c,mu Ara,planet,mu Ara c
 mu Ara d,mu Ara,planet,mu Ara d
 mu Ara e,mu Ara,planet,mu Ara e
+mu Leo,mu Leo,system,mu Leo
+HD 85503,mu Leo,system,mu Leo
+mu Leo,mu Leo,star,mu Leo
+HD 85503,mu Leo,star,mu Leo
+mu Leonis,mu Leo,star,mu Leo
+Rasalas,mu Leo,star,mu Leo
+Alshemali,mu Leo,star,mu Leo
+mu Leo b,mu Leo,planet,mu Leo b
+HD 85503 b,mu Leo,planet,mu Leo b
+mu Leonis b,mu Leo,planet,mu Leo b
+Rasalas b,mu Leo,planet,mu Leo b
+Alshemali b,mu Leo,planet,mu Leo b
 NGC 2423 3,NGC 2423 3,system,NGC 2423 3
 NGC 2423 3,NGC 2423 3,star,NGC 2423 3
 NGC 2423 3 b,NGC 2423 3,planet,NGC 2423 3 b
