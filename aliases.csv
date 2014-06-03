@@ -28,7 +28,11 @@ HD 186427 B b,16 Cygni,planet,16 Cygni B b
 18 Del b,18 Del,planet,18 Del b
 1RXS1609,1RXS1609,system,1RXS1609
 1RXS1609,1RXS1609,star,1RXS1609
+1RXS J160929.1-210524,1RXS1609,star,1RXS1609
+GSC 6213-1358,1RXS1609,star,1RXS1609
 1RXS1609 b,1RXS1609,planet,1RXS1609 b
+1RXS J160929.1-210524 b,1RXS1609,planet,1RXS1609 b
+GSC 6213-1358 b,1RXS1609,planet,1RXS1609 b
 24 Sex,24 Sex,system,24 Sex
 24 Sex,24 Sex,star,24 Sex
 24 Sex b,24 Sex,planet,24 Sex b
@@ -126,6 +130,7 @@ Gliese 893.2 C,91 Aquarii,star,91 Aquarii C
 HD 219449 A b,91 Aquarii,planet,91 Aquarii A b
 HIP 114855 A b,91 Aquarii,planet,91 Aquarii A b
 Gliese 893.2 A b,91 Aquarii,planet,91 Aquarii A b
+91 Aqr b,91 Aquarii,planet,91 Aquarii A b
 AB Pic,AB Pic,system,AB Pic
 AB Pic,AB Pic,star,AB Pic
 AB Pic b,AB Pic,planet,AB Pic b
@@ -142,17 +147,20 @@ GJ 559 A,Alpha Centauri,star,Alpha Centauri A
 HR 5459,Alpha Centauri,star,Alpha Centauri A
 HD 128620,Alpha Centauri,star,Alpha Centauri A
 HIP 71683,Alpha Centauri,star,Alpha Centauri A
+alf Cen A,Alpha Centauri,star,Alpha Centauri A
 Alpha Centauri B,Alpha Centauri,star,Alpha Centauri B
 GJ 559 B,Alpha Centauri,star,Alpha Centauri B
 HR 5460,Alpha Centauri,star,Alpha Centauri B
 HD 128621,Alpha Centauri,star,Alpha Centauri B
 HIP 71681,Alpha Centauri,star,Alpha Centauri B
+alf Cen B,Alpha Centauri,star,Alpha Centauri B
 Alpha Centauri B b,Alpha Centauri,planet,Alpha Centauri B b
 GJ 559 B b,Alpha Centauri,planet,Alpha Centauri B b
 HR 5460 b,Alpha Centauri,planet,Alpha Centauri B b
 HD 128621 b,Alpha Centauri,planet,Alpha Centauri B b
 HIP 71681 b,Alpha Centauri,planet,Alpha Centauri B b
 Albertus Alauda,Alpha Centauri,planet,Alpha Centauri B b
+alf Cen B b,Alpha Centauri,planet,Alpha Centauri B b
 BD +48 738,BD +48 738,system,BD +48 738
 BD +48 738,BD +48 738,star,BD +48 738
 BD +48 738 b,BD +48 738,planet,BD +48 738 b
@@ -169,14 +177,6 @@ BD+20 274 b,BD+20 274,planet,BD+20 274 b
 TYC 1211-603-1 b,BD+20 274,planet,BD+20 274 b
 GSC 1211-603 b,BD+20 274,planet,BD+20 274 b
 SAO 74893 b,BD+20 274,planet,BD+20 274 b
-BD-061339,BD-061339,system,BD-061339
-HIP 27803,BD-061339,system,BD-061339
-BD-061339,BD-061339,star,BD-061339
-HIP 27803,BD-061339,star,BD-061339
-BD-061339 b,BD-061339,planet,BD-061339 b
-HIP 27803 b,BD-061339,planet,BD-061339 b
-BD-061339 c,BD-061339,planet,BD-061339 c
-HIP 27803 c,BD-061339,planet,BD-061339 c
 BD-082823,BD-082823,system,BD-082823
 BD-082823,BD-082823,star,BD-082823
 BD-082823 b,BD-082823,planet,BD-082823 b
@@ -198,20 +198,35 @@ BD-17 63,BD-17 63,star,BD-17 63
 BD-17 63 b,BD-17 63,planet,BD-17 63 b
 BD14 4559,BD14 4559,system,BD14 4559
 BD14 4559,BD14 4559,star,BD14 4559
+BD+14 4559,BD14 4559,star,BD14 4559
 BD14 4559 b,BD14 4559,planet,BD14 4559 b
+BD+14 4559 b,BD14 4559,planet,BD14 4559 b
 BD20 2457,BD20 2457,system,BD20 2457
 BD20 2457,BD20 2457,star,BD20 2457
+BD+20 2457,BD20 2457,star,BD20 2457
 BD20 2457 b,BD20 2457,planet,BD20 2457 b
+BD+20 2457 b,BD20 2457,planet,BD20 2457 b
 BD20 2457 c,BD20 2457,planet,BD20 2457 c
+BD+20 2457 c,BD20 2457,planet,BD20 2457 c
 beta Cancri,beta Cancri,system,beta Cancri
 HD 69267,beta Cancri,system,beta Cancri
 beta Cancri,beta Cancri,star,beta Cancri
 HD 69267,beta Cancri,star,beta Cancri
 beta Cancri b,beta Cancri,planet,beta Cancri b
+beta Cnc b,beta Cancri,planet,beta Cancri b
+bet Cnc b,beta Cancri,planet,beta Cancri b
 HD 69267 b,beta Cancri,planet,beta Cancri b
 beta Pic,beta Pic,system,beta Pic
 beta Pic,beta Pic,star,beta Pic
+bet Pic,beta Pic,star,beta Pic
+Beta Pictoris,beta Pic,star,beta Pic
+HR 2020,beta Pic,star,beta Pic
+HD 39060,beta Pic,star,beta Pic
 beta Pic b,beta Pic,planet,beta Pic b
+bet Pic b,beta Pic,planet,beta Pic b
+Beta Pictoris b,beta Pic,planet,beta Pic b
+HR 2020 b,beta Pic,planet,beta Pic b
+HD 39060 b,beta Pic,planet,beta Pic b
 beta Ursae Minoris,beta Ursae Minoris,system,beta Ursae Minoris
 HD 131873,beta Ursae Minoris,system,beta Ursae Minoris
 beta Ursae Minoris,beta Ursae Minoris,star,beta Ursae Minoris
@@ -221,10 +236,13 @@ Kochab,beta Ursae Minoris,star,beta Ursae Minoris
 beta Ursae Minoris b,beta Ursae Minoris,planet,beta Ursae Minoris b
 HD 131873 b,beta Ursae Minoris,planet,beta Ursae Minoris b
 beta UMi b,beta Ursae Minoris,planet,beta Ursae Minoris b
+bet UMi b,beta Ursae Minoris,planet,beta Ursae Minoris b
 Kochab b,beta Ursae Minoris,planet,beta Ursae Minoris b
 CFBDS 1458,CFBDS 1458,system,CFBDS 1458
 CFBDS 1458,CFBDS 1458,star,CFBDS 1458
+CFBDSIR J145829+101343,CFBDS 1458,star,CFBDS 1458
 CFBDS 1458 b,CFBDS 1458,planet,CFBDS 1458 b
+CFBDSIR J145829+101343 b,CFBDS 1458,planet,CFBDS 1458 b
 CFBDSIR2149,CFBDSIR2149,system,CFBDSIR2149
 CFBDSIR J214947.2-040308.9,CFBDSIR2149,system,CFBDSIR2149
 CFBDSIR2149,CFBDSIR2149,planet,CFBDSIR2149
@@ -358,14 +376,22 @@ DP Leo,DP Leo,star,DP Leo
 DP Leo,DP Leo,star,DP Leo
 DP Leo b,DP Leo,planet,DP Leo b
 eps Corona Borealis,eps Corona Borealis,system,eps Corona Borealis
-eps Corona Boreal,eps Corona Borealis,star,eps Corona Boreal
+eps Corona Borealis,eps Corona Borealis,star,eps Corona Borealis
+eps CrB,eps Corona Borealis,star,eps Corona Borealis
 eps Corona Borealis b,eps Corona Borealis,planet,eps Corona Borealis b
 HD 143107 b,eps Corona Borealis,planet,eps Corona Borealis b
 HR 5947 b,eps Corona Borealis,planet,eps Corona Borealis b
 HIP 78159 b,eps Corona Borealis,planet,eps Corona Borealis b
+eps CrB b,eps Corona Borealis,planet,eps Corona Borealis b
 eps Eridani,eps Eridani,system,eps Eridani
 eps Eridani,eps Eridani,star,eps Eridani
+eps Eri,eps Eridani,star,eps Eridani
+HR 1084,eps Eridani,star,eps Eridani
+HD 22049,eps Eridani,star,eps Eridani
 eps Eridani b,eps Eridani,planet,eps Eridani b
+eps Eri b,eps Eridani,planet,eps Eridani b
+HR 1084 b,eps Eridani,planet,eps Eridani b
+HD 22049 b,eps Eridani,planet,eps Eridani b
 eps Tau,eps Tau,system,eps Tau
 eps Tau,eps Tau,star,eps Tau
 eps Tau b,eps Tau,planet,eps Tau b
@@ -392,9 +418,6 @@ FU Tau b,FU Tau,planet,FU Tau b
 FW Tau,FW Tau,system,FW Tau
 FW Tau,FW Tau,star,FW Tau
 FW Tau b,FW Tau,planet,FW Tau b
-gamma 1 Leo,gamma 1 Leo,system,gamma 1 Leo
-gamma 1 Leo,gamma 1 Leo,star,gamma 1 Leo
-gamma 1 Leo b,gamma 1 Leo,planet,gamma 1 Leo b
 gamma Cephei,gamma Cephei,system,gamma Cephei
 Gamma Cephei,gamma Cephei,system,gamma Cephei
 Errai,gamma Cephei,system,gamma Cephei
@@ -406,8 +429,20 @@ HIP 116727,gamma Cephei,system,gamma Cephei
 Gamma Cephei A,gamma Cephei,star,Gamma Cephei A
 Gamma Cephei B,gamma Cephei,star,Gamma Cephei B
 Gamma Cephei b,gamma Cephei,planet,Gamma Cephei b
-Gamma Cephei Ab,gamma Cephei,planet,Gamma Cephei b
+Gamma Cephei A b,gamma Cephei,planet,Gamma Cephei b
+gam Cep b,gamma Cephei,planet,Gamma Cephei b
 HD 222404b,gamma Cephei,planet,Gamma Cephei b
+Gamma Leonis,Gamma Leonis,system,Gamma Leonis
+Gamma Leonis,Gamma Leonis,star,Gamma Leonis
+gamma 1 Leo,Gamma Leonis,star,Gamma Leonis
+gam 1 Leo,Gamma Leonis,star,Gamma Leonis
+Algieba,Gamma Leonis,star,Gamma Leonis
+Al Gieba,Gamma Leonis,star,Gamma Leonis
+Gamma Leonis b,Gamma Leonis,planet,Gamma Leonis b
+gamma 1 Leo b,Gamma Leonis,planet,Gamma Leonis b
+gam 1 Leo b,Gamma Leonis,planet,Gamma Leonis b
+Algieba b,Gamma Leonis,planet,Gamma Leonis b
+Al Gieba b,Gamma Leonis,planet,Gamma Leonis b
 Gliese 1214,Gliese 1214,system,Gliese 1214
 Gliese 1214,Gliese 1214,star,Gliese 1214
 Gliese 1214 b,Gliese 1214,planet,Gliese 1214 b
@@ -424,17 +459,21 @@ GJ 163 b,Gliese 163,planet,Gliese 163 b
 HIP 19394 b,Gliese 163,planet,Gliese 163 b
 LHS 188 b,Gliese 163,planet,Gliese 163 b
 Gliese 163 c,Gliese 163,planet,Gliese 163 c
+GJ 163 c,Gliese 163,planet,Gliese 163 c
 HIP 19394 c,Gliese 163,planet,Gliese 163 c
 LHS 188 c,Gliese 163,planet,Gliese 163 c
 Gliese 163 d,Gliese 163,planet,Gliese 163 d
+GJ 163 d,Gliese 163,planet,Gliese 163 d
 HIP 19394 d,Gliese 163,planet,Gliese 163 d
 LHS 188 d,Gliese 163,planet,Gliese 163 d
 Gliese 176,Gliese 176,system,Gliese 176
 Gliese 176,Gliese 176,star,Gliese 176
+HD 285968,Gliese 176,star,Gliese 176
 Gliese 176 b,Gliese 176,planet,Gliese 176 b
 GJ 176 b,Gliese 176,planet,Gliese 176 b
 Gj 176 b,Gliese 176,planet,Gliese 176 b
 Gl 176 b,Gliese 176,planet,Gliese 176 b
+HD 285968 b,Gliese 176,planet,Gliese 176 b
 Gliese 179,Gliese 179,system,Gliese 179
 Gliese 179,Gliese 179,star,Gliese 179
 Gliese 179 b,Gliese 179,planet,Gliese 179 b
@@ -470,6 +509,12 @@ Gj 3021 A b,Gliese 3021,planet,Gliese 3021 A b
 Gl 3021 A b,Gliese 3021,planet,Gliese 3021 A b
 HD 1237 A b,Gliese 3021,planet,Gliese 3021 A b
 HIP 1291 A b,Gliese 3021,planet,Gliese 3021 A b
+Gliese 3021 b,Gliese 3021,planet,Gliese 3021 A b
+GJ 3021 b,Gliese 3021,planet,Gliese 3021 A b
+Gj 3021 b,Gliese 3021,planet,Gliese 3021 A b
+Gl 3021 b,Gliese 3021,planet,Gliese 3021 A b
+HD 1237 b,Gliese 3021,planet,Gliese 3021 A b
+HIP 1291 b,Gliese 3021,planet,Gliese 3021 A b
 Gliese 317,Gliese 317,system,Gliese 317
 Gliese 317,Gliese 317,star,Gliese 317
 Gliese 317 b,Gliese 317,planet,Gliese 317 b
@@ -616,9 +661,11 @@ HD 190360 B,Gliese 777,star,Gliese 777 B
 HR 7670 B,Gliese 777,star,Gliese 777 B
 Gliese 777 A b,Gliese 777,planet,Gliese 777 A b
 HD 190360 A b,Gliese 777,planet,Gliese 777 A b
+HD 190360 b,Gliese 777,planet,Gliese 777 A b
 HR 7670 A b,Gliese 777,planet,Gliese 777 A b
 Gliese 777 A c,Gliese 777,planet,Gliese 777 A c
 HD 190360 A c,Gliese 777,planet,Gliese 777 A c
+HD 190360 c,Gliese 777,planet,Gliese 777 A c
 HR 7670 A c,Gliese 777,planet,Gliese 777 A c
 Gliese 785,Gliese 785,system,Gliese 785
 Gliese 785,Gliese 785,star,Gliese 785
@@ -696,6 +743,7 @@ GQ Lup b,GQ Lup,planet,GQ Lup b
 GSC 06214-00210,GSC 06214-00210,system,GSC 06214-00210
 GSC 06214-00210,GSC 06214-00210,star,GSC 06214-00210
 GSC 06214-00210 b,GSC 06214-00210,planet,GSC 06214-00210 b
+GSC 6214-210 b,GSC 06214-00210,planet,GSC 06214-00210 b
 GU Psc,GU Psc,system,GU Psc
 GU Psc,GU Psc,star,GU Psc
 GU Psc b,GU Psc,planet,GU Psc b
@@ -1101,6 +1149,7 @@ HD 109749,HD 109749,system,HD 109749
 HD 109749 A,HD 109749,star,HD 109749 A
 HD 109749 B,HD 109749,star,HD 109749 B
 HD 109749 A b,HD 109749,planet,HD 109749 A b
+HD 109749 b,HD 109749,planet,HD 109749 A b
 HD 110014,HD 110014,system,HD 110014
 HD 110014,HD 110014,star,HD 110014
 HD 110014 b,HD 110014,planet,HD 110014 b
@@ -1129,6 +1178,7 @@ HD 114729,HD 114729,system,HD 114729
 HD 114729 A,HD 114729,star,HD 114729 A
 HD 114729 B,HD 114729,star,HD 114729 B
 HD 114729 A b,HD 114729,planet,HD 114729 A b
+HD 114729 b,HD 114729,planet,HD 114729 A b
 HD 114762,HD 114762,system,HD 114762
 HD 114762,HD 114762,star,HD 114762
 HD 114762 b,HD 114762,planet,HD 114762 b
@@ -1161,9 +1211,11 @@ GJ 81.1 B,HD 11964,star,HD 11964 B
 HD 11964 A b,HD 11964,planet,HD 11964 A b
 Gliese 81.1 A b,HD 11964,planet,HD 11964 A b
 GJ 81.1 A b,HD 11964,planet,HD 11964 A b
+HD 11964 b,HD 11964,planet,HD 11964 A b
 HD 11964 A c,HD 11964,planet,HD 11964 A c
 Gliese 81.1 A c,HD 11964,planet,HD 11964 A c
 GJ 81.1 A c,HD 11964,planet,HD 11964 A c
+HD 11964 c,HD 11964,planet,HD 11964 A c
 HD 11977,HD 11977,system,HD 11977
 HD 11977,HD 11977,star,HD 11977
 HD 11977 b,HD 11977,planet,HD 11977 b
@@ -1216,9 +1268,10 @@ HD 13189 b,HD 13189,planet,HD 13189 b
 HD 132406,HD 132406,system,HD 132406
 HD 132406,HD 132406,star,HD 132406
 HD 132406 b,HD 132406,planet,HD 132406 b
-HD 132563B,HD 132563B,system,HD 132563B
-HD 132563B,HD 132563B,star,HD 132563B
-HD 132563B b,HD 132563B,planet,HD 132563B b
+HD 132563 B,HD 132563 B,system,HD 132563 B
+HD 132563 B,HD 132563 B,star,HD 132563 B
+HD 132563 B b,HD 132563 B,planet,HD 132563 B b
+HD 132563 b,HD 132563 B,planet,HD 132563 B b
 HD 134060,HD 134060,system,HD 134060
 HD 134060,HD 134060,star,HD 134060
 HD 134060 b,HD 134060,planet,HD 134060 b
@@ -1243,6 +1296,7 @@ HD 136418 b,HD 136418,planet,HD 136418 b
 HD 137388,HD 137388,system,HD 137388
 HD 137388,HD 137388,star,HD 137388
 HD 137388 b,HD 137388,planet,HD 137388 b
+HD 137388 A b,HD 137388,planet,HD 137388 b
 HD 13808,HD 13808,system,HD 13808
 HD 13808,HD 13808,star,HD 13808
 HD 13808 b,HD 13808,planet,HD 13808 b
@@ -1310,6 +1364,8 @@ HR 6094 B,HD 147513,star,HD 147513 B
 HD 147513 A b,HD 147513,planet,HD 147513 A b
 62 G. Scorpii A b,HD 147513,planet,HD 147513 A b
 HR 6094 A b,HD 147513,planet,HD 147513 A b
+HD 147513 A,HD 147513,planet,HD 147513 A b
+HD 147513 b,HD 147513,planet,HD 147513 A b
 HD 148156,HD 148156,system,HD 148156
 HD 148156,HD 148156,star,HD 148156
 HD 148156 b,HD 148156,planet,HD 148156 b
@@ -1461,7 +1517,9 @@ HD 177830,HD 177830,system,HD 177830
 HD 177830 A,HD 177830,star,HD 177830 A
 HD 177830 B,HD 177830,star,HD 177830 B
 HD 177830 A b,HD 177830,planet,HD 177830 A b
+HD 177830 b,HD 177830,planet,HD 177830 A b
 HD 177830 A c,HD 177830,planet,HD 177830 A c
+HD 177830 c,HD 177830,planet,HD 177830 A c
 HD 178911,HD 178911,system,HD 178911
 HD 178911 B,HD 178911,star,HD 178911 B
 HR 7272,HD 178911,star,HD 178911 B
@@ -1514,6 +1572,7 @@ HD 188015,HD 188015,system,HD 188015
 HD 188015 A,HD 188015,star,HD 188015 A
 HD 188015 B,HD 188015,star,HD 188015 B
 HD 188015 A b,HD 188015,planet,HD 188015 A b
+HD 188015 b,HD 188015,planet,HD 188015 A b
 HD 189567,HD 189567,system,HD 189567
 HD 189567,HD 189567,star,HD 189567
 HD 189567 b,HD 189567,planet,HD 189567 b
@@ -1541,6 +1600,7 @@ HD 195019,HD 195019,system,HD 195019
 HD 195019 A,HD 195019,star,HD 195019 A
 HD 195019 B,HD 195019,star,HD 195019 B
 HD 195019 A b,HD 195019,planet,HD 195019 A b
+HD 195019 b,HD 195019,planet,HD 195019 A b
 HD 196050,HD 196050,system,HD 196050
 HD 196050 A,HD 196050,star,HD 196050 A
 HIP 101806,HD 196050,star,HD 196050 A
@@ -1556,6 +1616,7 @@ HD 196885,HD 196885,system,HD 196885
 HD 196885 A,HD 196885,star,HD 196885 A
 HD 196885 B,HD 196885,star,HD 196885 B
 HD 196885 A b,HD 196885,planet,HD 196885 A b
+HD 196885 b,HD 196885,planet,HD 196885 A b
 HD 197037,HD 197037,system,HD 197037
 HD 197037,HD 197037,star,HD 197037
 HD 197037 b,HD 197037,planet,HD 197037 b
@@ -1572,6 +1633,7 @@ HD 19994 A b,HD 19994,planet,HD 19994 A b
 94 Ceti A b,HD 19994,planet,HD 19994 A b
 Gliese 128 A b,HD 19994,planet,HD 19994 A b
 GJ 128 A b,HD 19994,planet,HD 19994 A b
+HD 19994 b,HD 19994,planet,HD 19994 A b
 HD 20003,HD 20003,system,HD 20003
 HD 20003,HD 20003,star,HD 20003
 HD 20003 b,HD 20003,planet,HD 20003 b
@@ -1648,6 +1710,7 @@ HD 213240,HD 213240,system,HD 213240
 HD 213240 A,HD 213240,star,HD 213240 A
 HD 213240 C,HD 213240,star,HD 213240 C
 HD 213240 A b,HD 213240,planet,HD 213240 A b
+HD 213240 b,HD 213240,planet,HD 213240 A b
 HD 215152,HD 215152,system,HD 215152
 HD 215152,HD 215152,star,HD 215152
 HD 215152 b,HD 215152,planet,HD 215152 b
@@ -1718,6 +1781,8 @@ HD 222582 B,HD 222582,star,HD 222582 B
 HIP 116906 B,HD 222582,star,HD 222582 B
 HD 222582 A b,HD 222582,planet,HD 222582 A b
 HIP 116906 A b,HD 222582,planet,HD 222582 A b
+HD 222582 b,HD 222582,planet,HD 222582 A b
+HIP 116906 b,HD 222582,planet,HD 222582 A b
 HD 224693,HD 224693,system,HD 224693
 HD 224693,HD 224693,star,HD 224693
 HD 224693 b,HD 224693,planet,HD 224693 b
@@ -1760,6 +1825,7 @@ Epsilon Reticuli A,HD 27442,star,HD 27442 A
 HD 27442 B,HD 27442,star,HD 27442 B
 Epsilon Reticuli B,HD 27442,star,HD 27442 B
 HD 27442 A b,HD 27442,planet,HD 27442 A b
+HD 27442 b,HD 27442,planet,HD 27442 A b
 Epsilon Reticuli A b,HD 27442,planet,HD 27442 A b
 HD 27631,HD 27631,system,HD 27631
 HD 27631,HD 27631,star,HD 27631
@@ -1850,7 +1916,10 @@ HD 38529 A,HD 38529,star,HD 38529 A
 HD 38529 A,HD 38529,star,HD 38529 A
 HD 38529 A b,HD 38529,planet,HD 38529 A b
 138 G. Orionis A b,HD 38529,planet,HD 38529 A b
+HD 38529 b,HD 38529,planet,HD 38529 A b
 HD 38529 A c,HD 38529,planet,HD 38529 A c
+138 G. Orionis A c,HD 38529,planet,HD 38529 A c
+HD 38529 c,HD 38529,planet,HD 38529 A c
 HD 38801,HD 38801,system,HD 38801
 HD 38801,HD 38801,star,HD 38801
 HD 38801 b,HD 38801,planet,HD 38801 b
@@ -1883,6 +1952,7 @@ BD +44 1351,HD 40979,star,HD 40979 B
 HD 40979 C,HD 40979,star,HD 40979 C
 HD 40979 A b,HD 40979,planet,HD 40979 A b
 HIP 28767 A b,HD 40979,planet,HD 40979 A b
+HD 40979 b,HD 40979,planet,HD 40979 A b
 2MASS J06042993+4415379 A b,HD 40979,planet,HD 40979 A b
 HD 41004,HD 41004,system,HD 41004
 HD 41004 A,HD 41004,star,HD 41004 A
@@ -2076,6 +2146,7 @@ HD 75289,HD 75289,system,HD 75289
 HD 75289 A,HD 75289,star,HD 75289 A
 HD 75289 B,HD 75289,star,HD 75289 B
 HD 75289 A b,HD 75289,planet,HD 75289 A b
+HD 75289 b,HD 75289,planet,HD 75289 A b
 HD 75898,HD 75898,system,HD 75898
 HD 75898,HD 75898,star,HD 75898
 HD 75898 b,HD 75898,planet,HD 75898 b
@@ -2157,6 +2228,7 @@ GJ 9326 B,HD 89744,star,HD 89744 B
 HD 89744 A b,HD 89744,planet,HD 89744 A b
 HR 4067 A b,HD 89744,planet,HD 89744 A b
 GJ 9326 A b,HD 89744,planet,HD 89744 A b
+HD 89744 b,HD 89744,planet,HD 89744 A b
 HD 90156,HD 90156,system,HD 90156
 HD 90156,HD 90156,star,HD 90156
 HD 90156 b,HD 90156,planet,HD 90156 b
@@ -2304,6 +2376,7 @@ Kappa Andromedae b,Kappa Andromedae,planet,Kappa And b
 kappa CrB,kappa CrB,system,kappa CrB
 kappa CrB,kappa CrB,star,kappa CrB
 kappa CrB b,kappa CrB,planet,kappa CrB b
+kap CrB b,kappa CrB,planet,kappa CrB b
 KELT-2A,KELT-2A,system,KELT-2A
 KELT-2A,KELT-2A,star,KELT-2A
 KELT-2A b,KELT-2A,planet,KELT-2A b
@@ -2869,11 +2942,12 @@ KOI-275.02,Kepler-129,planet,Kepler-129 c
 KIC 10586004 c,Kepler-129,planet,Kepler-129 c
 KIC 10586004.02,Kepler-129,planet,Kepler-129 c
 Kepler-13,Kepler-13,system,Kepler-13
-Kepler-13A,Kepler-13,star,Kepler-13A
-KOI-13A,Kepler-13,star,Kepler-13A
-Kepler-13A b,Kepler-13,planet,Kepler-13A b
-KOI-13 b,Kepler-13,planet,Kepler-13A b
-KOI-13.01,Kepler-13,planet,Kepler-13A b
+Kepler-13 A,Kepler-13,star,Kepler-13 A
+KOI-13A,Kepler-13,star,Kepler-13 A
+Kepler-13 A b,Kepler-13,planet,Kepler-13 A b
+Kepler-13 b,Kepler-13,planet,Kepler-13 A b
+KOI-13 b,Kepler-13,planet,Kepler-13 A b
+KOI-13.01,Kepler-13,planet,Kepler-13 A b
 Kepler-130,Kepler-130,system,Kepler-130
 KOI-282,Kepler-130,system,Kepler-130
 KIC 5088536,Kepler-130,system,Kepler-130
@@ -3365,6 +3439,7 @@ Kepler-16,Kepler-16,system,Kepler-16
 Kepler-16 A,Kepler-16,star,Kepler-16 A
 Kepler-16 B,Kepler-16,star,Kepler-16 B
 Kepler-16 (AB) b,Kepler-16,planet,Kepler-16 (AB) b
+Kepler-16 b,Kepler-16,planet,Kepler-16 (AB) b
 Kepler-160,Kepler-160,system,Kepler-160
 KOI-456,Kepler-160,system,Kepler-160
 KIC 7269974,Kepler-160,system,Kepler-160
@@ -8134,8 +8209,15 @@ KIC 12351927,Kepler-413,system,Kepler-413
 Kepler-413 A,Kepler-413,star,Kepler-413 A
 Kepler-413 B,Kepler-413,star,Kepler-413 B
 Kepler-413 AB b,Kepler-413,planet,Kepler-413 AB b
+Kepler-413 (AB) b,Kepler-413,planet,Kepler-413 AB b
 Kepler-413 b,Kepler-413,planet,Kepler-413 AB b
 KIC 12351927 AB b,Kepler-413,planet,Kepler-413 AB b
+Kepler-418,Kepler-418,system,Kepler-418
+Kepler-418,Kepler-418,star,Kepler-418
+KOI 1089,Kepler-418,star,Kepler-418
+KIC 3247268,Kepler-418,star,Kepler-418
+Kepler-418b,Kepler-418,planet,Kepler-418b
+Kepler-418 b,Kepler-418,planet,Kepler-418b
 Kepler-42,Kepler-42,system,Kepler-42
 KOI-961,Kepler-42,system,Kepler-42
 Kepler-42,Kepler-42,star,Kepler-42
@@ -9030,11 +9112,13 @@ KIC 8494142.01,KOI-370,planet,KOI-370.01
 KOI-423,KOI-423,system,KOI-423
 KOI-423,KOI-423,star,KOI-423
 KOI-423 b,KOI-423,planet,KOI-423 b
+Kepler-39 b,KOI-423,planet,KOI-423 b
 KIC 9478990 b,KOI-423,planet,KOI-423 b
 KOI-428,KOI-428,system,KOI-428
 KOI-428,KOI-428,star,KOI-428
 KOI-428 b,KOI-428,planet,KOI-428 b
 KIC 10418224 b,KOI-428,planet,KOI-428 b
+Kepler-40 b,KOI-428,planet,KOI-428 b
 2MASS J19471528+4731357 b,KOI-428,planet,KOI-428 b
 KOI-523,KOI-523,system,KOI-523
 KOI-523,KOI-523,star,KOI-523
@@ -9074,25 +9158,35 @@ ksi Aql b,ksi Aql,planet,ksi Aql b
 LKCA 15,LKCA 15,system,LKCA 15
 LKCA 15,LKCA 15,star,LKCA 15
 LKCA 15 b,LKCA 15,planet,LKCA 15 b
+Lupus-TR 3,Lupus-TR 3,system,Lupus-TR 3
+Lupus-TR 3,Lupus-TR 3,star,Lupus-TR 3
+Lupus-TR 3b,Lupus-TR 3,planet,Lupus-TR 3b
+Lupus-TR 3 b,Lupus-TR 3,planet,Lupus-TR 3b
 MOA-2007-BLG-192-L,MOA-2007-BLG-192-L,system,MOA-2007-BLG-192-L
 MOA-2007-BLG-192-L,MOA-2007-BLG-192-L,star,MOA-2007-BLG-192-L
 MOA-2007-BLG-192-L b,MOA-2007-BLG-192-L,planet,MOA-2007-BLG-192-L b
+MOA 2007-BLG-192L b,MOA-2007-BLG-192-L,planet,MOA-2007-BLG-192-L b
 MOA-192 b,MOA-2007-BLG-192-L,planet,MOA-2007-BLG-192-L b
 MOA-2007-BLG-400-L,MOA-2007-BLG-400-L,system,MOA-2007-BLG-400-L
 MOA-2007-BLG-400-L,MOA-2007-BLG-400-L,star,MOA-2007-BLG-400-L
 MOA-2007-BLG-400-L b,MOA-2007-BLG-400-L,planet,MOA-2007-BLG-400-L b
+MOA 2007-BLG-400L b,MOA-2007-BLG-400-L,planet,MOA-2007-BLG-400-L b
 MOA-2008-BLG-310-L,MOA-2008-BLG-310-L,system,MOA-2008-BLG-310-L
 MOA-2008-BLG-310-L,MOA-2008-BLG-310-L,star,MOA-2008-BLG-310-L
 MOA-2008-BLG-310-L b,MOA-2008-BLG-310-L,planet,MOA-2008-BLG-310-L b
+MOA 2008-BLG-310L b,MOA-2008-BLG-310-L,planet,MOA-2008-BLG-310-L b
 MOA-2008-BLG-379L,MOA-2008-BLG-379L,system,MOA-2008-BLG-379L
 MOA-2008-BLG-379L,MOA-2008-BLG-379L,star,MOA-2008-BLG-379L
 MOA-2008-BLG-379L b,MOA-2008-BLG-379L,planet,MOA-2008-BLG-379L b
+MOA 2008-BLG-379L b,MOA-2008-BLG-379L,planet,MOA-2008-BLG-379L b
 MOA-2009-BLG-266L,MOA-2009-BLG-266L,system,MOA-2009-BLG-266L
 MOA-2009-BLG-266L,MOA-2009-BLG-266L,star,MOA-2009-BLG-266L
 MOA-2009-BLG-266L b,MOA-2009-BLG-266L,planet,MOA-2009-BLG-266L b
+MOA 2009-BLG-266 b,MOA-2009-BLG-266L,planet,MOA-2009-BLG-266L b
 MOA-2009-BLG-319,MOA-2009-BLG-319,system,MOA-2009-BLG-319
 MOA-2009-BLG-319,MOA-2009-BLG-319,star,MOA-2009-BLG-319
 MOA-2009-BLG-319 b,MOA-2009-BLG-319,planet,MOA-2009-BLG-319 b
+MOA 2009-BLG-319L b,MOA-2009-BLG-319,planet,MOA-2009-BLG-319 b
 MOA-2009-BLG-387L,MOA-2009-BLG-387L,system,MOA-2009-BLG-387L
 MOA-2009-BLG-387L,MOA-2009-BLG-387L,star,MOA-2009-BLG-387L
 MOA-2009-BLG-387L b,MOA-2009-BLG-387L,planet,MOA-2009-BLG-387L b
@@ -9115,6 +9209,7 @@ MOA-2011-BLG-322,MOA-2011-BLG-322,system,MOA-2011-BLG-322
 MOA-2011-BLG-322,MOA-2011-BLG-322,star,MOA-2011-BLG-322
 HJD 2455773,MOA-2011-BLG-322,star,MOA-2011-BLG-322
 MOA-2011-BLG-322 b,MOA-2011-BLG-322,planet,MOA-2011-BLG-322 b
+MOA 2011-BLG-322L b,MOA-2011-BLG-322,planet,MOA-2011-BLG-322 b
 HJD 2455773 b,MOA-2011-BLG-322,planet,MOA-2011-BLG-322 b
 MOA-2012-BLG-311,MOA-2012-BLG-311,system,MOA-2012-BLG-311
 MOA-2012-BLG-311,MOA-2012-BLG-311,star,MOA-2012-BLG-311
@@ -9125,12 +9220,28 @@ MOA-2013-BLG-220L b,MOA-2013-BLG-220L,planet,MOA-2013-BLG-220L b
 MOA-bin-1,MOA-bin-1,system,MOA-bin-1
 MOA-bin-1,MOA-bin-1,star,MOA-bin-1
 MOA-bin-1 b,MOA-bin-1,planet,MOA-bin-1 b
-mu Ara,mu Ara,system,mu Ara
-mu Ara,mu Ara,star,mu Ara
-mu Ara b,mu Ara,planet,mu Ara b
-mu Ara c,mu Ara,planet,mu Ara c
-mu Ara d,mu Ara,planet,mu Ara d
-mu Ara e,mu Ara,planet,mu Ara e
+MOA-bin-1L b,MOA-bin-1,planet,MOA-bin-1 b
+mu Arae,mu Arae,system,mu Arae
+mu Arae,mu Arae,star,mu Arae
+mu Ara,mu Arae,star,mu Arae
+HD 160691,mu Arae,star,mu Arae
+HR 6585,mu Arae,star,mu Arae
+mu Arae b,mu Arae,planet,mu Arae b
+mu Ara b,mu Arae,planet,mu Arae b
+HD 160691 b,mu Arae,planet,mu Arae b
+HR 6585 b,mu Arae,planet,mu Arae b
+mu Arae c,mu Arae,planet,mu Arae c
+mu Ara c,mu Arae,planet,mu Arae c
+HD 160691 c,mu Arae,planet,mu Arae c
+HR 6585 c,mu Arae,planet,mu Arae c
+mu Arae d,mu Arae,planet,mu Arae d
+mu Ara d,mu Arae,planet,mu Arae d
+HD 160691 d,mu Arae,planet,mu Arae d
+HR 6585 d,mu Arae,planet,mu Arae d
+mu Arae e,mu Arae,planet,mu Arae e
+mu Ara e,mu Arae,planet,mu Arae e
+HD 160691 e,mu Arae,planet,mu Arae e
+HR 6585 e,mu Arae,planet,mu Arae e
 mu Leo,mu Leo,system,mu Leo
 HD 85503,mu Leo,system,mu Leo
 mu Leo,mu Leo,star,mu Leo
@@ -9145,17 +9256,22 @@ Rasalas b,mu Leo,planet,mu Leo b
 Alshemali b,mu Leo,planet,mu Leo b
 NGC 2423 3,NGC 2423 3,system,NGC 2423 3
 NGC 2423 3,NGC 2423 3,star,NGC 2423 3
+BD-13 2130,NGC 2423 3,star,NGC 2423 3
 NGC 2423 3 b,NGC 2423 3,planet,NGC 2423 3 b
+BD-13 2130 b,NGC 2423 3,planet,NGC 2423 3 b
 NGC 4349 No 127,NGC 4349 No 127,system,NGC 4349 No 127
 NGC 4349 No 127,NGC 4349 No 127,star,NGC 4349 No 127
 NGC 4349 No 127 b,NGC 4349 No 127,planet,NGC 4349 No 127 b
+NGC 4349 127 b,NGC 4349 No 127,planet,NGC 4349 No 127 b
 NN Ser,NN Ser,system,NN Ser
 NN Serpentis,NN Ser,system,NN Ser
 NN Ser A,NN Ser,star,NN Ser A
 NN Ser B,NN Ser,star,NN Ser B
 NN Ser (AB) c,NN Ser,planet,NN Ser (AB) c
+NN Ser c,NN Ser,planet,NN Ser (AB) c
 NN Serpentis (AB) c,NN Ser,planet,NN Ser (AB) c
 NN Ser (AB) d,NN Ser,planet,NN Ser (AB) d
+NN Ser d,NN Ser,planet,NN Ser (AB) d
 NN Serpentis (AB) d,NN Ser,planet,NN Ser (AB) d
 NSVS 14256825,NSVS 14256825,system,NSVS 14256825
 2MASS J20200045+0437564,NSVS 14256825,system,NSVS 14256825
@@ -9177,20 +9293,26 @@ NY Virginis A,NY Virginis,star,NY Virginis B
 PG 1336-018 B,NY Virginis,star,NY Virginis B
 NY Virginis (AB) b,NY Virginis,planet,NY Virginis (AB) b
 NY Vir (AB) b,NY Virginis,planet,NY Virginis (AB) b
+NY Vir b,NY Virginis,planet,NY Virginis (AB) b
 PG 1336-018 (AB) b,NY Virginis,planet,NY Virginis (AB) b
 OGLE-05-071L,OGLE-05-071L,system,OGLE-05-071L
 OGLE-05-071L,OGLE-05-071L,star,OGLE-05-071L
 OGLE-05-071L b,OGLE-05-071L,planet,OGLE-05-071L b
+OGLE 2005-BLG-71L b,OGLE-05-071L,planet,OGLE-05-071L b
 OGLE-05-169L,OGLE-05-169L,system,OGLE-05-169L
 OGLE-05-169L,OGLE-05-169L,star,OGLE-05-169L
 OGLE-05-169L b,OGLE-05-169L,planet,OGLE-05-169L b
+OGLE 2005-BLG-169L b,OGLE-05-169L,planet,OGLE-05-169L b
 OGLE-05-390L,OGLE-05-390L,system,OGLE-05-390L
 OGLE-05-390L,OGLE-05-390L,star,OGLE-05-390L
 OGLE-05-390L b,OGLE-05-390L,planet,OGLE-05-390L b
+OGLE 2005-BLG-390L b,OGLE-05-390L,planet,OGLE-05-390L b
 OGLE-06-109L,OGLE-06-109L,system,OGLE-06-109L
 OGLE-06-109L,OGLE-06-109L,star,OGLE-06-109L
 OGLE-06-109L b,OGLE-06-109L,planet,OGLE-06-109L b
+OGLE 2006-BLG-109L b,OGLE-06-109L,planet,OGLE-06-109L b
 OGLE-06-109L c,OGLE-06-109L,planet,OGLE-06-109L c
+OGLE 2006-BLG-109L c,OGLE-06-109L,planet,OGLE-06-109L c
 OGLE-2007-BLG-368L,OGLE-2007-BLG-368L,system,OGLE-2007-BLG-368L
 OGLE-2007-BLG-368L,OGLE-2007-BLG-368L,star,OGLE-2007-BLG-368L
 OGLE-2007-BLG-368L b,OGLE-2007-BLG-368L,planet,OGLE-2007-BLG-368L b
@@ -9200,16 +9322,21 @@ OGLE-2008-BLG-355L b,OGLE-2008-BLG-355L,planet,OGLE-2008-BLG-355L b
 OGLE-2011-BLG-0251,OGLE-2011-BLG-0251,system,OGLE-2011-BLG-0251
 OGLE-2011-BLG-0251,OGLE-2011-BLG-0251,star,OGLE-2011-BLG-0251
 OGLE-2011-BLG-0251 b,OGLE-2011-BLG-0251,planet,OGLE-2011-BLG-0251 b
+OGLE 2011-BLG-251L b,OGLE-2011-BLG-0251,planet,OGLE-2011-BLG-0251 b
 OGLE-2012-BLG-0026L,OGLE-2012-BLG-0026L,system,OGLE-2012-BLG-0026L
 OGLE-2012-BLG-0026L,OGLE-2012-BLG-0026L,star,OGLE-2012-BLG-0026L
 OGLE-2012-BLG-0026L b,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L b
+OGLE 2012-BLG-026L b,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L b
 OGLE-2012-BLG-0026L c,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L c
+OGLE 2012-BLG-026L c,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L c
 OGLE-2012-BLG-0358L,OGLE-2012-BLG-0358L,system,OGLE-2012-BLG-0358L
 OGLE-2012-BLG-0358L,OGLE-2012-BLG-0358L,star,OGLE-2012-BLG-0358L
 OGLE-2012-BLG-0358L b,OGLE-2012-BLG-0358L,planet,OGLE-2012-BLG-0358L b
+OGLE 2012-BLG-358L b,OGLE-2012-BLG-0358L,planet,OGLE-2012-BLG-0358L b
 OGLE-2012-BLG-0406L,OGLE-2012-BLG-0406L,system,OGLE-2012-BLG-0406L
 OGLE-2012-BLG-0406L,OGLE-2012-BLG-0406L,star,OGLE-2012-BLG-0406L
 OGLE-2012-BLG-0406L b,OGLE-2012-BLG-0406L,planet,OGLE-2012-BLG-0406L b
+OGLE 2012-BLG-406L b,OGLE-2012-BLG-0406L,planet,OGLE-2012-BLG-0406L b
 OGLE-TR-10,OGLE-TR-10,system,OGLE-TR-10
 OGLE-TR-10,OGLE-TR-10,star,OGLE-TR-10
 OGLE-TR-10 b,OGLE-TR-10,planet,OGLE-TR-10 b
@@ -9243,6 +9370,32 @@ OGLE2-TR-L9 b,OGLE2-TR-L9,planet,OGLE2-TR-L9 b
 OGLE235-MOA53,OGLE235-MOA53,system,OGLE235-MOA53
 OGLE235-MOA53,OGLE235-MOA53,star,OGLE235-MOA53
 OGLE235-MOA53 b,OGLE235-MOA53,planet,OGLE235-MOA53 b
+omi CrB,omi CrB,system,omi CrB
+omi CrB,omi CrB,star,omi CrB
+Omicron Coronae Borealis,omi CrB,star,omi CrB
+o CrB,omi CrB,star,omi CrB
+HD 136512,omi CrB,star,omi CrB
+HR 5709,omi CrB,star,omi CrB
+HIP 75049,omi CrB,star,omi CrB
+omi CrB b,omi CrB,planet,omi CrB b
+Omicron Coronae Borealis b,omi CrB,planet,omi CrB b
+o CrB b,omi CrB,planet,omi CrB b
+HD 136512 b,omi CrB,planet,omi CrB b
+HR 5709 b,omi CrB,planet,omi CrB b
+HIP 75049 b,omi CrB,planet,omi CrB b
+omi UMa,omi UMa,system,omi UMa
+omi UMa,omi UMa,star,omi UMa
+Omicron Ursae Majoris,omi UMa,star,omi UMa
+Muscida,omi UMa,star,omi UMa
+o UMa,omi UMa,star,omi UMa
+HD 71369,omi UMa,star,omi UMa
+HIP 41704,omi UMa,star,omi UMa
+omi UMa b,omi UMa,planet,omi UMa b
+Omicron Ursae Majoris b,omi UMa,planet,omi UMa b
+Muscida b,omi UMa,planet,omi UMa b
+o UMa b,omi UMa,planet,omi UMa b
+HD 71369 b,omi UMa,planet,omi UMa b
+HIP 41704 b,omi UMa,planet,omi UMa b
 Omicron Serpentis,Omicron Serpentis,system,Omicron Serpentis
 o Ser,Omicron Serpentis,system,Omicron Serpentis
 o Serpentis,Omicron Serpentis,system,Omicron Serpentis
@@ -9257,6 +9410,7 @@ HD 160613,Omicron Serpentis,star,Omicron Serpentis
 HIP 86565,Omicron Serpentis,star,Omicron Serpentis
 Omicron Serpentis b,Omicron Serpentis,planet,Omicron Serpentis b
 o Ser b,Omicron Serpentis,planet,Omicron Serpentis b
+ome Ser b,Omicron Serpentis,planet,Omicron Serpentis b
 o Serpentis b,Omicron Serpentis,planet,Omicron Serpentis b
 HR 6581 b,Omicron Serpentis,planet,Omicron Serpentis b
 HD 160613 b,Omicron Serpentis,planet,Omicron Serpentis b
@@ -9307,8 +9461,11 @@ PSO J318-22,PSO J318.5-22,planet,PSO J318.5-22
 PSR 1257 12,PSR 1257 12,system,PSR 1257 12
 PSR 1257 12,PSR 1257 12,star,PSR 1257 12
 PSR 1257 12 b,PSR 1257 12,planet,PSR 1257 12 b
+PSR B1257+12 b,PSR 1257 12,planet,PSR 1257 12 b
 PSR 1257 12 c,PSR 1257 12,planet,PSR 1257 12 c
+PSR B1257+12 c,PSR 1257 12,planet,PSR 1257 12 c
 PSR 1257 12 d,PSR 1257 12,planet,PSR 1257 12 d
+PSR B1257+12 d,PSR 1257 12,planet,PSR 1257 12 d
 PSR 1719-14,PSR 1719-14,system,PSR 1719-14
 PSR 1719-1438,PSR 1719-14,star,PSR 1719-1438
 PSR 1719-14,PSR 1719-14,star,PSR 1719-1438
@@ -9333,6 +9490,9 @@ GSC 04974-00112 b,Qatar-2,planet,Qatar-2 b
 Ross 458(AB),Ross 458(AB),system,Ross 458(AB)
 Ross 458(AB),Ross 458(AB),star,Ross 458(AB)
 Ross 458(AB) c,Ross 458(AB),planet,Ross 458(AB) c
+Ross 458 AB c,Ross 458(AB),planet,Ross 458(AB) c
+DT Virginis c,Ross 458(AB),planet,Ross 458(AB) c
+HIP 63510 c,Ross 458(AB),planet,Ross 458(AB) c
 ROXs 12,ROXs 12,system,ROXs 12
 ROXs 12,ROXs 12,star,ROXs 12
 ROXs 12 b,ROXs 12,planet,ROXs 12 b
@@ -9343,6 +9503,8 @@ RR Cae,RR Cae,system,RR Cae
 RR Cae A,RR Cae,star,RR Cae A
 RR Cae B,RR Cae,star,RR Cae B
 RR Cae (AB) b,RR Cae,planet,RR Cae (AB) b
+RR Cae b,RR Cae,planet,RR Cae (AB) b
+RR Caeli b,RR Cae,planet,RR Cae (AB) b
 SAND364,SAND364,system,SAND364
 SAND364,SAND364,star,SAND364
 SAND364 b,SAND364,planet,SAND364 b
@@ -9369,11 +9531,19 @@ Neptune,Sun,planet,Neptune
 Sun i,Sun,planet,Neptune
 Pluto,Sun,planet,Pluto
 Sun j,Sun,planet,Pluto
-SWEEPS-,SWEEPS-,system,SWEEPS-
-SWEEPS-,SWEEPS-,star,SWEEPS-
-SWEEPS-04,SWEEPS-,planet,SWEEPS-04
-SWEEPS-4,SWEEPS-,planet,SWEEPS-04
-SWEEPS-11,SWEEPS-,planet,SWEEPS-11
+SWEEPS-11,SWEEPS-11,system,SWEEPS-11
+SWEEPS-11,SWEEPS-11,star,SWEEPS-11
+SWEEPS J175902.67-291153.5,SWEEPS-11,star,SWEEPS-11
+SWEEPS-11,SWEEPS-11,planet,SWEEPS-11
+SWEEPS-11 b,SWEEPS-11,planet,SWEEPS-11
+SWEEPS J175902.67-291153.5 b,SWEEPS-11,planet,SWEEPS-11
+SWEEPS-4,SWEEPS-4,system,SWEEPS-4
+SWEEPS-4,SWEEPS-4,star,SWEEPS-4
+SWEEPS J175853.92-291120.6,SWEEPS-4,star,SWEEPS-4
+SWEEPS-4,SWEEPS-4,planet,SWEEPS-4
+SWEEPS-04,SWEEPS-4,planet,SWEEPS-4
+SWEEPS-4 b,SWEEPS-4,planet,SWEEPS-4
+SWEEPS J175853.92-291120.6 b,SWEEPS-4,planet,SWEEPS-4
 tau Boo,tau Boo,system,tau Boo
 tau Boo A,tau Boo,star,tau Boo A
 Tau Booetis A,tau Boo,star,tau Boo A
@@ -9390,6 +9560,7 @@ Tau Booetis A b,tau Boo,planet,tau Boo A b
 HD 120136 A b,tau Boo,planet,tau Boo A b
 GJ 527 A b,tau Boo,planet,tau Boo A b
 Gliese 527 A b,tau Boo,planet,tau Boo A b
+tau Boo b,tau Boo,planet,tau Boo A b
 tau Ceti,tau Ceti,system,tau Ceti
 HD 10700,tau Ceti,system,tau Ceti
 tau Ceti,tau Ceti,star,tau Ceti
@@ -9412,6 +9583,7 @@ TrES-1,TrES-1,star,TrES-1
 TrES-1 b,TrES-1,planet,TrES-1 b
 TYC 2652-01324-1,TrES-1,planet,TrES-1 b
 2MASS J19040985+3637574,TrES-1,planet,TrES-1 b
+TrES-1,TrES-1,planet,TrES-1 b
 TrES-2,TrES-2,system,TrES-2
 TrES-2 A,TrES-2,star,TrES-2 A
 TrES-2 C,TrES-2,star,TrES-2 C
@@ -9422,10 +9594,12 @@ TYC 3549-02811-1,TrES-2,planet,TrES-2 A b
 KIC 11446443,TrES-2,planet,TrES-2 A b
 Kepler-1,TrES-2,planet,TrES-2 A b
 KOI-1,TrES-2,planet,TrES-2 A b
+TrES-2,TrES-2,planet,TrES-2 A b
 TrES-3,TrES-3,system,TrES-3
 TrES-3,TrES-3,star,TrES-3
 TrES-3 b,TrES-3,planet,TrES-3 b
 2MASS J17520702+3732461,TrES-3,planet,TrES-3 b
+TrES-3,TrES-3,planet,TrES-3 b
 TrES-4,TrES-4,system,TrES-4
 TrES-4 A,TrES-4,star,TrES-4 A
 TrES-4 C,TrES-4,star,TrES-4 C
@@ -9433,10 +9607,12 @@ TrES-4 A b,TrES-4,planet,TrES-4 A b
 TrES-4 b,TrES-4,planet,TrES-4 A b
 TYC 2620-00648-1,TrES-4,planet,TrES-4 A b
 2MASS J17531304+3712426,TrES-4,planet,TrES-4 A b
+TrES-4,TrES-4,planet,TrES-4 A b
 TrES-5,TrES-5,system,TrES-5
 TrES-5,TrES-5,star,TrES-5
 TrES-5 b,TrES-5,planet,TrES-5 b
 2MASS J20205324+5926556 b,TrES-5,planet,TrES-5 b
+TrES-5,TrES-5,planet,TrES-5 b
 Upsilon Andromedae,Upsilon Andromedae,system,Upsilon Andromedae
 Upsilon Andromedae A,Upsilon Andromedae,star,Upsilon Andromedae A
 ups And A,Upsilon Andromedae,star,Upsilon Andromedae A
@@ -9460,9 +9636,12 @@ UScoCTIO 108 b,UScoCTIO 108,planet,UScoCTIO 108 b
 UZ For(ab),UZ For(ab),system,UZ For(ab)
 UZ For(ab),UZ For(ab),star,UZ For(ab)
 UZ For(ab) d,UZ For(ab),planet,UZ For(ab) d
+UZ For d,UZ For(ab),planet,UZ For(ab) d
+UZ Fornacis d,UZ For(ab),planet,UZ For(ab) d
 V391 Peg,V391 Peg,system,V391 Peg
 V391 Peg,V391 Peg,star,V391 Peg
 V391 Peg b,V391 Peg,planet,V391 Peg b
+V0391 Peg b,V391 Peg,planet,V391 Peg b
 WASP-1,WASP-1,system,WASP-1
 WASP-1,WASP-1,star,WASP-1
 WASP-1 b,WASP-1,planet,WASP-1 b
@@ -9486,6 +9665,9 @@ WASP-101,WASP-101,star,WASP-101
 WASP-101 b,WASP-101,planet,WASP-101 b
 1SWASP J063324.26-232910.2 b,WASP-101,planet,WASP-101 b
 2MASS 06332426-2329103 b,WASP-101,planet,WASP-101 b
+WASP-103,WASP-103,system,WASP-103
+WASP-103,WASP-103,star,WASP-103
+WASP-103 b,WASP-103,planet,WASP-103 b
 WASP-11,WASP-11,system,WASP-11
 WASP-11,WASP-11,star,WASP-11
 WASP-11 b,WASP-11,planet,WASP-11 b
@@ -9759,7 +9941,8 @@ WASP-70,WASP-70,system,WASP-70
 2MASS 21015446-1325595,WASP-70,system,WASP-70
 WASP-70 B,WASP-70,star,WASP-70 B
 WASP-70 A,WASP-70,star,WASP-70 A
-WASP-70A b,WASP-70,planet,WASP-70A b
+WASP-70 A b,WASP-70,planet,WASP-70 A b
+WASP-70 b,WASP-70,planet,WASP-70 A b
 WASP-71,WASP-71,system,WASP-71
 WASP-71,WASP-71,star,WASP-71
 TYC 30-116-1,WASP-71,star,WASP-71
@@ -9778,6 +9961,7 @@ WASP-75,WASP-75,system,WASP-75
 WASP-75,WASP-75,star,WASP-75
 1SWASP J224932.56-104031.8,WASP-75,star,WASP-75
 WASP-75 b,WASP-75,planet,WASP-75 b
+WASP-75,WASP-75,planet,WASP-75 b
 1SWASP J224932.56-104031.8 b,WASP-75,planet,WASP-75 b
 WASP-76,WASP-76,system,WASP-76
 WASP-76,WASP-76,star,WASP-76
@@ -9886,6 +10070,7 @@ WASP-99 b,WASP-99,planet,WASP-99 b
 WD 0806-661B,WD 0806-661B,system,WD 0806-661B
 WD 0806-661B,WD 0806-661B,star,WD 0806-661B
 WD 0806-661B b,WD 0806-661B,planet,WD 0806-661B b
+WD 0806-661 b,WD 0806-661B,planet,WD 0806-661B b
 WTS-1,WTS-1,system,WTS-1
 WTS-1,WTS-1,star,WTS-1
 WTS-1 b,WTS-1,planet,WTS-1 b
@@ -9900,6 +10085,17 @@ WTS-2 b,WTS-2,planet,WTS-2 b
 SDSS J193455.87+364855.6 b,WTS-2,planet,WTS-2 b
 WISE J193455.86+364855.6 b,WTS-2,planet,WTS-2 b
 KIC 1173581 b,WTS-2,planet,WTS-2 b
+xi Aql,xi Aql,system,xi Aql
+xi Aql,xi Aql,star,xi Aql
+HR7595,xi Aql,star,xi Aql
+HD188310,xi Aql,star,xi Aql
+HIP97938,xi Aql,star,xi Aql
+xi Aql b,xi Aql,planet,xi Aql b
+Xi Aquilae b,xi Aql,planet,xi Aql b
+ksi Aql b,xi Aql,planet,xi Aql b
+HR7595 b,xi Aql,planet,xi Aql b
+HD188310 b,xi Aql,planet,xi Aql b
+HIP97938 b,xi Aql,planet,xi Aql b
 XO-1,XO-1,system,XO-1
 XO-1,XO-1,star,XO-1
 XO-1 b,XO-1,planet,XO-1 b

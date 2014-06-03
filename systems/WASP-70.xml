@@ -1,8 +1,9 @@
 <system>
 	<name>WASP-70</name>
 	<contributors>
-		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="4" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2013arXiv1310.5654A</link>
