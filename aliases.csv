@@ -2377,6 +2377,21 @@ kappa CrB,kappa CrB,system,kappa CrB
 kappa CrB,kappa CrB,star,kappa CrB
 kappa CrB b,kappa CrB,planet,kappa CrB b
 kap CrB b,kappa CrB,planet,kappa CrB b
+Kapteyn,Kapteyn,system,Kapteyn
+Kapteyn,Kapteyn,star,Kapteyn
+Kapteyn's Star,Kapteyn,star,Kapteyn
+HD 33793,Kapteyn,star,Kapteyn
+Gliese 191,Kapteyn,star,Kapteyn
+Kapteyn b,Kapteyn,planet,Kapteyn b
+Kapteyn's Star b,Kapteyn,planet,Kapteyn b
+Kapteyn's b,Kapteyn,planet,Kapteyn b
+HD 33793 b,Kapteyn,planet,Kapteyn b
+Gliese 191 b,Kapteyn,planet,Kapteyn b
+Kapteyn c,Kapteyn,planet,Kapteyn c
+Kapteyn's Star c,Kapteyn,planet,Kapteyn c
+Kapteyn's c,Kapteyn,planet,Kapteyn c
+HD 33793 c,Kapteyn,planet,Kapteyn c
+Gliese 191 c,Kapteyn,planet,Kapteyn c
 KELT-2A,KELT-2A,system,KELT-2A
 KELT-2A,KELT-2A,star,KELT-2A
 KELT-2A b,KELT-2A,planet,KELT-2A b
@@ -9152,9 +9167,6 @@ KIC 3832474 c,KOI-806,planet,KOI-806.02
 KOI-806.03,KOI-806,planet,KOI-806.03
 Kepler-30 d,KOI-806,planet,KOI-806.03
 KIC 3832474 d,KOI-806,planet,KOI-806.03
-ksi Aql,ksi Aql,system,ksi Aql
-ksi Aql,ksi Aql,star,ksi Aql
-ksi Aql b,ksi Aql,planet,ksi Aql b
 LKCA 15,LKCA 15,system,LKCA 15
 LKCA 15,LKCA 15,star,LKCA 15
 LKCA 15 b,LKCA 15,planet,LKCA 15 b
