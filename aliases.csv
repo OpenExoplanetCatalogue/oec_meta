@@ -710,6 +710,10 @@ Gliese 832 b,Gliese 832,planet,Gliese 832 b
 GJ 832 b,Gliese 832,planet,Gliese 832 b
 Gj 832 b,Gliese 832,planet,Gliese 832 b
 Gl 832 b,Gliese 832,planet,Gliese 832 b
+Gliese 832 c,Gliese 832,planet,Gliese 832 c
+GJ 832 c,Gliese 832,planet,Gliese 832 c
+Gj 832 c,Gliese 832,planet,Gliese 832 c
+Gl 832 c,Gliese 832,planet,Gliese 832 c
 Gliese 849,Gliese 849,system,Gliese 849
 Gliese 849,Gliese 849,star,Gliese 849
 Gliese 849 b,Gliese 849,planet,Gliese 849 b
@@ -9036,6 +9040,15 @@ KIC 8435766 b,KIC 8435766,planet,KIC 8435766 b
 Kepler-78 b,KIC 8435766,planet,KIC 8435766 b
 2MASS 19345800+4426539 b,KIC 8435766,planet,KIC 8435766 b
 TYC 3147-188-1 b,KIC 8435766,planet,KIC 8435766 b
+KOI-1257,KOI-1257,system,KOI-1257
+KOI-1257,KOI-1257,star,KOI-1257
+KIC8751933,KOI-1257,star,KOI-1257
+KOI-1257 B,KOI-1257,star,KOI-1257 B
+KIC8751933 B,KOI-1257,star,KOI-1257 B
+KOI-1257 b,KOI-1257,planet,KOI-1257 b
+KOI-1257 01,KOI-1257,planet,KOI-1257 b
+KOI-1257.01,KOI-1257,planet,KOI-1257 b
+KIC8751933 b,KOI-1257,planet,KOI-1257 b
 KOI-135,KOI-135,system,KOI-135
 KOI-135,KOI-135,star,KOI-135
 KOI-135 b,KOI-135,planet,KOI-135 b
