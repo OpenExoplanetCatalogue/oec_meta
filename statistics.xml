@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>6407</commits>
+	<commits>6408</commits>
 	<contributors num="24">
 		<contributor>Hanno Rein</contributor>
 		<contributor>Marc-Antoine Martinod</contributor>
@@ -26,11 +26,11 @@
 		<contributor>Darryl Hemsley</contributor>
 		<contributor>Dave</contributor>
 	</contributors>
-	<planets>1818</planets>
-	<systems>1094</systems>
+	<planets>1819</planets>
+	<systems>1095</systems>
 	<binaries>63</binaries>
 	<planets2011>185</planets2011>
 	<planets2012>111</planets2012>
-	<confirmedplanets>1789</confirmedplanets>
-	<confirmedsystems>1087</confirmedsystems>
+	<confirmedplanets>1790</confirmedplanets>
+	<confirmedsystems>1088</confirmedsystems>
 </statistiscs>
