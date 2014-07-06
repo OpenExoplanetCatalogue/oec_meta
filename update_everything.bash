@@ -17,4 +17,3 @@ python generate.python
 commit "automatic update: generate"
 
 git push
-./deploy.bash
