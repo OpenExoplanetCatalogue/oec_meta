@@ -1,10 +1,6 @@
 <system>
 	<name>KOI-55</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="royl@aldaron.com">Orome</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://www.nature.com/nature/journal/v480/n7378/pdf/nature10631.pdf</link>

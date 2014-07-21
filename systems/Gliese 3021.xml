@@ -1,9 +1,6 @@
 <system>
 	<name>Gliese 3021</name>
-	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/pdf/0710.5918v1.pdf</link>
 	</links>

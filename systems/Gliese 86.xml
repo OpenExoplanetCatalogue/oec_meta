@@ -1,10 +1,6 @@
 <system>
 	<name>Gliese 86</name>
-	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="Tobias_Mueller@twam.info">Tobias Mueller</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://dx.doi.org/10.1088/0004-637X/694/2/1085</link>

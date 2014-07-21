@@ -1,9 +1,6 @@
 <system>
 	<name>WASP-103</name>
-	<contributors>
-		<contributor commits="2" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://www.aanda.org/articles/aa/abs/2014/02/aa23014-13/aa23014-13.html</link>
 	</links>
