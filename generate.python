@@ -127,7 +127,7 @@ ET.SubElement(statroot,"systems").text = "%d" % totalsystems
 ET.SubElement(statroot,"binaries").text = "%d" % totalbinaries
 dytag = ET.SubElement(statroot,"discoveryyear")
 for i in xrange(1992,date.today().year+1):
-    ET.SubElement(dytag,"%d"%i).text = "%d" % discoveryyear[i]
+    ET.SubElement(dytag,"y%d"%i).text = "%d" % discoveryyear[i]
 
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
 ET.SubElement(statroot,"confirmedsystems").text = "%d" % totalconfirmedsystems
