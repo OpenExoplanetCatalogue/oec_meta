@@ -1,6 +1,8 @@
 <system>
 	<name>Gliese 676</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1206.7118v2.pdf</link>
 		<link>http://en.wikipedia.org/wiki/Gliese_676</link>

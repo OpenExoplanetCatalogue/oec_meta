@@ -1,6 +1,9 @@
 <system>
 	<name>tau Ceti</name>
-	<contributors />
+	<contributors>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://star-www.herts.ac.uk/~hraj/tauceti/</link>
 		<link>http://arxiv.org/pdf/1212.4277v1.pdf</link>

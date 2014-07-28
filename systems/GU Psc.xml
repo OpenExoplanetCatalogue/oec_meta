@@ -1,6 +1,8 @@
 <system>
 	<name>GU Psc</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://iopscience.iop.org/0004-637X/787/1/5/</link>
 	</links>

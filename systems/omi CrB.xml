@@ -1,6 +1,9 @@
 <system>
 	<name>omi CrB</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1207.3141</link>
 	</links>
