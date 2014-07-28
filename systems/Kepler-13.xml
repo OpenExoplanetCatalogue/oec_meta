@@ -1,4 +1,7 @@
 <system>
 	<name>Kepler-13</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+	</contributors>
 </system>

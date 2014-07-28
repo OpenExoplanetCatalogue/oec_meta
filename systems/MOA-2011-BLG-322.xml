@@ -1,6 +1,8 @@
 <system>
 	<name>MOA-2011-BLG-322</name>
-	<contributors />
+	<contributors>
+		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1310.0008</link>
 	</links>

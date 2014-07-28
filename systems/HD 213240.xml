@@ -1,6 +1,9 @@
 <system>
 	<name>HD 213240</name>
-	<contributors />
+	<contributors>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/astro-ph/0507101</link>
 	</links>

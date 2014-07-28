@@ -1,6 +1,9 @@
 <system>
 	<name>HD 100546</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://www.eso.org/public/news/eso1310/</link>
 		<link>http://www.eso.org/public/images/eso1310a/</link>

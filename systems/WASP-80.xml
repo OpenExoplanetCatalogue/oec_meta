@@ -1,6 +1,10 @@
 <system>
 	<name>WASP-80</name>
-	<contributors />
+	<contributors>
+		<contributor commits="10" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://dx.doi.org/10.1051/0004-6361/201220900</link>
 		<link>https://github.com/ryanvarley/open_exoplanet_catalogue_advanced/issues/2</link>

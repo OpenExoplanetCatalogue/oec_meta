@@ -1,6 +1,9 @@
 <system>
 	<name>HD 46375</name>
-	<contributors />
+	<contributors>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...474..273E</link>

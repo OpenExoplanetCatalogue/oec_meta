@@ -1,6 +1,11 @@
 <system>
 	<name>WASP-12</name>
-	<contributors />
+	<contributors>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://dx.doi.org/10.1088/0004-6256/141/6/179</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>

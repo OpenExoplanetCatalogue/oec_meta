@@ -1,6 +1,10 @@
 <system>
 	<name>WASP-77</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/31411/fp_2mass.fp_psc31411.tbl</link>
 		<link>http://arxiv.org/pdf/1211.6033v1.pdf</link>
