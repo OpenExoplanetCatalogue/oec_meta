@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import xml.etree.ElementTree as ET, glob, os, sys, re, csv 
+from datetime import date
 
 # Nicely indents the XML output 
 def indent(elem, level=0):
@@ -22,8 +23,10 @@ totalcommits = 0
 totalplanets = 0
 totalsystems = 0
 totalbinaries = 0
-totalplanets2011 = 0
-totalplanets2012 = 0
+discoveryyear= {}
+for i in xrange(1992,date.today().year+1):
+    discoveryyear[i] = 0
+
 totalconfirmedsystems = 0
 totalconfirmedplanets = 0
 totalcontributors = []
@@ -96,11 +99,9 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 			if "Confirmed planets" in l.text:
 				totalconfirmedplanets += 1
 				confirmedsystem = 1
-				date = planet.findtext("./discoveryyear")
-				if date=="2011":
-					totalplanets2011 += 1
-				if date=="2012":
-					totalplanets2012 += 1
+				datet = int(planet.findtext("./discoveryyear"))
+				if datet in discoveryyear:
+					discoveryyear[datet] += 1
 
 	if confirmedsystem==1:
 		totalconfirmedsystems += 1
@@ -124,8 +125,10 @@ contributors.attrib["num"] = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
 ET.SubElement(statroot,"binaries").text = "%d" % totalbinaries
-ET.SubElement(statroot,"planets2011").text = "%d" % totalplanets2011
-ET.SubElement(statroot,"planets2012").text = "%d" % totalplanets2012
+dytag = ET.SubElement(statroot,"discoveryyear")
+for i in xrange(1992,date.today().year+1):
+    ET.SubElement(dytag,"%d"%i).text = "%d" % discoveryyear[i]
+
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
 ET.SubElement(statroot,"confirmedsystems").text = "%d" % totalconfirmedsystems
 indent(statroot)
