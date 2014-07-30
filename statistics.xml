@@ -1,32 +1,6 @@
 <statistiscs>
-	<commits>6649</commits>
-	<contributors num="25">
-		<contributor>Hanno Rein</contributor>
-		<contributor>Marc-Antoine Martinod</contributor>
-		<contributor>Jaroslav Merc</contributor>
-		<contributor>Ryan Varley</contributor>
-		<contributor>Knutover</contributor>
-		<contributor>Tobias Mueller</contributor>
-		<contributor>Allen B. Davis</contributor>
-		<contributor>Sol-D</contributor>
-		<contributor>Daveshoszowski</contributor>
-		<contributor>Marc-Antoine</contributor>
-		<contributor>Kenneth J Cott</contributor>
-		<contributor>Christian Sturm</contributor>
-		<contributor>Christian Sturm</contributor>
-		<contributor>Cadenarmstrong</contributor>
-		<contributor>James Gregory</contributor>
-		<contributor>Miguel De Val-Borro</contributor>
-		<contributor>Darryl Hemsley</contributor>
-		<contributor>Allen Davis</contributor>
-		<contributor>Callum Rodwell</contributor>
-		<contributor>Andrew Tribick</contributor>
-		<contributor>Planetaryscience</contributor>
-		<contributor>Dave</contributor>
-		<contributor>Orome</contributor>
-		<contributor>Rajeev-Jeyaraj</contributor>
-		<contributor>Allen Davis</contributor>
-	</contributors>
+	<commits>0</commits>
+	<contributors num="0" />
 	<planets>1825</planets>
 	<systems>1098</systems>
 	<binaries>65</binaries>

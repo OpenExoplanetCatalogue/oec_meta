@@ -1,9 +1,6 @@
 <system>
 	<name>HD 82943</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1306.0687</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>

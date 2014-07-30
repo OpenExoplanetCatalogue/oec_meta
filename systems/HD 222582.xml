@@ -1,9 +1,6 @@
 <system>
 	<name>HD 222582</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/pdf/astro-ph/0603836v1.pdf</link>
 	</links>

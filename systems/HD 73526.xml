@@ -1,10 +1,6 @@
 <system>
 	<name>HD 73526</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/pdf/1311.6559v1.pdf</link>
 		<link>http://fr.arxiv.org/pdf/astro-ph/0510092v1</link>
