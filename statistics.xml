@@ -13,7 +13,7 @@
 		<y1997>0</y1997>
 		<y1998>7</y1998>
 		<y1999>11</y1999>
-		<y2000>20</y2000>
+		<y2000>19</y2000>
 		<y2001>13</y2001>
 		<y2002>30</y2002>
 		<y2003>25</y2003>
@@ -21,14 +21,14 @@
 		<y2005>33</y2005>
 		<y2006>29</y2006>
 		<y2007>61</y2007>
-		<y2008>65</y2008>
-		<y2009>82</y2009>
+		<y2008>64</y2008>
+		<y2009>80</y2009>
 		<y2010>114</y2010>
-		<y2011>185</y2011>
-		<y2012>110</y2012>
-		<y2013>121</y2013>
+		<y2011>184</y2011>
+		<y2012>107</y2012>
+		<y2013>116</y2013>
 		<y2014>846</y2014>
 	</discoveryyear>
-	<confirmedplanets>1794</confirmedplanets>
-	<confirmedsystems>1090</confirmedsystems>
+	<confirmedplanets>1781</confirmedplanets>
+	<confirmedsystems>1083</confirmedsystems>
 </statistiscs>
