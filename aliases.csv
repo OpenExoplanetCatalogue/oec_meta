@@ -824,9 +824,11 @@ Kepler-25 d,Kepler-25,planet,Kepler-25 d
 KOI-244.10,Kepler-25,planet,Kepler-25 d
 KIC 4349452 d,Kepler-25,planet,Kepler-25 d
 WASP-70,WASP-70,system,WASP-70
-2MASS 21015446-1325595,WASP-70,system,WASP-70
-WASP-70 B,WASP-70,star,WASP-70 B
+HD 358155,WASP-70,system,WASP-70
+2MASS J21015446-1325595,WASP-70,system,WASP-70
+TYC 5782-970-1,WASP-70,system,WASP-70
 WASP-70 A,WASP-70,star,WASP-70 A
+WASP-70 B,WASP-70,star,WASP-70 B
 WASP-70 A b,WASP-70,planet,WASP-70 A b
 WASP-70 b,WASP-70,planet,WASP-70 A b
 HD 102956,HD 102956,system,HD 102956
@@ -1794,10 +1796,10 @@ HD 69830 b,HD 69830,planet,HD 69830 b
 HD 69830 c,HD 69830,planet,HD 69830 c
 HD 69830 d,HD 69830,planet,HD 69830 d
 WASP-12,WASP-12,system,WASP-12
-WASP-12 B,WASP-12,star,WASP-12 B
-WASP-12 C,WASP-12,star,WASP-12 C
 WASP-12,WASP-12,star,WASP-12
 WASP-12 A,WASP-12,star,WASP-12
+WASP-12 B,WASP-12,star,WASP-12 B
+WASP-12 C,WASP-12,star,WASP-12 C
 WASP-12 b,WASP-12,planet,WASP-12 b
 WASP-12 A b,WASP-12,planet,WASP-12 b
 2MASS J06303279+2940202 b,WASP-12,planet,WASP-12 b
@@ -1942,16 +1944,15 @@ HD 98219,HD 98219,system,HD 98219
 HD 98219,HD 98219,star,HD 98219
 HD 98219 b,HD 98219,planet,HD 98219 b
 TrES-2,TrES-2,system,TrES-2
-TrES-2 A,TrES-2,star,TrES-2 A
-TrES-2 C,TrES-2,star,TrES-2 C
-TrES-2 A b,TrES-2,planet,TrES-2 A b
-TrES-2 b,TrES-2,planet,TrES-2 A b
-TYC 3549-02811-1,TrES-2,planet,TrES-2 A b
-2MASS J19071403+4918590,TrES-2,planet,TrES-2 A b
-KIC 11446443,TrES-2,planet,TrES-2 A b
-Kepler-1,TrES-2,planet,TrES-2 A b
-KOI-1,TrES-2,planet,TrES-2 A b
-TrES-2,TrES-2,planet,TrES-2 A b
+TrES-2,TrES-2,star,TrES-2
+TYC 3549-02811-1,TrES-2,star,TrES-2
+2MASS J19071403+4918590,TrES-2,star,TrES-2
+KIC 11446443,TrES-2,star,TrES-2
+Kepler-1,TrES-2,star,TrES-2
+KOI-1,TrES-2,star,TrES-2
+TrES-2,TrES-2,planet,TrES-2
+TrES-2 b,TrES-2,planet,TrES-2
+Kepler-1 b,TrES-2,planet,TrES-2
 Kepler-398,Kepler-398,system,Kepler-398
 KOI-2693,Kepler-398,system,Kepler-398
 KIC 5185897,Kepler-398,system,Kepler-398
@@ -3305,8 +3306,10 @@ HAT-P-16,HAT-P-16,star,HAT-P-16
 HAT-P-16 b,HAT-P-16,planet,HAT-P-16 b
 XO-2,XO-2,system,XO-2
 XO-2S,XO-2,star,XO-2S
+XO-2A,XO-2,star,XO-2S
 TYC 3413-210-1,XO-2,star,XO-2S
 XO-2N,XO-2,star,XO-2N
+XO-2B,XO-2,star,XO-2N
 XO-2S b,XO-2,planet,XO-2S b
 TYC 3413-210-1 b,XO-2,planet,XO-2S b
 XO-2S c,XO-2,planet,XO-2S c
@@ -5689,10 +5692,10 @@ WASP-15,WASP-15,star,WASP-15
 WASP-15 b,WASP-15,planet,WASP-15 b
 2MASS J13554270-3209345 b,WASP-15,planet,WASP-15 b
 HAT-P-8,HAT-P-8,system,HAT-P-8
-HAT-P-8 B,HAT-P-8,star,HAT-P-8 B
-HAT-P-8 C,HAT-P-8,star,HAT-P-8 C
 HAT-P-8,HAT-P-8,star,HAT-P-8
 HAT-P-8 A,HAT-P-8,star,HAT-P-8
+HAT-P-8 B,HAT-P-8,star,HAT-P-8 B
+HAT-P-8 C,HAT-P-8,star,HAT-P-8 C
 HAT-P-8 b,HAT-P-8,planet,HAT-P-8 b
 HAT-P-8 A b,HAT-P-8,planet,HAT-P-8 b
 2MASS J22520985+3526495 b,HAT-P-8,planet,HAT-P-8 b
@@ -7584,11 +7587,12 @@ PH-1 Aa,PH-1,star,PH-1 Aa
 PH-1 Ab,PH-1,star,PH-1 Ab
 PH-1 Ba,PH-1,star,PH-1 Ba
 PH-1 Bb,PH-1,star,PH-1 Bb
-PH-1 (AaAb) b,PH-1,planet,PH-1 (AaAb) b
-PH-1 b,PH-1,planet,PH-1 (AaAb) b
-KIC 4862625 (AaAb) b,PH-1,planet,PH-1 (AaAb) b
-Planet Hunters 1 b,PH-1,planet,PH-1 (AaAb) b
-Kepler-64 b,PH-1,planet,PH-1 (AaAb) b
+PH-1 A(ab) b,PH-1,planet,PH-1 A(ab) b
+PH-1 b,PH-1,planet,PH-1 A(ab) b
+KIC 4862625 A(ab) b,PH-1,planet,PH-1 A(ab) b
+Planet Hunters 1 b,PH-1,planet,PH-1 A(ab) b
+Kepler-64 b,PH-1,planet,PH-1 A(ab) b
+Kepler-64 A(ab) b,PH-1,planet,PH-1 A(ab) b
 Kepler-209,Kepler-209,system,Kepler-209
 KOI-672,Kepler-209,system,Kepler-209
 KIC 7115785,Kepler-209,system,Kepler-209
@@ -7986,10 +7990,10 @@ GJ 317 c,Gliese 317,planet,Gliese 317 c
 Gj 317 c,Gliese 317,planet,Gliese 317 c
 Gl 317 c,Gliese 317,planet,Gliese 317 c
 HD 189733,HD 189733,system,HD 189733
-HD 189733 B,HD 189733,star,HD 189733 B
-V452 Vulpeculae B,HD 189733,star,HD 189733 B
 HD 189733 A,HD 189733,star,HD 189733 A
 V452 Vulpeculae A,HD 189733,star,HD 189733 A
+HD 189733 B,HD 189733,star,HD 189733 B
+V452 Vulpeculae B,HD 189733,star,HD 189733 B
 HD 189733 A b,HD 189733,planet,HD 189733 A b
 HD 189733 b,HD 189733,planet,HD 189733 A b
 V452 Vulpeculae A b,HD 189733,planet,HD 189733 A b
