@@ -1474,8 +1474,9 @@ SAO 67891 b,Kepler-21,planet,Kepler-21 b
 KIC 3632418 b,Kepler-21,planet,Kepler-21 b
 KOI-975 b,Kepler-21,planet,Kepler-21 b
 FU Tau,FU Tau,system,FU Tau
-FU Tau,FU Tau,star,FU Tau
-FU Tau b,FU Tau,planet,FU Tau b
+FU Tau A,FU Tau,star,FU Tau A
+FU Tau,FU Tau,star,FU Tau A
+FU Tau B,FU Tau,planet,FU Tau B
 Kepler-403,Kepler-403,system,Kepler-403
 KOI-2732,Kepler-403,system,Kepler-403
 KIC 9886361,Kepler-403,system,Kepler-403
@@ -1509,8 +1510,10 @@ KOI-2473.03,Kepler-389,planet,Kepler-389 c
 KIC 8753896 c,Kepler-389,planet,Kepler-389 c
 KIC 8753896.03,Kepler-389,planet,Kepler-389 c
 ROXs 42 B,ROXs 42 B,system,ROXs 42 B
-ROXs 42 B,ROXs 42 B,star,ROXs 42 B
+ROXs 42 B A,ROXs 42 B,star,ROXs 42 B A
+ROXs 42 B B,ROXs 42 B,star,ROXs 42 B B
 ROXs 42 B b,ROXs 42 B,planet,ROXs 42 B b
+ROXs 42 B (AB) b,ROXs 42 B,planet,ROXs 42 B b
 HD 73534,HD 73534,system,HD 73534
 HD 73534,HD 73534,star,HD 73534
 HD 73534 b,HD 73534,planet,HD 73534 b
@@ -2018,8 +2021,10 @@ KOI-2022.02,Kepler-349,planet,Kepler-349 c
 KIC 8564674 c,Kepler-349,planet,Kepler-349 c
 KIC 8564674.02,Kepler-349,planet,Kepler-349 c
 FW Tau,FW Tau,system,FW Tau
-FW Tau,FW Tau,star,FW Tau
+FW Tau A,FW Tau,star,FW Tau A
+FW Tau B,FW Tau,star,FW Tau B
 FW Tau b,FW Tau,planet,FW Tau b
+FW Tau (AB) b,FW Tau,planet,FW Tau b
 beta Pic,beta Pic,system,beta Pic
 beta Pic,beta Pic,star,beta Pic
 bet Pic,beta Pic,star,beta Pic
@@ -2100,6 +2105,9 @@ KOI-718 d,Kepler-219,planet,Kepler-219 d
 KOI-718.03,Kepler-219,planet,Kepler-219 d
 KIC 9884104 d,Kepler-219,planet,Kepler-219 d
 KIC 9884104.03,Kepler-219,planet,Kepler-219 d
+LkCa 15,LkCa 15,system,LkCa 15
+LkCa 15,LkCa 15,star,LkCa 15
+LkCa 15 b,LkCa 15,planet,LkCa 15 b
 PSO J318.5-22,PSO J318.5-22,system,PSO J318.5-22
 PSO J318.5-22,PSO J318.5-22,planet,PSO J318.5-22
 PSO J318.5338-22.8603,PSO J318.5-22,planet,PSO J318.5-22
@@ -2947,8 +2955,13 @@ KOI-784.02,Kepler-231,planet,Kepler-231 b
 KIC 12066335 b,Kepler-231,planet,Kepler-231 b
 KIC 12066335.02,Kepler-231,planet,Kepler-231 b
 Oph 11,Oph 11,system,Oph 11
-Oph 11,Oph 11,star,Oph 11
-Oph 11 b,Oph 11,planet,Oph 11 b
+Oph J1622-2405,Oph 11,system,Oph 11
+Oph 11 A,Oph 11,star,Oph 11 A
+Oph J1622-2405 A,Oph 11,star,Oph 11 A
+WDS J16224-2405 A,Oph 11,star,Oph 11 A
+Oph 11 B,Oph 11,planet,Oph 11 B
+Oph J1622-2405 B,Oph 11,planet,Oph 11 B
+WDS J16224-2405 B,Oph 11,planet,Oph 11 B
 CoRoT-14,CoRoT-14,system,CoRoT-14
 CoRoT-14,CoRoT-14,star,CoRoT-14
 CoRoT-14 b,CoRoT-14,planet,CoRoT-14 b
@@ -4598,8 +4611,9 @@ KOI-711.02,Kepler-218,planet,Kepler-218 b
 KIC 9597345 b,Kepler-218,planet,Kepler-218 b
 KIC 9597345.02,Kepler-218,planet,Kepler-218 b
 SR 12 AB,SR 12 AB,system,SR 12 AB
-SR 12 AB,SR 12 AB,star,SR 12 AB
-SR 12 AB c,SR 12 AB,planet,SR 12 AB c
+SR 12 A,SR 12 AB,star,SR 12 A
+SR 12 B,SR 12 AB,star,SR 12 B
+SR 12 C,SR 12 AB,planet,SR 12 C
 Kepler-262,Kepler-262,system,Kepler-262
 KOI-993,Kepler-262,system,Kepler-262
 KIC 1718189,Kepler-262,system,Kepler-262
@@ -5405,10 +5419,6 @@ KOI-904 f,Kepler-55,planet,Kepler-55 f
 KOI-904.05,Kepler-55,planet,Kepler-55 f
 KIC 8150320 f,Kepler-55,planet,Kepler-55 f
 KIC 8150320.05,Kepler-55,planet,Kepler-55 f
-WD 0806-661B,WD 0806-661B,system,WD 0806-661B
-WD 0806-661B,WD 0806-661B,star,WD 0806-661B
-WD 0806-661B b,WD 0806-661B,planet,WD 0806-661B b
-WD 0806-661 b,WD 0806-661B,planet,WD 0806-661B b
 HD 83443,HD 83443,system,HD 83443
 HD 83443,HD 83443,star,HD 83443
 HD 83443 b,HD 83443,planet,HD 83443 b
@@ -5771,8 +5781,8 @@ HD 82886,HD 82886,star,HD 82886
 HD 82886 b,HD 82886,planet,HD 82886 b
 DH Tau,DH Tau,system,DH Tau
 DH Tau,DH Tau,star,DH Tau
-DH Tau b,DH Tau,planet,DH Tau b
-DH Tauri b,DH Tau,planet,DH Tau b
+DH Tau B,DH Tau,planet,DH Tau B
+DH Tauri B,DH Tau,planet,DH Tau B
 Kepler-165,Kepler-165,system,Kepler-165
 KOI-475,Kepler-165,system,Kepler-165
 KIC 10577994,Kepler-165,system,Kepler-165
@@ -6341,12 +6351,6 @@ WASP-68 b,WASP-68,planet,WASP-68 b
 HD 171238,HD 171238,system,HD 171238
 HD 171238,HD 171238,star,HD 171238
 HD 171238 b,HD 171238,planet,HD 171238 b
-Ross 458(AB),Ross 458(AB),system,Ross 458(AB)
-Ross 458(AB),Ross 458(AB),star,Ross 458(AB)
-Ross 458(AB) c,Ross 458(AB),planet,Ross 458(AB) c
-Ross 458 AB c,Ross 458(AB),planet,Ross 458(AB) c
-DT Virginis c,Ross 458(AB),planet,Ross 458(AB) c
-HIP 63510 c,Ross 458(AB),planet,Ross 458(AB) c
 Kepler-220,Kepler-220,system,Kepler-220
 KOI-719,Kepler-220,system,Kepler-220
 KIC 9950612,Kepler-220,system,Kepler-220
@@ -6410,6 +6414,15 @@ KOI-1001 c,Kepler-264,planet,Kepler-264 c
 KOI-1001.02,Kepler-264,planet,Kepler-264 c
 KIC 1871056 c,Kepler-264,planet,Kepler-264 c
 KIC 1871056.02,Kepler-264,planet,Kepler-264 c
+Ross 458,Ross 458,system,Ross 458
+DT Vir,Ross 458,system,Ross 458
+Ross 458 A,Ross 458,star,Ross 458 A
+DT Vir A,Ross 458,star,Ross 458 A
+Ross 458 B,Ross 458,star,Ross 458 B
+DT Vir B,Ross 458,star,Ross 458 B
+Ross 458 C,Ross 458,planet,Ross 458 C
+DT Virginis C,Ross 458,planet,Ross 458 C
+HIP 63510 C,Ross 458,planet,Ross 458 C
 HAT-P-4,HAT-P-4,system,HAT-P-4
 HAT-P-4,HAT-P-4,star,HAT-P-4
 HAT-P-4 b,HAT-P-4,planet,HAT-P-4 b
@@ -7498,9 +7511,6 @@ KOI-2414 c,Kepler-384,planet,Kepler-384 c
 KOI-2414.02,Kepler-384,planet,Kepler-384 c
 KIC 8611832 c,Kepler-384,planet,Kepler-384 c
 KIC 8611832.02,Kepler-384,planet,Kepler-384 c
-LKCA 15,LKCA 15,system,LKCA 15
-LKCA 15,LKCA 15,star,LKCA 15
-LKCA 15 b,LKCA 15,planet,LKCA 15 b
 HAT-P-1,HAT-P-1,system,HAT-P-1
 HAT-P-1,HAT-P-1,star,HAT-P-1
 HAT-P-1 b,HAT-P-1,planet,HAT-P-1 b
@@ -7516,6 +7526,7 @@ HD 60532 b,HD 60532,planet,HD 60532 b
 HD 60532 c,HD 60532,planet,HD 60532 c
 ROXs 12,ROXs 12,system,ROXs 12
 ROXs 12,ROXs 12,star,ROXs 12
+2MASS J16262774-2527247,ROXs 12,star,ROXs 12
 ROXs 12 b,ROXs 12,planet,ROXs 12 b
 Kepler-353,Kepler-353,system,Kepler-353
 KOI-2036,Kepler-353,system,Kepler-353
@@ -9145,6 +9156,12 @@ HD 200964,HD 200964,system,HD 200964
 HD 200964,HD 200964,star,HD 200964
 HD 200964 b,HD 200964,planet,HD 200964 b
 HD 200964 c,HD 200964,planet,HD 200964 c
+WD 0806-661,WD 0806-661,system,WD 0806-661
+GJ 3483,WD 0806-661,system,WD 0806-661
+WD 0806-661,WD 0806-661,star,WD 0806-661
+GJ 3483,WD 0806-661,star,WD 0806-661
+WD 0806-661 B,WD 0806-661,planet,WD 0806-661 B
+GJ 3483 B,WD 0806-661,planet,WD 0806-661 B
 HAT-P-19,HAT-P-19,system,HAT-P-19
 HAT-P-19,HAT-P-19,star,HAT-P-19
 HAT-P-19 b,HAT-P-19,planet,HAT-P-19 b
