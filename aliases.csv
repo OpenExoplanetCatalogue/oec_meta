@@ -5419,6 +5419,11 @@ KOI-904 f,Kepler-55,planet,Kepler-55 f
 KOI-904.05,Kepler-55,planet,Kepler-55 f
 KIC 8150320 f,Kepler-55,planet,Kepler-55 f
 KIC 8150320.05,Kepler-55,planet,Kepler-55 f
+HATS-6,HATS-6,system,HATS-6
+HATS-6,HATS-6,star,HATS-6
+2MASS 05523523-1901539,HATS-6,star,HATS-6
+HATS-6 b,HATS-6,planet,HATS-6 b
+2MASS 05523523-1901539 b,HATS-6,planet,HATS-6 b
 HD 83443,HD 83443,system,HD 83443
 HD 83443,HD 83443,star,HD 83443
 HD 83443 b,HD 83443,planet,HD 83443 b
