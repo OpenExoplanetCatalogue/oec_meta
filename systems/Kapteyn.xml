@@ -1,6 +1,8 @@
 <system>
 	<name>Kapteyn</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1406.0818v1.pdf</link>
 	</links>

@@ -1,4 +1,6 @@
 <system>
 	<name>OGLE-2008-BLG-355L</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+	</contributors>
 </system>

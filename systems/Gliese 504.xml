@@ -1,6 +1,10 @@
 <system>
 	<name>Gliese 504</name>
-	<contributors />
+	<contributors>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1307.2886</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2013ApJ...774...11K</link>

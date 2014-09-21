@@ -1,6 +1,9 @@
 <system>
 	<name>KOI-314</name>
-	<contributors />
+	<contributors>
+		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://www.cfa.harvard.edu/HEK/HEK_IV.pdf</link>
 	</links>
