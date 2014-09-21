@@ -18,6 +18,8 @@ def indent(elem, level=0):
         if level and (not elem.tail or not elem.tail.strip()):
             elem.tail = i
 
+
+
 # Loop over all files and  create new data
 totalcommits = 0
 totalplanets = 0
@@ -131,6 +133,8 @@ for i in xrange(1992,date.today().year+1):
 
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
 ET.SubElement(statroot,"confirmedsystems").text = "%d" % totalconfirmedsystems
+lastupdate = os.popen("cd open_exoplanet_catalogue && git log -1 --date=short --format=%ad").readlines()[0].strip()
+ET.SubElement(statroot,"lastupdate").text = lastupdate
 indent(statroot)
 ET.ElementTree(statroot).write("statistics.xml") 
 
