@@ -1,7 +1,4 @@
 <system>
 	<name>Alpha Centauri</name>
-	<contributors>
-		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 </system>

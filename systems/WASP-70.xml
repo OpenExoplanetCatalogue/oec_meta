@@ -1,11 +1,6 @@
 <system>
 	<name>WASP-70</name>
-	<contributors>
-		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=2MASS+J21015446-1325595&amp;NbIdent=1</link>
 		<link>http://arxiv.org/abs/1310.5654</link>

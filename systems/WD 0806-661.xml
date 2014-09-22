@@ -1,8 +1,6 @@
 <system>
 	<name>WD 0806-661</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2011ApJ...732L..29R</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2011ApJ...730L...9L</link>

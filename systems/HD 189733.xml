@@ -1,11 +1,6 @@
 <system>
 	<name>HD 189733</name>
-	<contributors>
-		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="5" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/10107/fp_2mass.fp_psc10107.tbl</link>
 		<link>http://www.spacetelescope.org/news/heic1312/</link>

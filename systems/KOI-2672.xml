@@ -1,10 +1,6 @@
 <system>
 	<name>KOI-2672</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1308.0996</link>
 		<link>http://arxiv.org/abs/1111.5107</link>
