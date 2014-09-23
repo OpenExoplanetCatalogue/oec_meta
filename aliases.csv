@@ -4439,25 +4439,6 @@ UCAC2 44825174,HAT-P-9,star,HAT-P-9
 HAT-P-9 b,HAT-P-9,planet,HAT-P-9 b
 2MASS J07204044+3708263 b,HAT-P-9,planet,HAT-P-9 b
 TYC 2463-00281-1 b,HAT-P-9,planet,HAT-P-9 b
-Omicron Serpentis,Omicron Serpentis,system,Omicron Serpentis
-o Ser,Omicron Serpentis,system,Omicron Serpentis
-o Serpentis,Omicron Serpentis,system,Omicron Serpentis
-HR 6581,Omicron Serpentis,system,Omicron Serpentis
-HD 160613,Omicron Serpentis,system,Omicron Serpentis
-HIP 86565,Omicron Serpentis,system,Omicron Serpentis
-Omicron Serpentis,Omicron Serpentis,star,Omicron Serpentis
-o Ser,Omicron Serpentis,star,Omicron Serpentis
-o Serpentis,Omicron Serpentis,star,Omicron Serpentis
-HR 6581,Omicron Serpentis,star,Omicron Serpentis
-HD 160613,Omicron Serpentis,star,Omicron Serpentis
-HIP 86565,Omicron Serpentis,star,Omicron Serpentis
-Omicron Serpentis b,Omicron Serpentis,planet,Omicron Serpentis b
-o Ser b,Omicron Serpentis,planet,Omicron Serpentis b
-ome Ser b,Omicron Serpentis,planet,Omicron Serpentis b
-o Serpentis b,Omicron Serpentis,planet,Omicron Serpentis b
-HR 6581 b,Omicron Serpentis,planet,Omicron Serpentis b
-HD 160613 b,Omicron Serpentis,planet,Omicron Serpentis b
-HIP 86565 b,Omicron Serpentis,planet,Omicron Serpentis b
 Kepler-205,Kepler-205,system,Kepler-205
 KOI-663,Kepler-205,system,Kepler-205
 KIC 6425957,Kepler-205,system,Kepler-205
@@ -8746,6 +8727,24 @@ TYC 30-116-1 b,WASP-71,planet,WASP-71 b
 HD 34445,HD 34445,system,HD 34445
 HD 34445,HD 34445,star,HD 34445
 HD 34445 b,HD 34445,planet,HD 34445 b
+Omega Serpentis,Omega Serpentis,system,Omega Serpentis
+ome Ser,Omega Serpentis,system,Omega Serpentis
+ome Serpentis,Omega Serpentis,system,Omega Serpentis
+HR 5888,Omega Serpentis,system,Omega Serpentis
+HD 141680,Omega Serpentis,system,Omega Serpentis
+HIP 77578,Omega Serpentis,system,Omega Serpentis
+Omega Serpentis,Omega Serpentis,star,Omega Serpentis
+ome Ser,Omega Serpentis,star,Omega Serpentis
+ome Serpentis,Omega Serpentis,star,Omega Serpentis
+HR 5888,Omega Serpentis,star,Omega Serpentis
+HD 141680,Omega Serpentis,star,Omega Serpentis
+HIP 77578,Omega Serpentis,star,Omega Serpentis
+Omega Serpentis b,Omega Serpentis,planet,Omega Serpentis b
+ome Ser b,Omega Serpentis,planet,Omega Serpentis b
+ome Serpentis b,Omega Serpentis,planet,Omega Serpentis b
+HR 5888 b,Omega Serpentis,planet,Omega Serpentis b
+HD 141680 b,Omega Serpentis,planet,Omega Serpentis b
+HIP 77578 b,Omega Serpentis,planet,Omega Serpentis b
 Kepler-96,Kepler-96,system,Kepler-96
 KOI-261,Kepler-96,system,Kepler-96
 KIC 5383248,Kepler-96,system,Kepler-96
