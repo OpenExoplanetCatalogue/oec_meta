@@ -1,6 +1,9 @@
 <system>
 	<name>Gliese 676</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=gj+676+A</link>
 		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J17302-5138AB</link>

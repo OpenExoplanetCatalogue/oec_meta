@@ -1,6 +1,11 @@
 <system>
 	<name>CFBDSIR2149</name>
-	<contributors />
+	<contributors>
+		<contributor commits="13" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://www.aanda.org/index.php?option=com_article&amp;access=bibcode&amp;Itemid=129&amp;bibcode=2012A%2526A...548A..26DPDF</link>
 	</links>

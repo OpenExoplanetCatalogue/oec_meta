@@ -1,6 +1,8 @@
 <system>
 	<name>HIP 91258</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1311.5271</link>
 	</links>

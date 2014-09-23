@@ -1,6 +1,10 @@
 <system>
 	<name>HATS-2</name>
-	<contributors />
+	<contributors>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1304.2140v1.pdf</link>
 		<link>http://arxiv.org/abs/1304.4328</link>

@@ -1,6 +1,8 @@
 <system>
 	<name>mu Leo</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1405.2127</link>
 	</links>
