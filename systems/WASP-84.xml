@@ -1,10 +1,6 @@
 <system>
 	<name>WASP-84</name>
-	<contributors>
-		<contributor commits="3" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="knutover@gmail.com">Knutover</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1310.5654</link>
 		<link>http://adsabs.harvard.edu/abs/2013arXiv1310.5654A</link>

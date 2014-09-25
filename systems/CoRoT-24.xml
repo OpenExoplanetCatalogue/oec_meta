@@ -1,8 +1,6 @@
 <system>
 	<name>CoRoT-24</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/pdf/1406.1270v1.pdf</link>
 	</links>

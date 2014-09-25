@@ -1,8 +1,6 @@
 <system>
 	<name>WASP-104</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1408.0887</link>
 	</links>

@@ -1,32 +1,6 @@
 <statistiscs>
-	<commits>6760</commits>
-	<contributors num="25">
-		<contributor>Hanno Rein</contributor>
-		<contributor>Marc-Antoine Martinod</contributor>
-		<contributor>Jaroslav Merc</contributor>
-		<contributor>Ryan Varley</contributor>
-		<contributor>Knutover</contributor>
-		<contributor>Andrew Tribick</contributor>
-		<contributor>Tobias Mueller</contributor>
-		<contributor>Allen B. Davis</contributor>
-		<contributor>Sol-D</contributor>
-		<contributor>Daveshoszowski</contributor>
-		<contributor>Marc-Antoine</contributor>
-		<contributor>Kenneth J Cott</contributor>
-		<contributor>Christian Sturm</contributor>
-		<contributor>Christian Sturm</contributor>
-		<contributor>Cadenarmstrong</contributor>
-		<contributor>James Gregory</contributor>
-		<contributor>Miguel De Val-Borro</contributor>
-		<contributor>Darryl Hemsley</contributor>
-		<contributor>Allen Davis</contributor>
-		<contributor>Callum Rodwell</contributor>
-		<contributor>Planetaryscience</contributor>
-		<contributor>Dave</contributor>
-		<contributor>Orome</contributor>
-		<contributor>Rajeev-Jeyaraj</contributor>
-		<contributor>Allen Davis</contributor>
-	</contributors>
+	<commits>0</commits>
+	<contributors num="0" />
 	<planets>1831</planets>
 	<systems>1104</systems>
 	<binaries>74</binaries>
@@ -57,5 +31,5 @@
 	</discoveryyear>
 	<confirmedplanets>1787</confirmedplanets>
 	<confirmedsystems>1090</confirmedsystems>
-	<lastupdate>2014-09-22</lastupdate>
+	<lastupdate>2014-09-24</lastupdate>
 </statistiscs>

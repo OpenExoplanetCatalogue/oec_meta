@@ -1,10 +1,6 @@
 <system>
 	<name>HAT-P-54</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
-		<contributor commits="1" email="royl@aldaron.com">Orome</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1404.4417</link>
 	</links>

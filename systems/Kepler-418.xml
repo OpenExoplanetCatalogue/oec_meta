@@ -1,9 +1,6 @@
 <system>
 	<name>Kepler-418</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="rajeewgandhi.jeyaraj@gmail.com">Rajeev-Jeyaraj</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1405.5354</link>
 	</links>

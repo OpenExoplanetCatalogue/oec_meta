@@ -1,9 +1,6 @@
 <system>
 	<name>FW Tau</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2001ApJ...556..265W</link>
 		<link>http://arxiv.org/abs/1311.7664</link>

@@ -1,11 +1,6 @@
 <system>
 	<name>HAT-P-3</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://iopscience.iop.org/1538-3881/141/6/179</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>

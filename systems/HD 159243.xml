@@ -1,9 +1,6 @@
 <system>
 	<name>HD 159243</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="knutover@gmail.com">Knutover</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1311.5271</link>
 	</links>

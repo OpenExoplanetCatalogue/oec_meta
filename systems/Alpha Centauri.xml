@@ -1,9 +1,6 @@
 <system>
 	<name>Alpha Centauri</name>
-	<contributors>
-		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2013ApJ...770..133H</link>
 	</links>

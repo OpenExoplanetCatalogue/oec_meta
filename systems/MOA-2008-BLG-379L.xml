@@ -1,9 +1,6 @@
 <system>
 	<name>MOA-2008-BLG-379L</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/pdf/1311.3424v2.pdf</link>
 		<link>http://arxiv.org/abs/1311.3424</link>
