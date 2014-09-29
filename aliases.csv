@@ -2488,6 +2488,15 @@ HD 217786 b,HD 217786,planet,HD 217786 b
 HD 23079,HD 23079,system,HD 23079
 HD 23079,HD 23079,star,HD 23079
 HD 23079 b,HD 23079,planet,HD 23079 b
+WASP-94,WASP-94,system,WASP-94
+WASP-94 A,WASP-94,star,WASP-94 A
+2MASS 20550794-3408079,WASP-94,star,WASP-94 A
+WASP-94 B,WASP-94,star,WASP-94 B
+2MASS 20550915-3408078,WASP-94,star,WASP-94 B
+WASP-94 A b,WASP-94,planet,WASP-94 A b
+2MASS 20550794-3408079 b,WASP-94,planet,WASP-94 A b
+WASP-94 B b,WASP-94,planet,WASP-94 B b
+2MASS 20550915-3408078 b,WASP-94,planet,WASP-94 B b
 Kepler-366,Kepler-366,system,Kepler-366
 KOI-2168,Kepler-366,system,Kepler-366
 KIC 11308499,Kepler-366,system,Kepler-366
@@ -2812,17 +2821,20 @@ HD 221287,HD 221287,star,HD 221287
 HD 221287 b,HD 221287,planet,HD 221287 b
 tau Boo,tau Boo,system,tau Boo
 tau Boo A,tau Boo,star,tau Boo A
-Tau Booetis A,tau Boo,star,tau Boo A
+Tau Boötis A,tau Boo,star,tau Boo A
+Tau Bootis A,tau Boo,star,tau Boo A
 HD 120136 A,tau Boo,star,tau Boo A
 GJ 527 A,tau Boo,star,tau Boo A
 Gliese 527 A,tau Boo,star,tau Boo A
 tau Boo B,tau Boo,star,tau Boo B
-Tau Booetis B,tau Boo,star,tau Boo B
+Tau Boötis B,tau Boo,star,tau Boo B
+Tau Bootis B,tau Boo,star,tau Boo B
 HD 120136 B,tau Boo,star,tau Boo B
 GJ 527 B,tau Boo,star,tau Boo B
 Gliese 527 B,tau Boo,star,tau Boo B
 tau Boo A b,tau Boo,planet,tau Boo A b
-Tau Booetis A b,tau Boo,planet,tau Boo A b
+Tau Boötis A b,tau Boo,planet,tau Boo A b
+Tau Bootis A b,tau Boo,planet,tau Boo A b
 HD 120136 A b,tau Boo,planet,tau Boo A b
 GJ 527 A b,tau Boo,planet,tau Boo A b
 Gliese 527 A b,tau Boo,planet,tau Boo A b
