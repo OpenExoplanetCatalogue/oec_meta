@@ -183,6 +183,9 @@ KOI-282 d,Kepler-130,planet,Kepler-130 d
 KOI-282.03,Kepler-130,planet,Kepler-130 d
 KIC 5088536 d,Kepler-130,planet,Kepler-130 d
 KIC 5088536.03,Kepler-130,planet,Kepler-130 d
+WASP-108,WASP-108,system,WASP-108
+WASP-108,WASP-108,star,WASP-108
+WASP-108 b,WASP-108,planet,WASP-108 b
 Kepler-189,Kepler-189,system,Kepler-189
 KOI-574,Kepler-189,system,Kepler-189
 KIC 8355239,Kepler-189,system,Kepler-189
@@ -1152,6 +1155,9 @@ Gliese 876 e,Gliese 876,planet,Gliese 876 e
 GJ 876 e,Gliese 876,planet,Gliese 876 e
 Gj 876 e,Gliese 876,planet,Gliese 876 e
 Gl 876 e,Gliese 876,planet,Gliese 876 e
+WASP-87,WASP-87,system,WASP-87
+WASP-87,WASP-87,star,WASP-87
+WASP-87 b,WASP-87,planet,WASP-87 b
 HD 117618,HD 117618,system,HD 117618
 HD 117618,HD 117618,star,HD 117618
 HD 117618 b,HD 117618,planet,HD 117618 b
@@ -6932,6 +6938,9 @@ KOI-1915 c,Kepler-335,planet,Kepler-335 c
 KOI-1915.02,Kepler-335,planet,Kepler-335 c
 KIC 9101496 c,Kepler-335,planet,Kepler-335 c
 KIC 9101496.02,Kepler-335,planet,Kepler-335 c
+WASP-112,WASP-112,system,WASP-112
+WASP-112,WASP-112,star,WASP-112
+WASP-112 b,WASP-112,planet,WASP-112 b
 Kepler-354,Kepler-354,system,Kepler-354
 KOI-2045,Kepler-354,system,Kepler-354
 KIC 6026438,Kepler-354,system,Kepler-354
@@ -7934,6 +7943,9 @@ WASP-26,WASP-26,star,WASP-26
 WASP-26 b,WASP-26,planet,WASP-26 b
 TYC 5839-00876-1 b,WASP-26,planet,WASP-26 b
 2MASS J00182469-1516022 b,WASP-26,planet,WASP-26 b
+WASP-110,WASP-110,system,WASP-110
+WASP-110,WASP-110,star,WASP-110
+WASP-110 b,WASP-110,planet,WASP-110 b
 HD 212301,HD 212301,system,HD 212301
 HD 212301,HD 212301,star,HD 212301
 HD 212301 b,HD 212301,planet,HD 212301 b
@@ -9529,6 +9541,9 @@ KIC 4914423 b,Kepler-103,planet,Kepler-103 b
 Kepler-103 c,Kepler-103,planet,Kepler-103 c
 KOI-108.02,Kepler-103,planet,Kepler-103 c
 KIC 4914423 c,Kepler-103,planet,Kepler-103 c
+WASP-111,WASP-111,system,WASP-111
+WASP-111,WASP-111,star,WASP-111
+WASP-111 b,WASP-111,planet,WASP-111 b
 Kepler-74,Kepler-74,system,Kepler-74
 KIC-6046540,Kepler-74,system,Kepler-74
 2MASS 19322220+4121198,Kepler-74,system,Kepler-74
