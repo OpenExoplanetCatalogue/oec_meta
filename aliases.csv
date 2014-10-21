@@ -414,7 +414,25 @@ HAT-P-10 b,WASP-11,planet,WASP-11 b
 2MASS J03092855+3040249 b,WASP-11,planet,WASP-11 b
 WASP-62,WASP-62,system,WASP-62
 WASP-62,WASP-62,star,WASP-62
+CPD-64 484,WASP-62,star,WASP-62
+2MASS J05483359-6359183,WASP-62,star,WASP-62
+1SWASP J054833.59-635918.3,WASP-62,star,WASP-62
+DENIS J054833.6-635918,WASP-62,star,WASP-62
+PPM 776101,WASP-62,star,WASP-62
+TYC 8900-874-1,WASP-62,star,WASP-62
+GSC 08900-00874,WASP-62,star,WASP-62
+RAVE J054833.6-635918,WASP-62,star,WASP-62
+USNO-B1.0 0260-00058281,WASP-62,star,WASP-62
 WASP-62 b,WASP-62,planet,WASP-62 b
+CPD-64 484 b,WASP-62,planet,WASP-62 b
+2MASS J05483359-6359183 b,WASP-62,planet,WASP-62 b
+1SWASP J054833.59-635918.3 b,WASP-62,planet,WASP-62 b
+DENIS J054833.6-635918 b,WASP-62,planet,WASP-62 b
+PPM 776101 b,WASP-62,planet,WASP-62 b
+TYC 8900-874-1 b,WASP-62,planet,WASP-62 b
+GSC 08900-00874 b,WASP-62,planet,WASP-62 b
+RAVE J054833.6-635918 b,WASP-62,planet,WASP-62 b
+USNO-B1.0 0260-00058281 b,WASP-62,planet,WASP-62 b
 Kepler-150,Kepler-150,system,Kepler-150
 KOI-408,Kepler-150,system,Kepler-150
 KIC 5351250,Kepler-150,system,Kepler-150
@@ -6178,7 +6196,15 @@ GSC 6214-210 b,GSC 06214-00210,planet,GSC 06214-00210 b
 47 Uma d,47 Uma,planet,47 Uma d
 WASP-63,WASP-63,system,WASP-63
 WASP-63,WASP-63,star,WASP-63
+TYC 7612-556-1,WASP-63,star,WASP-63
+2MASS J06172074-3819237,WASP-63,star,WASP-63
+GSC 07612-00556,WASP-63,star,WASP-63
+1SWASP J061720.74-381923.8,WASP-63,star,WASP-63
 WASP-63 b,WASP-63,planet,WASP-63 b
+TYC 7612-556-1 b,WASP-63,planet,WASP-63 b
+2MASS J06172074-3819237 b,WASP-63,planet,WASP-63 b
+GSC 07612-00556 b,WASP-63,planet,WASP-63 b
+1SWASP J061720.74-381923.8 b,WASP-63,planet,WASP-63 b
 Kepler-357,Kepler-357,system,Kepler-357
 KOI-2073,Kepler-357,system,Kepler-357
 KIC 8164257,Kepler-357,system,Kepler-357
@@ -8767,8 +8793,37 @@ HIP 57050,HIP 57050,star,HIP 57050
 HIP 57050 b,HIP 57050,planet,HIP 57050 b
 Fomalhaut,Fomalhaut,system,Fomalhaut
 Fomalhaut A,Fomalhaut,star,Fomalhaut A
+HD 216956,Fomalhaut,star,Fomalhaut A
+HR 8728,Fomalhaut,star,Fomalhaut A
+CD-30 19370,Fomalhaut,star,Fomalhaut A
+CPD-30 6685,Fomalhaut,star,Fomalhaut A
+SAO 191524,Fomalhaut,star,Fomalhaut A
+GJ 881,Fomalhaut,star,Fomalhaut A
+2MASS J22573901-2937193,Fomalhaut,star,Fomalhaut A
+HIP 113368,Fomalhaut,star,Fomalhaut A
+IRAS 22549-2953,Fomalhaut,star,Fomalhaut A
+alf PsA,Fomalhaut,star,Fomalhaut A
+24 PsA,Fomalhaut,star,Fomalhaut A
+WDS J22577-2937 A,Fomalhaut,star,Fomalhaut A
 Fomalhaut B,Fomalhaut,star,Fomalhaut B
 TW PsA,Fomalhaut,star,Fomalhaut B
+TW Piscis Austrini,Fomalhaut,star,Fomalhaut B
+alf PsA B,Fomalhaut,star,Fomalhaut B
+HD 216803,Fomalhaut,star,Fomalhaut B
+HIP 113283,Fomalhaut,star,Fomalhaut B
+HR 8721,Fomalhaut,star,Fomalhaut B
+TYC 7505-100-1,Fomalhaut,star,Fomalhaut B
+GJ 879,Fomalhaut,star,Fomalhaut B
+CD-32 17321,Fomalhaut,star,Fomalhaut B
+CPD-32 6550,Fomalhaut,star,Fomalhaut B
+IRAS 22536-3150,Fomalhaut,star,Fomalhaut B
+2MASS J22562403-3133559,Fomalhaut,star,Fomalhaut B
+WDS J22577-2937 B,Fomalhaut,star,Fomalhaut B
+Fomalhaut C,Fomalhaut,star,Fomalhaut C
+LP 876-10,Fomalhaut,star,Fomalhaut C
+alf PsA C,Fomalhaut,star,Fomalhaut C
+2MASS J22480446-2422075,Fomalhaut,star,Fomalhaut C
+WDS J22577-2937 C,Fomalhaut,star,Fomalhaut C
 Fomalhaut b,Fomalhaut,planet,Fomalhaut b
 Fomalhaut Ab,Fomalhaut,planet,Fomalhaut b
 HD 216956 b,Fomalhaut,planet,Fomalhaut b
@@ -8780,7 +8835,7 @@ GJ 881 b,Fomalhaut,planet,Fomalhaut b
 2MASS J22573901-2937193 b,Fomalhaut,planet,Fomalhaut b
 HIP 113368 b,Fomalhaut,planet,Fomalhaut b
 IRAS 22549-2953 b,Fomalhaut,planet,Fomalhaut b
-ALF PsA b,Fomalhaut,planet,Fomalhaut b
+alf PsA b,Fomalhaut,planet,Fomalhaut b
 24 PsA b,Fomalhaut,planet,Fomalhaut b
 KOI-830,KOI-830,system,KOI-830
 KOI-830,KOI-830,star,KOI-830
