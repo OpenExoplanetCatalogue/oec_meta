@@ -1180,6 +1180,10 @@ Gliese 876 e,Gliese 876,planet,Gliese 876 e
 GJ 876 e,Gliese 876,planet,Gliese 876 e
 Gj 876 e,Gliese 876,planet,Gliese 876 e
 Gl 876 e,Gliese 876,planet,Gliese 876 e
+CoRoT-26,CoRoT-26,system,CoRoT-26
+CoRoT-26,CoRoT-26,star,CoRoT-26
+2MASS J18390012+0658112,CoRoT-26,star,CoRoT-26
+CoRoT-26 b,CoRoT-26,planet,CoRoT-26 b
 WASP-87,WASP-87,system,WASP-87
 WASP-87,WASP-87,star,WASP-87
 WASP-87 b,WASP-87,planet,WASP-87 b
@@ -4249,8 +4253,8 @@ KIC 11551692,KOI-1781,star,KOI-1781
 KOI-1781 b,KOI-1781,planet,KOI-1781 b
 KOI-1781.02,KOI-1781,planet,KOI-1781 b
 Kepler-411 b,KOI-1781,planet,KOI-1781 b
-KOI-1781 b,KOI-1781,planet,KOI-1781 b
-KOI-1781.01,KOI-1781,planet,KOI-1781 b
+KOI-1781 c,KOI-1781,planet,KOI-1781 c
+KOI-1781.01,KOI-1781,planet,KOI-1781 c
 KOI-1781 d,KOI-1781,planet,KOI-1781 d
 KOI-1781.03,KOI-1781,planet,KOI-1781 d
 HD 41248,HD 41248,system,HD 41248
@@ -7100,6 +7104,10 @@ GSC 05889-00271 b,WASP-78,planet,WASP-78 b
 tau Gem,tau Gem,system,tau Gem
 tau Gem,tau Gem,star,tau Gem
 tau Gem b,tau Gem,planet,tau Gem b
+CoRoT-25,CoRoT-25,system,CoRoT-25
+CoRoT-25,CoRoT-25,star,CoRoT-25
+2MASS J18423111+0630497,CoRoT-25,star,CoRoT-25
+CoRoT-25 b,CoRoT-25,planet,CoRoT-25 b
 HATS-2,HATS-2,system,HATS-2
 HATS-2,HATS-2,star,HATS-2
 GSC 665-00236,HATS-2,star,HATS-2
