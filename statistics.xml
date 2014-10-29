@@ -3,7 +3,7 @@
 	<contributors num="0" />
 	<planets>1850</planets>
 	<systems>1120</systems>
-	<binaries>75</binaries>
+	<binaries>76</binaries>
 	<discoveryyear>
 		<y1992>3</y1992>
 		<y1993>0</y1993>
@@ -31,5 +31,5 @@
 	</discoveryyear>
 	<confirmedplanets>1805</confirmedplanets>
 	<confirmedsystems>1106</confirmedsystems>
-	<lastupdate>2014-10-27</lastupdate>
+	<lastupdate>2014-10-29</lastupdate>
 </statistiscs>
