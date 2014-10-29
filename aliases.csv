@@ -4246,10 +4246,13 @@ Kepler-411,KOI-1781,system,KOI-1781
 KOI-1781,KOI-1781,star,KOI-1781
 Kepler-411,KOI-1781,star,KOI-1781
 KIC 11551692,KOI-1781,star,KOI-1781
-KOI-1781.02,KOI-1781,planet,KOI-1781.02
-Kepler-411 b,KOI-1781,planet,KOI-1781.02
-KOI-1781.01,KOI-1781,planet,KOI-1781.01
-KOI-1781.03,KOI-1781,planet,KOI-1781.03
+KOI-1781 b,KOI-1781,planet,KOI-1781 b
+KOI-1781.02,KOI-1781,planet,KOI-1781 b
+Kepler-411 b,KOI-1781,planet,KOI-1781 b
+KOI-1781 b,KOI-1781,planet,KOI-1781 b
+KOI-1781.01,KOI-1781,planet,KOI-1781 b
+KOI-1781 d,KOI-1781,planet,KOI-1781 d
+KOI-1781.03,KOI-1781,planet,KOI-1781 d
 HD 41248,HD 41248,system,HD 41248
 HD 41248,HD 41248,star,HD 41248
 HD 41248 b,HD 41248,planet,HD 41248 b
@@ -7792,6 +7795,15 @@ HAT-P-40,HAT-P-40,system,HAT-P-40
 HAT-P-40,HAT-P-40,star,HAT-P-40
 HAT-P-40 b,HAT-P-40,planet,HAT-P-40 b
 2MASS 22220308+4527265,HAT-P-40,planet,HAT-P-40 b
+Gliese 687,Gliese 687,system,Gliese 687
+GJ 687,Gliese 687,system,Gliese 687
+Gliese 687,Gliese 687,star,Gliese 687
+GJ 687,Gliese 687,star,Gliese 687
+LHS 450,Gliese 687,star,Gliese 687
+BD+68 946,Gliese 687,star,Gliese 687
+HIP 86162,Gliese 687,star,Gliese 687
+Gliese 687 b,Gliese 687,planet,Gliese 687 b
+GJ 687 b,Gliese 687,planet,Gliese 687 b
 Kepler-79,Kepler-79,system,Kepler-79
 KOI-152,Kepler-79,system,Kepler-79
 KIC 8394721,Kepler-79,system,Kepler-79
