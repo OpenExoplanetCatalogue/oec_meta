@@ -1,3 +1,8 @@
+KOI-1843,KOI-1843,system,KOI-1843
+KOI-1843,KOI-1843,star,KOI-1843
+KOI-1843.03,KOI-1843,planet,KOI-1843.03
+KOI-1843.01,KOI-1843,planet,KOI-1843.01
+KOI-1843.02,KOI-1843,planet,KOI-1843.02
 Kepler-9,Kepler-9,system,Kepler-9
 Kepler-9,Kepler-9,star,Kepler-9
 Kepler-9 b,Kepler-9,planet,Kepler-9 b
@@ -27,7 +32,9 @@ WASP-82 b,WASP-82,planet,WASP-82 b
 1SWASP J045038.56+015338.1 b,WASP-82,planet,WASP-82 b
 2MASS 04503856+0153381 b,WASP-82,planet,WASP-82 b
 Gliese 1214,Gliese 1214,system,Gliese 1214
+GJ 1214,Gliese 1214,system,Gliese 1214
 Gliese 1214,Gliese 1214,star,Gliese 1214
+GJ 1214,Gliese 1214,star,Gliese 1214
 Gliese 1214 b,Gliese 1214,planet,Gliese 1214 b
 GJ 1214 b,Gliese 1214,planet,Gliese 1214 b
 Gj 1214 b,Gliese 1214,planet,Gliese 1214 b
