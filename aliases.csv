@@ -5884,6 +5884,7 @@ GSC 5100-00045,HAT-P-46,star,HAT-P-46
 HAT-P-46 b,HAT-P-46,planet,HAT-P-46 b
 GSC 5100-00045 b,HAT-P-46,planet,HAT-P-46 b
 2MASS 18014660-0258154 b,HAT-P-46,planet,HAT-P-46 b
+HAT-P-46 c,HAT-P-46,planet,HAT-P-46 c
 BD-082823,BD-082823,system,BD-082823
 BD-082823,BD-082823,star,BD-082823
 BD-082823 b,BD-082823,planet,BD-082823 b
@@ -6606,6 +6607,16 @@ WASP-64,WASP-64,system,WASP-64
 WASP-64,WASP-64,star,WASP-64
 WASP-64 b,WASP-64,planet,WASP-64 b
 1SWASPJ064427.63-325130.4,WASP-64,planet,WASP-64 b
+KOI-1612,KOI-1612,system,KOI-1612
+Kepler-408,KOI-1612,system,KOI-1612
+KOI-1612,KOI-1612,star,KOI-1612
+Kepler-408,KOI-1612,star,KOI-1612
+KIC 10963065,KOI-1612,star,KOI-1612
+HD 176693,KOI-1612,star,KOI-1612
+TYC 3545-1227-1,KOI-1612,star,KOI-1612
+KOI-1612.01,KOI-1612,planet,KOI-1612.01
+Kepler-408 b,KOI-1612,planet,KOI-1612.01
+HD 176693 b,KOI-1612,planet,KOI-1612.01
 HD 13931,HD 13931,system,HD 13931
 HD 13931,HD 13931,star,HD 13931
 HD 13931 b,HD 13931,planet,HD 13931 b
@@ -7581,16 +7592,20 @@ KIC 7303287,Kepler-289,system,Kepler-289
 Kepler-289,Kepler-289,star,Kepler-289
 KOI-1353,Kepler-289,star,Kepler-289
 KIC 7303287,Kepler-289,star,Kepler-289
-Kepler-289 c,Kepler-289,planet,Kepler-289 c
-KOI-1353 c,Kepler-289,planet,Kepler-289 c
-KOI-1353.01,Kepler-289,planet,Kepler-289 c
-KIC 7303287 c,Kepler-289,planet,Kepler-289 c
-KIC 7303287.01,Kepler-289,planet,Kepler-289 c
+PH3,Kepler-289,star,Kepler-289
 Kepler-289 b,Kepler-289,planet,Kepler-289 b
 KOI-1353 b,Kepler-289,planet,Kepler-289 b
 KOI-1353.02,Kepler-289,planet,Kepler-289 b
 KIC 7303287 b,Kepler-289,planet,Kepler-289 b
 KIC 7303287.02,Kepler-289,planet,Kepler-289 b
+PH3 b,Kepler-289,planet,Kepler-289 b
+PH3 c,Kepler-289,planet,PH3 c
+Kepler-289 c,Kepler-289,planet,Kepler-289 c
+KOI-1353 c,Kepler-289,planet,Kepler-289 c
+KOI-1353.01,Kepler-289,planet,Kepler-289 c
+KIC 7303287 c,Kepler-289,planet,Kepler-289 c
+KIC 7303287.01,Kepler-289,planet,Kepler-289 c
+PH3 d,Kepler-289,planet,Kepler-289 c
 HD 231701,HD 231701,system,HD 231701
 HD 231701,HD 231701,star,HD 231701
 HD 231701 b,HD 231701,planet,HD 231701 b
@@ -9994,6 +10009,8 @@ Gliese 849 b,Gliese 849,planet,Gliese 849 b
 GJ 849 b,Gliese 849,planet,Gliese 849 b
 Gj 849 b,Gliese 849,planet,Gliese 849 b
 Gl 849 b,Gliese 849,planet,Gliese 849 b
+Gliese 849 c,Gliese 849,planet,Gliese 849 c
+GJ 849 c,Gliese 849,planet,Gliese 849 c
 tau Ceti,tau Ceti,system,tau Ceti
 HD 10700,tau Ceti,system,tau Ceti
 tau Ceti,tau Ceti,star,tau Ceti
