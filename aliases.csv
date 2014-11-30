@@ -722,6 +722,31 @@ HD 15082 b,WASP-33,planet,WASP-33 b
 BD+36 489 b,WASP-33,planet,WASP-33 b
 SAO 55561 b,WASP-33,planet,WASP-33 b
 2MASS J02265106+3733017 b,WASP-33,planet,WASP-33 b
+Gliese 3293,Gliese 3293,system,Gliese 3293
+Gliese 3293,Gliese 3293,star,Gliese 3293
+GJ 3293,Gliese 3293,star,Gliese 3293
+LHS 1672,Gliese 3293,star,Gliese 3293
+2MASS J04283571-2510088,Gliese 3293,star,Gliese 3293
+PM 04265-2516,Gliese 3293,star,Gliese 3293
+RAVE J042835.7-251009,Gliese 3293,star,Gliese 3293
+Gliese 3293 b,Gliese 3293,planet,Gliese 3293 b
+GJ 3293 b,Gliese 3293,planet,Gliese 3293 b
+LHS 1672 b,Gliese 3293,planet,Gliese 3293 b
+2MASS J04283571-2510088 b,Gliese 3293,planet,Gliese 3293 b
+PM 04265-2516 b,Gliese 3293,planet,Gliese 3293 b
+RAVE J042835.7-251009 b,Gliese 3293,planet,Gliese 3293 b
+Gliese 3293 d,Gliese 3293,planet,Gliese 3293 d
+GJ 3293 d,Gliese 3293,planet,Gliese 3293 d
+LHS 1672 d,Gliese 3293,planet,Gliese 3293 d
+2MASS J04283571-2510088 d,Gliese 3293,planet,Gliese 3293 d
+PM 04265-2516 d,Gliese 3293,planet,Gliese 3293 d
+RAVE J042835.7-251009 d,Gliese 3293,planet,Gliese 3293 d
+Gliese 3293 c,Gliese 3293,planet,Gliese 3293 c
+GJ 3293 c,Gliese 3293,planet,Gliese 3293 c
+LHS 1672 c,Gliese 3293,planet,Gliese 3293 c
+2MASS J04283571-2510088 c,Gliese 3293,planet,Gliese 3293 c
+PM 04265-2516 c,Gliese 3293,planet,Gliese 3293 c
+RAVE J042835.7-251009 c,Gliese 3293,planet,Gliese 3293 c
 Kepler-91,Kepler-91,system,Kepler-91
 KIC 8219268,Kepler-91,system,Kepler-91
 Kepler-91,Kepler-91,star,Kepler-91
@@ -9632,6 +9657,19 @@ HAT-P-3,HAT-P-3,star,HAT-P-3
 HAT-P-3 b,HAT-P-3,planet,HAT-P-3 b
 TYC 3466-00819-1 b,HAT-P-3,planet,HAT-P-3 b
 2MASS J13442258+4801432 b,HAT-P-3,planet,HAT-P-3 b
+Gliese 3341,Gliese 3341,system,Gliese 3341
+Gliese 3341,Gliese 3341,star,Gliese 3341
+GJ 3341,Gliese 3341,star,Gliese 3341
+LHS 1748,Gliese 3341,star,Gliese 3341
+2MASS J05154667-3117456,Gliese 3341,star,Gliese 3341
+PM 05138-3121,Gliese 3341,star,Gliese 3341
+RAVE J051546.7-311746,Gliese 3341,star,Gliese 3341
+Gliese 3341 b,Gliese 3341,planet,Gliese 3341 b
+GJ 3341 b,Gliese 3341,planet,Gliese 3341 b
+LHS 1748 b,Gliese 3341,planet,Gliese 3341 b
+2MASS J05154667-3117456 b,Gliese 3341,planet,Gliese 3341 b
+PM 05138-3121 b,Gliese 3341,planet,Gliese 3341 b
+RAVE J051546.7-311746 b,Gliese 3341,planet,Gliese 3341 b
 CoRoT-12,CoRoT-12,system,CoRoT-12
 CoRoT-12,CoRoT-12,star,CoRoT-12
 CoRoT-12 b,CoRoT-12,planet,CoRoT-12 b
