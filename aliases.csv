@@ -5686,7 +5686,19 @@ WASP-28 b,WASP-28,planet,WASP-28 b
 2MASS J23342787-0134482 b,WASP-28,planet,WASP-28 b
 HIP 116454,HIP 116454,system,HIP 116454
 HIP 116454,HIP 116454,star,HIP 116454
+BD-00 45 34,HIP 116454,star,HIP 116454
+2MASS J23354927+0026436,HIP 116454,star,HIP 116454
+PPM 174245,HIP 116454,star,HIP 116454
+TYC 585-774-1,HIP 116454,star,HIP 116454
+UCAC2 31966721,HIP 116454,star,HIP 116454
+USNO-B1.0 0904-00582461,HIP 116454,star,HIP 116454
 HIP 116454 b,HIP 116454,planet,HIP 116454 b
+BD-00 45 34 b,HIP 116454,planet,HIP 116454 b
+2MASS J23354927+0026436 b,HIP 116454,planet,HIP 116454 b
+PPM 174245 b,HIP 116454,planet,HIP 116454 b
+TYC 585-774-1 b,HIP 116454,planet,HIP 116454 b
+UCAC2 31966721 b,HIP 116454,planet,HIP 116454 b
+USNO-B1.0 0904-00582461 b,HIP 116454,planet,HIP 116454 b
 Kepler-386,Kepler-386,system,Kepler-386
 KOI-2442,Kepler-386,system,Kepler-386
 KIC 11080405,Kepler-386,system,Kepler-386
@@ -6870,34 +6882,44 @@ KIC 3447722.03,Kepler-275,planet,Kepler-275 d
 Kepler-296,Kepler-296,system,Kepler-296
 KOI-1422,Kepler-296,system,Kepler-296
 KIC 11497958,Kepler-296,system,Kepler-296
-Kepler-296,Kepler-296,star,Kepler-296
-KOI-1422,Kepler-296,star,Kepler-296
-KIC 11497958,Kepler-296,star,Kepler-296
-Kepler-296 c,Kepler-296,planet,Kepler-296 c
-KOI-1422 c,Kepler-296,planet,Kepler-296 c
-KOI-1422.01,Kepler-296,planet,Kepler-296 c
-KIC 11497958 c,Kepler-296,planet,Kepler-296 c
-KIC 11497958.01,Kepler-296,planet,Kepler-296 c
-Kepler-296 d,Kepler-296,planet,Kepler-296 d
-KOI-1422 d,Kepler-296,planet,Kepler-296 d
-KOI-1422.02,Kepler-296,planet,Kepler-296 d
-KIC 11497958 d,Kepler-296,planet,Kepler-296 d
-KIC 11497958.02,Kepler-296,planet,Kepler-296 d
-Kepler-296 b,Kepler-296,planet,Kepler-296 b
-KOI-1422 b,Kepler-296,planet,Kepler-296 b
-KOI-1422.03,Kepler-296,planet,Kepler-296 b
-KIC 11497958 b,Kepler-296,planet,Kepler-296 b
-KIC 11497958.03,Kepler-296,planet,Kepler-296 b
-Kepler-296 f,Kepler-296,planet,Kepler-296 f
-KOI-1422 f,Kepler-296,planet,Kepler-296 f
-KOI-1422.04,Kepler-296,planet,Kepler-296 f
-KIC 11497958 f,Kepler-296,planet,Kepler-296 f
-KIC 11497958.04,Kepler-296,planet,Kepler-296 f
-Kepler-296 e,Kepler-296,planet,Kepler-296 e
-KOI-1422 e,Kepler-296,planet,Kepler-296 e
-KOI-1422.05,Kepler-296,planet,Kepler-296 e
-KIC 11497958 e,Kepler-296,planet,Kepler-296 e
-KIC 11497958.05,Kepler-296,planet,Kepler-296 e
+Kepler-296 A,Kepler-296,star,Kepler-296 A
+KOI-1422 A,Kepler-296,star,Kepler-296 A
+KIC 11497958 A,Kepler-296,star,Kepler-296 A
+2MASS J19060960+4926143 A,Kepler-296,star,Kepler-296 A
+Kepler-296 B,Kepler-296,star,Kepler-296 B
+KOI-1422 B,Kepler-296,star,Kepler-296 B
+KIC 11497958 B,Kepler-296,star,Kepler-296 B
+2MASS J19060960+4926143 B,Kepler-296,star,Kepler-296 B
+Kepler-296 Ac,Kepler-296,planet,Kepler-296 Ac
+KOI-1422 Ac,Kepler-296,planet,Kepler-296 Ac
+KOI-1422.01 Ac,Kepler-296,planet,Kepler-296 Ac
+KIC 11497958 Ac,Kepler-296,planet,Kepler-296 Ac
+KIC 11497958.01 Ac,Kepler-296,planet,Kepler-296 Ac
+2MASS J19060960+4926143 Ac,Kepler-296,planet,Kepler-296 Ac
+Kepler-296 Ad,Kepler-296,planet,Kepler-296 Ad
+KOI-1422 Ad,Kepler-296,planet,Kepler-296 Ad
+KOI-1422.02 Ad,Kepler-296,planet,Kepler-296 Ad
+KIC 11497958 Ad,Kepler-296,planet,Kepler-296 Ad
+KIC 11497958.02 Ad,Kepler-296,planet,Kepler-296 Ad
+2MASS J19060960+4926143 Ad,Kepler-296,planet,Kepler-296 Ad
+Kepler-296 Ab,Kepler-296,planet,Kepler-296 Ab
+KOI-1422 Ab,Kepler-296,planet,Kepler-296 Ab
+KOI-1422.03 Ab,Kepler-296,planet,Kepler-296 Ab
+KIC 11497958 Ab,Kepler-296,planet,Kepler-296 Ab
+KIC 11497958.03 Ab,Kepler-296,planet,Kepler-296 Ab
+2MASS J19060960+4926143 Ab,Kepler-296,planet,Kepler-296 Ab
+Kepler-296 Af,Kepler-296,planet,Kepler-296 Af
+KOI-1422 Af,Kepler-296,planet,Kepler-296 Af
+KOI-1422.04 Af,Kepler-296,planet,Kepler-296 Af
+KIC 11497958 Af,Kepler-296,planet,Kepler-296 Af
+KIC 11497958.04 Af,Kepler-296,planet,Kepler-296 Af
+2MASS J19060960+4926143 Af,Kepler-296,planet,Kepler-296 Af
+Kepler-296 Ae,Kepler-296,planet,Kepler-296 Ae
+KOI-1422 Ae,Kepler-296,planet,Kepler-296 Ae
+KOI-1422.05 Ae,Kepler-296,planet,Kepler-296 Ae
+KIC 11497958 Ae,Kepler-296,planet,Kepler-296 Ae
+KIC 11497958.05 Ae,Kepler-296,planet,Kepler-296 Ae
+2MASS J19060960+4926143 Ae,Kepler-296,planet,Kepler-296 Ae
 Kepler-20,Kepler-20,system,Kepler-20
 Kepler-20,Kepler-20,star,Kepler-20
 Kepler-20 b,Kepler-20,planet,Kepler-20 b
