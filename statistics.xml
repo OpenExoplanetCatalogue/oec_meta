@@ -1,7 +1,7 @@
 <statistiscs>
 	<commits>0</commits>
 	<contributors num="0" />
-	<planets>1881</planets>
+	<planets>1882</planets>
 	<systems>1139</systems>
 	<binaries>79</binaries>
 	<discoveryyear>
@@ -31,5 +31,5 @@
 	</discoveryyear>
 	<confirmedplanets>1822</confirmedplanets>
 	<confirmedsystems>1122</confirmedsystems>
-	<lastupdate>2014-12-26</lastupdate>
+	<lastupdate>2014-12-27</lastupdate>
 </statistiscs>
