@@ -2176,6 +2176,10 @@ KIC 5531576.02,Kepler-240,planet,Kepler-240 b
 HD 204941,HD 204941,system,HD 204941
 HD 204941,HD 204941,star,HD 204941
 HD 204941 b,HD 204941,planet,HD 204941 b
+Kepler-440,Kepler-440,system,Kepler-440
+Kepler-440,Kepler-440,star,Kepler-440
+Kepler-440 b,Kepler-440,planet,Kepler-440 b
+KOI-4087 b,Kepler-440,planet,Kepler-440 b
 11 Com,11 Com,system,11 Com
 11 Com,11 Com,star,11 Com
 11 Com b,11 Com,planet,11 Com b
@@ -2223,6 +2227,10 @@ KOI-718 d,Kepler-219,planet,Kepler-219 d
 KOI-718.03,Kepler-219,planet,Kepler-219 d
 KIC 9884104 d,Kepler-219,planet,Kepler-219 d
 KIC 9884104.03,Kepler-219,planet,Kepler-219 d
+Kepler-439,Kepler-439,system,Kepler-439
+Kepler-439,Kepler-439,star,Kepler-439
+Kepler-439 b,Kepler-439,planet,Kepler-439 b
+KOI-4005 b,Kepler-439,planet,Kepler-439 b
 LkCa 15,LkCa 15,system,LkCa 15
 LkCa 15,LkCa 15,star,LkCa 15
 LkCa 15 b,LkCa 15,planet,LkCa 15 b
@@ -6085,6 +6093,10 @@ KIC 11904151 b,Kepler-10,planet,Kepler-10 b
 Kepler-10 c,Kepler-10,planet,Kepler-10 c
 KIC 11904151 c,Kepler-10,planet,Kepler-10 c
 2MASS J19024305+5014286 c,Kepler-10,planet,Kepler-10 c
+Kepler-442,Kepler-442,system,Kepler-442
+Kepler-442,Kepler-442,star,Kepler-442
+Kepler-442 b,Kepler-442,planet,Kepler-442 b
+KOI-4742 b,Kepler-442,planet,Kepler-442 b
 HD 45350,HD 45350,system,HD 45350
 HD 45350,HD 45350,star,HD 45350
 HD 45350 b,HD 45350,planet,HD 45350 b
@@ -6335,6 +6347,10 @@ GSC 6214-210 b,GSC 06214-00210,planet,GSC 06214-00210 b
 47 Uma b,47 Uma,planet,47 Uma b
 47 Uma c,47 Uma,planet,47 Uma c
 47 Uma d,47 Uma,planet,47 Uma d
+Kepler-443,Kepler-443,system,Kepler-443
+Kepler-443,Kepler-443,star,Kepler-443
+Kepler-443 b,Kepler-443,planet,Kepler-443 b
+KOI-4745 b,Kepler-443,planet,Kepler-443 b
 WASP-63,WASP-63,system,WASP-63
 WASP-63,WASP-63,star,WASP-63
 TYC 7612-556-1,WASP-63,star,WASP-63
@@ -6459,6 +6475,10 @@ KIC 7870390.03,Kepler-83,planet,Kepler-83 c
 HD 48265,HD 48265,system,HD 48265
 HD 48265,HD 48265,star,HD 48265
 HD 48265 b,HD 48265,planet,HD 48265 b
+Kepler-441,Kepler-441,system,Kepler-441
+Kepler-441,Kepler-441,star,Kepler-441
+Kepler-441 b,Kepler-441,planet,Kepler-441 b
+KOI-4622 b,Kepler-441,planet,Kepler-441 b
 Kepler-97,Kepler-97,system,Kepler-97
 KOI-292,Kepler-97,system,Kepler-97
 KIC 11075737,Kepler-97,system,Kepler-97
@@ -7218,6 +7238,10 @@ HD 126614 C,HD 126614,star,HD 126614 C
 NLTT 37349,HD 126614,star,HD 126614 C
 WDS J14268-0511 B,HD 126614,star,HD 126614 C
 HD 126614 A b,HD 126614,planet,HD 126614 A b
+Kepler-437,Kepler-437,system,Kepler-437
+Kepler-437,Kepler-437,star,Kepler-437
+Kepler-437 b,Kepler-437,planet,Kepler-437 b
+KOI-3255 b,Kepler-437,planet,Kepler-437 b
 Kepler-287,Kepler-287,system,Kepler-287
 KOI-1307,Kepler-287,system,Kepler-287
 KIC 10973814,Kepler-287,system,Kepler-287
@@ -8953,6 +8977,10 @@ KOI-2153 b,Kepler-364,planet,Kepler-364 b
 KOI-2153.02,Kepler-364,planet,Kepler-364 b
 KIC 10253547 b,Kepler-364,planet,Kepler-364 b
 KIC 10253547.02,Kepler-364,planet,Kepler-364 b
+Kepler-438,Kepler-438,system,Kepler-438
+Kepler-438,Kepler-438,star,Kepler-438
+Kepler-438 b,Kepler-438,planet,Kepler-438 b
+KOI-3284 b,Kepler-438,planet,Kepler-438 b
 Gliese 3021,Gliese 3021,system,Gliese 3021
 Gliese 3021 A,Gliese 3021,star,Gliese 3021 A
 HD 1237 A,Gliese 3021,star,Gliese 3021 A
@@ -9723,6 +9751,10 @@ RAVE J051546.7-311746 b,Gliese 3341,planet,Gliese 3341 b
 CoRoT-12,CoRoT-12,system,CoRoT-12
 CoRoT-12,CoRoT-12,star,CoRoT-12
 CoRoT-12 b,CoRoT-12,planet,CoRoT-12 b
+Kepler-436,Kepler-436,system,Kepler-436
+Kepler-436,Kepler-436,star,Kepler-436
+Kepler-436 b,Kepler-436,planet,Kepler-436 b
+KOI-2529 b,Kepler-436,planet,Kepler-436 b
 HD 10697,HD 10697,system,HD 10697
 HD 10697,HD 10697,star,HD 10697
 HD 10697 b,HD 10697,planet,HD 10697 b
