@@ -1,8 +1,8 @@
 <statistiscs>
 	<commits>0</commits>
 	<contributors num="0" />
-	<planets>1897</planets>
-	<systems>1154</systems>
+	<planets>1900</planets>
+	<systems>1156</systems>
 	<binaries>80</binaries>
 	<discoveryyear>
 		<y1992>3</y1992>
@@ -27,10 +27,10 @@
 		<y2011>183</y2011>
 		<y2012>109</y2012>
 		<y2013>122</y2013>
-		<y2014>888</y2014>
+		<y2014>890</y2014>
 		<y2015>9</y2015>
 	</discoveryyear>
-	<confirmedplanets>1838</confirmedplanets>
-	<confirmedsystems>1138</confirmedsystems>
+	<confirmedplanets>1840</confirmedplanets>
+	<confirmedsystems>1140</confirmedsystems>
 	<lastupdate>2015-01-06</lastupdate>
 </statistiscs>
