@@ -691,6 +691,13 @@ HD 202206,HD 202206,system,HD 202206
 HD 202206,HD 202206,star,HD 202206
 HD 202206 b,HD 202206,planet,HD 202206 b
 HD 202206 c,HD 202206,planet,HD 202206 c
+HD 131664,HD 131664,system,HD 131664
+HD 131664,HD 131664,star,HD 131664
+HIP 73408,HD 131664,star,HD 131664
+TYC 9270-1491-1,HD 131664,star,HD 131664
+CD-73 1031,HD 131664,star,HD 131664
+CPD-73 1409,HD 131664,star,HD 131664
+HD 131664 b,HD 131664,planet,HD 131664 b
 CoRoT-21,CoRoT-21,system,CoRoT-21
 CoRoT-21,CoRoT-21,star,CoRoT-21
 CoRoT-21 b,CoRoT-21,planet,CoRoT-21 b
@@ -2810,6 +2817,11 @@ KOI-1955 c,Kepler-342,planet,Kepler-342 c
 KOI-1955.04,Kepler-342,planet,Kepler-342 c
 KIC 9892816 c,Kepler-342,planet,Kepler-342 c
 KIC 9892816.04,Kepler-342,planet,Kepler-342 c
+Kepler-78,Kepler-78,system,Kepler-78
+Kepler-78,Kepler-78,star,Kepler-78
+Kepler-78 b,Kepler-78,planet,Kepler-78 b
+KIC 8435766 b,Kepler-78,planet,Kepler-78 b
+Tycho 3147-188-1 b,Kepler-78,planet,Kepler-78 b
 HD 171028,HD 171028,system,HD 171028
 HD 171028,HD 171028,star,HD 171028
 HD 171028 b,HD 171028,planet,HD 171028 b
