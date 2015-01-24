@@ -50,7 +50,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	sys.stdout.write('.')
 	sys.stdout.flush()
 	#print "Working on "+metafilename+". ",
-	#print "Contributors: %d " % len(contributors),
+	print "Contributors: %d " % len(contributors),
 
 	cstag = ET.SubElement(metaroot,"contributors")
 	for contributor in contributors:
