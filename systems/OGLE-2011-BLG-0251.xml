@@ -1,6 +1,8 @@
 <system>
 	<name>OGLE-2011-BLG-0251</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1303.1184</link>
 		<link>http://arxiv.org/abs/1304.2140</link>

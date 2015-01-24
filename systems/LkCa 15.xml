@@ -1,4 +1,6 @@
 <system>
 	<name>LkCa 15</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
 </system>

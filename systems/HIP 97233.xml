@@ -1,6 +1,8 @@
 <system>
 	<name>HIP 97233</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2015A%26A...573A...3J</link>
 	</links>

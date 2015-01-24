@@ -1,6 +1,8 @@
 <system>
 	<name>KOI-1299</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1411.4666</link>
 	</links>

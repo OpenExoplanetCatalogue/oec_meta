@@ -1,6 +1,9 @@
 <system>
 	<name>Kepler-78</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="kevin.knittel@mail.utoronto.ca">Kevin Knittel</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1501.00369</link>
 	</links>

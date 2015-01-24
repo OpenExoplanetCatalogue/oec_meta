@@ -1,6 +1,10 @@
 <system>
 	<name>Kepler-93</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1401.4195</link>
 		<link>http://arxiv.org/abs/1412.8687</link>

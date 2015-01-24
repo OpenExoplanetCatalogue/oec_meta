@@ -1,6 +1,9 @@
 <system>
 	<name>HD 564</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="kevin.knittel@mail.utoronto.ca">Kevin Knittel</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1412.6591</link>
 	</links>

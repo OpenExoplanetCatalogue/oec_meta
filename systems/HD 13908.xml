@@ -1,6 +1,8 @@
 <system>
 	<name>HD 13908</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1311.5271</link>
 	</links>

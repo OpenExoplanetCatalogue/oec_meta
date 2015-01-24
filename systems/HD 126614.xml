@@ -1,6 +1,10 @@
 <system>
 	<name>HD 126614</name>
-	<contributors />
+	<contributors>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2012MNRAS.421.2498G</link>
 		<link>http://adsabs.harvard.edu/abs/2010ApJ...721.1467H</link>

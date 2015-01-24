@@ -1,6 +1,9 @@
 <system>
 	<name>1RXS1609</name>
-	<contributors />
+	<contributors>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2008ApJ...689L.153L</link>

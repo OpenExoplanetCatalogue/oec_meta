@@ -1,6 +1,9 @@
 <system>
 	<name>KOI-192</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1409.8554</link>
 	</links>

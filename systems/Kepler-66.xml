@@ -1,6 +1,10 @@
 <system>
 	<name>Kepler-66</name>
-	<contributors />
+	<contributors>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="christian.sturm@csturm.de">Sol-D</contributor>
+	</contributors>
 	<links>
 		<link>http://www.nature.com/nature/journal/vaop/ncurrent/full/nature12279.html</link>
 	</links>

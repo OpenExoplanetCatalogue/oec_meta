@@ -1,6 +1,8 @@
 <system>
 	<name>Kepler-437</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>https://www.cfa.harvard.edu/~torres/smallHZ/smallHZplanets.pdf</link>
 	</links>

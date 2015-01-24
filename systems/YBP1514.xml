@@ -1,6 +1,9 @@
 <system>
 	<name>YBP1514</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://www.eso.org/public/archives/releases/sciencepapers/eso1402/eso1402a.pdf</link>
 	</links>
