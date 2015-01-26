@@ -1,9 +1,6 @@
 <system>
 	<name>Kepler-307</name>
-	<contributors>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
 	</links>

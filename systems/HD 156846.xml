@@ -1,8 +1,6 @@
 <system>
 	<name>HD 156846</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J17206-1920B</link>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=CCDM%20J17206-1920%20A</link>

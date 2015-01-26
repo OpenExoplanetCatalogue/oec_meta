@@ -1,8 +1,4 @@
 <system>
 	<name>Kepler-117</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="kevin.knittel@mail.utoronto.ca">Kevin Knittel</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 </system>

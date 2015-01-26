@@ -1,9 +1,6 @@
 <system>
 	<name>WASP-73</name>
-	<contributors>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1312.1827</link>
 	</links>

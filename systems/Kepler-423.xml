@@ -1,8 +1,6 @@
 <system>
 	<name>Kepler-423</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1409.8156</link>
 	</links>

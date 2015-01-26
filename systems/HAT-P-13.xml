@@ -1,12 +1,6 @@
 <system>
 	<name>HAT-P-13</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://dx.doi.org/10.1088/0004-637X/707/1/446</link>

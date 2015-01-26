@@ -1,33 +1,6 @@
 <statistiscs>
-	<commits>6922</commits>
-	<contributors num="26">
-		<contributor>Andrew Tribick</contributor>
-		<contributor>Christian Sturm</contributor>
-		<contributor>Hanno Rein</contributor>
-		<contributor>Marc-Antoine Martinod</contributor>
-		<contributor>Jaroslav Merc</contributor>
-		<contributor>Ryan Varley</contributor>
-		<contributor>Knutover</contributor>
-		<contributor>Tobias Mueller</contributor>
-		<contributor>Allen B. Davis</contributor>
-		<contributor>Sol-D</contributor>
-		<contributor>Daveshoszowski</contributor>
-		<contributor>Marc-Antoine</contributor>
-		<contributor>Kenneth J Cott</contributor>
-		<contributor>Christian Sturm</contributor>
-		<contributor>Cadenarmstrong</contributor>
-		<contributor>Kevin Knittel</contributor>
-		<contributor>James Gregory</contributor>
-		<contributor>Miguel De Val-Borro</contributor>
-		<contributor>Darryl Hemsley</contributor>
-		<contributor>Allen Davis</contributor>
-		<contributor>Rajeev-Jeyaraj</contributor>
-		<contributor>Callum Rodwell</contributor>
-		<contributor>Planetaryscience</contributor>
-		<contributor>Dave</contributor>
-		<contributor>Orome</contributor>
-		<contributor>Allen Davis</contributor>
-	</contributors>
+	<commits>0</commits>
+	<contributors num="0" />
 	<planets>1905</planets>
 	<systems>1159</systems>
 	<binaries>80</binaries>
@@ -59,5 +32,5 @@
 	</discoveryyear>
 	<confirmedplanets>1843</confirmedplanets>
 	<confirmedsystems>1141</confirmedsystems>
-	<lastupdate>2015-01-17</lastupdate>
+	<lastupdate>2015-01-26</lastupdate>
 </statistiscs>

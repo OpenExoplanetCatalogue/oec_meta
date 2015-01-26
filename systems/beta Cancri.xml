@@ -1,9 +1,6 @@
 <system>
 	<name>beta Cancri</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="abd1@williams.edu">Allen B. Davis</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1405.2127</link>
 	</links>

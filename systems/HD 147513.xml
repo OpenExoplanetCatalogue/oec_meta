@@ -1,11 +1,6 @@
 <system>
 	<name>HD 147513</name>
-	<contributors>
-		<contributor commits="10" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://iopscience.iop.org/1538-4357/476/2/L89/pdf/5638.pdf</link>
 		<link>http://www.int.washington.edu/talks/WorkShops/Stellar/People/deMello_G/ht/02.html</link>

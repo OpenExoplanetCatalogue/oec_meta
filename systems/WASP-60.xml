@@ -1,11 +1,6 @@
 <system>
 	<name>WASP-60</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="3" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A.134H</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>

@@ -1,11 +1,6 @@
 <system>
 	<name>WASP-58</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="3" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=wasp-58&amp;submit=SIMBAD+search</link>
 		<link>http://dx.doi.org/10.1051/0004-6361/201220363</link>

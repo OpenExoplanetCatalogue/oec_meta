@@ -1,13 +1,6 @@
 <system>
 	<name>HD 80606</name>
-	<contributors>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="Tobias_Mueller@twam.info">Tobias Mueller</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/pdf/0902.4616v2.pdf</link>
 		<link>http://en.wikipedia.org/wiki/HD_80606_b</link>

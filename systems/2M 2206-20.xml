@@ -1,10 +1,6 @@
 <system>
 	<name>2M 2206-20</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://iopscience.iop.org/0004-637X/711/2/1087/pdf/0004-637X_711_2_1087.pdf</link>

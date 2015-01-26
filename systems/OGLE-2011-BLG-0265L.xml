@@ -1,9 +1,6 @@
 <system>
 	<name>OGLE-2011-BLG-0265L</name>
-	<contributors>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://arxiv.org/abs/1410.8252</link>
 	</links>

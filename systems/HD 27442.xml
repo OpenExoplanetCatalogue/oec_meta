@@ -1,10 +1,6 @@
 <system>
 	<name>HD 27442</name>
-	<contributors>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://en.wikipedia.org/wiki/HD_27442</link>
 		<link>http://arxiv.org/pdf/0710.5918v1.pdf</link>
