@@ -1,0 +1,6 @@
+[master 6a42a2b] before automatic update
+ 1 file changed, 1061 deletions(-)
+ rewrite log.txt (100%)
+~/public_html/exoplanet.hanno-rein.de/oec_meta/open_exoplanet_catalogue ~/public_html/exoplanet.hanno-rein.de/oec_meta
+Already up-to-date.
+~/public_html/exoplanet.hanno-rein.de/oec_meta
