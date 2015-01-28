@@ -46,7 +46,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	systemname = root.findtext("./name").encode('utf-8')
 	ET.SubElement(metaroot,"name").text = systemname 
 
-	contributors = os.popen("cd open_exoplanet_catalogue && git --no-pager shortlog '"+metafilename+"' -n -s -e ").readlines()
+	contributors = os.popen("cd ../open_exoplanet_catalogue && git --no-pager shortlog '"+metafilename+"' -n -s -e ").readlines()
 	print contributors
 	sys.stdout.write('.')
 	sys.stdout.flush()
