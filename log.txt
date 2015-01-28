@@ -4,3 +4,7 @@
 ~/public_html/exoplanet.hanno-rein.de/oec_meta/open_exoplanet_catalogue ~/public_html/exoplanet.hanno-rein.de/oec_meta
 Already up-to-date.
 ~/public_html/exoplanet.hanno-rein.de/oec_meta
+[master c4422ff] automatic update: pulling new open_exoplanet_catalogue
+ 1 file changed, 6 insertions(+)
+['http://arxiv.org/abs/1307.4080\n', 'http://adsabs.harvard.edu/abs/2013ApJ...773L..15R\n', 'http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=cumulative_only\n']
+.
