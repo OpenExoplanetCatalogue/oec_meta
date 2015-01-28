@@ -4,3 +4,29 @@
 ~/public_html/exoplanet.hanno-rein.de/oec_meta/open_exoplanet_catalogue ~/public_html/exoplanet.hanno-rein.de/oec_meta
 Already up-to-date.
 ~/public_html/exoplanet.hanno-rein.de/oec_meta
+[master b0b8c62] automatic update: pulling new open_exoplanet_catalogue
+ 1 file changed, 6 insertions(+)
+.[2, 'ajtribick@googlemail.com', 'Andrew Tribick']
+[1, 'Sol-d@users.noreply.github.com', 'Christian Sturm']
+.[7, 'hanno@hanno-rein.de', 'Hanno Rein']
+[1, 'jaroslav.merc@gmail.com', 'Jaroslav Merc']
+[6, 'marc-antoine.martinod@ens-cachan.fr', 'Marc-Antoine Martinod']
+[1, 'ryanjvarley@gmail.com', 'Ryan Varley']
+.[4, 'hanno@hanno-rein.de', 'Hanno Rein']
+[1, 'marc-antoine.martinod@ens-cachan.fr', 'Marc-Antoine Martinod']
+.[5, 'hanno@hanno-rein.de', 'Hanno Rein']
+.[2, 'hanno@hanno-rein.de', 'Hanno Rein']
+[1, 'knutover@gmail.com', 'Knutover']
+[2, 'ryanjvarley@gmail.com', 'Ryan Varley']
+.[1, 'ajtribick@googlemail.com', 'Andrew Tribick']
+[4, 'hanno@hanno-rein.de', 'Hanno Rein']
+[3, 'marc-antoine.martinod@ens-cachan.fr', 'Marc-Antoine Martinod']
+[3, 'ryanjvarley@gmail.com', 'Ryan Varley']
+.[4, 'hanno@hanno-rein.de', 'Hanno Rein']
+[1, 'ryanjvarley@gmail.com', 'Ryan Varley']
+.[4, 'hanno@hanno-rein.de', 'Hanno Rein']
+[1, 'jaroslav.merc@gmail.com', 'Jaroslav Merc']
+[1, 'marc-antoine.martinod@ens-cachan.fr', 'Marc-Antoine Martinod']
+.[4, 'hanno@hanno-rein.de', 'Hanno Rein']
+[1, 'marc-antoine.martinod@ens-cachan.fr', 'Marc-Antoine Martinod']
+.

@@ -1,6 +1,11 @@
 <system>
 	<name>Gliese 1214</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="3" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://adsabs.harvard.edu/abs/2013A%26A...551A..48A</link>
