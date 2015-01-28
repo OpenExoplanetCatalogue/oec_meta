@@ -50,7 +50,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	repo = "../open_exoplanet_catalogue/.git/"
 	env = os.environ.copy()
 	env['GIT_DIR'] = repo
-	c = subprocess.Popen(["git shortlog '"+metafilename+"' -n -s -e", "log"],cwd="../open_exoplanet_catalogue/",env=env, stdout=subprocess.PIPE, shell=True)
+	c = subprocess.Popen(["git shortlog '"+metafilename+"' -n -s -e", "log"],cwd="../open_exoplanet_catalogue/",env=env, stdin=subprocess.PIPE, stdout=subprocess.PIPE, shell=True)
 	contributors = c.communicate()[0].split("\n")
 	print contributors
 	sys.stdout.write('.')
