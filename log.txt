@@ -1,0 +1,7 @@
+[master 01ba141] before automatic update
+ 3 files changed, 6 insertions(+), 119 deletions(-)
+ rewrite log.txt (100%)
+ rewrite typescript (100%)
+~/public_html/exoplanet.hanno-rein.de/oec_meta/open_exoplanet_catalogue ~/public_html/exoplanet.hanno-rein.de/oec_meta
+Already up-to-date.
+~/public_html/exoplanet.hanno-rein.de/oec_meta
