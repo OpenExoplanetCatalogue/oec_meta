@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import xml.etree.ElementTree as ET, glob, os, sys, re, csv 
 import subprocess
+
+ansi_escape = re.compile(r'\\x1b[^\\r]*')
 from datetime import date
 
 # Nicely indents the XML output 
@@ -50,19 +52,25 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	repo = "../open_exoplanet_catalogue/.git/"
 	env = os.environ.copy()
 	env['GIT_DIR'] = repo
-	c = subprocess.Popen(["git shortlog '"+metafilename+"' -n -s -e", "log"],cwd="../open_exoplanet_catalogue/",env=env, stdin=subprocess.PIPE, stdout=subprocess.PIPE, shell=True)
+	inp = open("test.txt","r")
+	c = subprocess.Popen(["script", "-q", "-c", "git shortlog '"+metafilename+"' -n -s -e", "/dev/null"],cwd="../open_exoplanet_catalogue/",env=env, stdin=inp, stdout=subprocess.PIPE)
 	contributors = c.communicate()[0].split("\n")
-	print contributors
+	print repr(contributors)
 	sys.stdout.write('.')
 	sys.stdout.flush()
 	#print "Working on "+metafilename+". ",
 	#print "Contributors: %d " % len(contributors),
 
 	cstag = ET.SubElement(metaroot,"contributors")
-	for contributor in contributors:
+	for contributor1 in contributors:
+		contributor = ansi_escape.sub("",repr(contributor1))
+		contributor = contributor.replace("\\r","")
+		contributor = contributor.replace("'","")
+		contributor = contributor.strip()
+		print contributor
 		if len(contributor.strip())<1:
 			continue
-		rows = contributor.split("\t")
+		rows= [contributor.split()[0], " ".join(contributor.split()[1:])]
 		commits = int(rows[0])
 		email = re.search('<(.*)>', rows[1]).group(1)
 		name = re.search('(.*) <', rows[1]).group(1).title()
