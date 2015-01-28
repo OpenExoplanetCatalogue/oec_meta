@@ -1,0 +1,20 @@
+[master da4f6ea] before automatic update
+ 0 files changed
+ create mode 100644 log.txt
+~/public_html/exoplanet.hanno-rein.de/oec_meta/open_exoplanet_catalogue ~/public_html/exoplanet.hanno-rein.de/oec_meta
+Updating ef464d0..36c700f
+Fast-forward
+ README.md              |    1 +
+ systems/KOI-135.xml    |   35 ++++++++++++++++++++---------------
+ systems/KOI-1894.xml   |   32 ++++++++++++++++++++++++++++++++
+ systems/KOI-423.xml    |   34 ++++++++++++++++++++--------------
+ systems/Kepler-101.xml |   47 ++++++++++++++++++++++++++++++-----------------
+ systems/Kepler-41.xml  |   27 +++++++++++++++------------
+ systems/Kepler-44.xml  |   28 +++++++++++++++-------------
+ systems/Kepler-74.xml  |   40 ++++++++++++++++++++--------------------
+ systems/Kepler-75.xml  |   38 +++++++++++++++++++-------------------
+ systems/Kepler-78.xml  |    8 ++++++--
+ systems/Kepler-91.xml  |   26 ++++++++++++++------------
+ 11 files changed, 192 insertions(+), 124 deletions(-)
+ create mode 100644 systems/KOI-1894.xml
+~/public_html/exoplanet.hanno-rein.de/oec_meta
