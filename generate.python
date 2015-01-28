@@ -49,28 +49,26 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	systemname = root.findtext("./name").encode('utf-8')
 	ET.SubElement(metaroot,"name").text = systemname 
 	
-	repo = "../open_exoplanet_catalogue/.git/"
-	env = os.environ.copy()
-	env['GIT_DIR'] = repo
-	inp = open("test.txt","r")
-	c = subprocess.Popen(["script", "-q", "-c", "git shortlog '"+metafilename+"' -n -s -e", "/dev/null"],cwd="../open_exoplanet_catalogue/",env=env, stdin=inp, stdout=subprocess.PIPE)
-	contributors = c.communicate()[0].split("\n")
-	print repr(contributors)
+	#repo = "../open_exoplanet_catalogue/.git/"
+	#env = os.environ.copy()
+	#env['GIT_DIR'] = repo
+	#inp = open("test.txt","r")
+	#c = subprocess.Popen(["script", "-q", "-c", "git shortlog '"+metafilename+"' -n -s -e", "/dev/null"],cwd="../open_exoplanet_catalogue/",env=env, stdin=inp, stdout=subprocess.PIPE)
+	contributors = os.popen("cd open_exoplanet_catalogue && git shortlog '"+metafilename+"' -n -s -e < /dev/tty").readlines()
+	print contributors
+
+
 	sys.stdout.write('.')
 	sys.stdout.flush()
 	#print "Working on "+metafilename+". ",
 	#print "Contributors: %d " % len(contributors),
 
 	cstag = ET.SubElement(metaroot,"contributors")
-	for contributor1 in contributors:
-		contributor = ansi_escape.sub("",repr(contributor1))
-		contributor = contributor.replace("\\r","")
-		contributor = contributor.replace("'","")
-		contributor = contributor.strip()
+	for contributor in contributors:
 		print contributor
 		if len(contributor.strip())<1:
 			continue
-		rows= [contributor.split()[0], " ".join(contributor.split()[1:])]
+		rows= contributor.split("\t")
 		commits = int(rows[0])
 		email = re.search('<(.*)>', rows[1]).group(1)
 		name = re.search('(.*) <', rows[1]).group(1).title()
