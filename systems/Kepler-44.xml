@@ -1,6 +1,9 @@
 <system>
 	<name>Kepler-44</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1206.0601</link>
 		<link>http://arxiv.org/abs/1501.02653</link>

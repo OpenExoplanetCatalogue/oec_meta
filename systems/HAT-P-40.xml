@@ -1,6 +1,12 @@
 <system>
 	<name>HAT-P-40</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="Davestom@nbi.dk">Daveshoszowski</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2012AJ....144..139H</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>

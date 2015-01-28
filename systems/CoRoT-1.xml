@@ -1,6 +1,11 @@
 <system>
 	<name>CoRoT-1</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="4" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://dx.doi.org/10.1051/0004-6361/201220081</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>

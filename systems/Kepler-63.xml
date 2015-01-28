@@ -1,6 +1,11 @@
 <system>
 	<name>Kepler-63</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
+		<contributor commits="1" email="callum9yo@hotmail.co.uk">Callum Rodwell</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1308.0996</link>
 		<link>http://arxiv.org/abs/1307.8128</link>

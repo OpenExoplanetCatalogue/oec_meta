@@ -1,6 +1,11 @@
 <system>
 	<name>tau Boo</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1402.0846.pdf</link>
 		<link>http://arxiv.org/abs/astro-ph/0610623</link>

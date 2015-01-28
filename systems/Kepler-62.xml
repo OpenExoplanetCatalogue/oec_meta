@@ -1,6 +1,10 @@
 <system>
 	<name>Kepler-62</name>
-	<contributors />
+	<contributors>
+		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="5" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://www.sciencemag.org/content/340/6130/262.full</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>

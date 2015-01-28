@@ -1,6 +1,9 @@
 <system>
 	<name>Lupus-TR 3</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="rajeewgandhi.jeyaraj@gmail.com">Rajeev-Jeyaraj</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/0903.5121</link>
 		<link>http://arxiv.org/abs/0711.1746</link>

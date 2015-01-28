@@ -1,6 +1,8 @@
 <system>
 	<name>OGLE-2013-BLG-0341</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://www.sciencemag.org/content/345/6192/46.abstract</link>
 	</links>

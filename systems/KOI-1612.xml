@@ -1,6 +1,9 @@
 <system>
 	<name>KOI-1612</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJS..210...20M</link>
 	</links>

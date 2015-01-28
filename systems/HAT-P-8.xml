@@ -1,6 +1,12 @@
 <system>
 	<name>HAT-P-8</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="6" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...788....2B</link>
 		<link>http://arxiv.org/abs/1307.6857</link>

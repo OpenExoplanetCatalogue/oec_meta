@@ -1,6 +1,8 @@
 <system>
 	<name>HD 10442</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1411.5374</link>
 	</links>

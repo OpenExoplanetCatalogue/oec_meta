@@ -1,6 +1,9 @@
 <system>
 	<name>Gliese 676</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1206.7118v2.pdf</link>
 		<link>http://adsabs.harvard.edu/abs/2012A%26A...548A..58A</link>

@@ -1,6 +1,8 @@
 <system>
 	<name>eta Cet</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1407.0712</link>
 	</links>

@@ -1,4 +1,6 @@
 <system>
 	<name>HATS-6</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
+	</contributors>
 </system>

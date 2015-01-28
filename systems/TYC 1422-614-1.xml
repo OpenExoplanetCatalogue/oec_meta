@@ -1,6 +1,8 @@
 <system>
 	<name>TYC 1422-614-1</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1410.5971</link>
 	</links>

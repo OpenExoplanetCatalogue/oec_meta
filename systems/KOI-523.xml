@@ -1,6 +1,9 @@
 <system>
 	<name>KOI-523</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1309.2329</link>
 	</links>

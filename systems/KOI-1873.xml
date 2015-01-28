@@ -1,6 +1,10 @@
 <system>
 	<name>KOI-1873</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
+		<contributor commits="1" email="d.hemsley79@gmail.com">Darryl Hemsley</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1111.5107</link>
 		<link>http://arxiv.org/abs/1309.2329</link>

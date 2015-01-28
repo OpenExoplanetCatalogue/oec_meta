@@ -1,6 +1,8 @@
 <system>
 	<name>OGLE-2008-BLG-092L</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1408.6223</link>
 	</links>

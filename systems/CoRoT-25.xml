@@ -1,6 +1,9 @@
 <system>
 	<name>CoRoT-25</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2013A%26A...555A.118A</link>
 		<link>http://www.aanda.org/articles/aa/pdf/2013/07/aa21462-13.pdf</link>

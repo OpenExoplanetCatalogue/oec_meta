@@ -1,6 +1,8 @@
 <system>
 	<name>WASP-89</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1410.6358</link>
 	</links>
