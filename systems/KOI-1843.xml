@@ -1,9 +1,6 @@
 <system>
 	<name>KOI-1843</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2013ApJ...773L..15R</link>
 		<link>http://arxiv.org/abs/1307.4080</link>
