@@ -4,3 +4,638 @@
 ~/public_html/exoplanet.hanno-rein.de/oec_meta/open_exoplanet_catalogue ~/public_html/exoplanet.hanno-rein.de/oec_meta
 Already up-to-date.
 ~/public_html/exoplanet.hanno-rein.de/oec_meta
+[master 6424af5] automatic update: pulling new open_exoplanet_catalogue
+ 1 file changed, 6 insertions(+)
+cd open_exoplanet_catalogue && git shortlog 'systems/KOI-1843.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-9.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 240210.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/OGLE-05-390L.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-82.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 1214.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-153.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 4203.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 179079.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 187123.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-131.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 114729.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-24.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-211.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-294.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-257.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-214.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-130.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-108.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-189.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-327.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-101.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-156.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HIP 11952.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 122430.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-344.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-227.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-404.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 86.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 145377.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 75289.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 5608.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 68988.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 183263.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 154672.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-196.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/beta Ursae Minoris.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-225.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-409.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/OGLE-TR-10.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-128.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-11.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-62.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-150.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-14.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 2952.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/BD20 2457.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-173.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-1299.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-34.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-260.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 3634.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 156279.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-247.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-166.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-8.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-266.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 12661.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-213.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 128311.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-49.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-44.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-242.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-170.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 175167.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-94.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 202206.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 131664.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-21.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KIC 6185331.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-395.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 66428.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-33.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 3293.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-91.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 27631.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CHXR 73.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-277.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-58.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-245.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/NY Virginis.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 219077.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HW Vir.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-13.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 215152.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/18 Del.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-210.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 210702.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 210277.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 15.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 330075.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-45.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-25.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-70.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 102956.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WTS-1.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 66141.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-2.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 176051.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-295.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/XO-5.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/EPIC 201367065.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-229.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 9446.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 125612.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-362.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-241.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Qatar-2.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-102.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-37.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-8.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HR 810.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-29.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 4732.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-203.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-22.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 10442.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-261.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HATS-5.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-38.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-52.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-206.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-98.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/TrES-4.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HN Peg.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CFBDS 1458.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/MOA-2007-BLG-400-L.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 17156.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 1461.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-31.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-23.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 876.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-26.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-87.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 117618.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 154857.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 6718.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-54.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Sun.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-370.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-35.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HR 8799.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kapteyn.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/MOA-2008-BLG-379L.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-149.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-188.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-36.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-15.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 63454.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 4113.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-216.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/83 Leonis.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/BD +48 738.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HIP 5158.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-154.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-379.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 173416.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-6.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-226.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-400.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-113.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-285.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 13189.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-27.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-405.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-29.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-100.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-21.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/FU Tau.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-403.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-389.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/ROXs 42 B.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 73534.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 178911.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 65216.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-42.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/DP Leo.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 216435.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-16.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-252.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 11964.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-50.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-331.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 209458.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-135.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-72.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gamma Leonis.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 27894.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-381.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 129445.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-208.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 33283.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-114.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-85.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-256.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 30669.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 221.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 181720.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 16417.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-267.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 69830.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-12.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 23596.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/OGLE-TR-132.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Gliese 433.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-380.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-84.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-98.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 43691.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-104.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 46375.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-171.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 147018.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-20.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-346.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-323.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 136418.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-232.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 98219.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/TrES-2.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-398.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 25171.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 109271.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-2.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-109.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/MOA-2010-BLG-477L.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 180314.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 217107.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-349.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/FW Tau.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/beta Pic.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 153950.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-240.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 204941.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-440.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/11 Com.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 149026.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 96167.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/NGC 4349 No 127.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-90.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 101930.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-219.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-439.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/LkCa 15.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/PSO J318.5-22.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 13808.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-1894.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HIP 63242.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 113337.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-188.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-174.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 142245.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-18.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HIP 75458.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 113538.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 102117.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-306.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 166724.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-65.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-7.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 147513.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 89307.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Qatar-1.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-85.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 114762.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-198.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HU Aqr(AB).xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 33142.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 45364.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-120.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/BD-10 3166.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/omi CrB.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-390.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/1RXS1609.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-523.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/61 Vir.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/CoRoT-13.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-352.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 205739.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 137388.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 102195.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-201.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/NN Ser.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-393.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/6 Lyn.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-368.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-238.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 217786.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 23079.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-94.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-366.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-97.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/POTS-1.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-32.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/KOI-1873.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-22.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 41004.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 62509.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-292.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-374.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-41.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 20794.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 162020.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 31253.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 43197.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-59.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-342.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-78.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 171028.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HAT-P-33.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-121.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-258.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-57.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/WASP-52.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/Kepler-343.xml' -n -s -e
+[]
+.cd open_exoplanet_catalogue && git shortlog 'systems/HD 40307.xml' -n -s -e
+[]
+.
