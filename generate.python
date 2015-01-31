@@ -140,6 +140,8 @@ ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
 ET.SubElement(statroot,"confirmedsystems").text = "%d" % totalconfirmedsystems
 lastupdate = os.popen("cd open_exoplanet_catalogue && git log -1 --date=short --format=%ad").readlines()[0].strip()
 ET.SubElement(statroot,"lastupdate").text = lastupdate
+ET.SubElement(statroot,"lastcommittimestamp").text = os.popen("cd open_exoplanet_catalogue &&  git log -1 --pretty=format:%ct").readlines()[0].strip()
+
 indent(statroot)
 ET.ElementTree(statroot).write("statistics.xml") 
 
