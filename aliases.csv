@@ -6156,14 +6156,20 @@ MOA-2008-BLG-310-L b,MOA-2008-BLG-310-L,planet,MOA-2008-BLG-310-L b
 MOA 2008-BLG-310L b,MOA-2008-BLG-310-L,planet,MOA-2008-BLG-310-L b
 Kepler-13,Kepler-13,system,Kepler-13
 Kepler-13 A,Kepler-13,star,Kepler-13 A
-KOI-13A,Kepler-13,star,Kepler-13 A
-BD+46 2629,Kepler-13,star,Kepler-13 A
+KOI-13 A,Kepler-13,star,Kepler-13 A
+BD+46 2629 A,Kepler-13,star,Kepler-13 A
 PPM 57894,Kepler-13,star,Kepler-13 A
+TYC 3542-64-1,Kepler-13,star,Kepler-13 A
+Kepler-13 B,Kepler-13,star,Kepler-13 B
+BD+46 2629 B,Kepler-13,star,Kepler-13 B
+TYC 3542-64-2,Kepler-13,star,Kepler-13 B
+Kepler-13 C,Kepler-13,star,Kepler-13 C
+BD+46 2629 C,Kepler-13,star,Kepler-13 C
 Kepler-13 A b,Kepler-13,planet,Kepler-13 A b
 Kepler-13 b,Kepler-13,planet,Kepler-13 A b
 KOI-13 b,Kepler-13,planet,Kepler-13 A b
 KOI-13.01,Kepler-13,planet,Kepler-13 A b
-BD+46 2629 b,Kepler-13,planet,Kepler-13 A b
+BD+46 2629 A b,Kepler-13,planet,Kepler-13 A b
 PPM 57894 b,Kepler-13,planet,Kepler-13 A b
 HD 103197,HD 103197,system,HD 103197
 HD 103197,HD 103197,star,HD 103197
