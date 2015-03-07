@@ -1,7 +1,7 @@
 <system>
 	<name>HAT-P-8</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="2" email="ma.martinod@free.fr">Marc-Antoine</contributor>
 		<contributor commits="6" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
@@ -13,9 +13,10 @@
 		<link>http://fr.arxiv.org/pdf/0812.1161v1</link>
 		<link>http://arxiv.org/abs/1105.3849</link>
 		<link>http://fr.arxiv.org/abs/1006.3580</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
 		<link>http://arxiv.org/abs/1212.3701</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://adsabs.harvard.edu/abs/2015ApJ...800..138N</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 	</links>
 </system>

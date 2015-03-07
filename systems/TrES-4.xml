@@ -1,13 +1,14 @@
 <system>
 	<name>TrES-4</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://dx.doi.org/10.1088/0004-6256/141/6/179</link>
+		<link>http://adsabs.harvard.edu/abs/2015ApJ...800..138N</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2013MNRAS.428..182B</link>
 		<link>http://arxiv.org/pdf/0902.2179v1.pdf</link>
 	</links>
