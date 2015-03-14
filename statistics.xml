@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>7035</commits>
-	<contributors num="27">
+	<commits>7037</commits>
+	<contributors num="28">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
@@ -21,6 +21,7 @@
 		<contributor>Miguel De Val-Borro</contributor>
 		<contributor>Darryl Hemsley</contributor>
 		<contributor>Allen Davis</contributor>
+		<contributor>Paul Zwerger</contributor>
 		<contributor>Rajeev-Jeyaraj</contributor>
 		<contributor>Senger Hanno</contributor>
 		<contributor>Callum Rodwell</contributor>
@@ -61,5 +62,5 @@
 	<confirmedplanets>1871</confirmedplanets>
 	<confirmedsystems>1156</confirmedsystems>
 	<lastupdate>2015-03-14</lastupdate>
-	<lastcommittimestamp>1426345309</lastcommittimestamp>
+	<lastcommittimestamp>1426355888</lastcommittimestamp>
 </statistiscs>
