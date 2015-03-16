@@ -1650,6 +1650,13 @@ SAO 67891 b,Kepler-21,planet,Kepler-21 b
 2MASS J19092683+3842505 b,Kepler-21,planet,Kepler-21 b
 KIC 3632418 b,Kepler-21,planet,Kepler-21 b
 KOI-975 b,Kepler-21,planet,Kepler-21 b
+HAT-P-52,HAT-P-52,system,HAT-P-52
+HAT-P-52,HAT-P-52,star,HAT-P-52
+GSC 1793-01136,HAT-P-52,star,HAT-P-52
+2MASS J02505320+2901206,HAT-P-52,star,HAT-P-52
+HAT-P-52 b,HAT-P-52,planet,HAT-P-52 b
+GSC 1793-01136 b,HAT-P-52,planet,HAT-P-52 b
+2MASS J02505320+2901206 b,HAT-P-52,planet,HAT-P-52 b
 FU Tau,FU Tau,system,FU Tau
 FU Tau A,FU Tau,star,FU Tau A
 FU Tau,FU Tau,star,FU Tau A
@@ -5014,6 +5021,13 @@ Kappa And,Kappa Andromedae,system,Kappa Andromedae
 Kappa Andromedae,Kappa Andromedae,star,Kappa Andromedae
 Kappa And b,Kappa Andromedae,planet,Kappa And b
 Kappa Andromedae b,Kappa Andromedae,planet,Kappa And b
+HAT-P-53,HAT-P-53,system,HAT-P-53
+HAT-P-53,HAT-P-53,star,HAT-P-53
+GSC 2813-01266,HAT-P-53,star,HAT-P-53
+2MASS J01272906+3858053,HAT-P-53,star,HAT-P-53
+HAT-P-53 b,HAT-P-53,planet,HAT-P-53 b
+GSC 2813-01266 b,HAT-P-53,planet,HAT-P-53 b
+2MASS J01272906+3858053 b,HAT-P-53,planet,HAT-P-53 b
 Kepler-218,Kepler-218,system,Kepler-218
 KOI-711,Kepler-218,system,Kepler-218
 KIC 9597345,Kepler-218,system,Kepler-218
@@ -6154,6 +6168,13 @@ MOA-2008-BLG-310-L,MOA-2008-BLG-310-L,system,MOA-2008-BLG-310-L
 MOA-2008-BLG-310-L,MOA-2008-BLG-310-L,star,MOA-2008-BLG-310-L
 MOA-2008-BLG-310-L b,MOA-2008-BLG-310-L,planet,MOA-2008-BLG-310-L b
 MOA 2008-BLG-310L b,MOA-2008-BLG-310-L,planet,MOA-2008-BLG-310-L b
+HAT-P-50,HAT-P-50,system,HAT-P-50
+HAT-P-50,HAT-P-50,star,HAT-P-50
+GSC 0787-00340,HAT-P-50,star,HAT-P-50
+2MASS J07521521+1208218,HAT-P-50,star,HAT-P-50
+HAT-P-50 b,HAT-P-50,planet,HAT-P-50 b
+GSC 0787-00340 b,HAT-P-50,planet,HAT-P-50 b
+2MASS J07521521+1208218 b,HAT-P-50,planet,HAT-P-50 b
 Kepler-13,Kepler-13,system,Kepler-13
 Kepler-13 A,Kepler-13,star,Kepler-13 A
 KOI-13 A,Kepler-13,star,Kepler-13 A
@@ -6880,6 +6901,13 @@ HD 181433,HD 181433,star,HD 181433
 HD 181433 b,HD 181433,planet,HD 181433 b
 HD 181433 c,HD 181433,planet,HD 181433 c
 HD 181433 d,HD 181433,planet,HD 181433 d
+HAT-P-51,HAT-P-51,system,HAT-P-51
+HAT-P-51,HAT-P-51,star,HAT-P-51
+GSC 2296-00637,HAT-P-51,star,HAT-P-51
+2MASS J01241564+3248387,HAT-P-51,star,HAT-P-51
+HAT-P-51 b,HAT-P-51,planet,HAT-P-51 b
+GSC 2296-00637 b,HAT-P-51,planet,HAT-P-51 b
+2MASS J01241564+3248387 b,HAT-P-51,planet,HAT-P-51 b
 HD 164922,HD 164922,system,HD 164922
 HD 164922,HD 164922,star,HD 164922
 HD 164922 b,HD 164922,planet,HD 164922 b
