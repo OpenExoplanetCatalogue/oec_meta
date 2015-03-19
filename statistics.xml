@@ -1,12 +1,12 @@
 <statistiscs>
-	<commits>7042</commits>
+	<commits>7511</commits>
 	<contributors num="28">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
+		<contributor>Ryan Varley</contributor>
 		<contributor>Hanno Rein</contributor>
 		<contributor>Jaroslav Merc</contributor>
 		<contributor>Marc-Antoine Martinod</contributor>
-		<contributor>Ryan Varley</contributor>
 		<contributor>Knutover</contributor>
 		<contributor>Tobias Mueller</contributor>
 		<contributor>Allen B. Davis</contributor>
@@ -61,6 +61,6 @@
 	</discoveryyear>
 	<confirmedplanets>1874</confirmedplanets>
 	<confirmedsystems>1160</confirmedsystems>
-	<lastupdate>2015-03-16</lastupdate>
-	<lastcommittimestamp>1426545968</lastcommittimestamp>
+	<lastupdate>2015-03-18</lastupdate>
+	<lastcommittimestamp>1426727933</lastcommittimestamp>
 </statistiscs>
