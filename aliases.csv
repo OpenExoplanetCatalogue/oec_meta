@@ -1597,14 +1597,16 @@ KOI-285,KOI-285,system,KOI-285
 Kepler-92,KOI-285,system,KOI-285
 KOI-285,KOI-285,star,KOI-285
 Kepler-92,KOI-285,star,KOI-285
+KIC 6196457,KOI-285,star,KOI-285
 KOI-285 b,KOI-285,planet,KOI-285 b
 KOI-285.01,KOI-285,planet,KOI-285 b
 Kepler-92 b,KOI-285,planet,KOI-285 b
+KIC 6196457 b,KOI-285,planet,KOI-285 b
 KOI-285 c,KOI-285,planet,KOI-285 c
 KOI-285.02,KOI-285,planet,KOI-285 c
 Kepler-92 c,KOI-285,planet,KOI-285 c
-KOI-285 d,KOI-285,planet,KOI-285 d
-KOI-285.03,KOI-285,planet,KOI-285 d
+KIC 6196457 c,KOI-285,planet,KOI-285 c
+KOI-285.03,KOI-285,planet,KOI-285.03
 HD 13189,HD 13189,system,HD 13189
 HD 13189,HD 13189,star,HD 13189
 HD 13189 b,HD 13189,planet,HD 13189 b
@@ -9753,9 +9755,7 @@ KIC 9730163 c,Kepler-445,planet,Kepler-445 c
 KIC 9730163.01,Kepler-445,planet,Kepler-445 c
 Kepler-445 d,Kepler-445,planet,Kepler-445 d
 KOI-2704 d,Kepler-445,planet,Kepler-445 d
-KOI-2704.03,Kepler-445,planet,Kepler-445 d
 KIC 9730163 d,Kepler-445,planet,Kepler-445 d
-KIC 9730163.03,Kepler-445,planet,Kepler-445 d
 Kepler-66,Kepler-66,system,Kepler-66
 Kepler-66,Kepler-66,star,Kepler-66
 Kepler-66 b,Kepler-66,planet,Kepler-66 b
