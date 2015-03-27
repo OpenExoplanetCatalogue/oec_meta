@@ -1,6 +1,7 @@
 <system>
 	<name>Kepler-18</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
 		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
