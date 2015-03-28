@@ -1,6 +1,7 @@
 <system>
 	<name>Kepler-62</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
 		<contributor commits="5" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
