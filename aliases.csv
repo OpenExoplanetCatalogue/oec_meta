@@ -82,6 +82,23 @@ HD 187123,HD 187123,system,HD 187123
 HD 187123,HD 187123,star,HD 187123
 HD 187123 b,HD 187123,planet,HD 187123 b
 HD 187123 c,HD 187123,planet,HD 187123 c
+Kepler-431,Kepler-431,system,Kepler-431
+Kepler-431,Kepler-431,star,Kepler-431
+KOI-3097,Kepler-431,star,Kepler-431
+KIC 7582689,Kepler-431,star,Kepler-431
+2MASS J18442696+4313400,Kepler-431,star,Kepler-431
+Kepler-431 b,Kepler-431,planet,Kepler-431 b
+KOI-3097 b,Kepler-431,planet,Kepler-431 b
+KOI-3097.02,Kepler-431,planet,Kepler-431 b
+KIC 7582689 b,Kepler-431,planet,Kepler-431 b
+Kepler-431 c,Kepler-431,planet,Kepler-431 c
+KOI-3097 c,Kepler-431,planet,Kepler-431 c
+KOI-3097.03,Kepler-431,planet,Kepler-431 c
+KIC 7582689 c,Kepler-431,planet,Kepler-431 c
+Kepler-431 d,Kepler-431,planet,Kepler-431 d
+KOI-3097 d,Kepler-431,planet,Kepler-431 d
+KOI-3097.01,Kepler-431,planet,Kepler-431 d
+KIC 7582689 d,Kepler-431,planet,Kepler-431 d
 Kepler-131,Kepler-131,system,Kepler-131
 KOI-283,Kepler-131,system,Kepler-131
 KIC 5695396,Kepler-131,system,Kepler-131
@@ -549,10 +566,17 @@ KIC 10864656 A c,KOI-1299,planet,KOI-1299 c
 2MASS J19330772+4817092 A c,KOI-1299,planet,KOI-1299 c
 Kepler-34,Kepler-34,system,Kepler-34
 Kepler-34 A,Kepler-34,star,Kepler-34 A
+KIC 8572936 A,Kepler-34,star,Kepler-34 A
+KOI-2459 A,Kepler-34,star,Kepler-34 A
 Kepler-34 B,Kepler-34,star,Kepler-34 B
-Kepler-34(AB) b,Kepler-34,planet,Kepler-34(AB) b
-KIC 8572936 b,Kepler-34,planet,Kepler-34(AB) b
-Kepler-34 b,Kepler-34,planet,Kepler-34(AB) b
+KIC 8572936 B,Kepler-34,star,Kepler-34 B
+KOI-2459 B,Kepler-34,star,Kepler-34 B
+KOI-2459.01,Kepler-34,star,Kepler-34 B
+Kepler-34 (AB) b,Kepler-34,planet,Kepler-34 (AB) b
+KIC 8572936 b,Kepler-34,planet,Kepler-34 (AB) b
+Kepler-34 b,Kepler-34,planet,Kepler-34 (AB) b
+KOI-2459.02,Kepler-34,planet,Kepler-34 (AB) b
+KOI-2459 (AB) b,Kepler-34,planet,Kepler-34 (AB) b
 Kepler-260,Kepler-260,system,Kepler-260
 KOI-986,Kepler-260,system,Kepler-260
 KIC 2854698,Kepler-260,system,Kepler-260
@@ -1271,10 +1295,16 @@ GSC 5897-00933 b,HATS-5,planet,HATS-5 b
 2MASS 04285348-2128548 b,HATS-5,planet,HATS-5 b
 Kepler-38,Kepler-38,system,Kepler-38
 Kepler-38 A,Kepler-38,star,Kepler-38 A
+KOI-1740 A,Kepler-38,star,Kepler-38 A
+KIC 6762829 A,Kepler-38,star,Kepler-38 A
 Kepler-38 B,Kepler-38,star,Kepler-38 B
+KOI-1740 B,Kepler-38,star,Kepler-38 B
+KOI-1740.01,Kepler-38,star,Kepler-38 B
+KIC 6762829 B,Kepler-38,star,Kepler-38 B
 Kepler-38 (AB) b,Kepler-38,planet,Kepler-38 (AB) b
-KIC 6762829,Kepler-38,planet,Kepler-38 (AB) b
-KOI-1740,Kepler-38,planet,Kepler-38 (AB) b
+KIC 6762829 (AB) b,Kepler-38,planet,Kepler-38 (AB) b
+KOI-1740.02,Kepler-38,planet,Kepler-38 (AB) b
+KOI-1740 (AB) b,Kepler-38,planet,Kepler-38 (AB) b
 2MASS J19071928+4216451,Kepler-38,planet,Kepler-38 (AB) b
 Kepler-38 b,Kepler-38,planet,Kepler-38 (AB) b
 Kepler-52,Kepler-52,system,Kepler-52
@@ -2695,13 +2725,14 @@ GSC 6213-1358 b,1RXS1609,planet,1RXS1609 b
 KOI-523,KOI-523,system,KOI-523
 KOI-523,KOI-523,star,KOI-523
 Kepler-177,KOI-523,star,KOI-523
+KIC 8806123,KOI-523,star,KOI-523
 KOI-523.02,KOI-523,planet,KOI-523.02
-KOI-523 c,KOI-523,planet,KOI-523.02
+KOI-523 b,KOI-523,planet,KOI-523.02
 Kepler-177 b,KOI-523,planet,KOI-523.02
 KIC 8806123 b,KOI-523,planet,KOI-523.02
 KIC 8806123.02,KOI-523,planet,KOI-523.02
 KOI-523.01,KOI-523,planet,KOI-523.01
-KOI-523 b,KOI-523,planet,KOI-523.01
+KOI-523 c,KOI-523,planet,KOI-523.01
 Kepler-177 c,KOI-523,planet,KOI-523.01
 KIC 8806123 c,KOI-523,planet,KOI-523.01
 KIC 8806123.01,KOI-523,planet,KOI-523.01
@@ -2909,13 +2940,14 @@ KIC 9787239.05,Kepler-32,planet,Kepler-32 f
 KOI-1873,KOI-1873,system,KOI-1873
 KOI-1873,KOI-1873,star,KOI-1873
 Kepler-328,KOI-1873,star,KOI-1873
+KIC 4939346,KOI-1873,star,KOI-1873
 KOI-1873.02,KOI-1873,planet,KOI-1873.02
-KOI-1873 c,KOI-1873,planet,KOI-1873.02
+KOI-1873 b,KOI-1873,planet,KOI-1873.02
 Kepler-328 b,KOI-1873,planet,KOI-1873.02
 KIC 4939346 b,KOI-1873,planet,KOI-1873.02
 KIC 4939346.02,KOI-1873,planet,KOI-1873.02
 KOI-1873.01,KOI-1873,planet,KOI-1873.01
-KOI-1873 b,KOI-1873,planet,KOI-1873.01
+KOI-1873 c,KOI-1873,planet,KOI-1873.01
 Kepler-328 c,KOI-1873,planet,KOI-1873.01
 KIC 4939346 c,KOI-1873,planet,KOI-1873.01
 KIC 4939346.01,KOI-1873,planet,KOI-1873.01
@@ -2938,6 +2970,19 @@ HD 62509 b,HD 62509,planet,HD 62509 b
 Pollux b,HD 62509,planet,HD 62509 b
 Beta Geminorum b,HD 62509,planet,HD 62509 b
 Beta Gem b,HD 62509,planet,HD 62509 b
+Kepler-430,Kepler-430,system,Kepler-430
+Kepler-430,Kepler-430,star,Kepler-430
+KOI-2365,Kepler-430,star,Kepler-430
+KIC 11560897,Kepler-430,star,Kepler-430
+2MASS J19311407+4934460,Kepler-430,star,Kepler-430
+Kepler-430 b,Kepler-430,planet,Kepler-430 b
+KOI-2365 b,Kepler-430,planet,Kepler-430 b
+KOI-2365.01,Kepler-430,planet,Kepler-430 b
+KIC 11560897 b,Kepler-430,planet,Kepler-430 b
+Kepler-430 c,Kepler-430,planet,Kepler-430 c
+KOI-2365 c,Kepler-430,planet,Kepler-430 c
+KOI-2365.02,Kepler-430,planet,Kepler-430 c
+KIC 11560897 c,Kepler-430,planet,Kepler-430 c
 Kepler-292,Kepler-292,system,Kepler-292
 KOI-1364,Kepler-292,system,Kepler-292
 KIC 6962977,Kepler-292,system,Kepler-292
@@ -4019,9 +4064,13 @@ HD 13908 b,HD 13908,planet,HD 13908 b
 HD 13908 c,HD 13908,planet,HD 13908 c
 KIC 9632895,KIC 9632895,system,KIC 9632895
 KIC 9632895 A,KIC 9632895,star,KIC 9632895 A
-KIC 9632895 A,KIC 9632895,star,KIC 9632895 A
+KOI-1451 A,KIC 9632895,star,KIC 9632895 A
+KIC 9632895 B,KIC 9632895,star,KIC 9632895 B
+KOI-1451.01,KIC 9632895,star,KIC 9632895 B
+KOI-1451 B,KIC 9632895,star,KIC 9632895 B
 KIC 9632895 b,KIC 9632895,planet,KIC 9632895 b
 KIC 9632895 (AB) b,KIC 9632895,planet,KIC 9632895 b
+KOI-1451 (AB) b,KIC 9632895,planet,KIC 9632895 b
 SAND364,SAND364,system,SAND364
 NGC 2682 SAND 364,SAND364,system,SAND364
 SAND364,SAND364,star,SAND364
@@ -4723,6 +4772,18 @@ KOI-119 c,Kepler-108,planet,Kepler-108 c
 KOI-119.02,Kepler-108,planet,Kepler-108 c
 KIC 9471974 c,Kepler-108,planet,Kepler-108 c
 KIC 9471974.02,Kepler-108,planet,Kepler-108 c
+KOI-1474,KOI-1474,system,KOI-1474
+KOI-1474,KOI-1474,star,KOI-1474
+Kepler-419,KOI-1474,star,KOI-1474
+KIC 12365184,KOI-1474,star,KOI-1474
+2MASS J19414029+5111051,KOI-1474,star,KOI-1474
+KOI-1474 b,KOI-1474,planet,KOI-1474 b
+KOI-1474.01,KOI-1474,planet,KOI-1474 b
+Kepler-419 b,KOI-1474,planet,KOI-1474 b
+KIC 12365184 b,KOI-1474,planet,KOI-1474 b
+Kepler-419 c,KOI-1474,planet,Kepler-419 c
+KOI-1474 c,KOI-1474,planet,Kepler-419 c
+KIC 12365184 c,KOI-1474,planet,Kepler-419 c
 HD 142022,HD 142022,system,HD 142022
 HD 142022 A,HD 142022,star,HD 142022 A
 HD 142022 B,HD 142022,star,HD 142022 B
@@ -4947,11 +5008,12 @@ KIC 7134976.02,Kepler-246,planet,Kepler-246 c
 Kepler-413,Kepler-413,system,Kepler-413
 KIC 12351927,Kepler-413,system,Kepler-413
 Kepler-413 A,Kepler-413,star,Kepler-413 A
+KIC 12351927 A,Kepler-413,star,Kepler-413 A
 Kepler-413 B,Kepler-413,star,Kepler-413 B
-Kepler-413 AB b,Kepler-413,planet,Kepler-413 AB b
-Kepler-413 (AB) b,Kepler-413,planet,Kepler-413 AB b
-Kepler-413 b,Kepler-413,planet,Kepler-413 AB b
-KIC 12351927 AB b,Kepler-413,planet,Kepler-413 AB b
+KIC 12351927 B,Kepler-413,star,Kepler-413 B
+Kepler-413 b,Kepler-413,planet,Kepler-413 b
+Kepler-413 (AB) b,Kepler-413,planet,Kepler-413 b
+KIC 12351927 (AB) b,Kepler-413,planet,Kepler-413 b
 BD+20 1790,BD+20 1790,system,BD+20 1790
 BD+20 1790,BD+20 1790,star,BD+20 1790
 V429 Gem,BD+20 1790,star,BD+20 1790
@@ -5880,12 +5942,12 @@ KOI-2672,KOI-2672,star,KOI-2672
 Kepler-396,KOI-2672,star,KOI-2672
 KIC 11253827,KOI-2672,star,KOI-2672
 KOI-2672.01,KOI-2672,planet,KOI-2672.01
-KOI-2672 b,KOI-2672,planet,KOI-2672.01
+KOI-2672 c,KOI-2672,planet,KOI-2672.01
 Kepler-396 c,KOI-2672,planet,KOI-2672.01
 KIC 11253827 c,KOI-2672,planet,KOI-2672.01
 KIC 11253827.01,KOI-2672,planet,KOI-2672.01
 KOI-2672.02,KOI-2672,planet,KOI-2672.02
-KOI-2672 c,KOI-2672,planet,KOI-2672.02
+KOI-2672 b,KOI-2672,planet,KOI-2672.02
 Kepler-396 b,KOI-2672,planet,KOI-2672.02
 KIC 11253827 b,KOI-2672,planet,KOI-2672.02
 KIC 11253827.02,KOI-2672,planet,KOI-2672.02
@@ -6803,10 +6865,19 @@ HD 240237 b,HD 240237,planet,HD 240237 b
 70 Vir b,70 Vir,planet,70 Vir b
 Kepler-35,Kepler-35,system,Kepler-35
 Kepler-35 A,Kepler-35,star,Kepler-35 A
+KIC 9837578 A,Kepler-35,star,Kepler-35 A
+KOI-2937 A,Kepler-35,star,Kepler-35 A
 Kepler-35 B,Kepler-35,star,Kepler-35 B
+KIC 9837578 B,Kepler-35,star,Kepler-35 B
+KOI-2937 B,Kepler-35,star,Kepler-35 B
+KOI-2937.01,Kepler-35,star,Kepler-35 B
 Kepler-35 (AB) b,Kepler-35,planet,Kepler-35 (AB) b
+KIC 9837578 (AB) b,Kepler-35,planet,Kepler-35 (AB) b
 KIC 9837578 b,Kepler-35,planet,Kepler-35 (AB) b
 Kepler-35 b,Kepler-35,planet,Kepler-35 (AB) b
+KOI-2937.02,Kepler-35,planet,Kepler-35 (AB) b
+KOI-2937 (AB) b,Kepler-35,planet,Kepler-35 (AB) b
+KOI-2937 b,Kepler-35,planet,Kepler-35 (AB) b
 Kepler-345,Kepler-345,system,Kepler-345
 KOI-1977,Kepler-345,system,Kepler-345
 KIC 9412760,Kepler-345,system,Kepler-345
@@ -7033,17 +7104,24 @@ KOI-245,Kepler-37,star,Kepler-37
 KIC 8478994,Kepler-37,star,Kepler-37
 UGA-1785,Kepler-37,star,Kepler-37
 Kepler-37 b,Kepler-37,planet,Kepler-37 b
+KOI-245.03,Kepler-37,planet,Kepler-37 b
 KOI-245 b,Kepler-37,planet,Kepler-37 b
 KIC 8478994 b,Kepler-37,planet,Kepler-37 b
 UGA-1785 b,Kepler-37,planet,Kepler-37 b
 Kepler-37 c,Kepler-37,planet,Kepler-37 c
+KOI-245.02,Kepler-37,planet,Kepler-37 c
 KOI-245 c,Kepler-37,planet,Kepler-37 c
 KIC 8478994 c,Kepler-37,planet,Kepler-37 c
 UGA-1785 c,Kepler-37,planet,Kepler-37 c
 Kepler-37 d,Kepler-37,planet,Kepler-37 d
+KOI-245.01,Kepler-37,planet,Kepler-37 d
 KOI-245 d,Kepler-37,planet,Kepler-37 d
 KIC 8478994 d,Kepler-37,planet,Kepler-37 d
 UGA-1785 d,Kepler-37,planet,Kepler-37 d
+Kepler-37 e,Kepler-37,planet,Kepler-37 e
+KOI-245 e,Kepler-37,planet,Kepler-37 e
+KIC 8478994 e,Kepler-37,planet,Kepler-37 e
+UGA-1785 e,Kepler-37,planet,Kepler-37 e
 KOI-195,KOI-195,system,KOI-195
 KOI-195,KOI-195,star,KOI-195
 Kepler-426,KOI-195,star,KOI-195
@@ -7134,15 +7212,19 @@ TrES-3 b,TrES-3,planet,TrES-3 b
 TrES-3,TrES-3,planet,TrES-3 b
 Kepler-56,Kepler-56,system,Kepler-56
 Kepler-56,Kepler-56,star,Kepler-56
+KOI-1241,Kepler-56,star,Kepler-56
+KIC 6448890,Kepler-56,star,Kepler-56
 Kepler-56 b,Kepler-56,planet,Kepler-56 b
 KOI-1241.02,Kepler-56,planet,Kepler-56 b
-KID 8150320 b,Kepler-56,planet,Kepler-56 b
+KOI-1241 b,Kepler-56,planet,Kepler-56 b
+KIC 6448890 b,Kepler-56,planet,Kepler-56 b
 Kepler-56 c,Kepler-56,planet,Kepler-56 c
 KOI-1241.01,Kepler-56,planet,Kepler-56 c
-KID 8150320 c,Kepler-56,planet,Kepler-56 c
+KOI-1241 c,Kepler-56,planet,Kepler-56 c
+KIC 6448890 c,Kepler-56,planet,Kepler-56 c
 Kepler-56 d,Kepler-56,planet,Kepler-56 d
-KOI-1241.01,Kepler-56,planet,Kepler-56 d
-KID 8150320 d,Kepler-56,planet,Kepler-56 d
+KOI-1241 d,Kepler-56,planet,Kepler-56 d
+KIC 6448890 d,Kepler-56,planet,Kepler-56 d
 YBP1514,YBP1514,system,YBP1514
 NGC 2682 YBP 1514,YBP1514,system,YBP1514
 YBP1514,YBP1514,star,YBP1514
@@ -7558,36 +7640,36 @@ Kepler-296 B,Kepler-296,star,Kepler-296 B
 KOI-1422 B,Kepler-296,star,Kepler-296 B
 KIC 11497958 B,Kepler-296,star,Kepler-296 B
 2MASS J19060960+4926143 B,Kepler-296,star,Kepler-296 B
-Kepler-296 Ac,Kepler-296,planet,Kepler-296 Ac
-KOI-1422 Ac,Kepler-296,planet,Kepler-296 Ac
-KOI-1422.01 Ac,Kepler-296,planet,Kepler-296 Ac
-KIC 11497958 Ac,Kepler-296,planet,Kepler-296 Ac
-KIC 11497958.01 Ac,Kepler-296,planet,Kepler-296 Ac
-2MASS J19060960+4926143 Ac,Kepler-296,planet,Kepler-296 Ac
-Kepler-296 Ad,Kepler-296,planet,Kepler-296 Ad
-KOI-1422 Ad,Kepler-296,planet,Kepler-296 Ad
-KOI-1422.02 Ad,Kepler-296,planet,Kepler-296 Ad
-KIC 11497958 Ad,Kepler-296,planet,Kepler-296 Ad
-KIC 11497958.02 Ad,Kepler-296,planet,Kepler-296 Ad
-2MASS J19060960+4926143 Ad,Kepler-296,planet,Kepler-296 Ad
-Kepler-296 Ab,Kepler-296,planet,Kepler-296 Ab
-KOI-1422 Ab,Kepler-296,planet,Kepler-296 Ab
-KOI-1422.03 Ab,Kepler-296,planet,Kepler-296 Ab
-KIC 11497958 Ab,Kepler-296,planet,Kepler-296 Ab
-KIC 11497958.03 Ab,Kepler-296,planet,Kepler-296 Ab
-2MASS J19060960+4926143 Ab,Kepler-296,planet,Kepler-296 Ab
-Kepler-296 Af,Kepler-296,planet,Kepler-296 Af
-KOI-1422 Af,Kepler-296,planet,Kepler-296 Af
-KOI-1422.04 Af,Kepler-296,planet,Kepler-296 Af
-KIC 11497958 Af,Kepler-296,planet,Kepler-296 Af
-KIC 11497958.04 Af,Kepler-296,planet,Kepler-296 Af
-2MASS J19060960+4926143 Af,Kepler-296,planet,Kepler-296 Af
-Kepler-296 Ae,Kepler-296,planet,Kepler-296 Ae
-KOI-1422 Ae,Kepler-296,planet,Kepler-296 Ae
-KOI-1422.05 Ae,Kepler-296,planet,Kepler-296 Ae
-KIC 11497958 Ae,Kepler-296,planet,Kepler-296 Ae
-KIC 11497958.05 Ae,Kepler-296,planet,Kepler-296 Ae
-2MASS J19060960+4926143 Ae,Kepler-296,planet,Kepler-296 Ae
+Kepler-296 c,Kepler-296,planet,Kepler-296 c
+KOI-1422 c,Kepler-296,planet,Kepler-296 c
+KOI-1422.01,Kepler-296,planet,Kepler-296 c
+KIC 11497958 c,Kepler-296,planet,Kepler-296 c
+KIC 11497958.01 c,Kepler-296,planet,Kepler-296 c
+2MASS J19060960+4926143 c,Kepler-296,planet,Kepler-296 c
+Kepler-296 d,Kepler-296,planet,Kepler-296 d
+KOI-1422 d,Kepler-296,planet,Kepler-296 d
+KOI-1422.02,Kepler-296,planet,Kepler-296 d
+KIC 11497958 d,Kepler-296,planet,Kepler-296 d
+KIC 11497958.02 d,Kepler-296,planet,Kepler-296 d
+2MASS J19060960+4926143 d,Kepler-296,planet,Kepler-296 d
+Kepler-296 b,Kepler-296,planet,Kepler-296 b
+KOI-1422 b,Kepler-296,planet,Kepler-296 b
+KOI-1422.03,Kepler-296,planet,Kepler-296 b
+KIC 11497958 b,Kepler-296,planet,Kepler-296 b
+KIC 11497958.03 b,Kepler-296,planet,Kepler-296 b
+2MASS J19060960+4926143 b,Kepler-296,planet,Kepler-296 b
+Kepler-296 f,Kepler-296,planet,Kepler-296 f
+KOI-1422 f,Kepler-296,planet,Kepler-296 f
+KOI-1422.04,Kepler-296,planet,Kepler-296 f
+KIC 11497958 f,Kepler-296,planet,Kepler-296 f
+KIC 11497958.04 f,Kepler-296,planet,Kepler-296 f
+2MASS J19060960+4926143 f,Kepler-296,planet,Kepler-296 f
+Kepler-296 e,Kepler-296,planet,Kepler-296 e
+KOI-1422 e,Kepler-296,planet,Kepler-296 e
+KOI-1422.05,Kepler-296,planet,Kepler-296 e
+KIC 11497958 e,Kepler-296,planet,Kepler-296 e
+KIC 11497958.05 e,Kepler-296,planet,Kepler-296 e
+2MASS J19060960+4926143 e,Kepler-296,planet,Kepler-296 e
 Kepler-20,Kepler-20,system,Kepler-20
 Kepler-20,Kepler-20,star,Kepler-20
 KOI-70,Kepler-20,star,Kepler-20
@@ -7756,13 +7838,14 @@ BD+10 2980 b,WASP-38,planet,WASP-38 b
 KOI-370,KOI-370,system,KOI-370
 KOI-370,KOI-370,star,KOI-370
 Kepler-145,KOI-370,star,KOI-370
+KIC 8494142,KOI-370,star,KOI-370
 KOI-370.02,KOI-370,planet,KOI-370.02
-KOI-370 c,KOI-370,planet,KOI-370.02
+KOI-370 b,KOI-370,planet,KOI-370.02
 Kepler-145 b,KOI-370,planet,KOI-370.02
 KIC 8494142 b,KOI-370,planet,KOI-370.02
 KIC 8494142.02,KOI-370,planet,KOI-370.02
 KOI-370.01,KOI-370,planet,KOI-370.01
-KOI-370 b,KOI-370,planet,KOI-370.01
+KOI-370 c,KOI-370,planet,KOI-370.01
 Kepler-145 c,KOI-370,planet,KOI-370.01
 KIC 8494142 c,KOI-370,planet,KOI-370.01
 KIC 8494142.01,KOI-370,planet,KOI-370.01
@@ -10423,6 +10506,21 @@ KOI-664 d,Kepler-206,planet,Kepler-206 d
 KOI-664.03,Kepler-206,planet,Kepler-206 d
 KIC 6442340 d,Kepler-206,planet,Kepler-206 d
 KIC 6442340.03,Kepler-206,planet,Kepler-206 d
+KOI-1860,KOI-1860,system,KOI-1860
+KOI-1860,KOI-1860,star,KOI-1860
+Kepler-416,KOI-1860,star,KOI-1860
+KIC 4157325,KOI-1860,star,KOI-1860
+2MASS J19261367+3913382,KOI-1860,star,KOI-1860
+KOI-1860 b,KOI-1860,planet,KOI-1860 b
+Kepler-416 b,KOI-1860,planet,KOI-1860 b
+KOI-1860.01,KOI-1860,planet,KOI-1860 b
+KIC 4157325 b,KOI-1860,planet,KOI-1860 b
+KOI-1860 c,KOI-1860,planet,KOI-1860 c
+Kepler-416 c,KOI-1860,planet,KOI-1860 c
+KOI-1860.02,KOI-1860,planet,KOI-1860 c
+KIC 4157325 c,KOI-1860,planet,KOI-1860 c
+KOI-1860.03,KOI-1860,planet,KOI-1860.03
+KOI-1860.04,KOI-1860,planet,KOI-1860.04
 HD 204313,HD 204313,system,HD 204313
 HD 204313,HD 204313,star,HD 204313
 HD 204313 b,HD 204313,planet,HD 204313 b
@@ -10778,17 +10876,21 @@ HD 106252,HD 106252,star,HD 106252
 HD 106252 b,HD 106252,planet,HD 106252 b
 Kepler-47,Kepler-47,system,Kepler-47
 Kepler-47 A,Kepler-47,star,Kepler-47 A
+KIC 10020423 A,Kepler-47,star,Kepler-47 A
+KOI-3154 A,Kepler-47,star,Kepler-47 A
 Kepler-47 B,Kepler-47,star,Kepler-47 B
-Kepler-47(AB) b,Kepler-47,planet,Kepler-47(AB) b
-KIC 10020423 b,Kepler-47,planet,Kepler-47(AB) b
-KOI-3154 b,Kepler-47,planet,Kepler-47(AB) b
-2MASS J19411149+4655136 b,Kepler-47,planet,Kepler-47(AB) b
-Kepler-47 b,Kepler-47,planet,Kepler-47(AB) b
-Kepler-47(AB) c,Kepler-47,planet,Kepler-47(AB) c
-KIC 10020423 c,Kepler-47,planet,Kepler-47(AB) c
-KOI-3154 c,Kepler-47,planet,Kepler-47(AB) c
-2MASS J19411149+4655136 c,Kepler-47,planet,Kepler-47(AB) c
-Kepler-47 c,Kepler-47,planet,Kepler-47(AB) c
+KIC 10020423 B,Kepler-47,star,Kepler-47 B
+KOI-3154 B,Kepler-47,star,Kepler-47 B
+Kepler-47 (AB) b,Kepler-47,planet,Kepler-47 (AB) b
+KIC 10020423 b,Kepler-47,planet,Kepler-47 (AB) b
+KOI-3154 b,Kepler-47,planet,Kepler-47 (AB) b
+2MASS J19411149+4655136 b,Kepler-47,planet,Kepler-47 (AB) b
+Kepler-47 b,Kepler-47,planet,Kepler-47 (AB) b
+Kepler-47 (AB) c,Kepler-47,planet,Kepler-47 (AB) c
+KIC 10020423 c,Kepler-47,planet,Kepler-47 (AB) c
+KOI-3154 c,Kepler-47,planet,Kepler-47 (AB) c
+2MASS J19411149+4655136 c,Kepler-47,planet,Kepler-47 (AB) c
+Kepler-47 c,Kepler-47,planet,Kepler-47 (AB) c
 Kepler-447,Kepler-447,system,Kepler-447
 Kepler-447,Kepler-447,star,Kepler-447
 KIC 11017901,Kepler-447,star,Kepler-447
@@ -11292,6 +11394,19 @@ KOI-428.01,KOI-428,planet,KOI-428 b
 KIC 10418224 b,KOI-428,planet,KOI-428 b
 Kepler-40 b,KOI-428,planet,KOI-428 b
 2MASS J19471528+4731357 b,KOI-428,planet,KOI-428 b
+KOI-2113,KOI-2113,system,KOI-2113
+KOI-2113,KOI-2113,star,KOI-2113
+Kepler-417,KOI-2113,star,KOI-2113
+KIC 7207061,KOI-2113,star,KOI-2113
+2MASS J19351783+4246469,KOI-2113,star,KOI-2113
+KOI-2113 b,KOI-2113,planet,KOI-2113 b
+Kepler-417 b,KOI-2113,planet,KOI-2113 b
+KOI-2113.02,KOI-2113,planet,KOI-2113 b
+KIC 7207061 b,KOI-2113,planet,KOI-2113 b
+KOI-2113 c,KOI-2113,planet,KOI-2113 c
+Kepler-417 c,KOI-2113,planet,KOI-2113 c
+KOI-2113.01,KOI-2113,planet,KOI-2113 c
+KIC 7207061 c,KOI-2113,planet,KOI-2113 c
 Kepler-244,Kepler-244,system,Kepler-244
 KOI-864,Kepler-244,system,Kepler-244
 KIC 6849310,Kepler-244,system,Kepler-244

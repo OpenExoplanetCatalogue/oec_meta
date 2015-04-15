@@ -1,11 +1,14 @@
 <system>
 	<name>Kepler-296</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="6" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1407.1057</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...784...44L</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...784...45R</link>
 	</links>
 </system>

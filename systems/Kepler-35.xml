@@ -1,6 +1,7 @@
 <system>
 	<name>Kepler-35</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="5" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
