@@ -23,6 +23,19 @@ Kepler-9 d,Kepler-9,planet,Kepler-9 d
 KIC 3323887 d,Kepler-9,planet,Kepler-9 d
 KOI-377.03,Kepler-9,planet,Kepler-9 d
 KOI-377 d,Kepler-9,planet,Kepler-9 d
+GJ 160.2,GJ 160.2,system,GJ 160.2
+GJ 160.2,GJ 160.2,star,GJ 160.2
+Gliese 160.2,GJ 160.2,star,GJ 160.2
+GJ 9144,GJ 160.2,star,GJ 160.2
+HIP 19165,GJ 160.2,star,GJ 160.2
+BD-21 784,GJ 160.2,star,GJ 160.2
+CPD-21 472,GJ 160.2,star,GJ 160.2
+LHS 1628,GJ 160.2,star,GJ 160.2
+SAO 169128,GJ 160.2,star,GJ 160.2
+TYC 5889-644-1,GJ 160.2,star,GJ 160.2
+2MASS J04063483-2051103,GJ 160.2,star,GJ 160.2
+GJ 160.2 b,GJ 160.2,planet,GJ 160.2 b
+Gliese 160.2 b,GJ 160.2,planet,GJ 160.2 b
 HD 240210,HD 240210,system,HD 240210
 HD 240210,HD 240210,star,HD 240210
 HD 240210 b,HD 240210,planet,HD 240210 b
@@ -1439,6 +1452,18 @@ EPIC 201338508 b,EPIC 201338508,planet,EPIC 201338508 b
 EPIC 201338508.01,EPIC 201338508,planet,EPIC 201338508 b
 EPIC 201338508 c,EPIC 201338508,planet,EPIC 201338508 c
 EPIC 201338508.02,EPIC 201338508,planet,EPIC 201338508 c
+GJ 682,GJ 682,system,GJ 682
+GJ 682,GJ 682,star,GJ 682
+Gliese 682,GJ 682,star,GJ 682
+HIP 86214,GJ 682,star,GJ 682
+CD-44 11909,GJ 682,star,GJ 682
+CPD-44 8635,GJ 682,star,GJ 682
+LHS 451,GJ 682,star,GJ 682
+2MASS J17370367-4419088,GJ 682,star,GJ 682
+GJ 682 b,GJ 682,planet,GJ 682 b
+Gliese 682 b,GJ 682,planet,GJ 682 b
+GJ 682 c,GJ 682,planet,GJ 682 c
+Gliese 682 c,GJ 682,planet,GJ 682 c
 HD 154857,HD 154857,system,HD 154857
 HD 154857,HD 154857,star,HD 154857
 HD 154857 b,HD 154857,planet,HD 154857 b
@@ -4224,6 +4249,16 @@ KOI-1809 b,Kepler-321,planet,Kepler-321 b
 KOI-1809.02,Kepler-321,planet,Kepler-321 b
 KIC 8240797 b,Kepler-321,planet,Kepler-321 b
 KIC 8240797.02,Kepler-321,planet,Kepler-321 b
+GJ 27.1,GJ 27.1,system,GJ 27.1
+GJ 27.1,GJ 27.1,star,GJ 27.1
+Gliese 27.1,GJ 27.1,star,GJ 27.1
+GJ 9018,GJ 27.1,star,GJ 27.1
+HIP 3143,GJ 27.1,star,GJ 27.1
+CD-44 170,GJ 27.1,star,GJ 27.1
+LHS 1122,GJ 27.1,star,GJ 27.1
+TYC 7531-1014-1,GJ 27.1,star,GJ 27.1
+GJ 27.1 b,GJ 27.1,planet,GJ 27.1 b
+Gliese 27.1 b,GJ 27.1,planet,GJ 27.1 b
 Kepler-119,Kepler-119,system,Kepler-119
 KOI-220,Kepler-119,system,Kepler-119
 KIC 7132798,Kepler-119,system,Kepler-119
@@ -5469,6 +5504,17 @@ KIC 8359498 b,Kepler-77,planet,Kepler-77 b
 GSC2.3 N2K0000444,Kepler-77,planet,Kepler-77 b
 USNO-A2 1275-11111739 b,Kepler-77,planet,Kepler-77 b
 2MASS 19182590+4420435 b,Kepler-77,planet,Kepler-77 b
+GJ 422,GJ 422,system,GJ 422
+GJ 422,GJ 422,star,GJ 422
+Gliese 422,GJ 422,star,GJ 422
+Innes' star,GJ 422,star,GJ 422
+HD 304043,GJ 422,star,GJ 422
+HIP 55042,GJ 422,star,GJ 422
+LHS 40,GJ 422,star,GJ 422
+TYC 8624-3387-1,GJ 422,star,GJ 422
+2MASS J11160018-5732513,GJ 422,star,GJ 422
+GJ 422 b,GJ 422,planet,GJ 422 b
+Gliese 422 b,GJ 422,planet,GJ 422 b
 Kepler-63,Kepler-63,system,Kepler-63
 Kepler-63,Kepler-63,star,Kepler-63
 KIC 11554435,Kepler-63,star,Kepler-63
@@ -5887,6 +5933,17 @@ KIC 9146018.02,Kepler-192,planet,Kepler-192 c
 HD 6434,HD 6434,system,HD 6434
 HD 6434,HD 6434,star,HD 6434
 HD 6434 b,HD 6434,planet,HD 6434 b
+GJ 180,GJ 180,system,GJ 180
+GJ 180,GJ 180,star,GJ 180
+Gliese 180,GJ 180,star,GJ 180
+HIP 22762,GJ 180,star,GJ 180
+LHS 1712,GJ 180,star,GJ 180
+2MASS J04534995-1746235,GJ 180,star,GJ 180
+TYC 5903-680-1,GJ 180,star,GJ 180
+GJ 180 b,GJ 180,planet,GJ 180 b
+Gliese 180 b,GJ 180,planet,GJ 180 b
+GJ 180 c,GJ 180,planet,GJ 180 c
+Gliese 180 c,GJ 180,planet,GJ 180 c
 Kepler-273,Kepler-273,system,Kepler-273
 KOI-1163,Kepler-273,system,Kepler-273
 KIC 10468940,Kepler-273,system,Kepler-273
@@ -6586,6 +6643,26 @@ PPM 57894 b,Kepler-13,planet,Kepler-13 A b
 HD 103197,HD 103197,system,HD 103197
 HD 103197,HD 103197,star,HD 103197
 HD 103197 b,HD 103197,planet,HD 103197 b
+GJ 229,GJ 229,system,GJ 229
+GJ 229 A,GJ 229,star,GJ 229 A
+Gliese 229 A,GJ 229,star,GJ 229 A
+WDS J06106-2152 A,GJ 229,star,GJ 229 A
+NAJ 1 A,GJ 229,star,GJ 229 A
+HD 42581,GJ 229,star,GJ 229 A
+HIP 29295,GJ 229,star,GJ 229 A
+BD-21 1377,GJ 229,star,GJ 229 A
+CPD-21 1138,GJ 229,star,GJ 229 A
+LHS 1827,GJ 229,star,GJ 229 A
+SAO 171334,GJ 229,star,GJ 229 A
+TYC 5945-765-1,GJ 229,star,GJ 229 A
+2MASS J06103462-2151521,GJ 229,star,GJ 229 A
+GJ 229 B,GJ 229,star,GJ 229 B
+Gliese 229 B,GJ 229,star,GJ 229 B
+WDS 06102-2152 B,GJ 229,star,GJ 229 B
+NAJ 1 B,GJ 229,star,GJ 229 B
+GJ 229 b,GJ 229,planet,GJ 229 b
+GJ 229 A b,GJ 229,planet,GJ 229 b
+Gliese 229 A b,GJ 229,planet,GJ 229 b
 Alpha Centauri,Alpha Centauri,system,Alpha Centauri
 Rigil Kentaurus,Alpha Centauri,system,Alpha Centauri
 Rigil Kent,Alpha Centauri,system,Alpha Centauri
