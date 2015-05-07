@@ -5125,6 +5125,11 @@ KOI-889 b,Kepler-75,planet,Kepler-75 b
 KOI-889.01,Kepler-75,planet,Kepler-75 b
 KIC 757450 b,Kepler-75,planet,Kepler-75 b
 2MASS 19243302+3634385 b,Kepler-75,planet,Kepler-75 b
+CoRoT-28,CoRoT-28,system,CoRoT-28
+CoRoT-28,CoRoT-28,star,CoRoT-28
+2MASS J18344520+0534254,CoRoT-28,star,CoRoT-28
+CoRoT-28 b,CoRoT-28,planet,CoRoT-28 b
+2MASS J18344520+0534254 b,CoRoT-28,planet,CoRoT-28 b
 Kepler-310,Kepler-310,system,Kepler-310
 KOI-1598,Kepler-310,system,Kepler-310
 KIC 10004738,Kepler-310,system,Kepler-310
@@ -6944,6 +6949,11 @@ WASP-34,WASP-34,star,WASP-34
 WASP-34 b,WASP-34,planet,WASP-34 b
 TYC 6636-00540-1 b,WASP-34,planet,WASP-34 b
 2MASS J11013589-2351382 b,WASP-34,planet,WASP-34 b
+CoRoT-29,CoRoT-29,system,CoRoT-29
+CoRoT-29,CoRoT-29,star,CoRoT-29
+2MASS J18353650+0628467,CoRoT-29,star,CoRoT-29
+CoRoT-29 b,CoRoT-29,planet,CoRoT-29 b
+2MASS J18353650+0628467 b,CoRoT-29,planet,CoRoT-29 b
 WASP-4,WASP-4,system,WASP-4
 WASP-4,WASP-4,star,WASP-4
 WASP-4 b,WASP-4,planet,WASP-4 b
