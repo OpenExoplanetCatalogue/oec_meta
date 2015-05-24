@@ -2707,9 +2707,6 @@ KOI-624 c,Kepler-198,planet,Kepler-198 c
 KOI-624.02,Kepler-198,planet,Kepler-198 c
 KIC 3541946 c,Kepler-198,planet,Kepler-198 c
 KIC 3541946.02,Kepler-198,planet,Kepler-198 c
-HU Aqr(AB),HU Aqr(AB),system,HU Aqr(AB)
-HU Aqr(AB),HU Aqr(AB),star,HU Aqr(AB)
-HU Aqr(AB) c,HU Aqr(AB),planet,HU Aqr(AB) c
 EPIC 201617985,EPIC 201617985,system,EPIC 201617985
 EPIC 201617985,EPIC 201617985,star,EPIC 201617985
 EPIC 201617985 b,EPIC 201617985,planet,EPIC 201617985 b
@@ -8062,6 +8059,12 @@ KOI-2045 c,Kepler-354,planet,Kepler-354 c
 KOI-2045.03,Kepler-354,planet,Kepler-354 c
 KIC 6026438 c,Kepler-354,planet,Kepler-354 c
 KIC 6026438.03,Kepler-354,planet,Kepler-354 c
+HU Aqr,HU Aqr,system,HU Aqr
+HU Aqr A,HU Aqr,star,HU Aqr A
+HU Aqr B,HU Aqr,star,HU Aqr B
+HU Aqr (AB) b,HU Aqr,planet,HU Aqr (AB) b
+HU Aqr (AB) c,HU Aqr,planet,HU Aqr (AB) c
+HU Aqr (AB) d,HU Aqr,planet,HU Aqr (AB) d
 Kepler-53,Kepler-53,system,Kepler-53
 KOI-829,Kepler-53,system,Kepler-53
 KIC 5358241,Kepler-53,system,Kepler-53
