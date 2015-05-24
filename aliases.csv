@@ -4728,6 +4728,7 @@ KOI-42.01,Kepler-410,planet,Kepler-410 A b
 HD 110014,HD 110014,system,HD 110014
 HD 110014,HD 110014,star,HD 110014
 HD 110014 b,HD 110014,planet,HD 110014 b
+HD 110014 c,HD 110014,planet,HD 110014 c
 alf Ari,alf Ari,system,alf Ari
 alf Ari,alf Ari,star,alf Ari
 alf Ari b,alf Ari,planet,alf Ari b
@@ -8652,7 +8653,15 @@ CD-24 102 b,WASP-20,planet,WASP-20 b
 2MASS J00203853-2356086 b,WASP-20,planet,WASP-20 b
 51 Peg,51 Peg,system,51 Peg
 51 Peg,51 Peg,star,51 Peg
+HD 217014,51 Peg,star,51 Peg
+HIP 113357,51 Peg,star,51 Peg
+HR 8729,51 Peg,star,51 Peg
+BD+19 5036,51 Peg,star,51 Peg
+Gliese 882,51 Peg,star,51 Peg
+SAO 90896,51 Peg,star,51 Peg
+TYC 1717-2193-1,51 Peg,star,51 Peg
 51 Peg b,51 Peg,planet,51 Peg b
+Bellerophon,51 Peg,planet,51 Peg b
 Upsilon Andromedae,Upsilon Andromedae,system,Upsilon Andromedae
 Upsilon Andromedae A,Upsilon Andromedae,star,Upsilon Andromedae A
 ups And A,Upsilon Andromedae,star,Upsilon Andromedae A
