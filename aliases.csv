@@ -677,6 +677,17 @@ Kepler-8 b,Kepler-8,planet,Kepler-8 b
 KIC 6922244 b,Kepler-8,planet,Kepler-8 b
 KOI-10.01,Kepler-8,planet,Kepler-8 b
 KOI-10 b,Kepler-8,planet,Kepler-8 b
+HAT-P-56,HAT-P-56,system,HAT-P-56
+HAT-P-56,HAT-P-56,star,HAT-P-56
+GSC 1901-00976,HAT-P-56,star,HAT-P-56
+2MASS 06432353+2715082,HAT-P-56,star,HAT-P-56
+EPIC 202126852,HAT-P-56,star,HAT-P-56
+HD 262389,HAT-P-56,star,HAT-P-56
+HAT-P-56 b,HAT-P-56,planet,HAT-P-56 b
+GSC 1901-00976 b,HAT-P-56,planet,HAT-P-56 b
+2MASS 06432353+2715082 b,HAT-P-56,planet,HAT-P-56 b
+EPIC 202126852 b,HAT-P-56,planet,HAT-P-56 b
+HD 262389 b,HAT-P-56,planet,HAT-P-56 b
 Kepler-266,Kepler-266,system,Kepler-266
 KOI-1070,Kepler-266,system,Kepler-266
 KIC 8240904,Kepler-266,system,Kepler-266
@@ -1015,6 +1026,13 @@ Kepler-45 b,Kepler-45,planet,Kepler-45 b
 KOI-254 b,Kepler-45,planet,Kepler-45 b
 KOI-254.01,Kepler-45,planet,Kepler-45 b
 KIC 5794240 b,Kepler-45,planet,Kepler-45 b
+WASP-121,WASP-121,system,WASP-121
+WASP-121,WASP-121,star,WASP-121
+2MASS 07102406-3905506,WASP-121,star,WASP-121
+TYC 7630-352-1,WASP-121,star,WASP-121
+WASP-121 b,WASP-121,planet,WASP-121 b
+2MASS 07102406-3905506 b,WASP-121,planet,WASP-121 b
+TYC 7630-352-1 b,WASP-121,planet,WASP-121 b
 Kepler-25,Kepler-25,system,Kepler-25
 Kepler-25,Kepler-25,star,Kepler-25
 KOI-244,Kepler-25,star,Kepler-25
@@ -3700,6 +3718,23 @@ WASP-46 b,WASP-46,planet,WASP-46 b
 HD 102329,HD 102329,system,HD 102329
 HD 102329,HD 102329,star,HD 102329
 HD 102329 b,HD 102329,planet,HD 102329 b
+alf Tau,alf Tau,system,alf Tau
+alf Tau,alf Tau,star,alf Tau
+Aldebaran,alf Tau,star,alf Tau
+HR 1457,alf Tau,star,alf Tau
+HD 29139,alf Tau,star,alf Tau
+HIP 21421,alf Tau,star,alf Tau
+TYC 1266-1416-1,alf Tau,star,alf Tau
+BD +16 629,alf Tau,star,alf Tau
+PPM 120061,alf Tau,star,alf Tau
+alf Tau b,alf Tau,planet,alf Tau b
+Aldebaran b,alf Tau,planet,alf Tau b
+HR 1457 b,alf Tau,planet,alf Tau b
+HD 29139 b,alf Tau,planet,alf Tau b
+HIP 21421 b,alf Tau,planet,alf Tau b
+TYC 1266-1416-1 b,alf Tau,planet,alf Tau b
+BD +16 629 b,alf Tau,planet,alf Tau b
+PPM 120061 b,alf Tau,planet,alf Tau b
 HIP 91258,HIP 91258,system,HIP 91258
 HIP 91258,HIP 91258,star,HIP 91258
 HIP 91258 b,HIP 91258,planet,HIP 91258 b
