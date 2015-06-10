@@ -3721,12 +3721,23 @@ HD 102329 b,HD 102329,planet,HD 102329 b
 alf Tau,alf Tau,system,alf Tau
 alf Tau,alf Tau,star,alf Tau
 Aldebaran,alf Tau,star,alf Tau
+alf Tau A,alf Tau,star,alf Tau
+Aldebaran A,alf Tau,star,alf Tau
 HR 1457,alf Tau,star,alf Tau
 HD 29139,alf Tau,star,alf Tau
 HIP 21421,alf Tau,star,alf Tau
 TYC 1266-1416-1,alf Tau,star,alf Tau
 BD +16 629,alf Tau,star,alf Tau
 PPM 120061,alf Tau,star,alf Tau
+Gliese 171.1 A,alf Tau,star,alf Tau
+WDS J04359+1631 A,alf Tau,star,alf Tau
+BU 550 A,alf Tau,star,alf Tau
+alf Tau B,alf Tau,star,alf Tau B
+Aldebaran B,alf Tau,star,alf Tau B
+Gliese 171.1 B,alf Tau,star,alf Tau B
+BD+16 629 B,alf Tau,star,alf Tau B
+WDS J04359+1631 B,alf Tau,star,alf Tau B
+BU 550B,alf Tau,star,alf Tau B
 alf Tau b,alf Tau,planet,alf Tau b
 Aldebaran b,alf Tau,planet,alf Tau b
 HR 1457 b,alf Tau,planet,alf Tau b
@@ -6927,6 +6938,11 @@ KOI-271 b,Kepler-127,planet,Kepler-127 b
 KOI-271.03,Kepler-127,planet,Kepler-127 b
 KIC 9451706 b,Kepler-127,planet,Kepler-127 b
 KIC 9451706.03,Kepler-127,planet,Kepler-127 b
+HATS-8,HATS-8,system,HATS-8
+HATS-8,HATS-8,star,HATS-8
+2MASS 19394601-2544539,HATS-8,star,HATS-8
+HATS-8 b,HATS-8,planet,HATS-8 b
+2MASS 19394601-2544539 b,HATS-8,planet,HATS-8 b
 Kepler-304,Kepler-304,system,Kepler-304
 KOI-1557,Kepler-304,system,Kepler-304
 KIC 5371776,Kepler-304,system,Kepler-304
