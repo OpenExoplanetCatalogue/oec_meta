@@ -2,11 +2,9 @@
 	<name>ROXs 42 B</name>
 	<contributors>
 		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1311.7664</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...781...20K</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2005A%26A...437..611R</link>
 	</links>

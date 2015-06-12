@@ -2,11 +2,6 @@
 	<name>Gliese 777</name>
 	<contributors>
 		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%402873262&amp;Name=GJ%20%20%20777%20B</link>
-		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...462..345D</link>
-	</links>
 </system>

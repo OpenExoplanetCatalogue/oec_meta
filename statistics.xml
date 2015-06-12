@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>7749</commits>
-	<contributors num="28">
+	<commits>3871</commits>
+	<contributors num="21">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
@@ -17,18 +17,11 @@
 		<contributor>Christian Sturm</contributor>
 		<contributor>Cadenarmstrong</contributor>
 		<contributor>Kevin Knittel</contributor>
-		<contributor>James Gregory</contributor>
 		<contributor>Miguel De Val-Borro</contributor>
-		<contributor>Darryl Hemsley</contributor>
-		<contributor>Allen Davis</contributor>
 		<contributor>Paul Zwerger</contributor>
 		<contributor>Rajeev-Jeyaraj</contributor>
 		<contributor>Senger Hanno</contributor>
-		<contributor>Callum Rodwell</contributor>
-		<contributor>Planetaryscience</contributor>
-		<contributor>Dave</contributor>
 		<contributor>Orome</contributor>
-		<contributor>Allen Davis</contributor>
 	</contributors>
 	<planets>2023</planets>
 	<systems>1233</systems>

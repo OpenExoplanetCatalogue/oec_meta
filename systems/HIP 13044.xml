@@ -1,11 +1,4 @@
 <system>
 	<name>HIP 13044</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1401.0517</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-	</links>
+	<contributors />
 </system>
