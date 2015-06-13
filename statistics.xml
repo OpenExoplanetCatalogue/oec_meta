@@ -1,19 +1,13 @@
 <statistiscs>
-	<commits>3871</commits>
-	<contributors num="21">
+	<commits>3245</commits>
+	<contributors num="15">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
 		<contributor>Hanno Rein</contributor>
 		<contributor>Jaroslav Merc</contributor>
-		<contributor>Marc-Antoine Martinod</contributor>
-		<contributor>Knutover</contributor>
-		<contributor>Tobias Mueller</contributor>
 		<contributor>Allen B. Davis</contributor>
 		<contributor>Sol-D</contributor>
-		<contributor>Daveshoszowski</contributor>
-		<contributor>Marc-Antoine</contributor>
-		<contributor>Kenneth J Cott</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Cadenarmstrong</contributor>
 		<contributor>Kevin Knittel</contributor>
@@ -27,7 +21,7 @@
 	<systems>1233</systems>
 	<binaries>102</binaries>
 	<discoveryyear>
-		<y1992>3</y1992>
+		<y1992>4</y1992>
 		<y1993>0</y1993>
 		<y1994>1</y1994>
 		<y1995>1</y1995>
@@ -54,6 +48,6 @@
 	</discoveryyear>
 	<confirmedplanets>1919</confirmedplanets>
 	<confirmedsystems>1188</confirmedsystems>
-	<lastupdate>2015-06-11</lastupdate>
-	<lastcommittimestamp>1434063128</lastcommittimestamp>
+	<lastupdate>2015-06-13</lastupdate>
+	<lastcommittimestamp>1434206143</lastcommittimestamp>
 </statistiscs>
