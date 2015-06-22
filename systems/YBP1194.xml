@@ -1,4 +1,9 @@
 <system>
 	<name>YBP1194</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://www.eso.org/public/archives/releases/sciencepapers/eso1402/eso1402a.pdf</link>
+	</links>
 </system>

@@ -1,21 +1,34 @@
 <statistiscs>
-	<commits>3252</commits>
-	<contributors num="15">
+	<commits>7757</commits>
+	<contributors num="28">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
 		<contributor>Hanno Rein</contributor>
 		<contributor>Jaroslav Merc</contributor>
+		<contributor>Marc-Antoine Martinod</contributor>
+		<contributor>Knutover</contributor>
+		<contributor>Tobias Mueller</contributor>
 		<contributor>Allen B. Davis</contributor>
 		<contributor>Sol-D</contributor>
+		<contributor>Daveshoszowski</contributor>
+		<contributor>Marc-Antoine</contributor>
+		<contributor>Kenneth J Cott</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Cadenarmstrong</contributor>
 		<contributor>Kevin Knittel</contributor>
+		<contributor>James Gregory</contributor>
 		<contributor>Miguel De Val-Borro</contributor>
+		<contributor>Darryl Hemsley</contributor>
+		<contributor>Allen Davis</contributor>
 		<contributor>Paul Zwerger</contributor>
 		<contributor>Rajeev-Jeyaraj</contributor>
 		<contributor>Senger Hanno</contributor>
+		<contributor>Callum Rodwell</contributor>
+		<contributor>Planetaryscience</contributor>
+		<contributor>Dave</contributor>
 		<contributor>Orome</contributor>
+		<contributor>Allen Davis</contributor>
 	</contributors>
 	<planets>2026</planets>
 	<systems>1236</systems>

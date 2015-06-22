@@ -2,8 +2,10 @@
 	<name>2M 044144</name>
 	<contributors>
 		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2010ApJ...714L..84T</link>
 	</links>
 </system>

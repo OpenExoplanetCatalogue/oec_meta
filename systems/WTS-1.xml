@@ -2,9 +2,13 @@
 	<name>WTS-1</name>
 	<contributors>
 		<contributor commits="1" email="sol-d@gravitonmail.de">Christian Sturm</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1210.1217</link>
 		<link>http://cas.sdss.org/astrodr7/en/tools/explore/obj.asp?id=758879745081674546</link>
 	</links>
 </system>

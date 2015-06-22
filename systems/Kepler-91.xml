@@ -2,9 +2,11 @@
 	<name>Kepler-91</name>
 	<contributors>
 		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1312.3943</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...788..148S</link>
 		<link>http://arxiv.org/abs/1501.05415</link>
 		<link>http://arxiv.org/abs/1408.3149</link>

@@ -2,10 +2,13 @@
 	<name>CT Cha</name>
 	<contributors>
 		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2008A%26A...491..311S</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://adsabs.harvard.edu/abs/2015ApJ...801....4W</link>
 	</links>
 </system>

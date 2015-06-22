@@ -1,4 +1,10 @@
 <system>
 	<name>HD 2952</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1304.4328</link>
+	</links>
 </system>

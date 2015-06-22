@@ -2,8 +2,10 @@
 	<name>ROXs 12</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1311.7664</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...781...20K</link>
 	</links>
 </system>

@@ -1,4 +1,10 @@
 <system>
 	<name>MOA-2010-BLG-477L</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
+	</contributors>
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

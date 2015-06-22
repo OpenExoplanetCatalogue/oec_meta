@@ -2,8 +2,11 @@
 	<name>HD 41248</name>
 	<contributors>
 		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1304.7374</link>
 		<link>http://arxiv.org/abs/1404.6135</link>
 	</links>
 </system>
