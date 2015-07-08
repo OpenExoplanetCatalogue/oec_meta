@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-109</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
@@ -9,5 +9,7 @@
 	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1401.4195</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
+		<link>http://adsabs.harvard.edu/abs/2014ApJS..210...20M</link>
 	</links>
 </system>
