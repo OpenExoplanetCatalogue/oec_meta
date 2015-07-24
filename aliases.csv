@@ -2962,6 +2962,13 @@ KOI-2175 c,Kepler-368,planet,Kepler-368 c
 KOI-2175.02,Kepler-368,planet,Kepler-368 c
 KIC 9022166 c,Kepler-368,planet,Kepler-368 c
 KIC 9022166.02,Kepler-368,planet,Kepler-368 c
+Kepler-452,Kepler-452,system,Kepler-452
+KIC 8311864,Kepler-452,system,Kepler-452
+Kepler-452,Kepler-452,star,Kepler-452
+KIC 8311864,Kepler-452,star,Kepler-452
+Kepler-452 b,Kepler-452,planet,Kepler-452 b
+KIC 8311864 b,Kepler-452,planet,Kepler-452 b
+KOI-7016.01,Kepler-452,planet,Kepler-452 b
 Kepler-238,Kepler-238,system,Kepler-238
 KOI-834,Kepler-238,system,Kepler-238
 KIC 5436502,Kepler-238,system,Kepler-238
