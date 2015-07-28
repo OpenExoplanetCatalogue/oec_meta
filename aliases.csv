@@ -2607,6 +2607,26 @@ KIC 11673802,KOI-1894,system,KOI-1894
 KOI-1894,KOI-1894,star,KOI-1894
 KIC 11673802,KOI-1894,star,KOI-1894
 KOI-1894.01,KOI-1894,planet,KOI-1894.01
+Kepler-450,Kepler-450,system,Kepler-450
+Kepler-450 A,Kepler-450,star,Kepler-450 A
+KOI-279 A,Kepler-450,star,Kepler-450 A
+KIC 12314973 A,Kepler-450,star,Kepler-450 A
+Kepler-450 B,Kepler-450,star,Kepler-450 B
+KOI-279 B,Kepler-450,star,Kepler-450 B
+Kepler-450 b,Kepler-450,planet,Kepler-450 b
+Kepler-450 A b,Kepler-450,planet,Kepler-450 b
+KOI-279.01,Kepler-450,planet,Kepler-450 b
+KOI-279 A b,Kepler-450,planet,Kepler-450 b
+KIC 12314973 A b,Kepler-450,planet,Kepler-450 b
+Kepler-450 c,Kepler-450,planet,Kepler-450 c
+Kepler-450 A c,Kepler-450,planet,Kepler-450 c
+KOI-279.02,Kepler-450,planet,Kepler-450 c
+KOI-279 A c,Kepler-450,planet,Kepler-450 c
+KIC 12314973 A c,Kepler-450,planet,Kepler-450 c
+Kepler-450 d,Kepler-450,planet,Kepler-450 d
+Kepler-450 A d,Kepler-450,planet,Kepler-450 d
+KOI-279.03,Kepler-450,planet,Kepler-450 d
+KOI-279 A d,Kepler-450,planet,Kepler-450 d
 HIP 63242,HIP 63242,system,HIP 63242
 HIP 63242,HIP 63242,star,HIP 63242
 HIP 63242 b,HIP 63242,planet,HIP 63242 b
@@ -10892,6 +10912,21 @@ HD 159868 c,HD 159868,planet,HD 159868 c
 HD 1690,HD 1690,system,HD 1690
 HD 1690,HD 1690,star,HD 1690
 HD 1690 b,HD 1690,planet,HD 1690 b
+Kepler-449,Kepler-449,system,Kepler-449
+Kepler-449 A,Kepler-449,star,Kepler-449 A
+KOI-270 A,Kepler-449,star,Kepler-449 A
+KIC 6528464 A,Kepler-449,star,Kepler-449 A
+Kepler-449 B,Kepler-449,star,Kepler-449 B
+KOI-270 B,Kepler-449,star,Kepler-449 B
+KIC 6528464 B,Kepler-449,star,Kepler-449 B
+Kepler-449 b,Kepler-449,planet,Kepler-449 b
+KOI-270.01,Kepler-449,planet,Kepler-449 b
+KOI-270 b,Kepler-449,planet,Kepler-449 b
+KIC 6528464 b,Kepler-449,planet,Kepler-449 b
+Kepler-449 c,Kepler-449,planet,Kepler-449 c
+KOI-270.02,Kepler-449,planet,Kepler-449 c
+KOI-270 c,Kepler-449,planet,Kepler-449 c
+KIC 6528464 c,Kepler-449,planet,Kepler-449 c
 Kepler-184,Kepler-184,system,Kepler-184
 KOI-567,Kepler-184,system,Kepler-184
 KIC 7445445,Kepler-184,system,Kepler-184

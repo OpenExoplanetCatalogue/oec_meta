@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-444</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="">Chrissy Teagan</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
@@ -9,6 +9,7 @@
 	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1501.06227</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
 		<link>http://openexoplanetcatalogue.com/planet/Kepler-444%20f/</link>
 	</links>
 </system>

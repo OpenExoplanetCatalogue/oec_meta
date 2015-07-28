@@ -1,0 +1,12 @@
+<system>
+	<name>Kepler-449</name>
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2012AJ....144...42A</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=cumulative</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=planets</link>
+	</links>
+</system>
