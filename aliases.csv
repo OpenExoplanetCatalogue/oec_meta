@@ -2539,6 +2539,11 @@ bet Pic,beta Pic,star,beta Pic
 Beta Pictoris,beta Pic,star,beta Pic
 HR 2020,beta Pic,star,beta Pic
 HD 39060,beta Pic,star,beta Pic
+HIP 27321,beta Pic,star,beta Pic
+SAO 234134,beta Pic,star,beta Pic
+TYC 8099-1392-1,beta Pic,star,beta Pic
+CD-51 1620,beta Pic,star,beta Pic
+2MASS J05471708-5103594,beta Pic,star,beta Pic
 beta Pic b,beta Pic,planet,beta Pic b
 bet Pic b,beta Pic,planet,beta Pic b
 Beta Pictoris b,beta Pic,planet,beta Pic b
@@ -3524,18 +3529,24 @@ Tau Bootis A,tau Boo,star,tau Boo A
 HD 120136 A,tau Boo,star,tau Boo A
 GJ 527 A,tau Boo,star,tau Boo A
 Gliese 527 A,tau Boo,star,tau Boo A
+HIP 67275 A,tau Boo,star,tau Boo A
+WDS J13473+1727 A,tau Boo,star,tau Boo A
+HR 5185,tau Boo,star,tau Boo A
 tau Boo B,tau Boo,star,tau Boo B
 Tau Boötis B,tau Boo,star,tau Boo B
 Tau Bootis B,tau Boo,star,tau Boo B
 HD 120136 B,tau Boo,star,tau Boo B
 GJ 527 B,tau Boo,star,tau Boo B
 Gliese 527 B,tau Boo,star,tau Boo B
+HIP 67275 B,tau Boo,star,tau Boo B
+WDS J13473+1727 B,tau Boo,star,tau Boo B
 tau Boo A b,tau Boo,planet,tau Boo A b
 Tau Boötis A b,tau Boo,planet,tau Boo A b
 Tau Bootis A b,tau Boo,planet,tau Boo A b
 HD 120136 A b,tau Boo,planet,tau Boo A b
 GJ 527 A b,tau Boo,planet,tau Boo A b
 Gliese 527 A b,tau Boo,planet,tau Boo A b
+HR 5185 b,tau Boo,planet,tau Boo A b
 tau Boo b,tau Boo,planet,tau Boo A b
 WASP-53,WASP-53,system,WASP-53
 WASP-53,WASP-53,star,WASP-53
