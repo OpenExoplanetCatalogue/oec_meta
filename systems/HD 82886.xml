@@ -1,10 +1,12 @@
 <system>
 	<name>HD 82886</name>
 	<contributors>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=hd82886&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
 	</links>
 </system>
