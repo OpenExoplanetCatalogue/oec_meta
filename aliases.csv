@@ -1051,6 +1051,12 @@ KIC 7447200 b,Kepler-210,planet,Kepler-210 b
 KIC 7447200.02,Kepler-210,planet,Kepler-210 b
 HD 210702,HD 210702,system,HD 210702
 HD 210702,HD 210702,star,HD 210702
+HIP 109577,HD 210702,star,HD 210702
+TYC 1681-1751-1,HD 210702,star,HD 210702
+SAO 107729,HD 210702,star,HD 210702
+HR 8461,HD 210702,star,HD 210702
+BD+15 4592,HD 210702,star,HD 210702
+2MASS J22115133+1602260,HD 210702,star,HD 210702
 HD 210702 b,HD 210702,planet,HD 210702 b
 HD 210277,HD 210277,system,HD 210277
 HD 210277,HD 210277,star,HD 210277
@@ -2593,6 +2599,14 @@ KOI-4087 b,Kepler-440,planet,Kepler-440 b
 KIC 6106282 b,Kepler-440,planet,Kepler-440 b
 11 Com,11 Com,system,11 Com
 11 Com,11 Com,star,11 Com
+11 Comae Berenices,11 Com,star,11 Com
+HD 107383,11 Com,star,11 Com
+HIP 60202,11 Com,star,11 Com
+TYC 1445-2560-1,11 Com,star,11 Com
+SAO 100053,11 Com,star,11 Com
+HR 4697,11 Com,star,11 Com
+BD+18 2592,11 Com,star,11 Com
+2MASS J12204305+1747341,11 Com,star,11 Com
 11 Com b,11 Com,planet,11 Com b
 HD 149026,HD 149026,system,HD 149026
 HD 149026,HD 149026,star,HD 149026
@@ -3071,7 +3085,17 @@ KIC 8883329 c,Kepler-393,planet,Kepler-393 c
 KIC 8883329.02,Kepler-393,planet,Kepler-393 c
 6 Lyn,6 Lyn,system,6 Lyn
 6 Lyn,6 Lyn,star,6 Lyn
+6 Lyncis,6 Lyn,star,6 Lyn
+HD 45410,6 Lyn,star,6 Lyn
+HIP 31039,6 Lyn,star,6 Lyn
+TYC 3777-2071-1,6 Lyn,star,6 Lyn
+SAO 25771,6 Lyn,star,6 Lyn
+HR 2331,6 Lyn,star,6 Lyn
+BD+58 932,6 Lyn,star,6 Lyn
+2MASS J06304711+5809453,6 Lyn,star,6 Lyn
 6 Lyn b,6 Lyn,planet,6 Lyn b
+6 Lyncis b,6 Lyn,planet,6 Lyn b
+HD 45410 b,6 Lyn,planet,6 Lyn b
 Kepler-368,Kepler-368,system,Kepler-368
 KOI-2175,Kepler-368,system,Kepler-368
 KIC 9022166,Kepler-368,system,Kepler-368
@@ -6323,7 +6347,24 @@ HD 220689,HD 220689,star,HD 220689
 HD 220689 b,HD 220689,planet,HD 220689 b
 7 CMa,7 CMa,system,7 CMa
 7 CMa,7 CMa,star,7 CMa
+7 Canis Majoris,7 CMa,star,7 CMa
+nu.02 CMa,7 CMa,star,7 CMa
+Nu-2 Canis Majoris,7 CMa,star,7 CMa
+ν2 CMa,7 CMa,star,7 CMa
+ν2 Canis Majoris,7 CMa,star,7 CMa
+HD 47205,7 CMa,star,7 CMa
+HIP 31592,7 CMa,star,7 CMa
+TYC 5956-2621-1,7 CMa,star,7 CMa
+SAO 151702,7 CMa,star,7 CMa
+HR 2429,7 CMa,star,7 CMa
+BD-19 1502,7 CMa,star,7 CMa
+CPD-19 1369,7 CMa,star,7 CMa
+Gliese 239.1,7 CMa,star,7 CMa
+GJ 9214,7 CMa,star,7 CMa
+2MASS J06364103-1915210,7 CMa,star,7 CMa
 7 CMa b,7 CMa,planet,7 CMa b
+7 Canis Majoris b,7 CMa,planet,7 CMa b
+HD 47205 b,7 CMa,planet,7 CMa b
 WASP-79,WASP-79,system,WASP-79
 WASP-79,WASP-79,star,WASP-79
 WASP-79 b,WASP-79,planet,WASP-79 b
@@ -6564,8 +6605,23 @@ UZ For d,UZ For(ab),planet,UZ For(ab) d
 UZ Fornacis d,UZ For(ab),planet,UZ For(ab) d
 kappa CrB,kappa CrB,system,kappa CrB
 kappa CrB,kappa CrB,star,kappa CrB
+kap CrB,kappa CrB,star,kappa CrB
+Kappa Coronae Borealis,kappa CrB,star,kappa CrB
+κ CrB,kappa CrB,star,kappa CrB
+κ Coronae Borealis,kappa CrB,star,kappa CrB
+HD 142091,kappa CrB,star,kappa CrB
+HIP 77655,kappa CrB,star,kappa CrB
+TYC 2578-1609-1,kappa CrB,star,kappa CrB
+SAO 64948,kappa CrB,star,kappa CrB
+HR 5901,kappa CrB,star,kappa CrB
+BD+36 2652,kappa CrB,star,kappa CrB
+2MASS J15511394+3539264,kappa CrB,star,kappa CrB
 kappa CrB b,kappa CrB,planet,kappa CrB b
 kap CrB b,kappa CrB,planet,kappa CrB b
+Kappa Coronae Borealis b,kappa CrB,planet,kappa CrB b
+κ CrB b,kappa CrB,planet,kappa CrB b
+κ Coronae Borealis b,kappa CrB,planet,kappa CrB b
+HD 142091 b,kappa CrB,planet,kappa CrB b
 OGLE-TR-56,OGLE-TR-56,system,OGLE-TR-56
 OGLE-TR-56,OGLE-TR-56,star,OGLE-TR-56
 OGLE-TR-56 b,OGLE-TR-56,planet,OGLE-TR-56 b
@@ -7290,7 +7346,19 @@ HD 220074,HD 220074,star,HD 220074
 HD 220074 b,HD 220074,planet,HD 220074 b
 11 UMi,11 UMi,system,11 UMi
 11 UMi,11 UMi,star,11 UMi
+11 Ursae Minoris,11 UMi,star,11 UMi
+Pherkard,11 UMi,star,11 UMi
+Pherkad Minor,11 UMi,star,11 UMi
+HD 136726,11 UMi,star,11 UMi
+HIP 74793,11 UMi,star,11 UMi
+TYC 4414-2315-1,11 UMi,star,11 UMi
+SAO 8207,11 UMi,star,11 UMi
+HR 5714,11 UMi,star,11 UMi
+BD+72 678,11 UMi,star,11 UMi
+2MASS J15170588+7149258,11 UMi,star,11 UMi
 11 UMi b,11 UMi,planet,11 UMi b
+11 Ursae Minoris b,11 UMi,planet,11 UMi b
+HD 136726 b,11 UMi,planet,11 UMi b
 TrES-1,TrES-1,system,TrES-1
 TrES-1,TrES-1,star,TrES-1
 TrES-1 b,TrES-1,planet,TrES-1 b
@@ -9465,7 +9533,16 @@ KIC 7102316 b,Kepler-351,planet,Kepler-351 b
 KIC 7102316.02,Kepler-351,planet,Kepler-351 b
 14 And,14 And,system,14 And
 14 And,14 And,star,14 And
+14 Andromedae,14 And,star,14 And
+HD 221345,14 And,star,14 And
+HIP 116076,14 And,star,14 And
+TYC 3231-323-1,14 And,star,14 And
+HR 8930,14 And,star,14 And
+BD+38 5023,14 And,star,14 And
+2MASS J23311742+3914102,14 And,star,14 And
 14 And b,14 And,planet,14 And b
+14 Andromedae b,14 And,planet,14 And b
+HD 221345 b,14 And,planet,14 And b
 Kepler-317,Kepler-317,system,Kepler-317
 KOI-1760,Kepler-317,system,Kepler-317
 KIC 3967760,Kepler-317,system,Kepler-317
@@ -9495,6 +9572,11 @@ HD 216437,HD 216437,star,HD 216437
 HD 216437 b,HD 216437,planet,HD 216437 b
 HD 192699,HD 192699,system,HD 192699
 HD 192699,HD 192699,star,HD 192699
+HIP 99894,HD 192699,star,HD 192699
+TYC 504-2358-1,HD 192699,star,HD 192699
+SAO 125628,HD 192699,star,HD 192699
+BD+04 4395,HD 192699,star,HD 192699
+2MASS J20160600+0434509,HD 192699,star,HD 192699
 HD 192699 b,HD 192699,planet,HD 192699 b
 BD14 4559,BD14 4559,system,BD14 4559
 BD14 4559,BD14 4559,star,BD14 4559
@@ -9689,9 +9771,6 @@ Gliese 581 g,Gliese 581,planet,Gliese 581 g
 GJ 581 g,Gliese 581,planet,Gliese 581 g
 Gj 581 g,Gliese 581,planet,Gliese 581 g
 Gl 581 g,Gliese 581,planet,Gliese 581 g
-4 Uma,4 Uma,system,4 Uma
-4 Uma,4 Uma,star,4 Uma
-4 Uma b,4 Uma,planet,4 Uma b
 KOI-368,KOI-368,system,KOI-368
 KOI-368,KOI-368,star,KOI-368
 KIC 6693943,KOI-368,star,KOI-368
@@ -11157,6 +11236,12 @@ KIC 8644288 d,Kepler-18,planet,Kepler-18 d
 KIC 8644288.02,Kepler-18,planet,Kepler-18 d
 HD 32518,HD 32518,system,HD 32518
 HD 32518,HD 32518,star,HD 32518
+HIP 24003,HD 32518,star,HD 32518
+TYC 4346-320-1,HD 32518,star,HD 32518
+SAO 13382,HD 32518,star,HD 32518
+HR 1636,HD 32518,star,HD 32518
+BD+69 302,HD 32518,star,HD 32518
+2MASS J05093674+6938219,HD 32518,star,HD 32518
 HD 32518 b,HD 32518,planet,HD 32518 b
 HAT-P-44,HAT-P-44,system,HAT-P-44
 HAT-P-44,HAT-P-44,star,HAT-P-44
@@ -11958,6 +12043,12 @@ HD 52265,HD 52265,star,HD 52265
 HD 52265 b,HD 52265,planet,HD 52265 b
 HD 167042,HD 167042,system,HD 167042
 HD 167042,HD 167042,star,HD 167042
+HIP 89047,HD 167042,star,HD 167042
+TYC 3903-2143-1,HD 167042,star,HD 167042
+SAO 30784,HD 167042,star,HD 167042
+HR 6817,HD 167042,star,HD 167042
+BD+54 1950,HD 167042,star,HD 167042
+2MASS J18103166+5417114,HD 167042,star,HD 167042
 HD 167042 b,HD 167042,planet,HD 167042 b
 HD 116029,HD 116029,system,HD 116029
 HD 116029,HD 116029,star,HD 116029
@@ -12308,7 +12399,42 @@ KIC 8037145 d,Kepler-176,planet,Kepler-176 d
 KIC 8037145.03,Kepler-176,planet,Kepler-176 d
 81 Cet,81 Cet,system,81 Cet
 81 Cet,81 Cet,star,81 Cet
+81 Ceti,81 Cet,star,81 Cet
+HD 16400,81 Cet,star,81 Cet
+HIP 12247,81 Cet,star,81 Cet
+TYC 4701-1094-1,81 Cet,star,81 Cet
+SAO 130026,81 Cet,star,81 Cet
+HR 771,81 Cet,star,81 Cet
+BD-04 436,81 Cet,star,81 Cet
+2MASS J02374179-0323462,81 Cet,star,81 Cet
 81 Cet b,81 Cet,planet,81 Cet b
+81 Ceti b,81 Cet,planet,81 Cet b
+HD 16400 b,81 Cet,planet,81 Cet b
+4 UMa,4 UMa,system,4 UMa
+4 UMa,4 UMa,star,4 UMa
+4 Ursae Majoris,4 UMa,star,4 UMa
+pi.02 UMa,4 UMa,star,4 UMa
+Pi-2 Ursae Majoris,4 UMa,star,4 UMa
+π2 Ursae Majoris,4 UMa,star,4 UMa
+HD 73108,4 UMa,star,4 UMa
+HIP 42527,4 UMa,star,4 UMa
+TYC 4130-2355-1,4 UMa,star,4 UMa
+SAO 14616,4 UMa,star,4 UMa
+BD+64 698,4 UMa,star,4 UMa
+HR 3404,4 UMa,star,4 UMa
+2MASS J08401279+6419405,4 UMa,star,4 UMa
+4 UMa b,4 UMa,planet,4 UMa b
+4 Ursae Majoris b,4 UMa,planet,4 UMa b
+pi.02 UMa b,4 UMa,planet,4 UMa b
+Pi-2 Ursae Majoris b,4 UMa,planet,4 UMa b
+π2 Ursae Majoris b,4 UMa,planet,4 UMa b
+HD 73108 b,4 UMa,planet,4 UMa b
+HIP 42527 b,4 UMa,planet,4 UMa b
+TYC 4130-2355-1 b,4 UMa,planet,4 UMa b
+SAO 14616 b,4 UMa,planet,4 UMa b
+BD+64 698 b,4 UMa,planet,4 UMa b
+HR 3404 b,4 UMa,planet,4 UMa b
+2MASS J08401279+6419405 b,4 UMa,planet,4 UMa b
 HD 30856,HD 30856,system,HD 30856
 HD 30856,HD 30856,star,HD 30856
 HD 30856 b,HD 30856,planet,HD 30856 b
