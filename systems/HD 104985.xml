@@ -1,10 +1,12 @@
 <system>
 	<name>HD 104985</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2008PASJ...60..539S</link>
 	</links>
 </system>

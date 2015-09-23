@@ -1,10 +1,12 @@
 <system>
 	<name>xi Aql</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="3" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
 		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://adsabs.harvard.edu/abs/2008PASJ...60..539S</link>
 		<link>http://pasj.asj.or.jp/v60/n3/600314/600314-frame.html</link>
 	</links>
 </system>

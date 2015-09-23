@@ -1032,7 +1032,17 @@ HD 215152 b,HD 215152,planet,HD 215152 b
 HD 215152 c,HD 215152,planet,HD 215152 c
 18 Del,18 Del,system,18 Del
 18 Del,18 Del,star,18 Del
+18 Delphini,18 Del,star,18 Del
+HD 199665,18 Del,star,18 Del
+HIP 103527,18 Del,star,18 Del
+TYC 1107-2709-1,18 Del,star,18 Del
+SAO 106712,18 Del,star,18 Del
+HR 8030,18 Del,star,18 Del
+BD+10 4425,18 Del,star,18 Del
+2MASS J20582594+1050214,18 Del,star,18 Del
 18 Del b,18 Del,planet,18 Del b
+18 Delphini b,18 Del,planet,18 Del b
+HD 199665 b,18 Del,planet,18 Del b
 Kepler-210,Kepler-210,system,Kepler-210
 KOI-676,Kepler-210,system,Kepler-210
 KIC 7447200,Kepler-210,system,Kepler-210
@@ -4671,6 +4681,11 @@ HD 102272 b,HD 102272,planet,HD 102272 b
 HD 102272 c,HD 102272,planet,HD 102272 c
 HD 81688,HD 81688,system,HD 81688
 HD 81688,HD 81688,star,HD 81688
+HIP 46471,HD 81688,star,HD 81688
+TYC 3425-1596-1,HD 81688,star,HD 81688
+SAO 42876,HD 81688,star,HD 81688
+HR 3743,HD 81688,star,HD 81688
+BD+46 1509,HD 81688,star,HD 81688
 HD 81688 b,HD 81688,planet,HD 81688 b
 HAT-P-24,HAT-P-24,system,HAT-P-24
 HAT-P-24 A,HAT-P-24,star,HAT-P-24 A
@@ -8020,6 +8035,12 @@ HD 13931,HD 13931,star,HD 13931
 HD 13931 b,HD 13931,planet,HD 13931 b
 HD 104985,HD 104985,system,HD 104985
 HD 104985,HD 104985,star,HD 104985
+HIP 58952,HD 104985,star,HD 104985
+TYC 4550-2113-1,HD 104985,star,HD 104985
+SAO 7500,HD 104985,star,HD 104985
+HR 4609,HD 104985,star,HD 104985
+BD+77 461,HD 104985,star,HD 104985
+2MASS J12051510+7654205,HD 104985,star,HD 104985
 HD 104985 b,HD 104985,planet,HD 104985 b
 HD 49674,HD 49674,system,HD 49674
 HD 49674,HD 49674,star,HD 49674
@@ -12537,15 +12558,29 @@ HD 195019 A b,HD 195019,planet,HD 195019 A b
 HD 195019 b,HD 195019,planet,HD 195019 A b
 xi Aql,xi Aql,system,xi Aql
 xi Aql,xi Aql,star,xi Aql
-HR7595,xi Aql,star,xi Aql
-HD188310,xi Aql,star,xi Aql
-HIP97938,xi Aql,star,xi Aql
+Xi Aquiliae,xi Aql,star,xi Aql
+ksi Aql,xi Aql,star,xi Aql
+ξ Aql,xi Aql,star,xi Aql
+ξ Aquilae,xi Aql,star,xi Aql
+59 Aql,xi Aql,star,xi Aql
+59 Aquilae,xi Aql,star,xi Aql
+HR 7595,xi Aql,star,xi Aql
+HD 188310,xi Aql,star,xi Aql
+HIP 97938,xi Aql,star,xi Aql
+TYC 1058-3400-1,xi Aql,star,xi Aql
+SAO 125210,xi Aql,star,xi Aql
+BD+08 4261,xi Aql,star,xi Aql
+2MASS J19541489+0827414,xi Aql,star,xi Aql
 xi Aql b,xi Aql,planet,xi Aql b
 Xi Aquilae b,xi Aql,planet,xi Aql b
 ksi Aql b,xi Aql,planet,xi Aql b
-HR7595 b,xi Aql,planet,xi Aql b
-HD188310 b,xi Aql,planet,xi Aql b
-HIP97938 b,xi Aql,planet,xi Aql b
+ξ Aql b,xi Aql,planet,xi Aql b
+ξ Aquilae b,xi Aql,planet,xi Aql b
+59 Aql b,xi Aql,planet,xi Aql b
+59 Aquilae b,xi Aql,planet,xi Aql b
+HR 7595 b,xi Aql,planet,xi Aql b
+HD 188310 b,xi Aql,planet,xi Aql b
+HIP 97938 b,xi Aql,planet,xi Aql b
 Kepler-223,Kepler-223,system,Kepler-223
 KOI-730,Kepler-223,system,Kepler-223
 KIC 10227020,Kepler-223,system,Kepler-223
