@@ -9202,14 +9202,6 @@ KOI-1891 b,Kepler-330,planet,Kepler-330 b
 KOI-1891.02,Kepler-330,planet,Kepler-330 b
 KIC 8680979 b,Kepler-330,planet,Kepler-330 b
 KIC 8680979.02,Kepler-330,planet,Kepler-330 b
-eps Corona Borealis,eps Corona Borealis,system,eps Corona Borealis
-eps Corona Borealis,eps Corona Borealis,star,eps Corona Borealis
-eps CrB,eps Corona Borealis,star,eps Corona Borealis
-eps Corona Borealis b,eps Corona Borealis,planet,eps Corona Borealis b
-HD 143107 b,eps Corona Borealis,planet,eps Corona Borealis b
-HR 5947 b,eps Corona Borealis,planet,eps Corona Borealis b
-HIP 78159 b,eps Corona Borealis,planet,eps Corona Borealis b
-eps CrB b,eps Corona Borealis,planet,eps Corona Borealis b
 Kepler-255,Kepler-255,system,Kepler-255
 KOI-938,Kepler-255,system,Kepler-255
 KIC 9415172,Kepler-255,system,Kepler-255
@@ -12085,6 +12077,41 @@ HD 167042 b,HD 167042,planet,HD 167042 b
 HD 116029,HD 116029,system,HD 116029
 HD 116029,HD 116029,star,HD 116029
 HD 116029 b,HD 116029,planet,HD 116029 b
+eps Coronae Borealis,eps Coronae Borealis,system,eps Coronae Borealis
+eps Coronae Borealis,eps Coronae Borealis,star,eps Coronae Borealis
+eps CrB,eps Coronae Borealis,star,eps Coronae Borealis
+Epsilon Coronae Borealis,eps Coronae Borealis,star,eps Coronae Borealis
+ε CrB,eps Coronae Borealis,star,eps Coronae Borealis
+ε Coronae Borealis,eps Coronae Borealis,star,eps Coronae Borealis
+eps Coronae Borealis A,eps Coronae Borealis,star,eps Coronae Borealis
+eps CrB A,eps Coronae Borealis,star,eps Coronae Borealis
+Epsilon Coronae Borealis A,eps Coronae Borealis,star,eps Coronae Borealis
+ε CrB A,eps Coronae Borealis,star,eps Coronae Borealis
+ε Coronae Borealis A,eps Coronae Borealis,star,eps Coronae Borealis
+13 CrB,eps Coronae Borealis,star,eps Coronae Borealis
+13 Coronae Borealis,eps Coronae Borealis,star,eps Coronae Borealis
+HD 143107,eps Coronae Borealis,star,eps Coronae Borealis
+HIP 78159,eps Coronae Borealis,star,eps Coronae Borealis
+HIP 78159 A,eps Coronae Borealis,star,eps Coronae Borealis
+TYC 2037-1826-1,eps Coronae Borealis,star,eps Coronae Borealis
+SAO 84098,eps Coronae Borealis,star,eps Coronae Borealis
+HR 5947,eps Coronae Borealis,star,eps Coronae Borealis
+BD+27 2558,eps Coronae Borealis,star,eps Coronae Borealis
+2MASS J15573525+2652400,eps Coronae Borealis,star,eps Coronae Borealis
+WDS J15576+2653 A,eps Coronae Borealis,star,eps Coronae Borealis
+eps Coronae Borealis B,eps Coronae Borealis,star,eps Coronae Borealis B
+eps CrB B,eps Coronae Borealis,star,eps Coronae Borealis B
+Epsilon Coronae Borealis B,eps Coronae Borealis,star,eps Coronae Borealis B
+ε CrB B,eps Coronae Borealis,star,eps Coronae Borealis B
+ε Coronae Borealis B,eps Coronae Borealis,star,eps Coronae Borealis B
+HIP 78159 B,eps Coronae Borealis,star,eps Coronae Borealis B
+WDS J15576+2653 B,eps Coronae Borealis,star,eps Coronae Borealis B
+eps Coronae Borealis b,eps Coronae Borealis,planet,eps Coronae Borealis b
+HD 143107 b,eps Coronae Borealis,planet,eps Coronae Borealis b
+HR 5947 b,eps Coronae Borealis,planet,eps Coronae Borealis b
+HIP 78159 b,eps Coronae Borealis,planet,eps Coronae Borealis b
+eps CrB b,eps Coronae Borealis,planet,eps Coronae Borealis b
+eps CrB A b,eps Coronae Borealis,planet,eps Coronae Borealis b
 HD 108863,HD 108863,system,HD 108863
 HD 108863,HD 108863,star,HD 108863
 HD 108863 b,HD 108863,planet,HD 108863 b
