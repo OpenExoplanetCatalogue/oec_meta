@@ -2098,16 +2098,49 @@ WASP-72,WASP-72,star,WASP-72
 WASP-72 b,WASP-72,planet,WASP-72 b
 1SWASPJ024409.60-301008.5 b,WASP-72,planet,WASP-72 b
 Gamma Leonis,Gamma Leonis,system,Gamma Leonis
-Gamma Leonis,Gamma Leonis,star,Gamma Leonis
-gamma 1 Leo,Gamma Leonis,star,Gamma Leonis
-gam 1 Leo,Gamma Leonis,star,Gamma Leonis
-Algieba,Gamma Leonis,star,Gamma Leonis
-Al Gieba,Gamma Leonis,star,Gamma Leonis
+Gamma-1 Leonis,Gamma Leonis,star,Gamma-1 Leonis
+gamma 1 Leo,Gamma Leonis,star,Gamma-1 Leonis
+gam01 Leo,Gamma Leonis,star,Gamma-1 Leonis
+γ1 Leo,Gamma Leonis,star,Gamma-1 Leonis
+γ1 Leonis,Gamma Leonis,star,Gamma-1 Leonis
+γ Leo A,Gamma Leonis,star,Gamma-1 Leonis
+Gamma Leonis A,Gamma Leonis,star,Gamma-1 Leonis
+gamma Leo A,Gamma Leonis,star,Gamma-1 Leonis
+gam Leo A,Gamma Leonis,star,Gamma-1 Leonis
+Algieba A,Gamma Leonis,star,Gamma-1 Leonis
+Al Gieba A,Gamma Leonis,star,Gamma-1 Leonis
+HD 89484,Gamma Leonis,star,Gamma-1 Leonis
+HIP 50583 A,Gamma Leonis,star,Gamma-1 Leonis
+TYC 1423-1349-1,Gamma Leonis,star,Gamma-1 Leonis
+SAO 81298,Gamma Leonis,star,Gamma-1 Leonis
+BD+20 2467 A,Gamma Leonis,star,Gamma-1 Leonis
+WDS J10200+1950 A,Gamma Leonis,star,Gamma-1 Leonis
+STF 1424 A,Gamma Leonis,star,Gamma-1 Leonis
+Gamma-2 Leonis,Gamma Leonis,star,Gamma-2 Leonis
+gamma 2 Leo,Gamma Leonis,star,Gamma-2 Leonis
+gam02 Leo,Gamma Leonis,star,Gamma-2 Leonis
+γ2 Leo,Gamma Leonis,star,Gamma-2 Leonis
+γ2 Leonis,Gamma Leonis,star,Gamma-2 Leonis
+γ Leo B,Gamma Leonis,star,Gamma-2 Leonis
+Gamma Leonis B,Gamma Leonis,star,Gamma-2 Leonis
+gamma Leo B,Gamma Leonis,star,Gamma-2 Leonis
+gam Leo B,Gamma Leonis,star,Gamma-2 Leonis
+41 Leonis B,Gamma Leonis,star,Gamma-2 Leonis
+41 Leo B,Gamma Leonis,star,Gamma-2 Leonis
+Algieba B,Gamma Leonis,star,Gamma-2 Leonis
+Al Gieba B,Gamma Leonis,star,Gamma-2 Leonis
+HD 89485,Gamma Leonis,star,Gamma-2 Leonis
+HIP 50583 B,Gamma Leonis,star,Gamma-2 Leonis
+TYC 1423-1349-2,Gamma Leonis,star,Gamma-2 Leonis
+SAO 81299,Gamma Leonis,star,Gamma-2 Leonis
+BD+20 2467 B,Gamma Leonis,star,Gamma-2 Leonis
+WDS J10200+1950 B,Gamma Leonis,star,Gamma-2 Leonis
+STF 1424 B,Gamma Leonis,star,Gamma-2 Leonis
 Gamma Leonis b,Gamma Leonis,planet,Gamma Leonis b
 gamma 1 Leo b,Gamma Leonis,planet,Gamma Leonis b
 gam 1 Leo b,Gamma Leonis,planet,Gamma Leonis b
-Algieba b,Gamma Leonis,planet,Gamma Leonis b
-Al Gieba b,Gamma Leonis,planet,Gamma Leonis b
+Algieba A b,Gamma Leonis,planet,Gamma Leonis b
+Al Gieba A b,Gamma Leonis,planet,Gamma Leonis b
 HD 27894,HD 27894,system,HD 27894
 HD 27894,HD 27894,star,HD 27894
 HD 27894 b,HD 27894,planet,HD 27894 b
