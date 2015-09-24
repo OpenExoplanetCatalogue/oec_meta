@@ -3732,7 +3732,17 @@ OGLE-2013-BLG-0341L B b,OGLE-2013-BLG-0341,planet,OGLE-2013-BLG-0341L B b
 OGLE-2013-BLG-0341LBb,OGLE-2013-BLG-0341,planet,OGLE-2013-BLG-0341L B b
 42 Dra,42 Dra,system,42 Dra
 42 Dra,42 Dra,star,42 Dra
+42 Draconis,42 Dra,star,42 Dra
+HD 170693,42 Dra,star,42 Dra
+HIP 90344,42 Dra,star,42 Dra
+TYC 4222-2311-1,42 Dra,star,42 Dra
+SAO 17888,42 Dra,star,42 Dra
+HR 6945,42 Dra,star,42 Dra
+BD+65 1271,42 Dra,star,42 Dra
+2MASS J18255915+6533486,42 Dra,star,42 Dra
 42 Dra b,42 Dra,planet,42 Dra b
+42 Draconis b,42 Dra,planet,42 Dra b
+HD 170693 b,42 Dra,planet,42 Dra b
 HD 99109,HD 99109,system,HD 99109
 HD 99109,HD 99109,star,HD 99109
 HD 99109 b,HD 99109,planet,HD 99109 b
@@ -4999,6 +5009,12 @@ Pr0211 b,Pr0211,planet,Pr0211 b
 2MASS J08421149+1916373,Pr0211,planet,Pr0211 b
 HD 139357,HD 139357,system,HD 139357
 HD 139357,HD 139357,star,HD 139357
+HIP 76311,HD 139357,star,HD 139357
+TYC 3869-494-1,HD 139357,star,HD 139357
+SAO 29583,HD 139357,star,HD 139357
+HR 5811,HD 139357,star,HD 139357
+BD+54 1756,HD 139357,star,HD 139357
+2MASS J15351620+5355195,HD 139357,star,HD 139357
 HD 139357 b,HD 139357,planet,HD 139357 b
 Kepler-385,Kepler-385,system,Kepler-385
 KOI-2433,Kepler-385,system,Kepler-385
@@ -5288,12 +5304,24 @@ KIC 7269974 b,Kepler-160,planet,Kepler-160 b
 KIC 7269974.02,Kepler-160,planet,Kepler-160 b
 30 Ari,30 Ari,system,30 Ari
 30 Ari Aa,30 Ari,star,30 Ari Aa
+30 Arietis Aa,30 Ari,star,30 Ari Aa
 30 Ari Ab,30 Ari,star,30 Ari Ab
+30 Arietis Ab,30 Ari,star,30 Ari Ab
 30 Ari B,30 Ari,star,30 Ari B
+30 Arietis B,30 Ari,star,30 Ari B
 HD 16232,30 Ari,star,30 Ari B
 HIP 12184,30 Ari,star,30 Ari B
+TYC 1771-1397-1,30 Ari,star,30 Ari B
+SAO 75470,30 Ari,star,30 Ari B
+HR 764,30 Ari,star,30 Ari B
+BD+24 375,30 Ari,star,30 Ari B
+2MASS J02365772+2438530,30 Ari,star,30 Ari B
+WDS J02370+2439 B,30 Ari,star,30 Ari B
 30 Ari C,30 Ari,star,30 Ari C
+30 Arietis C,30 Ari,star,30 Ari C
+WDS J02370+2439 C,30 Ari,star,30 Ari C
 30 Ari B b,30 Ari,planet,30 Ari B b
+30 Arietis B b,30 Ari,planet,30 Ari B b
 Kepler-271,Kepler-271,system,Kepler-271
 KOI-1151,Kepler-271,system,Kepler-271
 KIC 8280511,Kepler-271,system,Kepler-271
@@ -6314,6 +6342,30 @@ KOI-4427,KOI-4427,star,KOI-4427
 KIC 4172805,KOI-4427,star,KOI-4427
 2MASS J19142653+4958070,KOI-4427,star,KOI-4427
 KOI-4427.01,KOI-4427,planet,KOI-4427.01
+47 UMa,47 UMa,system,47 UMa
+47 UMa,47 UMa,star,47 UMa
+47 Ursae Majoris,47 UMa,star,47 UMa
+HD 95128,47 UMa,star,47 UMa
+HIP 53721,47 UMa,star,47 UMa
+TYC 3009-2703-1,47 UMa,star,47 UMa
+SAO 43557,47 UMa,star,47 UMa
+HR 4277,47 UMa,star,47 UMa
+Gliese 407,47 UMa,star,47 UMa
+GJ 407,47 UMa,star,47 UMa
+BD+41 2147,47 UMa,star,47 UMa
+2MASS J10592802+4025485,47 UMa,star,47 UMa
+47 UMa b,47 UMa,planet,47 UMa b
+47 Ursae Majoris b,47 UMa,planet,47 UMa b
+HD 95128 b,47 UMa,planet,47 UMa b
+HR 4277 b,47 UMa,planet,47 UMa b
+47 UMa c,47 UMa,planet,47 UMa c
+47 Ursae Majoris c,47 UMa,planet,47 UMa c
+HD 95128 c,47 UMa,planet,47 UMa c
+HR 4277 c,47 UMa,planet,47 UMa c
+47 UMa d,47 UMa,planet,47 UMa d
+47 Ursae Majoris d,47 UMa,planet,47 UMa d
+HD 95128 d,47 UMa,planet,47 UMa d
+HR 4277 d,47 UMa,planet,47 UMa d
 Kepler-192,Kepler-192,system,Kepler-192
 KOI-584,Kepler-192,system,Kepler-192
 KIC 9146018,Kepler-192,system,Kepler-192
@@ -7588,11 +7640,6 @@ GSC 06214-00210,GSC 06214-00210,system,GSC 06214-00210
 GSC 06214-00210,GSC 06214-00210,star,GSC 06214-00210
 GSC 06214-00210 b,GSC 06214-00210,planet,GSC 06214-00210 b
 GSC 6214-210 b,GSC 06214-00210,planet,GSC 06214-00210 b
-47 Uma,47 Uma,system,47 Uma
-47 Uma,47 Uma,star,47 Uma
-47 Uma b,47 Uma,planet,47 Uma b
-47 Uma c,47 Uma,planet,47 Uma c
-47 Uma d,47 Uma,planet,47 Uma d
 Kepler-443,Kepler-443,system,Kepler-443
 Kepler-443,Kepler-443,star,Kepler-443
 KOI-4745,Kepler-443,star,Kepler-443
@@ -8654,8 +8701,18 @@ BD+20 2184,Pr0201,planet,Pr0201 b
 2MASS J08414382+2013368,Pr0201,planet,Pr0201 b
 24 Sex,24 Sex,system,24 Sex
 24 Sex,24 Sex,star,24 Sex
+24 Sextantis,24 Sex,star,24 Sex
+HD 90043,24 Sex,star,24 Sex
+HIP 50887,24 Sex,star,24 Sex
+TYC 4905-1374-1,24 Sex,star,24 Sex
+SAO 137532,24 Sex,star,24 Sex
+BD-00 2332,24 Sex,star,24 Sex
+2MASS J10232836-0054079,24 Sex,star,24 Sex
 24 Sex b,24 Sex,planet,24 Sex b
+24 Sextantis b,24 Sex,planet,24 Sex b
+HD 90043 b,24 Sex,planet,24 Sex b
 24 Sex c,24 Sex,planet,24 Sex c
+24 Sextantis c,24 Sex,planet,24 Sex c
 HD 5319,HD 5319,system,HD 5319
 HD 5319,HD 5319,star,HD 5319
 HIP 4297,HD 5319,star,HD 5319
@@ -11333,6 +11390,11 @@ GSC 3465-00123 c,HAT-P-44,planet,HAT-P-44 c
 2MASS 14123457+4700528 c,HAT-P-44,planet,HAT-P-44 c
 HD 200964,HD 200964,system,HD 200964
 HD 200964,HD 200964,star,HD 200964
+HIP 104202,HD 200964,star,HD 200964
+TYC 534-2537-1,HD 200964,star,HD 200964
+SAO 126546,HD 200964,star,HD 200964
+BD+03 4501,HD 200964,star,HD 200964
+2MASS J21063983+0348110,HD 200964,star,HD 200964
 HD 200964 b,HD 200964,planet,HD 200964 b
 HD 200964 c,HD 200964,planet,HD 200964 c
 WD 0806-661,WD 0806-661,system,WD 0806-661
