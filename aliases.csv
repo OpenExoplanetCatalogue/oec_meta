@@ -4144,6 +4144,17 @@ Kepler-138 b,KOI-314,planet,Kepler-138 b
 KOI-314.03,KOI-314,planet,Kepler-138 b
 KIC 7603200 b,KOI-314,planet,Kepler-138 b
 KIC 7603200.03,KOI-314,planet,Kepler-138 b
+HD 12648,HD 12648,system,HD 12648
+HD 12648,HD 12648,star,HD 12648
+HIP 10800,HD 12648,star,HD 12648
+TYC 4620-542-1,HD 12648,star,HD 12648
+BD+85 41,HD 12648,star,HD 12648
+"PPM 401,2MASS J02185973+8544102",HD 12648,star,HD 12648
+HD 12648 b,HD 12648,planet,HD 12648 b
+HIP 10800 b,HD 12648,planet,HD 12648 b
+TYC 4620-542-1 b,HD 12648,planet,HD 12648 b
+BD+85 41 b,HD 12648,planet,HD 12648 b
+"PPM 401,2MASS J02185973+8544102 b",HD 12648,planet,HD 12648 b
 Kepler-394,Kepler-394,system,Kepler-394
 KOI-2597,Kepler-394,system,Kepler-394
 KIC 12120307,Kepler-394,system,Kepler-394
@@ -4595,6 +4606,19 @@ KOI-2842 d,Kepler-446,planet,Kepler-446 d
 KOI-2842.02,Kepler-446,planet,Kepler-446 d
 KIC 8733898 d,Kepler-446,planet,Kepler-446 d
 KIC 8733898.02,Kepler-446,planet,Kepler-446 d
+HD 24064,HD 24064,system,HD 24064
+HD 24064,HD 24064,star,HD 24064
+HIP 18451,HD 24064,star,HD 24064
+TYC 4339-2274-1,HD 24064,star,HD 24064
+BD+73 204,HD 24064,star,HD 24064
+PPM 5424,HD 24064,star,HD 24064
+2MASS J03563629+7404482,HD 24064,star,HD 24064
+HD 24064 b,HD 24064,planet,HD 24064 b
+HIP 18451 b,HD 24064,planet,HD 24064 b
+TYC 4339-2274-1 b,HD 24064,planet,HD 24064 b
+BD+73 204 b,HD 24064,planet,HD 24064 b
+PPM 5424 b,HD 24064,planet,HD 24064 b
+2MASS J03563629+7404482 b,HD 24064,planet,HD 24064 b
 Kepler-321,Kepler-321,system,Kepler-321
 KOI-1809,Kepler-321,system,Kepler-321
 KIC 8240797,Kepler-321,system,Kepler-321
@@ -5612,6 +5636,17 @@ KIC 6425957.02,Kepler-205,planet,Kepler-205 c
 HD 208527,HD 208527,system,HD 208527
 HD 208527,HD 208527,star,HD 208527
 HD 208527 b,HD 208527,planet,HD 208527 b
+HD 11755,HD 11755,system,HD 11755
+HD 11755,HD 11755,star,HD 11755
+HIP 9242,HD 11755,star,HD 11755
+TYC 4322-1310-1,HD 11755,star,HD 11755
+BD+72 112,HD 11755,star,HD 11755
+PPM 4856,HD 11755,star,HD 11755
+HD 11755 b,HD 11755,planet,HD 11755 b
+HIP 9242 b,HD 11755,planet,HD 11755 b
+TYC 4322-1310-1 b,HD 11755,planet,HD 11755 b
+BD+72 112 b,HD 11755,planet,HD 11755 b
+PPM 4856 b,HD 11755,planet,HD 11755 b
 HD 192263,HD 192263,system,HD 192263
 HD 192263,HD 192263,star,HD 192263
 HD 192263 b,HD 192263,planet,HD 192263 b
@@ -7271,6 +7306,23 @@ KIC 5456651.02,Kepler-239,planet,Kepler-239 c
 HD 82886,HD 82886,system,HD 82886
 HD 82886,HD 82886,star,HD 82886
 HD 82886 b,HD 82886,planet,HD 82886 b
+8 Ursae Minoris,8 Ursae Minoris,system,8 Ursae Minoris
+8 Ursae Minoris,8 Ursae Minoris,star,8 Ursae Minoris
+HD 133086,8 Ursae Minoris,star,8 Ursae Minoris
+HIP 73136,8 Ursae Minoris,star,8 Ursae Minoris
+TYC 4417-267-1,8 Ursae Minoris,star,8 Ursae Minoris
+BD+75 547,8 Ursae Minoris,star,8 Ursae Minoris
+PPM 8785,8 Ursae Minoris,star,8 Ursae Minoris
+WDS J14568+7454A,8 Ursae Minoris,star,8 Ursae Minoris
+2MASS J14564834+7454032,8 Ursae Minoris,star,8 Ursae Minoris
+8 Ursae Minoris b,8 Ursae Minoris,planet,8 Ursae Minoris b
+HD 133086 b,8 Ursae Minoris,planet,8 Ursae Minoris b
+HIP 73136 b,8 Ursae Minoris,planet,8 Ursae Minoris b
+TYC 4417-267-1 b,8 Ursae Minoris,planet,8 Ursae Minoris b
+BD+75 547 b,8 Ursae Minoris,planet,8 Ursae Minoris b
+PPM 8785 b,8 Ursae Minoris,planet,8 Ursae Minoris b
+WDS J14568+7454A b,8 Ursae Minoris,planet,8 Ursae Minoris b
+2MASS J14564834+7454032 b,8 Ursae Minoris,planet,8 Ursae Minoris b
 DH Tau,DH Tau,system,DH Tau
 DH Tau,DH Tau,star,DH Tau
 DH Tau B,DH Tau,planet,DH Tau B
