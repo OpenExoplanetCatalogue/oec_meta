@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>7933</commits>
-	<contributors num="28">
+	<commits>7934</commits>
+	<contributors num="29">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
@@ -24,6 +24,7 @@
 		<contributor>Paul Zwerger</contributor>
 		<contributor>Rajeev-Jeyaraj</contributor>
 		<contributor>Senger Hanno</contributor>
+		<contributor>Paul Anthony Wilson</contributor>
 		<contributor>Callum Rodwell</contributor>
 		<contributor>Planetaryscience</contributor>
 		<contributor>Dave</contributor>
@@ -61,6 +62,6 @@
 	</discoveryyear>
 	<confirmedplanets>1958</confirmedplanets>
 	<confirmedsystems>1217</confirmedsystems>
-	<lastupdate>2015-10-06</lastupdate>
-	<lastcommittimestamp>1444181795</lastcommittimestamp>
+	<lastupdate>2015-10-07</lastupdate>
+	<lastcommittimestamp>1444244244</lastcommittimestamp>
 </statistiscs>
