@@ -1,9 +1,12 @@
 <system>
 	<name>HD 219134</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="3" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1509.07912</link>
 		<link>https://www.cfa.harvard.edu/pao/HD219134.pdf</link>
+		<link>http://arxiv.org/abs/1507.08532</link>
 	</links>
 </system>
