@@ -12921,6 +12921,13 @@ CoRoT-8 b,CoRoT-8,planet,CoRoT-8 b
 CoRoT-Exo-8 b,CoRoT-8,planet,CoRoT-8 b
 2MASS J19262124+0125352 b,CoRoT-8,planet,CoRoT-8 b
 CoRoTID 101086161 b,CoRoT-8,planet,CoRoT-8 b
+KOI-89,KOI-89,system,KOI-89
+KOI-89,KOI-89,star,KOI-89
+KIC 8056665,KOI-89,star,KOI-89
+TYC 3149-1163-1,KOI-89,star,KOI-89
+2MASS J19591707+4348513,KOI-89,star,KOI-89
+KOI-89.01,KOI-89,planet,KOI-89.01
+KOI-89.02,KOI-89,planet,KOI-89.02
 Kepler-312,Kepler-312,system,Kepler-312
 KOI-1628,Kepler-312,system,Kepler-312
 KIC 6975129,Kepler-312,system,Kepler-312
