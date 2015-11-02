@@ -393,6 +393,11 @@ HD 75289 b,HD 75289,planet,HD 75289 A b
 HD 5608,HD 5608,system,HD 5608
 HD 5608,HD 5608,star,HD 5608
 HIP 4552,HD 5608,star,HD 5608
+TYC 2285-553-1,HD 5608,star,HD 5608
+SAO 54306,HD 5608,star,HD 5608
+HR 275,HD 5608,star,HD 5608
+BD+33 140,HD 5608,star,HD 5608
+2MASS J00581422+3357031,HD 5608,star,HD 5608
 HD 5608 b,HD 5608,planet,HD 5608 b
 HD 68988,HD 68988,system,HD 68988
 HD 68988,HD 68988,star,HD 68988
@@ -2959,13 +2964,20 @@ BD-10 3166 b,BD-10 3166,planet,BD-10 3166 b
 omi CrB,omi CrB,system,omi CrB
 omi CrB,omi CrB,star,omi CrB
 Omicron Coronae Borealis,omi CrB,star,omi CrB
-o CrB,omi CrB,star,omi CrB
+ο CrB,omi CrB,star,omi CrB
+ο Coronae Borealis,omi CrB,star,omi CrB
+1 Coronae Borealis,omi CrB,star,omi CrB
+1 CrB,omi CrB,star,omi CrB
 HD 136512,omi CrB,star,omi CrB
 HR 5709,omi CrB,star,omi CrB
 HIP 75049,omi CrB,star,omi CrB
+TYC 2031-1389-1,omi CrB,star,omi CrB
+SAO 83768,omi CrB,star,omi CrB
+BD+30 2647,omi CrB,star,omi CrB
+2MASS J15200853+2936584,omi CrB,star,omi CrB
 omi CrB b,omi CrB,planet,omi CrB b
 Omicron Coronae Borealis b,omi CrB,planet,omi CrB b
-o CrB b,omi CrB,planet,omi CrB b
+ο CrB b,omi CrB,planet,omi CrB b
 HD 136512 b,omi CrB,planet,omi CrB b
 HR 5709 b,omi CrB,planet,omi CrB b
 HIP 75049 b,omi CrB,planet,omi CrB b
@@ -3065,6 +3077,16 @@ KIC 8806123 c,KOI-523,planet,KOI-523.01
 KIC 8806123.01,KOI-523,planet,KOI-523.01
 61 Vir,61 Vir,system,61 Vir
 61 Vir,61 Vir,star,61 Vir
+61 Virginis,61 Vir,star,61 Vir
+HD 115617,61 Vir,star,61 Vir
+HIP 64924,61 Vir,star,61 Vir
+TYC 6116-1517-1,61 Vir,star,61 Vir
+SAO 157844,61 Vir,star,61 Vir
+GJ 506,61 Vir,star,61 Vir
+Gliese 506,61 Vir,star,61 Vir
+HR 5019,61 Vir,star,61 Vir
+BD-17 3813,61 Vir,star,61 Vir
+2MASS J13182443-1818387,61 Vir,star,61 Vir
 61 Vir b,61 Vir,planet,61 Vir b
 61 Vir c,61 Vir,planet,61 Vir c
 61 Vir d,61 Vir,planet,61 Vir d
@@ -6406,6 +6428,19 @@ MOA 2011-BLG-322L b,MOA-2011-BLG-322,planet,MOA-2011-BLG-322 b
 HJD 2455773 b,MOA-2011-BLG-322,planet,MOA-2011-BLG-322 b
 nu Oph,nu Oph,system,nu Oph
 nu Oph,nu Oph,star,nu Oph
+nu. Oph,nu Oph,star,nu Oph
+Nu Ophiuchi,nu Oph,star,nu Oph
+ν Oph,nu Oph,star,nu Oph
+ν Ophiuchi,nu Oph,star,nu Oph
+64 Oph,nu Oph,star,nu Oph
+64 Ophiuchi,nu Oph,star,nu Oph
+HD 163917,nu Oph,star,nu Oph
+HIP 88048,nu Oph,star,nu Oph
+TYC 5678-956-1,nu Oph,star,nu Oph
+SAO 142004,nu Oph,star,nu Oph
+HR 6698,nu Oph,star,nu Oph
+BD-09 6432,nu Oph,star,nu Oph
+2MASS J17590160-0946249,nu Oph,star,nu Oph
 nu Oph b,nu Oph,planet,nu Oph b
 nu Oph c,nu Oph,planet,nu Oph c
 HD 155358,HD 155358,system,HD 155358
@@ -8352,14 +8387,22 @@ KIC 10554999.02,Kepler-179,planet,Kepler-179 b
 omi UMa,omi UMa,system,omi UMa
 omi UMa,omi UMa,star,omi UMa
 Omicron Ursae Majoris,omi UMa,star,omi UMa
+ο UMa,omi UMa,star,omi UMa
+ο Ursae Majoris,omi UMa,star,omi UMa
+1 UMa,omi UMa,star,omi UMa
+1 Ursae Majoris,omi UMa,star,omi UMa
 Muscida,omi UMa,star,omi UMa
-o UMa,omi UMa,star,omi UMa
 HD 71369,omi UMa,star,omi UMa
 HIP 41704,omi UMa,star,omi UMa
+TYC 4127-2431-1,omi UMa,star,omi UMa
+SAO 14573,omi UMa,star,omi UMa
+HR 3323,omi UMa,star,omi UMa
+BD+61 1054,omi UMa,star,omi UMa
+2MASS J08301592+6043056,omi UMa,star,omi UMa
 omi UMa b,omi UMa,planet,omi UMa b
 Omicron Ursae Majoris b,omi UMa,planet,omi UMa b
 Muscida b,omi UMa,planet,omi UMa b
-o UMa b,omi UMa,planet,omi UMa b
+ο UMa b,omi UMa,planet,omi UMa b
 HD 71369 b,omi UMa,planet,omi UMa b
 HIP 41704 b,omi UMa,planet,omi UMa b
 Kepler-275,Kepler-275,system,Kepler-275
@@ -12041,6 +12084,11 @@ CoRoTID 102890318 b,CoRoT-1,planet,CoRoT-1 b
 75 Ceti,75 Cet,star,75 Cet
 HD 15779,75 Cet,star,75 Cet
 HIP 11791,75 Cet,star,75 Cet
+TYC 4698-1302-1,75 Cet,star,75 Cet
+SAO 129959,75 Cet,star,75 Cet
+HR 739,75 Cet,star,75 Cet
+BD-01 353,75 Cet,star,75 Cet
+2MASS J02320943-0102055,75 Cet,star,75 Cet
 75 Cet b,75 Cet,planet,75 Cet b
 HD 189567,HD 189567,system,HD 189567
 HD 189567,HD 189567,star,HD 189567
