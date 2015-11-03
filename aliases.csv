@@ -1755,18 +1755,41 @@ KOI-708.02,Kepler-216,planet,Kepler-216 b
 KIC 9530945 b,Kepler-216,planet,Kepler-216 b
 KIC 9530945.02,Kepler-216,planet,Kepler-216 b
 83 Leonis,83 Leonis,system,83 Leonis
+83 Leonis A,83 Leonis,star,83 Leonis A
+83 Leo A,83 Leonis,star,83 Leonis A
+HD 99491,83 Leonis,star,83 Leonis A
+HIP 55846,83 Leonis,star,83 Leonis A
+TYC 267-1191-1,83 Leonis,star,83 Leonis A
+SAO 118864,83 Leonis,star,83 Leonis A
+HR 4414,83 Leonis,star,83 Leonis A
+Gliese 429 A,83 Leonis,star,83 Leonis A
+GJ 429 A,83 Leonis,star,83 Leonis A
+BD+03 2502,83 Leonis,star,83 Leonis A
+2MASS J11264531+0300475,83 Leonis,star,83 Leonis A
+WDS J11268+0301 A,83 Leonis,star,83 Leonis A
+STF 1540 A,83 Leonis,star,83 Leonis A
 83 Leonis B,83 Leonis,star,83 Leonis B
+83 Leo B,83 Leonis,star,83 Leonis B
 HD 99492,83 Leonis,star,83 Leonis B
+HIP 55848,83 Leonis,star,83 Leonis B
+TYC 267-1200-1,83 Leonis,star,83 Leonis B
+SAO 118865,83 Leonis,star,83 Leonis B
 Gliese 429 B,83 Leonis,star,83 Leonis B
 GJ 429 B,83 Leonis,star,83 Leonis B
-83 Leonis A,83 Leonis,star,83 Leonis A
-HD 99491,83 Leonis,star,83 Leonis A
+BD+03 2503,83 Leonis,star,83 Leonis B
+2MASS J11264627+0300229,83 Leonis,star,83 Leonis B
+WDS J11268+0301 B,83 Leonis,star,83 Leonis B
+STF 1540 B,83 Leonis,star,83 Leonis B
 83 Leonis B b,83 Leonis,planet,83 Leonis B b
+83 Leo B b,83 Leonis,planet,83 Leonis B b
 HD 99492 b,83 Leonis,planet,83 Leonis B b
 Gliese 429 B b,83 Leonis,planet,83 Leonis B b
 GJ 429 B b,83 Leonis,planet,83 Leonis B b
 83 Leonis B c,83 Leonis,planet,83 Leonis B c
+83 Leo B c,83 Leonis,planet,83 Leonis B c
 HD 99492 c,83 Leonis,planet,83 Leonis B c
+Gliese 429 B c,83 Leonis,planet,83 Leonis B c
+GJ 429 B c,83 Leonis,planet,83 Leonis B c
 BD +48 738,BD +48 738,system,BD +48 738
 BD +48 738,BD +48 738,star,BD +48 738
 BD +48 738 b,BD +48 738,planet,BD +48 738 b
@@ -3422,6 +3445,11 @@ HD 162020,HD 162020,star,HD 162020
 HD 162020 b,HD 162020,planet,HD 162020 b
 HD 31253,HD 31253,system,HD 31253
 HD 31253,HD 31253,star,HD 31253
+HIP 22826,HD 31253,star,HD 31253
+TYC 692-497-1,HD 31253,star,HD 31253
+SAO 94193,HD 31253,star,HD 31253
+BD+12 673,HD 31253,star,HD 31253
+2MASS J04544364+1221079,HD 31253,star,HD 31253
 HD 31253 b,HD 31253,planet,HD 31253 b
 HD 43197,HD 43197,system,HD 43197
 HD 43197,HD 43197,star,HD 43197
@@ -4497,6 +4525,12 @@ KIC 9590976 c,Kepler-217,planet,Kepler-217 c
 KIC 9590976.02,Kepler-217,planet,Kepler-217 c
 HD 218566,HD 218566,system,HD 218566
 HD 218566,HD 218566,star,HD 218566
+HIP 114322,HD 218566,star,HD 218566
+TYC 5242-229-1,HD 218566,star,HD 218566
+SAO 146533,HD 218566,star,HD 218566
+GJ 4313,HD 218566,star,HD 218566
+BD-03 5577,HD 218566,star,HD 218566
+2MASS J23091067-0215385,HD 218566,star,HD 218566
 HD 218566 b,HD 218566,planet,HD 218566 b
 Kepler-143,Kepler-143,system,Kepler-143
 KOI-352,Kepler-143,system,Kepler-143
@@ -8837,7 +8871,32 @@ WASP-78 b,WASP-78,planet,WASP-78 b
 TYC 5889-271-1 b,WASP-78,planet,WASP-78 b
 GSC 05889-00271 b,WASP-78,planet,WASP-78 b
 tau Gem,tau Gem,system,tau Gem
-tau Gem,tau Gem,star,tau Gem
+tau Gem A,tau Gem,star,tau Gem A
+Tau Geminorum A,tau Gem,star,tau Gem A
+τ Gem A,tau Gem,star,tau Gem A
+τ Geminorum A,tau Gem,star,tau Gem A
+46 Gem A,tau Gem,star,tau Gem A
+46 Geminorum A,tau Gem,star,tau Gem A
+HD 54719 A,tau Gem,star,tau Gem A
+HIP 34693 A,tau Gem,star,tau Gem A
+TYC 2438-1059-1,tau Gem,star,tau Gem A
+SAO 59858 A,tau Gem,star,tau Gem A
+HR 2697 A,tau Gem,star,tau Gem A
+BD+30 1439 A,tau Gem,star,tau Gem A
+2MASS J07110836+3014426,tau Gem,star,tau Gem A
+WDS J07111+3015 A,tau Gem,star,tau Gem A
+tau Gem B,tau Gem,star,tau Gem B
+Tau Geminorum B,tau Gem,star,tau Gem B
+τ Gem B,tau Gem,star,tau Gem B
+τ Geminorum B,tau Gem,star,tau Gem B
+46 Gem B,tau Gem,star,tau Gem B
+46 Geminorum B,tau Gem,star,tau Gem B
+HD 54719 B,tau Gem,star,tau Gem B
+HIP 34693 B,tau Gem,star,tau Gem B
+SAO 59858 B,tau Gem,star,tau Gem B
+HR 2697 B,tau Gem,star,tau Gem B
+BD+30 1439 B,tau Gem,star,tau Gem B
+WDS J07111+3015 B,tau Gem,star,tau Gem B
 tau Gem b,tau Gem,planet,tau Gem b
 CoRoT-25,CoRoT-25,system,CoRoT-25
 CoRoT-25,CoRoT-25,star,CoRoT-25
@@ -9029,19 +9088,43 @@ KIC 9718066.02,Kepler-378,planet,Kepler-378 c
 91 Aquarii,91 Aquarii,system,91 Aquarii
 91 Aquarii A,91 Aquarii,star,91 Aquarii A
 91 Aqr A,91 Aquarii,star,91 Aquarii A
+psi01 Aqr A,91 Aquarii,star,91 Aquarii A
+Psi-1 Aquarii A,91 Aquarii,star,91 Aquarii A
+ψ1 Aqr A,91 Aquarii,star,91 Aquarii A
+ψ1 Aquarii A,91 Aquarii,star,91 Aquarii A
 HD 219449 A,91 Aquarii,star,91 Aquarii A
 HIP 114855 A,91 Aquarii,star,91 Aquarii A
 Gliese 893.2 A,91 Aquarii,star,91 Aquarii A
+GJ 893.2 A,91 Aquarii,star,91 Aquarii A
+GJ 9815 A,91 Aquarii,star,91 Aquarii A
+BD-09 6156 A,91 Aquarii,star,91 Aquarii A
+WDS J23159-0905 A,91 Aquarii,star,91 Aquarii A
 91 Aquarii B,91 Aquarii,star,91 Aquarii B
 91 Aqr B,91 Aquarii,star,91 Aquarii B
+psi01 Aqr B,91 Aquarii,star,91 Aquarii B
+Psi-1 Aquarii B,91 Aquarii,star,91 Aquarii B
+ψ1 Aqr B,91 Aquarii,star,91 Aquarii B
+ψ1 Aquarii B,91 Aquarii,star,91 Aquarii B
 HD 219449 B,91 Aquarii,star,91 Aquarii B
 HIP 114855 B,91 Aquarii,star,91 Aquarii B
 Gliese 893.2 B,91 Aquarii,star,91 Aquarii B
+GJ 893.2 B,91 Aquarii,star,91 Aquarii B
+GJ 9815 B,91 Aquarii,star,91 Aquarii B
+BD-09 6156 B,91 Aquarii,star,91 Aquarii B
+WDS J23159-0905 B,91 Aquarii,star,91 Aquarii B
 91 Aquarii C,91 Aquarii,star,91 Aquarii C
 91 Aqr C,91 Aquarii,star,91 Aquarii C
+psi01 Aqr C,91 Aquarii,star,91 Aquarii C
+Psi-1 Aquarii C,91 Aquarii,star,91 Aquarii C
+ψ1 Aqr C,91 Aquarii,star,91 Aquarii C
+ψ1 Aquarii C,91 Aquarii,star,91 Aquarii C
 HD 219449 C,91 Aquarii,star,91 Aquarii C
 HIP 114855 C,91 Aquarii,star,91 Aquarii C
 Gliese 893.2 C,91 Aquarii,star,91 Aquarii C
+GJ 893.2 C,91 Aquarii,star,91 Aquarii C
+GJ 9815 C,91 Aquarii,star,91 Aquarii C
+BD-09 6156 C,91 Aquarii,star,91 Aquarii C
+WDS J23159-0905 C,91 Aquarii,star,91 Aquarii C
 91 Aquarii A b,91 Aquarii,planet,91 Aquarii A b
 91 Aqr A b,91 Aquarii,planet,91 Aquarii A b
 HD 219449 A b,91 Aquarii,planet,91 Aquarii A b
@@ -9973,7 +10056,20 @@ KIC 10027323 c,Kepler-309,planet,Kepler-309 c
 KIC 10027323.02,Kepler-309,planet,Kepler-309 c
 HD 177830,HD 177830,system,HD 177830
 HD 177830 A,HD 177830,star,HD 177830 A
+HIP 93746 A,HD 177830,star,HD 177830 A
+TYC 2126-1196-1,HD 177830,star,HD 177830 A
+SAO 86791 A,HD 177830,star,HD 177830 A
+Gliese 743.2 A,HD 177830,star,HD 177830 A
+GJ 743.2 A,HD 177830,star,HD 177830 A
+BD+25 3719 A,HD 177830,star,HD 177830 A
+WDS J19053+2555 A,HD 177830,star,HD 177830 A
 HD 177830 B,HD 177830,star,HD 177830 B
+HIP 93746 B,HD 177830,star,HD 177830 B
+SAO 86791 B,HD 177830,star,HD 177830 B
+Gliese 743.2 B,HD 177830,star,HD 177830 B
+GJ 743.2 B,HD 177830,star,HD 177830 B
+BD+25 3719 B,HD 177830,star,HD 177830 B
+WDS J19053+2555 B,HD 177830,star,HD 177830 B
 HD 177830 A b,HD 177830,planet,HD 177830 A b
 HD 177830 b,HD 177830,planet,HD 177830 A b
 HD 177830 A c,HD 177830,planet,HD 177830 A c
