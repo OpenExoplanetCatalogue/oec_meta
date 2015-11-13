@@ -3527,6 +3527,9 @@ KOI-223 c,Kepler-121,planet,Kepler-121 c
 KOI-223.02,Kepler-121,planet,Kepler-121 c
 KIC 4545187 c,Kepler-121,planet,Kepler-121 c
 KIC 4545187.02,Kepler-121,planet,Kepler-121 c
+GJ 1132,GJ 1132,system,GJ 1132
+HJ 1132,GJ 1132,star,HJ 1132
+GJ 1132 b,GJ 1132,planet,GJ 1132 b
 Kepler-258,Kepler-258,system,Kepler-258
 KOI-951,Kepler-258,system,Kepler-258
 KIC 9775938,Kepler-258,system,Kepler-258
