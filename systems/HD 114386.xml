@@ -7,8 +7,15 @@
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://fr.arxiv.org/abs/astro-ph/0510092</link>
+		<link>http://arxiv.org/ftp/arxiv/papers/1102/1102.0291.pdf</link>
+		<link>https://github.com/ryanvarley/open_exoplanet_catalogue</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/750/2/113</link>
+		<link>http://arxiv.org/ftp/arxiv/papers/1109/1109.3432.pdf</link>
 		<link>http://arxiv.org/abs/1109.2497</link>
+		<link>http://adsabs.harvard.edu/abs/2012ApJ...750..112L</link>
+		<link>http://arxiv.org/pdf/1208.5489.pdf</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/pdf/1201.5412v1.pdf</link>
 	</links>
 </system>

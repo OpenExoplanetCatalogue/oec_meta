@@ -5,6 +5,10 @@
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/21239/fp_2mass.fp_psc21239.tbl</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/15891/fp_2mass.fp_psc15891.tbl</link>
+		<link>https://github.com/hannorein/open_exoplanet_catalogue</link>
+		<link>http://dx.doi.org/10.1051/0004-6361:20010853</link>
 	</links>
 </system>
