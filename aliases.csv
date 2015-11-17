@@ -6211,6 +6211,7 @@ Kepler-60,Kepler-60,system,Kepler-60
 Kepler-60,Kepler-60,star,Kepler-60
 KOI-2086,Kepler-60,star,Kepler-60
 KIC 6768394,Kepler-60,star,Kepler-60
+2MASS J19155069+4215540,Kepler-60,star,Kepler-60
 Kepler-60 b,Kepler-60,planet,Kepler-60 b
 KOI-2086.01,Kepler-60,planet,Kepler-60 b
 KOI-2086 b,Kepler-60,planet,Kepler-60 b
@@ -9495,6 +9496,8 @@ ups And A e,Upsilon Andromedae,planet,Upsilon Andromedae A e
 ups And e,Upsilon Andromedae,planet,Upsilon Andromedae A e
 OGLE-TR-113,OGLE-TR-113,system,OGLE-TR-113
 OGLE-TR-113,OGLE-TR-113,star,OGLE-TR-113
+V752 Car,OGLE-TR-113,star,OGLE-TR-113
+V752 Carinae,OGLE-TR-113,star,OGLE-TR-113
 OGLE-TR-113 b,OGLE-TR-113,planet,OGLE-TR-113 b
 HD 187085,HD 187085,system,HD 187085
 HD 187085,HD 187085,star,HD 187085
@@ -10011,8 +10014,11 @@ KOI-1196.03,Kepler-274,planet,Kepler-274 c
 KIC 3348082 c,Kepler-274,planet,Kepler-274 c
 KIC 3348082.03,Kepler-274,planet,Kepler-274 c
 EPIC 201505350,EPIC 201505350,system,EPIC 201505350
+K2-19,EPIC 201505350,system,EPIC 201505350
 EPIC 201505350,EPIC 201505350,star,EPIC 201505350
 K2-19,EPIC 201505350,star,EPIC 201505350
+2MASS J11395048+0036129,EPIC 201505350,star,EPIC 201505350
+WISE J113950.46+003612.9,EPIC 201505350,star,EPIC 201505350
 EPIC 201505350 c,EPIC 201505350,planet,EPIC 201505350 c
 EPIC 201505350.01,EPIC 201505350,planet,EPIC 201505350 c
 K2-19 c,EPIC 201505350,planet,EPIC 201505350 c
@@ -13149,6 +13155,24 @@ WASP-122 b,WASP-122,planet,WASP-122 b
 TYC 7638-00981-1 b,WASP-122,planet,WASP-122 b
 USNO-B 0475-0113097 b,WASP-122,planet,WASP-122 b
 KELT-14 b,WASP-122,planet,WASP-122 b
+FL Lyr,FL Lyr,system,FL Lyr
+FL Lyr A,FL Lyr,star,FL Lyr A
+FL Lyrae A,FL Lyr,star,FL Lyr A
+HD 179890 A,FL Lyr,star,FL Lyr A
+HIP 94335 A,FL Lyr,star,FL Lyr A
+SAO 48190 A,FL Lyr,star,FL Lyr A
+BD+46 2641 A,FL Lyr,star,FL Lyr A
+KIC 9641031 A,FL Lyr,star,FL Lyr A
+FL Lyr B,FL Lyr,star,FL Lyr B
+FL Lyrae B,FL Lyr,star,FL Lyr B
+HD 179890 B,FL Lyr,star,FL Lyr B
+HIP 94335 B,FL Lyr,star,FL Lyr B
+SAO 48190 B,FL Lyr,star,FL Lyr B
+BD+46 2641 B,FL Lyr,star,FL Lyr B
+KIC 9641031 B,FL Lyr,star,FL Lyr B
+FL Lyr b,FL Lyr,planet,FL Lyr b
+FL Lyrae b,FL Lyr,planet,FL Lyr b
+FL Lyrae (AB) b,FL Lyr,planet,FL Lyr b
 HAT-P-21,HAT-P-21,system,HAT-P-21
 HAT-P-21,HAT-P-21,star,HAT-P-21
 HAT-P-21 b,HAT-P-21,planet,HAT-P-21 b
