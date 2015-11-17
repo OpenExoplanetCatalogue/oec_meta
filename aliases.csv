@@ -1792,6 +1792,9 @@ Gliese 429 B c,83 Leonis,planet,83 Leonis B c
 GJ 429 B c,83 Leonis,planet,83 Leonis B c
 BD +48 738,BD +48 738,system,BD +48 738
 BD +48 738,BD +48 738,star,BD +48 738
+TYC 3304-323-1,BD +48 738,star,BD +48 738
+SAO 38269,BD +48 738,star,BD +48 738
+2MASS J02425045+4935130,BD +48 738,star,BD +48 738
 BD +48 738 b,BD +48 738,planet,BD +48 738 b
 HIP 5158,HIP 5158,system,HIP 5158
 HIP 5158,HIP 5158,star,HIP 5158
@@ -2644,6 +2647,12 @@ HR 2020 b,beta Pic,planet,beta Pic b
 HD 39060 b,beta Pic,planet,beta Pic b
 HD 153950,HD 153950,system,HD 153950
 HD 153950,HD 153950,star,HD 153950
+HIP 83547,HD 153950,star,HD 153950
+TYC 7881-474-1,HD 153950,star,HD 153950
+SAO 227597,HD 153950,star,HD 153950
+CD-43 11380,HD 153950,star,HD 153950
+CPD-43 7827,HD 153950,star,HD 153950
+2MASS J17043086-4318351,HD 153950,star,HD 153950
 HD 153950 b,HD 153950,planet,HD 153950 b
 Kepler-240,Kepler-240,system,Kepler-240
 KOI-837,Kepler-240,system,Kepler-240
@@ -2997,6 +3006,8 @@ KIC 4249725.02,Kepler-120,planet,Kepler-120 c
 BD-10 3166,BD-10 3166,system,BD-10 3166
 BD-10°3166,BD-10 3166,system,BD-10 3166
 BD-10 3166,BD-10 3166,star,BD-10 3166
+TYC 5503-946-1,BD-10 3166,star,BD-10 3166
+2MASS J10582880-1046133,BD-10 3166,star,BD-10 3166
 BD-10 3166 b,BD-10 3166,planet,BD-10 3166 b
 omi CrB,omi CrB,system,omi CrB
 omi CrB,omi CrB,star,omi CrB
@@ -4102,32 +4113,54 @@ HD 102329,HD 102329,system,HD 102329
 HD 102329,HD 102329,star,HD 102329
 HD 102329 b,HD 102329,planet,HD 102329 b
 alf Tau,alf Tau,system,alf Tau
+Alpha Tauri,alf Tau,system,alf Tau
+Aldebaran,alf Tau,system,alf Tau
 alf Tau,alf Tau,star,alf Tau
 Aldebaran,alf Tau,star,alf Tau
 alf Tau A,alf Tau,star,alf Tau
+Alpha Tauri A,alf Tau,star,alf Tau
+α Tau A,alf Tau,star,alf Tau
+α Tauri A,alf Tau,star,alf Tau
 Aldebaran A,alf Tau,star,alf Tau
+87 Tau A,alf Tau,star,alf Tau
+87 Tauri A,alf Tau,star,alf Tau
 HR 1457,alf Tau,star,alf Tau
 HD 29139,alf Tau,star,alf Tau
 HIP 21421,alf Tau,star,alf Tau
 TYC 1266-1416-1,alf Tau,star,alf Tau
-BD +16 629,alf Tau,star,alf Tau
+BD+16 629,alf Tau,star,alf Tau
 PPM 120061,alf Tau,star,alf Tau
 Gliese 171.1 A,alf Tau,star,alf Tau
+GJ 171.1 A,alf Tau,star,alf Tau
+GJ 9159 A,alf Tau,star,alf Tau
 WDS J04359+1631 A,alf Tau,star,alf Tau
 BU 550 A,alf Tau,star,alf Tau
 alf Tau B,alf Tau,star,alf Tau B
+Alpha Tauri B,alf Tau,star,alf Tau B
 Aldebaran B,alf Tau,star,alf Tau B
+α Tau B,alf Tau,star,alf Tau B
+α Tauri B,alf Tau,star,alf Tau B
+87 Tau B,alf Tau,star,alf Tau B
+87 Tauri B,alf Tau,star,alf Tau B
 Gliese 171.1 B,alf Tau,star,alf Tau B
+GJ 171.1 B,alf Tau,star,alf Tau B
+GJ 9159 B,alf Tau,star,alf Tau B
 BD+16 629 B,alf Tau,star,alf Tau B
 WDS J04359+1631 B,alf Tau,star,alf Tau B
 BU 550B,alf Tau,star,alf Tau B
 alf Tau b,alf Tau,planet,alf Tau b
 Aldebaran b,alf Tau,planet,alf Tau b
+alf Tau A b,alf Tau,planet,alf Tau b
+Alpha Tauri A b,alf Tau,planet,alf Tau b
+α Tau A b,alf Tau,planet,alf Tau b
+α Tauri A b,alf Tau,planet,alf Tau b
+87 Tau A b,alf Tau,planet,alf Tau b
+87 Tauri A b,alf Tau,planet,alf Tau b
 HR 1457 b,alf Tau,planet,alf Tau b
 HD 29139 b,alf Tau,planet,alf Tau b
 HIP 21421 b,alf Tau,planet,alf Tau b
 TYC 1266-1416-1 b,alf Tau,planet,alf Tau b
-BD +16 629 b,alf Tau,planet,alf Tau b
+BD+16 629 b,alf Tau,planet,alf Tau b
 PPM 120061 b,alf Tau,planet,alf Tau b
 HIP 91258,HIP 91258,system,HIP 91258
 HIP 91258,HIP 91258,star,HIP 91258
@@ -4961,6 +4994,11 @@ KIC 7175184 c,Kepler-144,planet,Kepler-144 c
 KIC 7175184.02,Kepler-144,planet,Kepler-144 c
 HD 20868,HD 20868,system,HD 20868
 HD 20868,HD 20868,star,HD 20868
+HIP 15578,HD 20868,star,HD 20868
+TYC 7023-236-1,HD 20868,star,HD 20868
+CD-34 1218,HD 20868,star,HD 20868
+CPD-34 338,HD 20868,star,HD 20868
+2MASS J03204266-33433484,HD 20868,star,HD 20868
 HD 20868 b,HD 20868,planet,HD 20868 b
 CoRoT-7,CoRoT-7,system,CoRoT-7
 CoRoT-7,CoRoT-7,star,CoRoT-7
@@ -4978,6 +5016,12 @@ CoRoTID 102708694 c,CoRoT-7,planet,CoRoT-7 c
 2MASS J22062280-2047058 b,2M 2206-20,planet,2M 2206-20 b
 HD 73267,HD 73267,system,HD 73267
 HD 73267,HD 73267,star,HD 73267
+HIP 42202,HD 73267,star,HD 73267
+TYC 7144-1553-1,HD 73267,star,HD 73267
+SAO 199418,HD 73267,star,HD 73267
+CD-34 5039,HD 73267,star,HD 73267
+CPD-34 2736,HD 73267,star,HD 73267
+2MASS J08361779-3427358,HD 73267,star,HD 73267
 HD 73267 b,HD 73267,planet,HD 73267 b
 Kepler-181,Kepler-181,system,Kepler-181
 KOI-543,Kepler-181,system,Kepler-181
@@ -5246,7 +5290,25 @@ HD 110014,HD 110014,star,HD 110014
 HD 110014 b,HD 110014,planet,HD 110014 b
 HD 110014 c,HD 110014,planet,HD 110014 c
 alf Ari,alf Ari,system,alf Ari
+Alpha Arietis,alf Ari,system,alf Ari
+Hamal,alf Ari,system,alf Ari
 alf Ari,alf Ari,star,alf Ari
+Alpha Arietis,alf Ari,star,alf Ari
+α Ari,alf Ari,star,alf Ari
+α Arietis,alf Ari,star,alf Ari
+Hamal,alf Ari,star,alf Ari
+13 Ari,alf Ari,star,alf Ari
+13 Arietis,alf Ari,star,alf Ari
+HD 12929,alf Ari,star,alf Ari
+HIP 9884,alf Ari,star,alf Ari
+TYC 1758-2416-1,alf Ari,star,alf Ari
+SAO 75151,alf Ari,star,alf Ari
+HR 617,alf Ari,star,alf Ari
+Gliese 84.3,alf Ari,star,alf Ari
+GJ 84.3,alf Ari,star,alf Ari
+GJ 9072,alf Ari,star,alf Ari
+BD+22 306,alf Ari,star,alf Ari
+2MASS J02071038+2327447,alf Ari,star,alf Ari
 alf Ari b,alf Ari,planet,alf Ari b
 Kepler-391,Kepler-391,system,Kepler-391
 KOI-2541,Kepler-391,system,Kepler-391
@@ -5846,6 +5908,10 @@ HD 169830 b,HD 169830,planet,HD 169830 b
 HD 169830 c,HD 169830,planet,HD 169830 c
 BD-17 63,BD-17 63,system,BD-17 63
 BD-17 63,BD-17 63,star,BD-17 63
+HIP 2247,BD-17 63,star,BD-17 63
+TYC 5840-482-1,BD-17 63,star,BD-17 63
+SAO 147293,BD-17 63,star,BD-17 63
+2MASS J00283433-1613343,BD-17 63,star,BD-17 63
 BD-17 63 b,BD-17 63,planet,BD-17 63 b
 Kepler-11,Kepler-11,system,Kepler-11
 Kepler-11,Kepler-11,star,Kepler-11
@@ -7431,6 +7497,10 @@ GSC 5100-00045 b,HAT-P-46,planet,HAT-P-46 b
 HAT-P-46 c,HAT-P-46,planet,HAT-P-46 c
 BD-082823,BD-082823,system,BD-082823
 BD-082823,BD-082823,star,BD-082823
+HIP 49067,BD-082823,star,BD-082823
+TYC 5480-20-1,BD-082823,star,BD-082823
+SAO 137286,BD-082823,star,BD-082823
+2MASS J10004775-0931001,BD-082823,star,BD-082823
 BD-082823 b,BD-082823,planet,BD-082823 b
 HIP 49067 b,BD-082823,planet,BD-082823 b
 TYC 5480-00020-1 b,BD-082823,planet,BD-082823 b
@@ -7724,6 +7794,11 @@ TYC 2652-01324-1,TrES-1,planet,TrES-1 b
 TrES-1,TrES-1,planet,TrES-1 b
 HD 240237,HD 240237,system,HD 240237
 HD 240237,HD 240237,star,HD 240237
+HIP 114840,HD 240237,star,HD 240237
+TYC 4006-19-1,HD 240237,star,HD 240237
+SAO 35269,HD 240237,star,HD 240237
+BD+57 2714,HD 240237,star,HD 240237
+2MASS J23154222+5802358,HD 240237,star,HD 240237
 HD 240237 b,HD 240237,planet,HD 240237 b
 70 Vir,70 Vir,system,70 Vir
 70 Vir,70 Vir,star,70 Vir
@@ -9472,6 +9547,11 @@ PSR J1719-1438 b,PSR 1719-14,planet,PSR J1719-1438 b
 PSR 1719-14 b,PSR 1719-14,planet,PSR J1719-1438 b
 HD 96127,HD 96127,system,HD 96127
 HD 96127,HD 96127,star,HD 96127
+HIP 54232,HD 96127,star,HD 96127
+TYC 3012-667-1,HD 96127,star,HD 96127
+SAO 43608,HD 96127,star,HD 96127
+BD+45 1892,HD 96127,star,HD 96127
+2MAsS J11054595+4418054,HD 96127,star,HD 96127
 HD 96127 b,HD 96127,planet,HD 96127 b
 HD 75784,HD 75784,system,HD 75784
 HD 75784,HD 75784,star,HD 75784
