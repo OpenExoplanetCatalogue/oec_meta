@@ -8528,13 +8528,70 @@ MOA 2007-BLG-192L b,MOA-2007-BLG-192-L,planet,MOA-2007-BLG-192-L b
 MOA-192 b,MOA-2007-BLG-192-L,planet,MOA-2007-BLG-192-L b
 55 Cancri,55 Cancri,system,55 Cancri
 55 Cnc,55 Cancri,system,55 Cancri
-55 Cnc A,55 Cancri,star,55 Cnc A
-55 Cnc B,55 Cancri,star,55 Cnc B
+55 Cancri A,55 Cancri,star,55 Cancri A
+55 Cnc A,55 Cancri,star,55 Cancri A
+rho01 Cnc A,55 Cancri,star,55 Cancri A
+Rho-1 Cancri A,55 Cancri,star,55 Cancri A
+ρ1 Cnc A,55 Cancri,star,55 Cancri A
+ρ1 Cancri A,55 Cancri,star,55 Cancri A
+HD 75732,55 Cancri,star,55 Cancri A
+HIP 43587,55 Cancri,star,55 Cancri A
+TYC 1949-2012-1,55 Cancri,star,55 Cancri A
+SAO 80478,55 Cancri,star,55 Cancri A
+HR 3522,55 Cancri,star,55 Cancri A
+Gliese 324 A,55 Cancri,star,55 Cancri A
+GJ 324 A,55 Cancri,star,55 Cancri A
+BD+28 1660 A,55 Cancri,star,55 Cancri A
+2MASS J08523579+2819509,55 Cancri,star,55 Cancri A
+WDS J08526+2820 A,55 Cancri,star,55 Cancri A
+LDS 6219 A,55 Cancri,star,55 Cancri A
+55 Cancri B,55 Cancri,star,55 Cancri B
+55 Cnc b,55 Cancri,star,55 Cancri B
+rho01 Cnc B,55 Cancri,star,55 Cancri B
+Rho-1 Cancri B,55 Cancri,star,55 Cancri B
+ρ1 Cnc B,55 Cancri,star,55 Cancri B
+ρ1 Cancri B,55 Cancri,star,55 Cancri B
+Gliese 324 B,55 Cancri,star,55 Cancri B
+GJ 324 B,55 Cancri,star,55 Cancri B
+BD+28 1660 B,55 Cancri,star,55 Cancri B
+2MASS J08524084+2818589,55 Cancri,star,55 Cancri B
+WDS J08526+2820 B,55 Cancri,star,55 Cancri B
+LDS 6219 B,55 Cancri,star,55 Cancri B
 55 Cnc b,55 Cancri,planet,55 Cnc b
+rho01 Cnc b,55 Cancri,planet,55 Cnc b
+ρ1 Cnc b,55 Cancri,planet,55 Cnc b
+HR 3522 b,55 Cancri,planet,55 Cnc b
+55 Cnc A b,55 Cancri,planet,55 Cnc b
+rho01 Cnc A b,55 Cancri,planet,55 Cnc b
+ρ1 Cnc A b,55 Cancri,planet,55 Cnc b
 55 Cnc c,55 Cancri,planet,55 Cnc c
+rho01 Cnc c,55 Cancri,planet,55 Cnc c
+ρ1 Cnc c,55 Cancri,planet,55 Cnc c
+HR 3522 c,55 Cancri,planet,55 Cnc c
+55 Cnc A c,55 Cancri,planet,55 Cnc c
+rho01 Cnc A c,55 Cancri,planet,55 Cnc c
+ρ1 Cnc A c,55 Cancri,planet,55 Cnc c
 55 Cnc d,55 Cancri,planet,55 Cnc d
+rho01 Cnc d,55 Cancri,planet,55 Cnc d
+ρ1 Cnc d,55 Cancri,planet,55 Cnc d
+HR 3522 d,55 Cancri,planet,55 Cnc d
+55 Cnc A d,55 Cancri,planet,55 Cnc d
+rho01 Cnc A d,55 Cancri,planet,55 Cnc d
+ρ1 Cnc A d,55 Cancri,planet,55 Cnc d
 55 Cnc e,55 Cancri,planet,55 Cnc e
+rho01 Cnc e,55 Cancri,planet,55 Cnc e
+ρ1 Cnc e,55 Cancri,planet,55 Cnc e
+HR 3522 e,55 Cancri,planet,55 Cnc e
+55 Cnc A e,55 Cancri,planet,55 Cnc e
+rho01 Cnc A e,55 Cancri,planet,55 Cnc e
+ρ1 Cnc A e,55 Cancri,planet,55 Cnc e
 55 Cnc f,55 Cancri,planet,55 Cnc f
+rho01 Cnc f,55 Cancri,planet,55 Cnc f
+ρ1 Cnc f,55 Cancri,planet,55 Cnc f
+HR 3522 f,55 Cancri,planet,55 Cnc f
+55 Cnc A f,55 Cancri,planet,55 Cnc f
+rho01 Cnc A f,55 Cancri,planet,55 Cnc f
+ρ1 Cnc A f,55 Cancri,planet,55 Cnc f
 Kepler-179,Kepler-179,system,Kepler-179
 KOI-534,Kepler-179,system,Kepler-179
 KIC 10554999,Kepler-179,system,Kepler-179
