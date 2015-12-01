@@ -1,6 +1,7 @@
 <system>
 	<name>HD 233604</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
@@ -9,5 +10,6 @@
 	</contributors>
 	<links>
 		<link>http://arxiv.org/abs/1304.6755</link>
+		<link>http://adsabs.harvard.edu/abs/2013ApJ...770...53N</link>
 	</links>
 </system>
