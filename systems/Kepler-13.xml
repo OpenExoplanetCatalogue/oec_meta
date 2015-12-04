@@ -1,13 +1,14 @@
 <system>
 	<name>Kepler-13</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
 	</contributors>
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2012A%26A...544L..12S</link>
+		<link>http://arxiv.org/abs/1511.00643</link>
 		<link>http://adsabs.harvard.edu/abs/2014ApJ...790...30J</link>
 		<link>http://adsabs.harvard.edu/abs/2014ApJ...788...92S</link>
 	</links>
