@@ -1,9 +1,10 @@
 <system>
 	<name>EPIC 203771098</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1511.09213</link>
 		<link>http://arxiv.org/abs/1511.04497</link>
 	</links>
 </system>
