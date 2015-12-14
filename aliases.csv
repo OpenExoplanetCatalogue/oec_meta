@@ -439,7 +439,18 @@ HD 131873,beta Ursae Minoris,system,beta Ursae Minoris
 beta Ursae Minoris,beta Ursae Minoris,star,beta Ursae Minoris
 HD 131873,beta Ursae Minoris,star,beta Ursae Minoris
 beta UMi,beta Ursae Minoris,star,beta Ursae Minoris
+bet UMi,beta Ursae Minoris,star,beta Ursae Minoris
+β Ursae Minoris,beta Ursae Minoris,star,beta Ursae Minoris
+β UMi,beta Ursae Minoris,star,beta Ursae Minoris
+7 Ursae Minoris,beta Ursae Minoris,star,beta Ursae Minoris
+7 UMi,beta Ursae Minoris,star,beta Ursae Minoris
 Kochab,beta Ursae Minoris,star,beta Ursae Minoris
+HIP 72607,beta Ursae Minoris,star,beta Ursae Minoris
+TYC 4416-1799-1,beta Ursae Minoris,star,beta Ursae Minoris
+SAO 8102,beta Ursae Minoris,star,beta Ursae Minoris
+HR 5563,beta Ursae Minoris,star,beta Ursae Minoris
+BD+74 595,beta Ursae Minoris,star,beta Ursae Minoris
+2MASS J14504235+7409199,beta Ursae Minoris,star,beta Ursae Minoris
 beta Ursae Minoris b,beta Ursae Minoris,planet,beta Ursae Minoris b
 HD 131873 b,beta Ursae Minoris,planet,beta Ursae Minoris b
 beta UMi b,beta Ursae Minoris,planet,beta Ursae Minoris b
@@ -1089,13 +1100,26 @@ WASP-135,WASP-135,star,WASP-135
 WASP-135 b,WASP-135,planet,WASP-135 b
 Gliese 15,Gliese 15,system,Gliese 15
 Gliese 15 A,Gliese 15,star,Gliese 15 A
+GJ 15 A,Gliese 15,star,Gliese 15 A
 HD 1326 A,Gliese 15,star,Gliese 15 A
 HIP 1475,Gliese 15,star,Gliese 15 A
+TYC 2794-157-1,Gliese 15,star,Gliese 15 A
+SAO 36248,Gliese 15,star,Gliese 15 A
 GX Andromedae,Gliese 15,star,Gliese 15 A
 GX And,Gliese 15,star,Gliese 15 A
 Groombridge 34,Gliese 15,star,Gliese 15 A
+BD+43 44 A,Gliese 15,star,Gliese 15 A
+WDS J00184+4401 A,Gliese 15,star,Gliese 15 A
+2MASS J00182256+4401222,Gliese 15,star,Gliese 15 A
 Gliese 15 B,Gliese 15,star,Gliese 15 B
+GJ 15 B,Gliese 15,star,Gliese 15 B
 HD 1326 B,Gliese 15,star,Gliese 15 B
+GQ And,Gliese 15,star,Gliese 15 B
+GQ Andromedae,Gliese 15,star,Gliese 15 B
+Groombridge 34 B,Gliese 15,star,Gliese 15 B
+BD+43 44 B,Gliese 15,star,Gliese 15 B
+WDS J00184+4401 B,Gliese 15,star,Gliese 15 B
+2MASS J00182549+4401376,Gliese 15,star,Gliese 15 B
 GQ And,Gliese 15,star,Gliese 15 B
 Gliese 15 A b,Gliese 15,planet,Gliese 15 A b
 HD 1326 A b,Gliese 15,planet,Gliese 15 A b
@@ -4910,10 +4934,27 @@ KIC 8247638.04,Kepler-251,planet,Kepler-251 e
 eps Eridani,eps Eridani,system,eps Eridani
 eps Eridani,eps Eridani,star,eps Eridani
 eps Eri,eps Eridani,star,eps Eridani
+Epsilon Eridani,eps Eridani,star,eps Eridani
+ε Eri,eps Eridani,star,eps Eridani
+ε Eridani,eps Eridani,star,eps Eridani
+18 Eri,eps Eridani,star,eps Eridani
+18 Eridani,eps Eridani,star,eps Eridani
 HR 1084,eps Eridani,star,eps Eridani
 HD 22049,eps Eridani,star,eps Eridani
+HIP 16537,eps Eridani,star,eps Eridani
+TYC 5296-1533-1,eps Eridani,star,eps Eridani
+SAO 130564,eps Eridani,star,eps Eridani
+Gliese 144,eps Eridani,star,eps Eridani
+GJ 144,eps Eridani,star,eps Eridani
+BD-09 697,eps Eridani,star,eps Eridani
+2MASS J03325591-0927298,eps Eridani,star,eps Eridani
 eps Eridani b,eps Eridani,planet,eps Eridani b
 eps Eri b,eps Eridani,planet,eps Eridani b
+Epsilon Eridani b,eps Eridani,planet,eps Eridani b
+ε Eri b,eps Eridani,planet,eps Eridani b
+ε Eridani b,eps Eridani,planet,eps Eridani b
+18 Eri b,eps Eridani,planet,eps Eridani b
+18 Eridani b,eps Eridani,planet,eps Eridani b
 HR 1084 b,eps Eridani,planet,eps Eridani b
 HD 22049 b,eps Eridani,planet,eps Eridani b
 WASP-3,WASP-3,system,WASP-3
@@ -5323,8 +5364,19 @@ HD 85503,mu Leo,system,mu Leo
 mu Leo,mu Leo,star,mu Leo
 HD 85503,mu Leo,star,mu Leo
 mu Leonis,mu Leo,star,mu Leo
+μ Leo,mu Leo,star,mu Leo
+μ Leonis,mu Leo,star,mu Leo
+mu. Leo,mu Leo,star,mu Leo
+24 Leonis,mu Leo,star,mu Leo
+24 Leo,mu Leo,star,mu Leo
 Rasalas,mu Leo,star,mu Leo
 Alshemali,mu Leo,star,mu Leo
+HIP 48455,mu Leo,star,mu Leo
+TYC 1964-1473-1,mu Leo,star,mu Leo
+SAO 81064,mu Leo,star,mu Leo
+HR 3905,mu Leo,star,mu Leo
+BD+26 2019,mu Leo,star,mu Leo
+2MASS J09524585+2600248,mu Leo,star,mu Leo
 mu Leo b,mu Leo,planet,mu Leo b
 HD 85503 b,mu Leo,planet,mu Leo b
 mu Leonis b,mu Leo,planet,mu Leo b
@@ -5608,7 +5660,19 @@ KIC 8280511.02,Kepler-271,planet,Kepler-271 c
 beta Cancri,beta Cancri,system,beta Cancri
 HD 69267,beta Cancri,system,beta Cancri
 beta Cancri,beta Cancri,star,beta Cancri
+bet Cnc,beta Cancri,star,beta Cancri
+β Cnc,beta Cancri,star,beta Cancri
+β Cancri,beta Cancri,star,beta Cancri
+17 Cnc,beta Cancri,star,beta Cancri
+17 Cancri,beta Cancri,star,beta Cancri
+Al Tarf,beta Cancri,star,beta Cancri
 HD 69267,beta Cancri,star,beta Cancri
+HIP 40526,beta Cancri,star,beta Cancri
+TYC 794-1622-1,beta Cancri,star,beta Cancri
+SAO 116569,beta Cancri,star,beta Cancri
+HR 3249,beta Cancri,star,beta Cancri
+BD+09 1917,beta Cancri,star,beta Cancri
+2MASS J08163090+0911080,beta Cancri,star,beta Cancri
 beta Cancri b,beta Cancri,planet,beta Cancri b
 beta Cnc b,beta Cancri,planet,beta Cancri b
 bet Cnc b,beta Cancri,planet,beta Cancri b
@@ -8108,6 +8172,7 @@ KOI-620,Kepler-51,system,Kepler-51
 Kepler-51,Kepler-51,star,Kepler-51
 KOI-620,Kepler-51,star,Kepler-51
 KIC 11773022,Kepler-51,star,Kepler-51
+2MASS J19455514+4956156,Kepler-51,star,Kepler-51
 Kepler-51 b,Kepler-51,planet,Kepler-51 b
 KOI-620.01,Kepler-51,planet,Kepler-51 b
 KOI-620 b,Kepler-51,planet,Kepler-51 b
@@ -10895,7 +10960,28 @@ OGLE-2015-BLG-0966L,OGLE-2015-BLG-0966L,star,OGLE-2015-BLG-0966L
 OGLE-2015-BLG-0966L b,OGLE-2015-BLG-0966L,planet,OGLE-2015-BLG-0966L b
 eps Tau,eps Tau,system,eps Tau
 eps Tau,eps Tau,star,eps Tau
+eps Tauri,eps Tau,star,eps Tau
+Epsilon Tauri,eps Tau,star,eps Tau
+ε Tau,eps Tau,star,eps Tau
+ε Tauri,eps Tau,star,eps Tau
+74 Tau,eps Tau,star,eps Tau
+74 Tauri,eps Tau,star,eps Tau
+Ain,eps Tau,star,eps Tau
+Oculus Borealis,eps Tau,star,eps Tau
+HD 28305,eps Tau,star,eps Tau
+HIP 20889,eps Tau,star,eps Tau
+TYC 1273-1104-1,eps Tau,star,eps Tau
+SAO 93954,eps Tau,star,eps Tau
+HR 1409,eps Tau,star,eps Tau
+BD+18 640,eps Tau,star,eps Tau
+2MASS J04283697+1910494,eps Tau,star,eps Tau
+Melotte 25 S 3,eps Tau,star,eps Tau
+Melotte 25 MMU 70,eps Tau,star,eps Tau
 eps Tau b,eps Tau,planet,eps Tau b
+eps Tauri b,eps Tau,planet,eps Tau b
+Epsilon Tauri b,eps Tau,planet,eps Tau b
+ε Tau b,eps Tau,planet,eps Tau b
+ε Tauri b,eps Tau,planet,eps Tau b
 HAT-P-11,HAT-P-11,system,HAT-P-11
 HAT-P-11,HAT-P-11,star,HAT-P-11
 Kepler-3,HAT-P-11,star,HAT-P-11
@@ -12764,12 +12850,48 @@ GJ 903,gamma Cephei,system,gamma Cephei
 HR 8974,gamma Cephei,system,gamma Cephei
 HD 222404,gamma Cephei,system,gamma Cephei
 HIP 116727,gamma Cephei,system,gamma Cephei
-Gamma Cephei A,gamma Cephei,star,Gamma Cephei A
-Gamma Cephei B,gamma Cephei,star,Gamma Cephei B
+gamma Cephei A,gamma Cephei,star,gamma Cephei A
+Gamma Cephei A,gamma Cephei,star,gamma Cephei A
+gam Cep A,gamma Cephei,star,gamma Cephei A
+γ Cep A,gamma Cephei,star,gamma Cephei A
+γ Cephei A,gamma Cephei,star,gamma Cephei A
+35 Cep A,gamma Cephei,star,gamma Cephei A
+35 Cephei A,gamma Cephei,star,gamma Cephei A
+Errai A,gamma Cephei,star,gamma Cephei A
+Alrai A,gamma Cephei,star,gamma Cephei A
+Gliese 903 A,gamma Cephei,star,gamma Cephei A
+GJ 903 A,gamma Cephei,star,gamma Cephei A
+HR 8974 A,gamma Cephei,star,gamma Cephei A
+HD 222404 A,gamma Cephei,star,gamma Cephei A
+HIP 116727 A,gamma Cephei,star,gamma Cephei A
+TYC 4606-3584-1 A,gamma Cephei,star,gamma Cephei A
+BD+76 928 A,gamma Cephei,star,gamma Cephei A
+2MASS J23392083+7737563 A,gamma Cephei,star,gamma Cephei A
+WDS J23393+7738 A,gamma Cephei,star,gamma Cephei A
+NHR 9 A,gamma Cephei,star,gamma Cephei A
+gamma Cephei B,gamma Cephei,star,gamma Cephei B
+Gamma Cephei B,gamma Cephei,star,gamma Cephei B
+gam Cep B,gamma Cephei,star,gamma Cephei B
+γ Cep B,gamma Cephei,star,gamma Cephei B
+γ Cephei B,gamma Cephei,star,gamma Cephei B
+35 Cep B,gamma Cephei,star,gamma Cephei B
+35 Cephei B,gamma Cephei,star,gamma Cephei B
+Errai B,gamma Cephei,star,gamma Cephei B
+Alrai B,gamma Cephei,star,gamma Cephei B
+Gliese 903 B,gamma Cephei,star,gamma Cephei B
+GJ 903 B,gamma Cephei,star,gamma Cephei B
+HR 8974 B,gamma Cephei,star,gamma Cephei B
+HD 222404 B,gamma Cephei,star,gamma Cephei B
+HIP 116727 B,gamma Cephei,star,gamma Cephei B
+TYC 4606-3584-1 B,gamma Cephei,star,gamma Cephei B
+BD+76 928 B,gamma Cephei,star,gamma Cephei B
+2MASS J23392083+7737563 B,gamma Cephei,star,gamma Cephei B
+WDS J23393+7738 B,gamma Cephei,star,gamma Cephei B
+NHR 9 B,gamma Cephei,star,gamma Cephei B
 Gamma Cephei b,gamma Cephei,planet,Gamma Cephei b
 Gamma Cephei A b,gamma Cephei,planet,Gamma Cephei b
-gam Cep b,gamma Cephei,planet,Gamma Cephei b
-HD 222404b,gamma Cephei,planet,Gamma Cephei b
+gam Cep A b,gamma Cephei,planet,Gamma Cephei b
+HD 222404 A b,gamma Cephei,planet,Gamma Cephei b
 HD 152079,HD 152079,system,HD 152079
 HD 152079,HD 152079,star,HD 152079
 HD 152079 b,HD 152079,planet,HD 152079 b
@@ -13539,10 +13661,17 @@ HAT-P-34 b,HAT-P-34,planet,HAT-P-34 b
 eta Cet,eta Cet,system,eta Cet
 eta Cet,eta Cet,star,eta Cet
 Eta Ceti,eta Cet,star,eta Cet
+η Cet,eta Cet,star,eta Cet
+η Ceti,eta Cet,star,eta Cet
 Deneb Algenubi,eta Cet,star,eta Cet
 HIP 5364,eta Cet,star,eta Cet
 HD 6805,eta Cet,star,eta Cet
 HR 334,eta Cet,star,eta Cet
+TYC 5273-2657-1,eta Cet,star,eta Cet
+SAO 147632,eta Cet,star,eta Cet
+BD-10 240,eta Cet,star,eta Cet
+GJ 3075,eta Cet,star,eta Cet
+2MASS J01083539-1010560,eta Cet,star,eta Cet
 eta Cet b,eta Cet,planet,eta Cet b
 Eta Ceti b,eta Cet,planet,eta Cet b
 Deneb Algenubi b,eta Cet,planet,eta Cet b

@@ -1,11 +1,13 @@
 <system>
 	<name>eta Cet</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://cdsads.u-strasbg.fr/abs/2014A%26A...568A..64T</link>
 		<link>http://arxiv.org/abs/1407.0712</link>
 	</links>
 </system>
