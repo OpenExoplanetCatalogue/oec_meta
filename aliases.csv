@@ -4341,6 +4341,19 @@ EPIC 201577035 B,EPIC 201577035,star,EPIC 201577035 B
 EPIC 201577035 b,EPIC 201577035,planet,EPIC 201577035 b
 EPIC 201577035.01,EPIC 201577035,planet,EPIC 201577035 b
 K2-10 b,EPIC 201577035,planet,EPIC 201577035 b
+Wolf 1061,Wolf 1061,system,Wolf 1061
+Wolf 1061,Wolf 1061,star,Wolf 1061
+HIP 80824,Wolf 1061,star,Wolf 1061
+TYC 5635-1241-1,Wolf 1061,star,Wolf 1061
+Gliese 628,Wolf 1061,star,Wolf 1061
+GJ 628,Wolf 1061,star,Wolf 1061
+V2306 Oph,Wolf 1061,star,Wolf 1061
+V2306 Ophiuchi,Wolf 1061,star,Wolf 1061
+BD-12 4523,Wolf 1061,star,Wolf 1061
+2MASS J16301808-1239434,Wolf 1061,star,Wolf 1061
+Wolf 1061 b,Wolf 1061,planet,Wolf 1061 b
+Wolf 1061 c,Wolf 1061,planet,Wolf 1061 c
+Wolf 1061 d,Wolf 1061,planet,Wolf 1061 d
 KOI-314,KOI-314,system,KOI-314
 Kepler-138,KOI-314,system,KOI-314
 KIC 7603200,KOI-314,system,KOI-314
@@ -4535,6 +4548,15 @@ EPIC 210490365 b,EPIC 210490365,planet,EPIC 210490365 b
 OGLE-TR-111,OGLE-TR-111,system,OGLE-TR-111
 OGLE-TR-111,OGLE-TR-111,star,OGLE-TR-111
 OGLE-TR-111 b,OGLE-TR-111,planet,OGLE-TR-111 b
+HD 33844,HD 33844,system,HD 33844
+HD 33844,HD 33844,star,HD 33844
+HIP 24275,HD 33844,star,HD 33844
+TYC 5342-401-1,HD 33844,star,HD 33844
+SAO 150228,HD 33844,star,HD 33844
+BD-15 971,HD 33844,star,HD 33844
+2MASS J05123609-1457039,HD 33844,star,HD 33844
+HD 33844 b,HD 33844,planet,HD 33844 b
+HD 33844 c,HD 33844,planet,HD 33844 c
 EPIC 201629650,EPIC 201629650,system,EPIC 201629650
 EPIC 201629650,EPIC 201629650,star,EPIC 201629650
 K2-13,EPIC 201629650,star,EPIC 201629650
@@ -6089,47 +6111,66 @@ KOI-654.02,Kepler-200,planet,Kepler-200 c
 KIC 5941160 c,Kepler-200,planet,Kepler-200 c
 KIC 5941160.02,Kepler-200,planet,Kepler-200 c
 Kepler-444,Kepler-444,system,Kepler-444
-Kepler-444,Kepler-444,star,Kepler-444
-HIP 94931,Kepler-444,star,Kepler-444
-KOI-3158,Kepler-444,star,Kepler-444
-KIC 6278762,Kepler-444,star,Kepler-444
-LHS 3450,Kepler-444,star,Kepler-444
-PPM 58152,Kepler-444,star,Kepler-444
-TYC 3129-329-1,Kepler-444,star,Kepler-444
-BD+41 3306,Kepler-444,star,Kepler-444
+Kepler-444 A,Kepler-444,star,Kepler-444 A
+HIP 94931 A,Kepler-444,star,Kepler-444 A
+KOI-3158 A,Kepler-444,star,Kepler-444 A
+KIC 6278762 A,Kepler-444,star,Kepler-444 A
+LHS 3450 A,Kepler-444,star,Kepler-444 A
+PPM 58152 A,Kepler-444,star,Kepler-444 A
+TYC 3129-329-1,Kepler-444,star,Kepler-444 A
+BD+41 3306 A,Kepler-444,star,Kepler-444 A
+Kepler-444 B,Kepler-444,star,Kepler-444 B
+HIP 94931 B,Kepler-444,star,Kepler-444 B
+KOI-3158 B,Kepler-444,star,Kepler-444 B
+KIC 6278762 B,Kepler-444,star,Kepler-444 B
+LHS 3450 B,Kepler-444,star,Kepler-444 B
+PPM 58152 B,Kepler-444,star,Kepler-444 B
+BD+41 3306 B,Kepler-444,star,Kepler-444 B
+Kepler-444 C,Kepler-444,star,Kepler-444 C
+HIP 94931 C,Kepler-444,star,Kepler-444 C
+KOI-3158 C,Kepler-444,star,Kepler-444 C
+KIC 6278762 C,Kepler-444,star,Kepler-444 C
+LHS 3450 C,Kepler-444,star,Kepler-444 C
+PPM 58152 C,Kepler-444,star,Kepler-444 C
+BD+41 3306 C,Kepler-444,star,Kepler-444 C
 Kepler-444 b,Kepler-444,planet,Kepler-444 b
-HIP 94931 b,Kepler-444,planet,Kepler-444 b
+Kepler-444 A b,Kepler-444,planet,Kepler-444 b
+HIP 94931 A b,Kepler-444,planet,Kepler-444 b
 KOI-3158.01,Kepler-444,planet,Kepler-444 b
-KOI-3158 b,Kepler-444,planet,Kepler-444 b
-KIC 6278762 b,Kepler-444,planet,Kepler-444 b
-LHS 3450 b,Kepler-444,planet,Kepler-444 b
-PPM 58152 b,Kepler-444,planet,Kepler-444 b
+KOI-3158 A b,Kepler-444,planet,Kepler-444 b
+KIC 6278762 A b,Kepler-444,planet,Kepler-444 b
+LHS 3450 A b,Kepler-444,planet,Kepler-444 b
+PPM 58152 A b,Kepler-444,planet,Kepler-444 b
 TYC 3129-329-1 b,Kepler-444,planet,Kepler-444 b
-BD+41 3306 b,Kepler-444,planet,Kepler-444 b
+BD+41 3306 A b,Kepler-444,planet,Kepler-444 b
 Kepler-444 c,Kepler-444,planet,Kepler-444 c
-HIP 94931 c,Kepler-444,planet,Kepler-444 c
+Kepler-444 A c,Kepler-444,planet,Kepler-444 c
+HIP 94931 A c,Kepler-444,planet,Kepler-444 c
 KOI-3158.02,Kepler-444,planet,Kepler-444 c
-KOI-3158 c,Kepler-444,planet,Kepler-444 c
-KIC 6278762 c,Kepler-444,planet,Kepler-444 c
-LHS 3450 c,Kepler-444,planet,Kepler-444 c
+KOI-3158 A c,Kepler-444,planet,Kepler-444 c
+KIC 6278762 A c,Kepler-444,planet,Kepler-444 c
+LHS 3450 A c,Kepler-444,planet,Kepler-444 c
 Kepler-444 d,Kepler-444,planet,Kepler-444 d
-HIP 94931 d,Kepler-444,planet,Kepler-444 d
+Kepler-444 A d,Kepler-444,planet,Kepler-444 d
+HIP 94931 A d,Kepler-444,planet,Kepler-444 d
 KOI-3158.03,Kepler-444,planet,Kepler-444 d
-KOI-3158 d,Kepler-444,planet,Kepler-444 d
-KIC 6278762 d,Kepler-444,planet,Kepler-444 d
-LHS 3450 d,Kepler-444,planet,Kepler-444 d
+KOI-3158 A d,Kepler-444,planet,Kepler-444 d
+KIC 6278762 A d,Kepler-444,planet,Kepler-444 d
+LHS 3450 A d,Kepler-444,planet,Kepler-444 d
 Kepler-444 e,Kepler-444,planet,Kepler-444 e
-HIP 94931 e,Kepler-444,planet,Kepler-444 e
+Kepler-444 A e,Kepler-444,planet,Kepler-444 e
+HIP 94931 A e,Kepler-444,planet,Kepler-444 e
 KOI-3158.04,Kepler-444,planet,Kepler-444 e
-KOI-3158 e,Kepler-444,planet,Kepler-444 e
-KIC 6278762 e,Kepler-444,planet,Kepler-444 e
-LHS 3450 e,Kepler-444,planet,Kepler-444 e
+KOI-3158 A e,Kepler-444,planet,Kepler-444 e
+KIC 6278762 A e,Kepler-444,planet,Kepler-444 e
+LHS 3450 A e,Kepler-444,planet,Kepler-444 e
 Kepler-444 f,Kepler-444,planet,Kepler-444 f
-HIP 94931 f,Kepler-444,planet,Kepler-444 f
+Kepler-444 A f,Kepler-444,planet,Kepler-444 f
+HIP 94931 A f,Kepler-444,planet,Kepler-444 f
 KOI-3158.05,Kepler-444,planet,Kepler-444 f
-KOI-3158 f,Kepler-444,planet,Kepler-444 f
-KIC 6278762 f,Kepler-444,planet,Kepler-444 f
-LHS 3450 f,Kepler-444,planet,Kepler-444 f
+KOI-3158 A f,Kepler-444,planet,Kepler-444 f
+KIC 6278762 A f,Kepler-444,planet,Kepler-444 f
+LHS 3450 A f,Kepler-444,planet,Kepler-444 f
 HD 168443,HD 168443,system,HD 168443
 HD 168443,HD 168443,star,HD 168443
 HD 168443 b,HD 168443,planet,HD 168443 b
@@ -6235,6 +6276,69 @@ KIC 1718189.02,Kepler-262,planet,Kepler-262 b
 HD 290327,HD 290327,system,HD 290327
 HD 290327,HD 290327,star,HD 290327
 HD 290327 b,HD 290327,planet,HD 290327 b
+Psi-1 Draconis,Psi-1 Draconis,system,Psi-1 Draconis
+ψ1 Dra,Psi-1 Draconis,system,Psi-1 Draconis
+ψ1 Draconis,Psi-1 Draconis,system,Psi-1 Draconis
+psi01 Dra,Psi-1 Draconis,system,Psi-1 Draconis
+psi01 Draconis,Psi-1 Draconis,system,Psi-1 Draconis
+Psi-1 Draconis A,Psi-1 Draconis,star,Psi-1 Draconis A
+ψ1 Dra A,Psi-1 Draconis,star,Psi-1 Draconis A
+ψ1 Draconis A,Psi-1 Draconis,star,Psi-1 Draconis A
+psi01 Dra A,Psi-1 Draconis,star,Psi-1 Draconis A
+psi01 Draconis A,Psi-1 Draconis,star,Psi-1 Draconis A
+31 Dra A,Psi-1 Draconis,star,Psi-1 Draconis A
+31 Draconis A,Psi-1 Draconis,star,Psi-1 Draconis A
+HD 162003 A,Psi-1 Draconis,star,Psi-1 Draconis A
+HIP 86614 A,Psi-1 Draconis,star,Psi-1 Draconis A
+TYC 4436-1425-1 A,Psi-1 Draconis,star,Psi-1 Draconis A
+SAO 8890 A,Psi-1 Draconis,star,Psi-1 Draconis A
+HR 6636 A,Psi-1 Draconis,star,Psi-1 Draconis A
+Gliese 694.1 A,Psi-1 Draconis,star,Psi-1 Draconis A
+GJ 694.1 A,Psi-1 Draconis,star,Psi-1 Draconis A
+GJ 9602 A,Psi-1 Draconis,star,Psi-1 Draconis A
+BD+72 804 A,Psi-1 Draconis,star,Psi-1 Draconis A
+2MASS J17415635+7208561,Psi-1 Draconis,star,Psi-1 Draconis A
+WDS J17419+7209 A,Psi-1 Draconis,star,Psi-1 Draconis A
+Psi-1 Draconis C,Psi-1 Draconis,star,Psi-1 Draconis C
+ψ1 Dra C,Psi-1 Draconis,star,Psi-1 Draconis C
+ψ1 Draconis C,Psi-1 Draconis,star,Psi-1 Draconis C
+psi01 Dra C,Psi-1 Draconis,star,Psi-1 Draconis C
+psi01 Draconis C,Psi-1 Draconis,star,Psi-1 Draconis C
+31 Dra C,Psi-1 Draconis,star,Psi-1 Draconis C
+31 Draconis C,Psi-1 Draconis,star,Psi-1 Draconis C
+HD 162003 B,Psi-1 Draconis,star,Psi-1 Draconis C
+HIP 86614 B,Psi-1 Draconis,star,Psi-1 Draconis C
+TYC 4436-1425-1 B,Psi-1 Draconis,star,Psi-1 Draconis C
+SAO 8890 A,Psi-1 Draconis,star,Psi-1 Draconis C
+HR 6636 B,Psi-1 Draconis,star,Psi-1 Draconis C
+Gliese 694.1 C,Psi-1 Draconis,star,Psi-1 Draconis C
+GJ 694.1 C,Psi-1 Draconis,star,Psi-1 Draconis C
+GJ 9602 C,Psi-1 Draconis,star,Psi-1 Draconis C
+BD+72 804 B,Psi-1 Draconis,star,Psi-1 Draconis C
+Psi-1 Draconis B,Psi-1 Draconis,star,Psi-1 Draconis B
+ψ1 Dra B,Psi-1 Draconis,star,Psi-1 Draconis B
+ψ1 Draconis B,Psi-1 Draconis,star,Psi-1 Draconis B
+psi01 Dra B,Psi-1 Draconis,star,Psi-1 Draconis B
+psi01 Draconis B,Psi-1 Draconis,star,Psi-1 Draconis B
+31 Dra B,Psi-1 Draconis,star,Psi-1 Draconis B
+31 Draconis B,Psi-1 Draconis,star,Psi-1 Draconis B
+HD 162004,Psi-1 Draconis,star,Psi-1 Draconis B
+HIP 86620,Psi-1 Draconis,star,Psi-1 Draconis B
+TYC 4436-1424-1,Psi-1 Draconis,star,Psi-1 Draconis B
+SAO 8891,Psi-1 Draconis,star,Psi-1 Draconis B
+HR 6637,Psi-1 Draconis,star,Psi-1 Draconis B
+Gliese 694.1 B,Psi-1 Draconis,star,Psi-1 Draconis B
+GJ 694.1 B,Psi-1 Draconis,star,Psi-1 Draconis B
+GJ 9602 B,Psi-1 Draconis,star,Psi-1 Draconis B
+BD+72 805,Psi-1 Draconis,star,Psi-1 Draconis B
+2MASS J17415811+7209251,Psi-1 Draconis,star,Psi-1 Draconis B
+WDS J17419+7209 B,Psi-1 Draconis,star,Psi-1 Draconis B
+STF 2241 B,Psi-1 Draconis,star,Psi-1 Draconis B
+Psi-1 Draconis B b,Psi-1 Draconis,planet,Psi-1 Draconis B b
+ψ1 Dra B b,Psi-1 Draconis,planet,Psi-1 Draconis B b
+ψ1 Draconis B b,Psi-1 Draconis,planet,Psi-1 Draconis B b
+psi01 Dra B b,Psi-1 Draconis,planet,Psi-1 Draconis B b
+psi01 Draconis B b,Psi-1 Draconis,planet,Psi-1 Draconis B b
 EPIC 206318379,EPIC 206318379,system,EPIC 206318379
 EPIC 206318379,EPIC 206318379,star,EPIC 206318379
 2MASS J22222988-0757195,EPIC 206318379,star,EPIC 206318379
@@ -6258,6 +6362,13 @@ KIC 6347299.02,Kepler-204,planet,Kepler-204 c
 HD 87883,HD 87883,system,HD 87883
 HD 87883,HD 87883,star,HD 87883
 HD 87883 b,HD 87883,planet,HD 87883 b
+HD 95872,HD 95872,system,HD 95872
+HD 95872,HD 95872,star,HD 95872
+TYC 6083-1275-1,HD 95872,star,HD 95872
+BD-21 3221,HD 95872,star,HD 95872
+CPD-21 4847,HD 95872,star,HD 95872
+2MASS J11032810-2205383,HD 95872,star,HD 95872
+HD 95872 b,HD 95872,planet,HD 95872 b
 HD 164604,HD 164604,system,HD 164604
 HD 164604,HD 164604,star,HD 164604
 HD 164604 b,HD 164604,planet,HD 164604 b
@@ -6647,6 +6758,14 @@ KIC 10426656.03,Kepler-272,planet,Kepler-272 b
 HD 170469,HD 170469,system,HD 170469
 HD 170469,HD 170469,star,HD 170469
 HD 170469 b,HD 170469,planet,HD 170469 b
+HD 32963,HD 32963,system,HD 32963
+HD 32963,HD 32963,star,HD 32963
+HIP 23884,HD 32963,star,HD 32963
+TYC 1853-1187-1,HD 32963,star,HD 32963
+SAO 76970,HD 32963,star,HD 32963
+BD+26 789,HD 32963,star,HD 32963
+2MASS J05075576+2619408,HD 32963,star,HD 32963
+HD 32963 b,HD 32963,planet,HD 32963 b
 Kepler-61,Kepler-61,system,Kepler-61
 KOI-1361,Kepler-61,system,Kepler-61
 KIC 6960913,Kepler-61,system,Kepler-61
