@@ -1,6 +1,10 @@
 <system>
 	<name>OGLE-2012-BLG-0026L</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1601.01846</link>
+	</links>
 </system>
