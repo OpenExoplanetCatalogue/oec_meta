@@ -2047,20 +2047,32 @@ WASP-100 b,WASP-100,planet,WASP-100 b
 1SWASP J043550.32-640137.3 b,WASP-100,planet,WASP-100 b
 2MASS 04355033-6401373 b,WASP-100,planet,WASP-100 b
 Kepler-21,Kepler-21,system,Kepler-21
-Kepler-21,Kepler-21,star,Kepler-21
-KOI-975,Kepler-21,star,Kepler-21
-KIC 3632418,Kepler-21,star,Kepler-21
-HIP 94112,Kepler-21,star,Kepler-21
+Kepler-21 A,Kepler-21,star,Kepler-21 A
+KOI-975 A,Kepler-21,star,Kepler-21 A
+KIC 3632418 A,Kepler-21,star,Kepler-21 A
+HIP 94112,Kepler-21,star,Kepler-21 A
+TYC 3120-963-1,Kepler-21,star,Kepler-21 A
+SAO 67891,Kepler-21,star,Kepler-21 A
+BD+38 3455 A,Kepler-21,star,Kepler-21 A
+2MASS J19092683+3842505,Kepler-21,star,Kepler-21 A
+Kepler-21 B,Kepler-21,star,Kepler-21 B
+KOI-975 B,Kepler-21,star,Kepler-21 B
+KIC 3632418 A,Kepler-21,star,Kepler-21 B
+HD 179070 B,Kepler-21,star,Kepler-21 B
+BD+38 3455 B,Kepler-21,star,Kepler-21 B
 Kepler-21 b,Kepler-21,planet,Kepler-21 b
+Kepler-21 A b,Kepler-21,planet,Kepler-21 b
 HIP 94112 b,Kepler-21,planet,Kepler-21 b
 TYC 3120-00963-1 b,Kepler-21,planet,Kepler-21 b
 HD 179070 b,Kepler-21,planet,Kepler-21 b
-BD+38 3455 b,Kepler-21,planet,Kepler-21 b
+HD 179070 A b,Kepler-21,planet,Kepler-21 b
+BD+38 3455 A b,Kepler-21,planet,Kepler-21 b
 SAO 67891 b,Kepler-21,planet,Kepler-21 b
 2MASS J19092683+3842505 b,Kepler-21,planet,Kepler-21 b
 KIC 3632418 b,Kepler-21,planet,Kepler-21 b
 KOI-975.01,Kepler-21,planet,Kepler-21 b
 KOI-975 b,Kepler-21,planet,Kepler-21 b
+KOI-975 A b,Kepler-21,planet,Kepler-21 b
 HAT-P-52,HAT-P-52,system,HAT-P-52
 HAT-P-52,HAT-P-52,star,HAT-P-52
 GSC 1793-01136,HAT-P-52,star,HAT-P-52
@@ -3383,8 +3395,16 @@ KOI-834.05,Kepler-238,planet,Kepler-238 f
 KIC 5436502 f,Kepler-238,planet,Kepler-238 f
 KIC 5436502.05,Kepler-238,planet,Kepler-238 f
 HD 217786,HD 217786,system,HD 217786
-HD 217786,HD 217786,star,HD 217786
+HD 217786 A,HD 217786,star,HD 217786 A
+HIP 113834,HD 217786,star,HD 217786 A
+TYC 5242-591-1,HD 217786,star,HD 217786 A
+SAO 146477,HD 217786,star,HD 217786 A
+BD-01 4382 A,HD 217786,star,HD 217786 A
+2MASS J23030822-0025465,HD 217786,star,HD 217786 A
+HD 217786 B,HD 217786,star,HD 217786 B
+BD-01 4382 B,HD 217786,star,HD 217786 B
 HD 217786 b,HD 217786,planet,HD 217786 b
+HD 217786 A b,HD 217786,planet,HD 217786 b
 KIC 10525077,KIC 10525077,system,KIC 10525077
 KOI-5800,KIC 10525077,system,KIC 10525077
 Kepler-459,KIC 10525077,system,KIC 10525077
@@ -11538,8 +11558,18 @@ HD 114613,HD 114613,system,HD 114613
 HD 114613,HD 114613,star,HD 114613
 HD 114613 b,HD 114613,planet,HD 114613 b
 HD 185269,HD 185269,system,HD 185269
-HD 185269,HD 185269,star,HD 185269
+HD 185269 A,HD 185269,star,HD 185269 A
+HIP 96507,HD 185269,star,HD 185269 A
+TYC 2150-5013-1,HD 185269,star,HD 185269 A
+SAO 87464,HD 185269,star,HD 185269 A
+BD+28 3412 A,HD 185269,star,HD 185269 A
+2MASS J19371174+2829597,HD 185269,star,HD 185269 A
+HD 185269 Ba,HD 185269,star,HD 185269 Ba
+BD+28 3412 Ba,HD 185269,star,HD 185269 Ba
+HD 185269 Bb,HD 185269,star,HD 185269 Bb
+BD+28 3412 Bb,HD 185269,star,HD 185269 Bb
 HD 185269 b,HD 185269,planet,HD 185269 b
+HD 185269 A b,HD 185269,planet,HD 185269 b
 HD 80606,HD 80606,system,HD 80606
 HD 80606,HD 80606,star,HD 80606
 Struve 1341 B,HD 80606,star,HD 80606
@@ -12448,8 +12478,16 @@ KIC 11853905 b,Kepler-4,planet,Kepler-4 b
 KOI-7.01,Kepler-4,planet,Kepler-4 b
 KOI-7 b,Kepler-4,planet,Kepler-4 b
 HD 197037,HD 197037,system,HD 197037
-HD 197037,HD 197037,star,HD 197037
+HD 197037 A,HD 197037,star,HD 197037 A
+HIP 101948,HD 197037,star,HD 197037 A
+TYC 3161-126-1,HD 197037,star,HD 197037 A
+SAO 49900,HD 197037,star,HD 197037 A
+BD+41 3845 A,HD 197037,star,HD 197037 A
+2MASS J20393296+4214549,HD 197037,star,HD 197037 A
+HD 197037 B,HD 197037,star,HD 197037 B
+BD+41 3845 B,HD 197037,star,HD 197037 B
 HD 197037 b,HD 197037,planet,HD 197037 b
+HD 197037 A b,HD 197037,planet,HD 197037 b
 KELT-7,KELT-7,system,KELT-7
 KELT-7,KELT-7,star,KELT-7
 HD 33643,KELT-7,star,KELT-7
@@ -12922,25 +12960,38 @@ KOI-2163.02,Kepler-365,planet,Kepler-365 c
 KIC 11358389 c,Kepler-365,planet,Kepler-365 c
 KIC 11358389.02,Kepler-365,planet,Kepler-365 c
 Kepler-68,Kepler-68,system,Kepler-68
-Kepler-68,Kepler-68,star,Kepler-68
-KOI-246,Kepler-68,star,Kepler-68
-KIC 11295426,Kepler-68,star,Kepler-68
-2MASS J19240775+4902249,Kepler-68,star,Kepler-68
+Kepler-68 A,Kepler-68,star,Kepler-68 A
+KOI-246 A,Kepler-68,star,Kepler-68 A
+KIC 11295426 A,Kepler-68,star,Kepler-68 A
+2MASS J19240775+4902249,Kepler-68,star,Kepler-68 A
+TYC 3551-189-1,Kepler-68,star,Kepler-68 A
+Kepler-68 B,Kepler-68,star,Kepler-68 B
+KOI-246 B,Kepler-68,star,Kepler-68 B
+KIC 11295426 B,Kepler-68,star,Kepler-68 B
 Kepler-68 b,Kepler-68,planet,Kepler-68 b
+Kepler-68 A b,Kepler-68,planet,Kepler-68 b
 KIC 11295426 b,Kepler-68,planet,Kepler-68 b
+KIC 11295426 A b,Kepler-68,planet,Kepler-68 b
 2MASS J19240775+4902249 b,Kepler-68,planet,Kepler-68 b
 KOI-246.01,Kepler-68,planet,Kepler-68 b
 KOI-246 b,Kepler-68,planet,Kepler-68 b
+KOI-246 A b,Kepler-68,planet,Kepler-68 b
 Kepler-68 c,Kepler-68,planet,Kepler-68 c
+Kepler-68 A c,Kepler-68,planet,Kepler-68 c
 KIC 11295426 c,Kepler-68,planet,Kepler-68 c
+KIC 11295426 A c,Kepler-68,planet,Kepler-68 c
 2MASS J19240775+4902249 c,Kepler-68,planet,Kepler-68 c
 KOI-246.02,Kepler-68,planet,Kepler-68 c
 KOI-246 c,Kepler-68,planet,Kepler-68 c
+KOI-246 A c,Kepler-68,planet,Kepler-68 c
 Kepler-68 d,Kepler-68,planet,Kepler-68 d
+Kepler-68 A d,Kepler-68,planet,Kepler-68 d
 KIC 11295426 d,Kepler-68,planet,Kepler-68 d
+KIC 11295426 A d,Kepler-68,planet,Kepler-68 d
 2MASS J19240775+4902249 d,Kepler-68,planet,Kepler-68 d
 KOI-246.20,Kepler-68,planet,Kepler-68 d
 KOI-246 d,Kepler-68,planet,Kepler-68 d
+KOI-246 A d,Kepler-68,planet,Kepler-68 d
 Kepler-164,Kepler-164,system,Kepler-164
 KOI-474,Kepler-164,system,Kepler-164
 KIC 10460984,Kepler-164,system,Kepler-164
