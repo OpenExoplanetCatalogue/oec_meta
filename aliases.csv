@@ -378,14 +378,31 @@ KIC 9008737 c,Kepler-404,planet,Kepler-404 c
 KIC 9008737.02,Kepler-404,planet,Kepler-404 c
 Gliese 86,Gliese 86,system,Gliese 86
 Gliese 86 A,Gliese 86,star,Gliese 86 A
+GJ 86 A,Gliese 86,star,Gliese 86 A
 HR 637,Gliese 86,star,Gliese 86 A
-HD 13445,Gliese 86,star,Gliese 86 A
+HD 13445 A,Gliese 86,star,Gliese 86 A
+HIP 10138,Gliese 86,star,Gliese 86 A
+TYC 8048-1022-1,Gliese 86,star,Gliese 86 A
+SAO 232658,Gliese 86,star,Gliese 86 A
+CD-51 532 A,Gliese 86,star,Gliese 86 A
+CPD-51 282 A,Gliese 86,star,Gliese 86 A
+2MASS J02102587-5049258,Gliese 86,star,Gliese 86 A
+WDS J02104-5049 A,Gliese 86,star,Gliese 86 A
 Gliese 86 B,Gliese 86,star,Gliese 86 B
 WD 0208-510,Gliese 86,star,Gliese 86 B
+HD 13445 B,Gliese 86,star,Gliese 86 B
+CD-51 532 B,Gliese 86,star,Gliese 86 B
+CPD-51 282 B,Gliese 86,star,Gliese 86 B
+2MASS J02102587-5049258,Gliese 86,star,Gliese 86 B
+WDS J02104-5049 B,Gliese 86,star,Gliese 86 B
 Gliese 86 b,Gliese 86,planet,Gliese 86 b
+Gliese 86 A b,Gliese 86,planet,Gliese 86 b
 GJ 86 b,Gliese 86,planet,Gliese 86 b
+GJ 86 A b,Gliese 86,planet,Gliese 86 b
 Gj 86 b,Gliese 86,planet,Gliese 86 b
 Gl 86 b,Gliese 86,planet,Gliese 86 b
+HD 13445 b,Gliese 86,planet,Gliese 86 b
+HD 13445 A b,Gliese 86,planet,Gliese 86 b
 HD 145377,HD 145377,system,HD 145377
 HD 145377,HD 145377,star,HD 145377
 HD 145377 b,HD 145377,planet,HD 145377 b
@@ -4091,6 +4108,8 @@ Gliese 163,Gliese 163,star,Gliese 163
 GJ 163,Gliese 163,star,Gliese 163
 HIP 19394,Gliese 163,star,Gliese 163
 LHS 188,Gliese 163,star,Gliese 163
+TYC 8502-1934-1,Gliese 163,star,Gliese 163
+2MASS J04091567-5322254,Gliese 163,star,Gliese 163
 Gliese 163 b,Gliese 163,planet,Gliese 163 b
 GJ 163 b,Gliese 163,planet,Gliese 163 b
 HIP 19394 b,Gliese 163,planet,Gliese 163 b
@@ -11124,7 +11143,12 @@ KIC 3234598 c,Kepler-383,planet,Kepler-383 c
 KIC 3234598.02,Kepler-383,planet,Kepler-383 c
 Gliese 176,Gliese 176,system,Gliese 176
 Gliese 176,Gliese 176,star,Gliese 176
+GJ 176,Gliese 176,star,Gliese 176
 HD 285968,Gliese 176,star,Gliese 176
+HIP 21932,Gliese 176,star,Gliese 176
+TYC 1275-2034-1,Gliese 176,star,Gliese 176
+BD+18 683,Gliese 176,star,Gliese 176
+2MASS J04425581+1857285,Gliese 176,star,Gliese 176
 Gliese 176 b,Gliese 176,planet,Gliese 176 b
 GJ 176 b,Gliese 176,planet,Gliese 176 b
 Gj 176 b,Gliese 176,planet,Gliese 176 b
