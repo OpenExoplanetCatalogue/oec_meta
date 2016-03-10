@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>8172</commits>
-	<contributors num="29">
+	<commits>8174</commits>
+	<contributors num="30">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
@@ -20,6 +20,7 @@
 		<contributor>James Gregory</contributor>
 		<contributor>Miguel De Val-Borro</contributor>
 		<contributor>Darryl Hemsley</contributor>
+		<contributor>Paul A. Wilson</contributor>
 		<contributor>Allen Davis</contributor>
 		<contributor>Paul Zwerger</contributor>
 		<contributor>Rajeev-Jeyaraj</contributor>
@@ -31,8 +32,8 @@
 		<contributor>Orome</contributor>
 		<contributor>Allen Davis</contributor>
 	</contributors>
-	<planets>2136</planets>
-	<systems>1307</systems>
+	<planets>2137</planets>
+	<systems>1308</systems>
 	<binaries>130</binaries>
 	<discoveryyear>
 		<y1992>4</y1992>
@@ -64,5 +65,5 @@
 	<confirmedplanets>2022</confirmedplanets>
 	<confirmedsystems>1262</confirmedsystems>
 	<lastupdate>2016-03-09</lastupdate>
-	<lastcommittimestamp>1457556935</lastcommittimestamp>
+	<lastcommittimestamp>1457567399</lastcommittimestamp>
 </statistiscs>
