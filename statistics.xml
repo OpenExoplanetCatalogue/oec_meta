@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>8177</commits>
+	<commits>9364</commits>
 	<contributors num="30">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
@@ -32,8 +32,8 @@
 		<contributor>Orome</contributor>
 		<contributor>Allen Davis</contributor>
 	</contributors>
-	<planets>2140</planets>
-	<systems>1309</systems>
+	<planets>3399</planets>
+	<systems>2496</systems>
 	<binaries>130</binaries>
 	<discoveryyear>
 		<y1992>4</y1992>
@@ -60,10 +60,10 @@
 		<y2013>123</y2013>
 		<y2014>904</y2014>
 		<y2015>174</y2015>
-		<y2016>10</y2016>
+		<y2016>1269</y2016>
 	</discoveryyear>
-	<confirmedplanets>2025</confirmedplanets>
-	<confirmedsystems>1263</confirmedsystems>
-	<lastupdate>2016-05-02</lastupdate>
-	<lastcommittimestamp>1462205413</lastcommittimestamp>
+	<confirmedplanets>3284</confirmedplanets>
+	<confirmedsystems>2450</confirmedsystems>
+	<lastupdate>2016-05-10</lastupdate>
+	<lastcommittimestamp>1462922871</lastcommittimestamp>
 </statistiscs>
