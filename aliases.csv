@@ -882,6 +882,7 @@ KOI-481 c,Kepler-166,planet,Kepler-166 c
 KOI-481.03,Kepler-166,planet,Kepler-166 c
 KIC 11192998 c,Kepler-166,planet,Kepler-166 c
 KIC 11192998.03,Kepler-166,planet,Kepler-166 c
+Kepler-166 d,Kepler-166,planet,Kepler-166 d
 Kepler-819,Kepler-819,system,Kepler-819
 Kepler-819,Kepler-819,star,Kepler-819
 Kepler-819 b,Kepler-819,planet,Kepler-819 b
@@ -1285,6 +1286,7 @@ KOI-869 c,Kepler-245,planet,Kepler-245 c
 KOI-869.03,Kepler-245,planet,Kepler-245 c
 KIC 6948054 c,Kepler-245,planet,Kepler-245 c
 KIC 6948054.03,Kepler-245,planet,Kepler-245 c
+Kepler-245 e,Kepler-245,planet,Kepler-245 e
 Kepler-1073,Kepler-1073,system,Kepler-1073
 Kepler-1073,Kepler-1073,star,Kepler-1073
 Kepler-1073 b,Kepler-1073,planet,Kepler-1073 b
@@ -2314,6 +2316,9 @@ KOI-435 c,Kepler-154,planet,Kepler-154 c
 KOI-435.05,Kepler-154,planet,Kepler-154 c
 KIC 11709124 c,Kepler-154,planet,Kepler-154 c
 KIC 11709124.05,Kepler-154,planet,Kepler-154 c
+Kepler-154 d,Kepler-154,planet,Kepler-154 d
+Kepler-154 e,Kepler-154,planet,Kepler-154 e
+Kepler-154 f,Kepler-154,planet,Kepler-154 f
 Kepler-1406,Kepler-1406,system,Kepler-1406
 Kepler-1406,Kepler-1406,star,Kepler-1406
 Kepler-1406 b,Kepler-1406,planet,Kepler-1406 b
@@ -2558,6 +2563,7 @@ KOI-2732 c,Kepler-403,planet,Kepler-403 c
 KOI-2732.03,Kepler-403,planet,Kepler-403 c
 KIC 9886361 c,Kepler-403,planet,Kepler-403 c
 KIC 9886361.03,Kepler-403,planet,Kepler-403 c
+Kepler-403 d,Kepler-403,planet,Kepler-403 d
 Kepler-986,Kepler-986,system,Kepler-986
 Kepler-986,Kepler-986,star,Kepler-986
 Kepler-986 b,Kepler-986,planet,Kepler-986 b
@@ -3309,6 +3315,7 @@ KOI-2693 c,Kepler-398,planet,Kepler-398 c
 KOI-2693.02,Kepler-398,planet,Kepler-398 c
 KIC 5185897 c,Kepler-398,planet,Kepler-398 c
 KIC 5185897.02,Kepler-398,planet,Kepler-398 c
+Kepler-398 d,Kepler-398,planet,Kepler-398 d
 Kepler-1418,Kepler-1418,system,Kepler-1418
 Kepler-1418,Kepler-1418,star,Kepler-1418
 Kepler-1418 b,Kepler-1418,planet,Kepler-1418 b
@@ -3864,6 +3871,7 @@ KOI-624 c,Kepler-198,planet,Kepler-198 c
 KOI-624.02,Kepler-198,planet,Kepler-198 c
 KIC 3541946 c,Kepler-198,planet,Kepler-198 c
 KIC 3541946.02,Kepler-198,planet,Kepler-198 c
+Kepler-198 d,Kepler-198,planet,Kepler-198 d
 EPIC 201617985,EPIC 201617985,system,EPIC 201617985
 EPIC 201617985,EPIC 201617985,star,EPIC 201617985
 EPIC 201617985 b,EPIC 201617985,planet,EPIC 201617985 b
@@ -4594,6 +4602,7 @@ KOI-1955 c,Kepler-342,planet,Kepler-342 c
 KOI-1955.04,Kepler-342,planet,Kepler-342 c
 KIC 9892816 c,Kepler-342,planet,Kepler-342 c
 KIC 9892816.04,Kepler-342,planet,Kepler-342 c
+Kepler-342 e,Kepler-342,planet,Kepler-342 e
 HD 171028,HD 171028,system,HD 171028
 HD 171028,HD 171028,star,HD 171028
 HD 171028 b,HD 171028,planet,HD 171028 b
@@ -5977,6 +5986,7 @@ KOI-710 c,Kepler-217,planet,Kepler-217 c
 KOI-710.02,Kepler-217,planet,Kepler-217 c
 KIC 9590976 c,Kepler-217,planet,Kepler-217 c
 KIC 9590976.02,Kepler-217,planet,Kepler-217 c
+Kepler-217 d,Kepler-217,planet,Kepler-217 d
 HD 218566,HD 218566,system,HD 218566
 HD 218566,HD 218566,star,HD 218566
 HIP 114322,HD 218566,star,HD 218566
@@ -7265,6 +7275,7 @@ KOI-1151 c,Kepler-271,planet,Kepler-271 c
 KOI-1151.02,Kepler-271,planet,Kepler-271 c
 KIC 8280511 c,Kepler-271,planet,Kepler-271 c
 KIC 8280511.02,Kepler-271,planet,Kepler-271 c
+Kepler-271 d,Kepler-271,planet,Kepler-271 d
 Kepler-776,Kepler-776,system,Kepler-776
 Kepler-776,Kepler-776,star,Kepler-776
 Kepler-776 b,Kepler-776,planet,Kepler-776 b
@@ -7981,6 +7992,7 @@ KOI-711 b,Kepler-218,planet,Kepler-218 b
 KOI-711.02,Kepler-218,planet,Kepler-218 b
 KIC 9597345 b,Kepler-218,planet,Kepler-218 b
 KIC 9597345.02,Kepler-218,planet,Kepler-218 b
+Kepler-218 d,Kepler-218,planet,Kepler-218 d
 SR 12 AB,SR 12 AB,system,SR 12 AB
 SR 12 A,SR 12 AB,star,SR 12 A
 SR 12 B,SR 12 AB,star,SR 12 B
@@ -8784,6 +8796,7 @@ KOI-584 c,Kepler-192,planet,Kepler-192 c
 KOI-584.02,Kepler-192,planet,Kepler-192 c
 KIC 9146018 c,Kepler-192,planet,Kepler-192 c
 KIC 9146018.02,Kepler-192,planet,Kepler-192 c
+Kepler-192 d,Kepler-192,planet,Kepler-192 d
 HD 6434,HD 6434,system,HD 6434
 HD 6434,HD 6434,star,HD 6434
 HIP 5054,HD 6434,star,HD 6434
@@ -9538,6 +9551,7 @@ KOI-500 e,Kepler-80,planet,Kepler-80 e
 KOI-500.04,Kepler-80,planet,Kepler-80 e
 KIC 4852528 e,Kepler-80,planet,Kepler-80 e
 KIC 4852528.04,Kepler-80,planet,Kepler-80 e
+Kepler-80 f,Kepler-80,planet,Kepler-80 f
 Kepler-578,Kepler-578,system,Kepler-578
 Kepler-578,Kepler-578,star,Kepler-578
 Kepler-578 b,Kepler-578,planet,Kepler-578 b
@@ -9686,6 +9700,7 @@ KOI-2714 c,Kepler-401,planet,Kepler-401 c
 KOI-2714.02,Kepler-401,planet,Kepler-401 c
 KIC 12206313 c,Kepler-401,planet,Kepler-401 c
 KIC 12206313.02,Kepler-401,planet,Kepler-401 c
+Kepler-401 d,Kepler-401,planet,Kepler-401 d
 Kepler-1599,Kepler-1599,system,Kepler-1599
 Kepler-1599,Kepler-1599,star,Kepler-1599
 Kepler-1599 b,Kepler-1599,planet,Kepler-1599 b
@@ -10163,6 +10178,7 @@ KOI-1557 c,Kepler-304,planet,Kepler-304 c
 KOI-1557.03,Kepler-304,planet,Kepler-304 c
 KIC 5371776 c,Kepler-304,planet,Kepler-304 c
 KIC 5371776.03,Kepler-304,planet,Kepler-304 c
+Kepler-304 e,Kepler-304,planet,Kepler-304 e
 KIC 10905746,KIC 10905746,system,KIC 10905746
 KIC 10905746,KIC 10905746,star,KIC 10905746
 KOI-1725,KIC 10905746,star,KIC 10905746
@@ -12085,6 +12101,7 @@ KOI-582 b,Kepler-191,planet,Kepler-191 b
 KOI-582.03,Kepler-191,planet,Kepler-191 b
 KIC 9020160 b,Kepler-191,planet,Kepler-191 b
 KIC 9020160.03,Kepler-191,planet,Kepler-191 b
+Kepler-191 d,Kepler-191,planet,Kepler-191 d
 Kepler-1258,Kepler-1258,system,Kepler-1258
 Kepler-1258,Kepler-1258,star,Kepler-1258
 Kepler-1258 b,Kepler-1258,planet,Kepler-1258 b
@@ -12505,6 +12522,7 @@ KOI-442 b,Kepler-157,planet,Kepler-157 b
 KOI-442.02,Kepler-157,planet,Kepler-157 b
 KIC 3745690 b,Kepler-157,planet,Kepler-157 b
 KIC 3745690.02,Kepler-157,planet,Kepler-157 b
+Kepler-157 d,Kepler-157,planet,Kepler-157 d
 Kepler-57,Kepler-57,system,Kepler-57
 Kepler-57,Kepler-57,star,Kepler-57
 KOI-1270,Kepler-57,star,Kepler-57
@@ -12854,6 +12872,7 @@ KOI-938 b,Kepler-255,planet,Kepler-255 b
 KOI-938.03,Kepler-255,planet,Kepler-255 b
 KIC 9415172 b,Kepler-255,planet,Kepler-255 b
 KIC 9415172.03,Kepler-255,planet,Kepler-255 b
+Kepler-255 d,Kepler-255,planet,Kepler-255 d
 HAT-P-32,HAT-P-32,system,HAT-P-32
 HAT-P-32 A,HAT-P-32,star,HAT-P-32 A
 TYC 3281-800-1,HAT-P-32,star,HAT-P-32 A
@@ -13316,6 +13335,7 @@ KOI-2028 b,Kepler-351,planet,Kepler-351 b
 KOI-2028.02,Kepler-351,planet,Kepler-351 b
 KIC 7102316 b,Kepler-351,planet,Kepler-351 b
 KIC 7102316.02,Kepler-351,planet,Kepler-351 b
+Kepler-351 d,Kepler-351,planet,Kepler-351 d
 Kepler-550,Kepler-550,system,Kepler-550
 Kepler-550,Kepler-550,star,Kepler-550
 Kepler-550 b,Kepler-550,planet,Kepler-550 b
@@ -15915,7 +15935,8 @@ Kepler-436 b,Kepler-436,planet,Kepler-436 b
 KOI-2529.02,Kepler-436,planet,Kepler-436 b
 KOI-2529 b,Kepler-436,planet,Kepler-436 b
 KIC 8463346 b,Kepler-436,planet,Kepler-436 b
-KOI-2529.01,Kepler-436,planet,KOI-2529.01
+Kepler-436 c,Kepler-436,planet,Kepler-436 c
+KOI-2529.01,Kepler-436,planet,Kepler-436 c
 HD 10697,HD 10697,system,HD 10697
 HD 10697,HD 10697,star,HD 10697
 HD 10697 b,HD 10697,planet,HD 10697 b
@@ -16166,6 +16187,7 @@ KOI-398 b,Kepler-148,planet,Kepler-148 b
 KOI-398.03,Kepler-148,planet,Kepler-148 b
 KIC 9946525 b,Kepler-148,planet,Kepler-148 b
 KIC 9946525.03,Kepler-148,planet,Kepler-148 b
+Kepler-148 d,Kepler-148,planet,Kepler-148 d
 WASP-59,WASP-59,system,WASP-59
 WASP-59,WASP-59,star,WASP-59
 WASP-59 b,WASP-59,planet,WASP-59 b
@@ -16597,6 +16619,7 @@ KOI-284 b,Kepler-132,planet,Kepler-132 b
 KOI-284.03,Kepler-132,planet,Kepler-132 b
 KIC 6021275 b,Kepler-132,planet,Kepler-132 b
 KIC 6021275.03,Kepler-132,planet,Kepler-132 b
+Kepler-132 e,Kepler-132,planet,Kepler-132 e
 Gliese 849,Gliese 849,system,Gliese 849
 Gliese 849,Gliese 849,star,Gliese 849
 GJ 849,Gliese 849,star,Gliese 849
@@ -17316,6 +17339,7 @@ KOI-520 d,Kepler-176,planet,Kepler-176 d
 KOI-520.03,Kepler-176,planet,Kepler-176 d
 KIC 8037145 d,Kepler-176,planet,Kepler-176 d
 KIC 8037145.03,Kepler-176,planet,Kepler-176 d
+Kepler-176 e,Kepler-176,planet,Kepler-176 e
 Kepler-1459,Kepler-1459,system,Kepler-1459
 Kepler-1459,Kepler-1459,star,Kepler-1459
 Kepler-1459 b,Kepler-1459,planet,Kepler-1459 b

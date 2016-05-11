@@ -1,7 +1,10 @@
 <system>
 	<name>Kepler-148</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
+	<links>
+		<link>http://astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+	</links>
 </system>
