@@ -8922,6 +8922,11 @@ GJ 9214,7 CMa,star,7 CMa
 7 CMa b,7 CMa,planet,7 CMa b
 7 Canis Majoris b,7 CMa,planet,7 CMa b
 HD 47205 b,7 CMa,planet,7 CMa b
+HD 131399,HD 131399,system,HD 131399
+HD 131399 A,HD 131399,star,HD 131399 A
+HD 131399 B,HD 131399,star,HD 131399 B
+HD 131399 C,HD 131399,star,HD 131399 C
+HD 131399 Ab,HD 131399,planet,HD 131399 Ab
 Kepler-1286,Kepler-1286,system,Kepler-1286
 Kepler-1286,Kepler-1286,star,Kepler-1286
 Kepler-1286 b,Kepler-1286,planet,Kepler-1286 b
