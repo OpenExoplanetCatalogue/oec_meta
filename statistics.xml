@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>10575</commits>
-	<contributors num="32">
+	<commits>10561</commits>
+	<contributors num="33">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
@@ -15,6 +15,7 @@
 		<contributor>Marc-Antoine</contributor>
 		<contributor>Kenneth J Cott</contributor>
 		<contributor>Christian Sturm</contributor>
+		<contributor>Ewan Douglas</contributor>
 		<contributor>Cadenarmstrong</contributor>
 		<contributor>Kevin Knittel</contributor>
 		<contributor>James Gregory</contributor>
@@ -67,5 +68,5 @@
 	<confirmedplanets>3312</confirmedplanets>
 	<confirmedsystems>2454</confirmedsystems>
 	<lastupdate>2016-10-17</lastupdate>
-	<lastcommittimestamp>1476725573</lastcommittimestamp>
+	<lastcommittimestamp>1476728009</lastcommittimestamp>
 </statistiscs>
