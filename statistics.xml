@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>10562</commits>
+	<commits>10564</commits>
 	<contributors num="33">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
@@ -9,6 +9,7 @@
 		<contributor>Marc-Antoine Martinod</contributor>
 		<contributor>Knutover</contributor>
 		<contributor>Tobias Mueller</contributor>
+		<contributor>Landrok</contributor>
 		<contributor>Allen B. Davis</contributor>
 		<contributor>Sol-D</contributor>
 		<contributor>Daveshoszowski</contributor>
@@ -19,7 +20,6 @@
 		<contributor>Cadenarmstrong</contributor>
 		<contributor>Kevin Knittel</contributor>
 		<contributor>James Gregory</contributor>
-		<contributor>Landrok</contributor>
 		<contributor>Miguel De Val-Borro</contributor>
 		<contributor>Darryl Hemsley</contributor>
 		<contributor>Paul A. Wilson</contributor>
@@ -68,5 +68,5 @@
 	<confirmedplanets>3313</confirmedplanets>
 	<confirmedsystems>2455</confirmedsystems>
 	<lastupdate>2016-11-02</lastupdate>
-	<lastcommittimestamp>1478100434</lastcommittimestamp>
+	<lastcommittimestamp>1478102639</lastcommittimestamp>
 </statistiscs>
