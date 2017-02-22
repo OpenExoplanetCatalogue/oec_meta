@@ -1,3 +1,7 @@
+HD 143761,HD 143761,system,HD 143761
+HD 143761,HD 143761,star,HD 143761
+HD 143761 b,HD 143761,planet,HD 143761 b
+HD 143761 c,HD 143761,planet,HD 143761 c
 KOI-1843,KOI-1843,system,KOI-1843
 KOI-1843,KOI-1843,star,KOI-1843
 KIC 5080636,KOI-1843,star,KOI-1843
@@ -285,6 +289,9 @@ KIC 5088536.03,Kepler-130,planet,Kepler-130 d
 WASP-108,WASP-108,system,WASP-108
 WASP-108,WASP-108,star,WASP-108
 WASP-108 b,WASP-108,planet,WASP-108 b
+K2-34,K2-34,system,K2-34
+K2-34,K2-34,star,K2-34
+K2-34 b,K2-34,planet,K2-34 b
 Kepler-815,Kepler-815,system,Kepler-815
 Kepler-815,Kepler-815,star,Kepler-815
 Kepler-815 b,Kepler-815,planet,Kepler-815 b
@@ -617,6 +624,9 @@ HAT-P-10 A b,WASP-11,planet,WASP-11 b
 Kepler-834,Kepler-834,system,Kepler-834
 Kepler-834,Kepler-834,star,Kepler-834
 Kepler-834 b,Kepler-834,planet,Kepler-834 b
+HATS-18,HATS-18,system,HATS-18
+HATS-18,HATS-18,star,HATS-18
+HATS-18 b,HATS-18,planet,HATS-18 b
 Kepler-654,Kepler-654,system,Kepler-654
 Kepler-654,Kepler-654,star,Kepler-654
 Kepler-654 b,Kepler-654,planet,Kepler-654 b
@@ -628,6 +638,10 @@ Kepler-603 d,Kepler-603,planet,Kepler-603 d
 Kepler-579,Kepler-579,system,Kepler-579
 Kepler-579,Kepler-579,star,Kepler-579
 Kepler-579 b,Kepler-579,planet,Kepler-579 b
+HD 106315,HD 106315,system,HD 106315
+HD 106315,HD 106315,star,HD 106315
+HD 106315 b,HD 106315,planet,HD 106315 b
+HD 106315 c,HD 106315,planet,HD 106315 c
 Kepler-1049,Kepler-1049,system,Kepler-1049
 Kepler-1049,Kepler-1049,star,Kepler-1049
 Kepler-1049 b,Kepler-1049,planet,Kepler-1049 b
@@ -965,6 +979,9 @@ KOI-204 b,Kepler-44,planet,Kepler-44 b
 KOI-204.01,Kepler-44,planet,Kepler-44 b
 2MASS J20002456+4545437 b,Kepler-44,planet,Kepler-44 b
 KIC 9305831 b,Kepler-44,planet,Kepler-44 b
+HD 72892,HD 72892,system,HD 72892
+HD 72892,HD 72892,star,HD 72892
+HD 72892 b,HD 72892,planet,HD 72892 b
 Kepler-1043,Kepler-1043,system,Kepler-1043
 Kepler-1043,Kepler-1043,star,Kepler-1043
 Kepler-1043 b,Kepler-1043,planet,Kepler-1043 b
@@ -1022,6 +1039,10 @@ Kepler-1065,Kepler-1065,system,Kepler-1065
 Kepler-1065,Kepler-1065,star,Kepler-1065
 Kepler-1065 b,Kepler-1065,planet,Kepler-1065 b
 Kepler-1065 c,Kepler-1065,planet,Kepler-1065 c
+CVSO 30,CVSO 30,system,CVSO 30
+CVSO 30,CVSO 30,star,CVSO 30
+CVSO 30 b,CVSO 30,planet,CVSO 30 b
+CVSO 30 c,CVSO 30,planet,CVSO 30 c
 HD 175167,HD 175167,system,HD 175167
 HD 175167,HD 175167,star,HD 175167
 HD 175167 b,HD 175167,planet,HD 175167 b
@@ -1072,6 +1093,9 @@ Kepler-924 b,Kepler-924,planet,Kepler-924 b
 Kepler-1255,Kepler-1255,system,Kepler-1255
 Kepler-1255,Kepler-1255,star,Kepler-1255
 Kepler-1255 b,Kepler-1255,planet,Kepler-1255 b
+EPIC 211990866,EPIC 211990866,system,EPIC 211990866
+EPIC 211990866,EPIC 211990866,star,EPIC 211990866
+EPIC 211990866 b,EPIC 211990866,planet,EPIC 211990866 b
 EPIC 201828749,EPIC 201828749,system,EPIC 201828749
 EPIC 201828749,EPIC 201828749,star,EPIC 201828749
 EPIC 201828749 B,EPIC 201828749,star,EPIC 201828749 B
@@ -1087,6 +1111,9 @@ HD 131664 b,HD 131664,planet,HD 131664 b
 Kepler-728,Kepler-728,system,Kepler-728
 Kepler-728,Kepler-728,star,Kepler-728
 Kepler-728 b,Kepler-728,planet,Kepler-728 b
+OGLE-2015-BLG-0954L,OGLE-2015-BLG-0954L,system,OGLE-2015-BLG-0954L
+OGLE-2015-BLG-0954L,OGLE-2015-BLG-0954L,star,OGLE-2015-BLG-0954L
+OGLE-2015-BLG-0954L b,OGLE-2015-BLG-0954L,planet,OGLE-2015-BLG-0954L b
 Kepler-968,Kepler-968,system,Kepler-968
 Kepler-968,Kepler-968,star,Kepler-968
 Kepler-968 b,Kepler-968,planet,Kepler-968 b
@@ -1134,6 +1161,9 @@ KOI-2650 b,Kepler-395,planet,Kepler-395 b
 KOI-2650.02,Kepler-395,planet,Kepler-395 b
 KIC 8890150 b,Kepler-395,planet,Kepler-395 b
 KIC 8890150.02,Kepler-395,planet,Kepler-395 b
+HD 9174,HD 9174,system,HD 9174
+HD 9174,HD 9174,star,HD 9174
+HD 9174 b,HD 9174,planet,HD 9174 b
 Kepler-805,Kepler-805,system,Kepler-805
 Kepler-805,Kepler-805,star,Kepler-805
 Kepler-805 b,Kepler-805,planet,Kepler-805 b
@@ -1263,6 +1293,9 @@ KIC 4077526.03,Kepler-58,planet,Kepler-58 d
 Kepler-1166,Kepler-1166,system,Kepler-1166
 Kepler-1166,Kepler-1166,star,Kepler-1166
 Kepler-1166 b,Kepler-1166,planet,Kepler-1166 b
+OGLE-2012-BLG-0950L,OGLE-2012-BLG-0950L,system,OGLE-2012-BLG-0950L
+OGLE-2012-BLG-0950L,OGLE-2012-BLG-0950L,star,OGLE-2012-BLG-0950L
+OGLE-2012-BLG-0950L b,OGLE-2012-BLG-0950L,planet,OGLE-2012-BLG-0950L b
 Kepler-245,Kepler-245,system,Kepler-245
 KOI-869,Kepler-245,system,Kepler-245
 KIC 6948054,Kepler-245,system,Kepler-245
@@ -1372,6 +1405,9 @@ HD 210702 b,HD 210702,planet,HD 210702 b
 Kepler-1110,Kepler-1110,system,Kepler-1110
 Kepler-1110,Kepler-1110,star,Kepler-1110
 Kepler-1110 b,Kepler-1110,planet,Kepler-1110 b
+HD 165155,HD 165155,system,HD 165155
+HD 165155,HD 165155,star,HD 165155
+HD 165155 b,HD 165155,planet,HD 165155 b
 HD 210277,HD 210277,system,HD 210277
 HD 210277,HD 210277,star,HD 210277
 HD 210277 b,HD 210277,planet,HD 210277 b
@@ -1379,6 +1415,9 @@ WASP-135,WASP-135,system,WASP-135
 WASP-135,WASP-135,star,WASP-135
 1SWASPJ174908.40+295244.9,WASP-135,star,WASP-135
 WASP-135 b,WASP-135,planet,WASP-135 b
+HIP 67537,HIP 67537,system,HIP 67537
+HIP 67537,HIP 67537,star,HIP 67537
+HIP 67537 b,HIP 67537,planet,HIP 67537 b
 Kepler-532,Kepler-532,system,Kepler-532
 Kepler-532,Kepler-532,star,Kepler-532
 Kepler-532 b,Kepler-532,planet,Kepler-532 b
@@ -1691,6 +1730,9 @@ HD 4732 c,HD 4732,planet,HD 4732 c
 HR 228 c,HD 4732,planet,HD 4732 c
 HIP 3834 c,HD 4732,planet,HD 4732 c
 HD 4732 c,HD 4732,planet,HD 4732 c
+WASP-140,WASP-140,system,WASP-140
+WASP-140,WASP-140,star,WASP-140
+WASP-140 b,WASP-140,planet,WASP-140 b
 HD 1666,HD 1666,system,HD 1666
 HD 1666,HD 1666,star,HD 1666
 BD-20 48,HD 1666,star,HD 1666
@@ -1802,6 +1844,12 @@ GSC 6311-00085,HATS-10,star,HATS-10
 HATS-10 b,HATS-10,planet,HATS-10 b
 2MASS 19371363-2212161 b,HATS-10,planet,HATS-10 b
 GSC 6311-00085 b,HATS-10,planet,HATS-10 b
+HD 68402,HD 68402,system,HD 68402
+HD 68402,HD 68402,star,HD 68402
+HD 68402 b,HD 68402,planet,HD 68402 b
+KIC 8012732,KIC 8012732,system,KIC 8012732
+KIC 8012732,KIC 8012732,star,KIC 8012732
+KIC 8012732 b,KIC 8012732,planet,KIC 8012732 b
 KIC 8540376,KIC 8540376,system,KIC 8540376
 Kepler-457,KIC 8540376,system,KIC 8540376
 KIC 8540376,KIC 8540376,star,KIC 8540376
@@ -2979,6 +3027,9 @@ Kepler-1320 b,Kepler-1320,planet,Kepler-1320 b
 Kepler-856,Kepler-856,system,Kepler-856
 Kepler-856,Kepler-856,star,Kepler-856
 Kepler-856 b,Kepler-856,planet,Kepler-856 b
+WASP-91,WASP-91,system,WASP-91
+WASP-91,WASP-91,star,WASP-91
+WASP-91 b,WASP-91,planet,WASP-91 b
 Kepler-713,Kepler-713,system,Kepler-713
 Kepler-713,Kepler-713,star,Kepler-713
 Kepler-713 b,Kepler-713,planet,Kepler-713 b
@@ -3374,6 +3425,12 @@ Kepler-638 b,Kepler-638,planet,Kepler-638 b
 Kepler-551,Kepler-551,system,Kepler-551
 Kepler-551,Kepler-551,star,Kepler-551
 Kepler-551 b,Kepler-551,planet,Kepler-551 b
+EPIC 211913977,EPIC 211913977,system,EPIC 211913977
+EPIC 211913977,EPIC 211913977,star,EPIC 211913977
+EPIC 211913977 b,EPIC 211913977,planet,EPIC 211913977 b
+K2-39,K2-39,system,K2-39
+K2-39,K2-39,star,K2-39
+K2-39 b,K2-39,planet,K2-39 b
 HD 180314,HD 180314,system,HD 180314
 HD 180314,HD 180314,star,HD 180314
 HD 180314 b,HD 180314,planet,HD 180314 b
@@ -3548,6 +3605,13 @@ Kepler-609 b,Kepler-609,planet,Kepler-609 b
 Kepler-1600,Kepler-1600,system,Kepler-1600
 Kepler-1600,Kepler-1600,star,Kepler-1600
 Kepler-1600 b,Kepler-1600,planet,Kepler-1600 b
+HIP 41378,HIP 41378,system,HIP 41378
+HIP 41378,HIP 41378,star,HIP 41378
+HIP 41378 b,HIP 41378,planet,HIP 41378 b
+HIP 41378 c,HIP 41378,planet,HIP 41378 c
+HIP 41378 d,HIP 41378,planet,HIP 41378 d
+HIP 41378 e,HIP 41378,planet,HIP 41378 e
+HIP 41378 f,HIP 41378,planet,HIP 41378 f
 Kepler-439,Kepler-439,system,Kepler-439
 Kepler-439,Kepler-439,star,Kepler-439
 KOI-4005,Kepler-439,star,Kepler-439
@@ -3735,6 +3799,9 @@ HD 113538 c,HD 113538,planet,HD 113538 c
 HD 102117,HD 102117,system,HD 102117
 HD 102117,HD 102117,star,HD 102117
 HD 102117 b,HD 102117,planet,HD 102117 b
+HIP 74890,HIP 74890,system,HIP 74890
+HIP 74890,HIP 74890,star,HIP 74890
+HIP 74890 b,HIP 74890,planet,HIP 74890 b
 Kepler-306,Kepler-306,system,Kepler-306
 KOI-1567,Kepler-306,system,Kepler-306
 KIC 5438099,Kepler-306,system,Kepler-306
@@ -3825,6 +3892,10 @@ EPIC 201549860.01,EPIC 201549860,planet,EPIC 201549860 b
 Kepler-1597,Kepler-1597,system,Kepler-1597
 Kepler-1597,Kepler-1597,star,Kepler-1597
 Kepler-1597 b,Kepler-1597,planet,Kepler-1597 b
+HIP 68468,HIP 68468,system,HIP 68468
+HIP 68468,HIP 68468,star,HIP 68468
+HIP 68468 b,HIP 68468,planet,HIP 68468 b
+HIP 68468 c,HIP 68468,planet,HIP 68468 c
 Kepler-1468,Kepler-1468,system,Kepler-1468
 Kepler-1468,Kepler-1468,star,Kepler-1468
 Kepler-1468 b,Kepler-1468,planet,Kepler-1468 b
@@ -4223,6 +4294,9 @@ BD+58 932,6 Lyn,star,6 Lyn
 6 Lyn b,6 Lyn,planet,6 Lyn b
 6 Lyncis b,6 Lyn,planet,6 Lyn b
 HD 45410 b,6 Lyn,planet,6 Lyn b
+EPIC 211969807,EPIC 211969807,system,EPIC 211969807
+EPIC 211969807,EPIC 211969807,star,EPIC 211969807
+EPIC 211969807 b,EPIC 211969807,planet,EPIC 211969807 b
 Kepler-368,Kepler-368,system,Kepler-368
 KOI-2175,Kepler-368,system,Kepler-368
 KIC 9022166,Kepler-368,system,Kepler-368
@@ -4792,6 +4866,9 @@ Kepler-1580 b,Kepler-1580,planet,Kepler-1580 b
 Kepler-1287,Kepler-1287,system,Kepler-1287
 Kepler-1287,Kepler-1287,star,Kepler-1287
 Kepler-1287 b,Kepler-1287,planet,Kepler-1287 b
+WASP-141,WASP-141,system,WASP-141
+WASP-141,WASP-141,star,WASP-141
+WASP-141 b,WASP-141,planet,WASP-141 b
 Kepler-588,Kepler-588,system,Kepler-588
 Kepler-588,Kepler-588,star,Kepler-588
 Kepler-588 b,Kepler-588,planet,Kepler-588 b
@@ -5150,6 +5227,9 @@ WASP-75,WASP-75,star,WASP-75
 WASP-75 b,WASP-75,planet,WASP-75 b
 WASP-75,WASP-75,planet,WASP-75 b
 1SWASP J224932.56-104031.8 b,WASP-75,planet,WASP-75 b
+HD 221585,HD 221585,system,HD 221585
+HD 221585,HD 221585,star,HD 221585
+HD 221585 b,HD 221585,planet,HD 221585 b
 Gliese 163,Gliese 163,system,Gliese 163
 Gliese 163,Gliese 163,star,Gliese 163
 GJ 163,Gliese 163,star,Gliese 163
@@ -5556,6 +5636,9 @@ BD-12 4523,Wolf 1061,star,Wolf 1061
 Wolf 1061 b,Wolf 1061,planet,Wolf 1061 b
 Wolf 1061 c,Wolf 1061,planet,Wolf 1061 c
 Wolf 1061 d,Wolf 1061,planet,Wolf 1061 d
+EPIC 211916756,EPIC 211916756,system,EPIC 211916756
+EPIC 211916756,EPIC 211916756,star,EPIC 211916756
+EPIC 211916756 b,EPIC 211916756,planet,EPIC 211916756 b
 KOI-314,KOI-314,system,KOI-314
 Kepler-138,KOI-314,system,KOI-314
 KIC 7603200,KOI-314,system,KOI-314
@@ -5912,6 +5995,9 @@ KOI-2443 c,Kepler-387,planet,Kepler-387 c
 KOI-2443.02,Kepler-387,planet,Kepler-387 c
 KIC 9209624 c,Kepler-387,planet,Kepler-387 c
 KIC 9209624.02,Kepler-387,planet,Kepler-387 c
+HAT-P-65,HAT-P-65,system,HAT-P-65
+HAT-P-65,HAT-P-65,star,HAT-P-65
+HAT-P-65 b,HAT-P-65,planet,HAT-P-65 b
 Kepler-1509,Kepler-1509,system,Kepler-1509
 Kepler-1509,Kepler-1509,star,Kepler-1509
 Kepler-1509 b,Kepler-1509,planet,Kepler-1509 b
@@ -6446,6 +6532,9 @@ KOI-117 d,Kepler-107,planet,Kepler-107 d
 KOI-117.04,Kepler-107,planet,Kepler-107 d
 KIC 10875245 d,Kepler-107,planet,Kepler-107 d
 KIC 10875245.04,Kepler-107,planet,Kepler-107 d
+HD 5583,HD 5583,system,HD 5583
+HD 5583,HD 5583,star,HD 5583
+HD 5583 b,HD 5583,planet,HD 5583 b
 Kepler-666,Kepler-666,system,Kepler-666
 Kepler-666,Kepler-666,star,Kepler-666
 Kepler-666 b,Kepler-666,planet,Kepler-666 b
@@ -6627,6 +6716,9 @@ TYC 3416-00543-1 c,HAT-P-13,planet,HAT-P-13 c
 Kepler-639,Kepler-639,system,Kepler-639
 Kepler-639,Kepler-639,star,Kepler-639
 Kepler-639 b,Kepler-639,planet,Kepler-639 b
+EPIC 211822797,EPIC 211822797,system,EPIC 211822797
+EPIC 211822797,EPIC 211822797,star,EPIC 211822797
+EPIC 211822797 b,EPIC 211822797,planet,EPIC 211822797 b
 Kepler-987,Kepler-987,system,Kepler-987
 Kepler-987,Kepler-987,star,Kepler-987
 Kepler-987 b,Kepler-987,planet,Kepler-987 b
@@ -6654,6 +6746,9 @@ KOI-1835 d,Kepler-326,planet,Kepler-326 d
 KOI-1835.03,Kepler-326,planet,Kepler-326 d
 KIC 9471268 d,Kepler-326,planet,Kepler-326 d
 KIC 9471268.03,Kepler-326,planet,Kepler-326 d
+HIP 8541,HIP 8541,system,HIP 8541
+HIP 8541,HIP 8541,star,HIP 8541
+HIP 8541 b,HIP 8541,planet,HIP 8541 b
 Kepler-783,Kepler-783,system,Kepler-783
 Kepler-783,Kepler-783,star,Kepler-783
 Kepler-783 b,Kepler-783,planet,Kepler-783 b
@@ -6790,6 +6885,9 @@ KOI-999 c,Kepler-263,planet,Kepler-263 c
 KOI-999.02,Kepler-263,planet,Kepler-263 c
 KIC 2165002 c,Kepler-263,planet,Kepler-263 c
 KIC 2165002.02,Kepler-263,planet,Kepler-263 c
+OGLE-2014-BLG-0676L,OGLE-2014-BLG-0676L,system,OGLE-2014-BLG-0676L
+OGLE-2014-BLG-0676L,OGLE-2014-BLG-0676L,star,OGLE-2014-BLG-0676L
+OGLE-2014-BLG-0676L,OGLE-2014-BLG-0676L,planet,OGLE-2014-BLG-0676L
 HD 92788,HD 92788,system,HD 92788
 HD 92788,HD 92788,star,HD 92788
 HD 92788 b,HD 92788,planet,HD 92788 b
@@ -6834,6 +6932,9 @@ KIC 11968463.02,Kepler-385,planet,Kepler-385 b
 Kepler-841,Kepler-841,system,Kepler-841
 Kepler-841,Kepler-841,star,Kepler-841
 Kepler-841 b,Kepler-841,planet,Kepler-841 b
+EPIC 211089792,EPIC 211089792,system,EPIC 211089792
+EPIC 211089792,EPIC 211089792,star,EPIC 211089792
+K2-29 b,EPIC 211089792,planet,K2-29 b
 HD 285507,HD 285507,system,HD 285507
 HD 285507,HD 285507,star,HD 285507
 HIP 19207,HD 285507,star,HD 285507
@@ -6843,6 +6944,9 @@ HD 285507 b,HD 285507,planet,HD 285507 b
 HIP 19207 b,HD 285507,planet,HD 285507 b
 2MASS J04070122+1520062 b,HD 285507,planet,HD 285507 b
 BD+14 653 b,HD 285507,planet,HD 285507 b
+EPIC 205117205,EPIC 205117205,system,EPIC 205117205
+EPIC 205117205,EPIC 205117205,star,EPIC 205117205
+K2-33 b,EPIC 205117205,planet,K2-33 b
 Kepler-1330,Kepler-1330,system,Kepler-1330
 Kepler-1330,Kepler-1330,star,Kepler-1330
 Kepler-1330 b,Kepler-1330,planet,Kepler-1330 b
@@ -7131,6 +7235,10 @@ KOI-1713 b,Kepler-316,planet,Kepler-316 b
 KOI-1713.02,Kepler-316,planet,Kepler-316 b
 KIC 8230616 b,Kepler-316,planet,Kepler-316 b
 KIC 8230616.02,Kepler-316,planet,Kepler-316 b
+EPIC 220674823,EPIC 220674823,system,EPIC 220674823
+EPIC 220674823,EPIC 220674823,star,EPIC 220674823
+EPIC 220674823 b,EPIC 220674823,planet,EPIC 220674823 b
+EPIC 220674823 c,EPIC 220674823,planet,EPIC 220674823 c
 Kepler-108,Kepler-108,system,Kepler-108
 KOI-119,Kepler-108,system,Kepler-108
 KIC 9471974,Kepler-108,system,Kepler-108
@@ -7818,6 +7926,9 @@ Kepler-11 g,Kepler-11,planet,Kepler-11 g
 KOI-157.05,Kepler-11,planet,Kepler-11 g
 KOI-157 g,Kepler-11,planet,Kepler-11 g
 KIC 6541920 g,Kepler-11,planet,Kepler-11 g
+HD 42618,HD 42618,system,HD 42618
+HD 42618,HD 42618,star,HD 42618
+HD 42618 b,HD 42618,planet,HD 42618 b
 Kepler-200,Kepler-200,system,Kepler-200
 KOI-654,Kepler-200,system,Kepler-200
 KIC 5941160,Kepler-200,system,Kepler-200
@@ -8680,6 +8791,9 @@ Kepler-861 b,Kepler-861,planet,Kepler-861 b
 HD 170469,HD 170469,system,HD 170469
 HD 170469,HD 170469,star,HD 170469
 HD 170469 b,HD 170469,planet,HD 170469 b
+HATS-11,HATS-11,system,HATS-11
+HATS-11,HATS-11,star,HATS-11
+HATS-11 b,HATS-11,planet,HATS-11 b
 HD 32963,HD 32963,system,HD 32963
 HD 32963,HD 32963,star,HD 32963
 HIP 23884,HD 32963,star,HD 32963
@@ -9246,6 +9360,9 @@ OGLE-TR-56,OGLE-TR-56,star,OGLE-TR-56
 OGLE-TR-56 b,OGLE-TR-56,planet,OGLE-TR-56 b
 OGLE-TR-056 b,OGLE-TR-56,planet,OGLE-TR-56 b
 V5157 Sgr b,OGLE-TR-56,planet,OGLE-TR-56 b
+HD 191806,HD 191806,system,HD 191806
+HD 191806,HD 191806,star,HD 191806
+HD 191806 b,HD 191806,planet,HD 191806 b
 WASP-17,WASP-17,system,WASP-17
 WASP-17,WASP-17,star,WASP-17
 WASP-17 b,WASP-17,planet,WASP-17 b
@@ -9391,6 +9508,9 @@ J1407 b,1SWASP J1407,planet,1SWASP J1407 b
 Kepler-1507,Kepler-1507,system,Kepler-1507
 Kepler-1507,Kepler-1507,star,Kepler-1507
 Kepler-1507 b,Kepler-1507,planet,Kepler-1507 b
+K2-105,K2-105,system,K2-105
+K2-105,K2-105,star,K2-105
+K2-105 b,K2-105,planet,K2-105 b
 Kepler-151,Kepler-151,system,Kepler-151
 KOI-413,Kepler-151,system,Kepler-151
 KIC 5791986,Kepler-151,system,Kepler-151
@@ -9490,6 +9610,9 @@ K2-1,WASP-28,star,WASP-28
 WASP-28 b,WASP-28,planet,WASP-28 b
 2MASS J23342787-0134482 b,WASP-28,planet,WASP-28 b
 K2-1 b,WASP-28,planet,WASP-28 b
+WASP-132,WASP-132,system,WASP-132
+WASP-132,WASP-132,star,WASP-132
+WASP-132 b,WASP-132,planet,WASP-132 b
 HIP 116454,HIP 116454,system,HIP 116454
 K2-2,HIP 116454,system,HIP 116454
 HIP 116454,HIP 116454,star,HIP 116454
@@ -9645,9 +9768,18 @@ KOI-2135 b,Kepler-361,planet,Kepler-361 b
 KOI-2135.03,Kepler-361,planet,Kepler-361 b
 KIC 9904006 b,Kepler-361,planet,Kepler-361 b
 KIC 9904006.03,Kepler-361,planet,Kepler-361 b
+HD 128356,HD 128356,system,HD 128356
+HD 128356,HD 128356,star,HD 128356
+HD 128356 b,HD 128356,planet,HD 128356 b
+YBP401,YBP401,system,YBP401
+YBP401,YBP401,star,YBP401
+YBP401 b,YBP401,planet,YBP401 b
 Kepler-1212,Kepler-1212,system,Kepler-1212
 Kepler-1212,Kepler-1212,star,Kepler-1212
 Kepler-1212 b,Kepler-1212,planet,Kepler-1212 b
+WASP-131,WASP-131,system,WASP-131
+WASP-131,WASP-131,star,WASP-131
+WASP-131 b,WASP-131,planet,WASP-131 b
 Gliese 832,Gliese 832,system,Gliese 832
 Gliese 832,Gliese 832,star,Gliese 832
 Gliese 832 b,Gliese 832,planet,Gliese 832 b
@@ -9823,6 +9955,7 @@ Rigil Kentaurus,Alpha Centauri,system,Alpha Centauri
 Rigil Kent,Alpha Centauri,system,Alpha Centauri
 Toliman,Alpha Centauri,system,Alpha Centauri
 Bungula,Alpha Centauri,system,Alpha Centauri
+Proxima Centauri,Alpha Centauri,system,Alpha Centauri
 Proxima Centauri,Alpha Centauri,star,Proxima Centauri
 α Centauri C,Alpha Centauri,star,Proxima Centauri
 GL 551,Alpha Centauri,star,Proxima Centauri
@@ -10196,6 +10329,9 @@ HATS-8,HATS-8,star,HATS-8
 2MASS 19394601-2544539,HATS-8,star,HATS-8
 HATS-8 b,HATS-8,planet,HATS-8 b
 2MASS 19394601-2544539 b,HATS-8,planet,HATS-8 b
+EPIC 212803289,EPIC 212803289,system,EPIC 212803289
+EPIC 212803289,EPIC 212803289,star,EPIC 212803289
+K2-99 b,EPIC 212803289,planet,K2-99 b
 Kepler-304,Kepler-304,system,Kepler-304
 KOI-1557,Kepler-304,system,Kepler-304
 KIC 5371776,Kepler-304,system,Kepler-304
@@ -10449,6 +10585,10 @@ Kepler-1262 b,Kepler-1262,planet,Kepler-1262 b
 Kepler-1377,Kepler-1377,system,Kepler-1377
 Kepler-1377,Kepler-1377,star,Kepler-1377
 Kepler-1377 b,Kepler-1377,planet,Kepler-1377 b
+HD 163296,HD 163296,system,HD 163296
+HD 163296,HD 163296,star,HD 163296
+HD 163296 b,HD 163296,planet,HD 163296 b
+HD 163296 c,HD 163296,planet,HD 163296 c
 Kepler-1041,Kepler-1041,system,Kepler-1041
 Kepler-1041,Kepler-1041,star,Kepler-1041
 Kepler-1041 b,Kepler-1041,planet,Kepler-1041 b
@@ -10502,6 +10642,9 @@ OGLE-2012-BLG-0026L b,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L b
 OGLE 2012-BLG-026L b,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L b
 OGLE-2012-BLG-0026L c,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L c
 OGLE 2012-BLG-026L c,OGLE-2012-BLG-0026L,planet,OGLE-2012-BLG-0026L c
+KIC 9413313,KIC 9413313,system,KIC 9413313
+KIC 9413313,KIC 9413313,star,KIC 9413313
+KIC 9413313 b,KIC 9413313,planet,KIC 9413313 b
 Kepler-482,Kepler-482,system,Kepler-482
 Kepler-482,Kepler-482,star,Kepler-482
 Kepler-482 b,Kepler-482,planet,Kepler-482 b
@@ -10638,6 +10781,9 @@ Kepler-1078 b,Kepler-1078,planet,Kepler-1078 b
 HD 99706,HD 99706,system,HD 99706
 HD 99706,HD 99706,star,HD 99706
 HD 99706 b,HD 99706,planet,HD 99706 b
+HD 86950,HD 86950,system,HD 86950
+HD 86950,HD 86950,star,HD 86950
+HD 86950,HD 86950,planet,HD 86950
 Kepler-1387,Kepler-1387,system,Kepler-1387
 Kepler-1387,Kepler-1387,star,Kepler-1387
 Kepler-1387 b,Kepler-1387,planet,Kepler-1387 b
@@ -10943,6 +11089,10 @@ GSC 2296-00637 b,HAT-P-51,planet,HAT-P-51 b
 Kepler-1345,Kepler-1345,system,Kepler-1345
 Kepler-1345,Kepler-1345,star,Kepler-1345
 Kepler-1345 b,Kepler-1345,planet,Kepler-1345 b
+WASP-81,WASP-81,system,WASP-81
+WASP-81,WASP-81,star,WASP-81
+WASP-81 b,WASP-81,planet,WASP-81 b
+WASP-81 c,WASP-81,planet,WASP-81 c
 Kepler-1480,Kepler-1480,system,Kepler-1480
 Kepler-1480,Kepler-1480,star,Kepler-1480
 Kepler-1480 b,Kepler-1480,planet,Kepler-1480 b
@@ -11222,12 +11372,18 @@ KOI-1832 d,Kepler-325,planet,Kepler-325 d
 KOI-1832.03,Kepler-325,planet,Kepler-325 d
 KIC 11709244 d,Kepler-325,planet,Kepler-325 d
 KIC 11709244.03,Kepler-325,planet,Kepler-325 d
+KELT-11,KELT-11,system,KELT-11
+KELT-11,KELT-11,star,KELT-11
+KELT-11 b,KELT-11,planet,KELT-11 b
 Kepler-875,Kepler-875,system,Kepler-875
 Kepler-875,Kepler-875,star,Kepler-875
 Kepler-875 b,Kepler-875,planet,Kepler-875 b
 HD 206610,HD 206610,system,HD 206610
 HD 206610,HD 206610,star,HD 206610
 HD 206610 b,HD 206610,planet,HD 206610 b
+XO-6,XO-6,system,XO-6
+XO-6,XO-6,star,XO-6
+XO-6 b,XO-6,planet,XO-6 b
 Kepler-1586,Kepler-1586,system,Kepler-1586
 Kepler-1586,Kepler-1586,star,Kepler-1586
 Kepler-1586 b,Kepler-1586,planet,Kepler-1586 b
@@ -11238,6 +11394,9 @@ HD 163607,HD 163607,system,HD 163607
 HD 163607,HD 163607,star,HD 163607
 HD 163607 b,HD 163607,planet,HD 163607 b
 HD 163607 c,HD 163607,planet,HD 163607 c
+WASP-114,WASP-114,system,WASP-114
+WASP-114,WASP-114,star,WASP-114
+WASP-114 b,WASP-114,planet,WASP-114 b
 KIC 8435766,KIC 8435766,system,KIC 8435766
 Kepler-78,KIC 8435766,system,KIC 8435766
 2MASS 19345800+4426539,KIC 8435766,system,KIC 8435766
@@ -11386,6 +11545,9 @@ Kepler-1181 b,Kepler-1181,planet,Kepler-1181 b
 Kepler-552,Kepler-552,system,Kepler-552
 Kepler-552,Kepler-552,star,Kepler-552
 Kepler-552 b,Kepler-552,planet,Kepler-552 b
+OGLE-2003-BLG-235L,OGLE-2003-BLG-235L,system,OGLE-2003-BLG-235L
+OGLE-2003-BLG-235L,OGLE-2003-BLG-235L,star,OGLE-2003-BLG-235L
+OGLE-2003-BLG-235L b,OGLE-2003-BLG-235L,planet,OGLE-2003-BLG-235L b
 Kepler-1399,Kepler-1399,system,Kepler-1399
 Kepler-1399,Kepler-1399,star,Kepler-1399
 Kepler-1399 b,Kepler-1399,planet,Kepler-1399 b
@@ -11585,6 +11747,9 @@ KOI-98 b,Kepler-14,planet,Kepler-14 b
 Kepler-803,Kepler-803,system,Kepler-803
 Kepler-803,Kepler-803,star,Kepler-803
 Kepler-803 b,Kepler-803,planet,Kepler-803 b
+WASP-113,WASP-113,system,WASP-113
+WASP-113,WASP-113,star,WASP-113
+WASP-113 b,WASP-113,planet,WASP-113 b
 Kepler-307,Kepler-307,system,Kepler-307
 Kepler-307,Kepler-307,star,Kepler-307
 KOI-1576,Kepler-307,star,Kepler-307
@@ -11869,6 +12034,9 @@ Kepler-1169 b,Kepler-1169,planet,Kepler-1169 b
 Kepler-943,Kepler-943,system,Kepler-943
 Kepler-943,Kepler-943,star,Kepler-943
 Kepler-943 b,Kepler-943,planet,Kepler-943 b
+WASP-142,WASP-142,system,WASP-142
+WASP-142,WASP-142,star,WASP-142
+WASP-142 b,WASP-142,planet,WASP-142 b
 Kepler-1275,Kepler-1275,system,Kepler-1275
 Kepler-1275,Kepler-1275,star,Kepler-1275
 Kepler-1275 b,Kepler-1275,planet,Kepler-1275 b
@@ -12336,6 +12504,9 @@ HD 143361 b,HD 143361,planet,HD 143361 b
 Kepler-1603,Kepler-1603,system,Kepler-1603
 Kepler-1603,Kepler-1603,star,Kepler-1603
 Kepler-1603 b,Kepler-1603,planet,Kepler-1603 b
+Qatar-3,Qatar-3,system,Qatar-3
+Qatar-3,Qatar-3,star,Qatar-3
+Qatar-3 b,Qatar-3,planet,Qatar-3 b
 Kepler-290,Kepler-290,system,Kepler-290
 KOI-1360,Kepler-290,system,Kepler-290
 KIC 7102227,Kepler-290,system,Kepler-290
@@ -12486,6 +12657,10 @@ Kepler-1232 b,Kepler-1232,planet,Kepler-1232 b
 HD 212771,HD 212771,system,HD 212771
 HD 212771,HD 212771,star,HD 212771
 HD 212771 b,HD 212771,planet,HD 212771 b
+KIC 8552719,KIC 8552719,system,KIC 8552719
+KIC 8552719,KIC 8552719,star,KIC 8552719
+Kepler-953 b,KIC 8552719,planet,Kepler-953 b
+Kepler-953 c,KIC 8552719,planet,Kepler-953 c
 TrES-5,TrES-5,system,TrES-5
 TrES-5,TrES-5,star,TrES-5
 TrES-5 b,TrES-5,planet,TrES-5 b
@@ -12510,6 +12685,9 @@ Kepler-1281 b,Kepler-1281,planet,Kepler-1281 b
 Kepler-1272,Kepler-1272,system,Kepler-1272
 Kepler-1272,Kepler-1272,star,Kepler-1272
 Kepler-1272 b,Kepler-1272,planet,Kepler-1272 b
+WASP-130,WASP-130,system,WASP-130
+WASP-130,WASP-130,star,WASP-130
+WASP-130 b,WASP-130,planet,WASP-130 b
 Kepler-983,Kepler-983,system,Kepler-983
 Kepler-983,Kepler-983,star,Kepler-983
 Kepler-983 b,Kepler-983,planet,Kepler-983 b
@@ -12840,6 +13018,9 @@ Kepler-749 b,Kepler-749,planet,Kepler-749 b
 Kepler-807,Kepler-807,system,Kepler-807
 Kepler-807,Kepler-807,star,Kepler-807
 Kepler-807 b,Kepler-807,planet,Kepler-807 b
+EPIC 220504338,EPIC 220504338,system,EPIC 220504338
+EPIC 220504338,EPIC 220504338,star,EPIC 220504338
+EPIC 220504338,EPIC 220504338,planet,EPIC 220504338
 Kepler-1291,Kepler-1291,system,Kepler-1291
 Kepler-1291,Kepler-1291,star,Kepler-1291
 Kepler-1291 b,Kepler-1291,planet,Kepler-1291 b
@@ -12975,6 +13156,10 @@ Kepler-1336,Kepler-1336,system,Kepler-1336
 Kepler-1336,Kepler-1336,star,Kepler-1336
 Kepler-1336 b,Kepler-1336,planet,Kepler-1336 b
 Kepler-1336 c,Kepler-1336,planet,Kepler-1336 c
+HD 147873,HD 147873,system,HD 147873
+HD 147873,HD 147873,star,HD 147873
+HD 147873 b,HD 147873,planet,HD 147873 b
+HD 147873 c,HD 147873,planet,HD 147873 c
 Kepler-1353,Kepler-1353,system,Kepler-1353
 Kepler-1353,Kepler-1353,star,Kepler-1353
 Kepler-1353 b,Kepler-1353,planet,Kepler-1353 b
@@ -13334,6 +13519,9 @@ CoRoT-10 b,CoRoT-10,planet,CoRoT-10 b
 CoRoT-Exo-10 b,CoRoT-10,planet,CoRoT-10 b
 2MASS J19241528+0044461 b,CoRoT-10,planet,CoRoT-10 b
 CoRoTID 100725706 b,CoRoT-10,planet,CoRoT-10 b
+K2-60,K2-60,system,K2-60
+K2-60,K2-60,star,K2-60
+K2-60 b,K2-60,planet,K2-60 b
 Kepler-284,Kepler-284,system,Kepler-284
 KOI-1301,Kepler-284,system,Kepler-284
 KIC 10538176,Kepler-284,system,Kepler-284
@@ -13507,6 +13695,9 @@ EPIC 201505350.02,EPIC 201505350,planet,EPIC 201505350 b
 K2-19 b,EPIC 201505350,planet,EPIC 201505350 b
 EPIC 201505350 d,EPIC 201505350,planet,EPIC 201505350 d
 K2-19 d,EPIC 201505350,planet,EPIC 201505350 d
+WASP-139,WASP-139,system,WASP-139
+WASP-139,WASP-139,star,WASP-139
+WASP-139 b,WASP-139,planet,WASP-139 b
 Kepler-221,Kepler-221,system,Kepler-221
 KOI-720,Kepler-221,system,Kepler-221
 KIC 9963524,Kepler-221,system,Kepler-221
@@ -13618,6 +13809,9 @@ TYC 8055-876-1 b,WASP-117,planet,WASP-117 b
 Kepler-480,Kepler-480,system,Kepler-480
 Kepler-480,Kepler-480,star,Kepler-480
 Kepler-480 b,Kepler-480,planet,Kepler-480 b
+K2-31,K2-31,system,K2-31
+K2-31,K2-31,star,K2-31
+K2-31 b,K2-31,planet,K2-31 b
 Kepler-754,Kepler-754,system,Kepler-754
 Kepler-754,Kepler-754,star,Kepler-754
 Kepler-754 b,Kepler-754,planet,Kepler-754 b
@@ -13705,6 +13899,9 @@ Kepler-781 b,Kepler-781,planet,Kepler-781 b
 Kepler-1030,Kepler-1030,system,Kepler-1030
 Kepler-1030,Kepler-1030,star,Kepler-1030
 Kepler-1030 b,Kepler-1030,planet,Kepler-1030 b
+HAT-47,HAT-47,system,HAT-47
+HAT-47,HAT-47,star,HAT-47
+HAT-47 b,HAT-47,planet,HAT-47 b
 Gliese 581,Gliese 581,system,Gliese 581
 Gliese 581,Gliese 581,star,Gliese 581
 Gliese 581 b,Gliese 581,planet,Gliese 581 b
@@ -13804,6 +14001,9 @@ Kepler-650 b,Kepler-650,planet,Kepler-650 b
 Kepler-1385,Kepler-1385,system,Kepler-1385
 Kepler-1385,Kepler-1385,star,Kepler-1385
 Kepler-1385 b,Kepler-1385,planet,Kepler-1385 b
+WASP-105,WASP-105,system,WASP-105
+WASP-105,WASP-105,star,WASP-105
+WASP-105 b,WASP-105,planet,WASP-105 b
 Kepler-1500,Kepler-1500,system,Kepler-1500
 Kepler-1500,Kepler-1500,star,Kepler-1500
 Kepler-1500 b,Kepler-1500,planet,Kepler-1500 b
@@ -14198,6 +14398,9 @@ TYC 7749-508-1,WASP-129,star,WASP-129
 WASP-129 b,WASP-129,planet,WASP-129 b
 TYC 7749-508-1 b,WASP-129,planet,WASP-129 b
 2MASS J11451175-4203501 b,WASP-129,planet,WASP-129 b
+K2-30,K2-30,system,K2-30
+K2-30,K2-30,star,K2-30
+K2-30 b,K2-30,planet,K2-30 b
 Kepler-1253,Kepler-1253,system,Kepler-1253
 Kepler-1253,Kepler-1253,star,Kepler-1253
 Kepler-1253 b,Kepler-1253,planet,Kepler-1253 b
@@ -14282,6 +14485,9 @@ Epsilon Tauri b,eps Tau,planet,eps Tau b
 Kepler-558,Kepler-558,system,Kepler-558
 Kepler-558,Kepler-558,star,Kepler-558
 Kepler-558 b,Kepler-558,planet,Kepler-558 b
+K2-108,K2-108,system,K2-108
+K2-108,K2-108,star,K2-108
+K2-108 b,K2-108,planet,K2-108 b
 Kepler-560,Kepler-560,system,Kepler-560
 Kepler-560,Kepler-560,star,Kepler-560
 Kepler-560 b,Kepler-560,planet,Kepler-560 b
@@ -14452,6 +14658,9 @@ Kepler-1451 b,Kepler-1451,planet,Kepler-1451 b
 Kepler-1115,Kepler-1115,system,Kepler-1115
 Kepler-1115,Kepler-1115,star,Kepler-1115
 Kepler-1115 b,Kepler-1115,planet,Kepler-1115 b
+EPIC 211970147,EPIC 211970147,system,EPIC 211970147
+EPIC 211970147,EPIC 211970147,star,EPIC 211970147
+EPIC 211970147 b,EPIC 211970147,planet,EPIC 211970147 b
 KOI-1257,KOI-1257,system,KOI-1257
 KOI-1257 A,KOI-1257,star,KOI-1257 A
 Kepler-420 A,KOI-1257,star,KOI-1257 A
@@ -14465,6 +14674,9 @@ Kepler-420 A b,KOI-1257,planet,KOI-1257 b
 Kepler-420 b,KOI-1257,planet,KOI-1257 b
 KOI-1257.01,KOI-1257,planet,KOI-1257 b
 KIC 8751933 b,KOI-1257,planet,KOI-1257 b
+Qatar-5,Qatar-5,system,Qatar-5
+Qatar-5,Qatar-5,star,Qatar-5
+Qatar-5 b,Qatar-5,planet,Qatar-5 b
 Kepler-155,Kepler-155,system,Kepler-155
 KOI-438,Kepler-155,system,Kepler-155
 KIC 12302530,Kepler-155,system,Kepler-155
@@ -14557,6 +14769,9 @@ KIC 8008067.02,Kepler-139,planet,Kepler-139 c
 Kepler-657,Kepler-657,system,Kepler-657
 Kepler-657,Kepler-657,star,Kepler-657
 Kepler-657 b,Kepler-657,planet,Kepler-657 b
+KIC 10024862,KIC 10024862,system,KIC 10024862
+KIC 10024862,KIC 10024862,star,KIC 10024862
+KIC 10024862 b,KIC 10024862,planet,KIC 10024862 b
 Kepler-254,Kepler-254,system,Kepler-254
 KOI-934,Kepler-254,system,Kepler-254
 KIC 9334289,Kepler-254,system,Kepler-254
@@ -15245,6 +15460,9 @@ CD-50 22,HD 564,star,HD 564
 CPD-50 15,HD 564,star,HD 564
 2MASS J00095283-5016041,HD 564,star,HD 564
 HD 564 b,HD 564,planet,HD 564 b
+WASP-157,WASP-157,system,WASP-157
+WASP-157,WASP-157,star,WASP-157
+WASP-157 b,WASP-157,planet,WASP-157 b
 Kepler-445,Kepler-445,system,Kepler-445
 Kepler-445,Kepler-445,star,Kepler-445
 KOI-2704,Kepler-445,star,Kepler-445
@@ -16443,9 +16661,15 @@ HD 126525 b,HD 126525,planet,HD 126525 b
 Kepler-671,Kepler-671,system,Kepler-671
 Kepler-671,Kepler-671,star,Kepler-671
 Kepler-671 b,Kepler-671,planet,Kepler-671 b
+Qatar-4,Qatar-4,system,Qatar-4
+Qatar-4,Qatar-4,star,Qatar-4
+Qatar-4 b,Qatar-4,planet,Qatar-4 b
 HD 158038,HD 158038,system,HD 158038
 HD 158038,HD 158038,star,HD 158038
 HD 158038 b,HD 158038,planet,HD 158038 b
+HAT-48,HAT-48,system,HAT-48
+HAT-48,HAT-48,star,HAT-48
+HAT-48 b,HAT-48,planet,HAT-48 b
 Kepler-1427,Kepler-1427,system,Kepler-1427
 Kepler-1427,Kepler-1427,star,Kepler-1427
 Kepler-1427 b,Kepler-1427,planet,Kepler-1427 b
@@ -16858,6 +17082,9 @@ HD 20367 b,HD 20367,planet,HD 20367 b
 Kepler-733,Kepler-733,system,Kepler-733
 Kepler-733,Kepler-733,star,Kepler-733
 Kepler-733 b,Kepler-733,planet,Kepler-733 b
+K2-97,K2-97,system,K2-97
+K2-97,K2-97,star,K2-97
+K2-97 b,K2-97,planet,K2-97 b
 HAT-P-15,HAT-P-15,system,HAT-P-15
 HAT-P-15,HAT-P-15,star,HAT-P-15
 HAT-P-15 b,HAT-P-15,planet,HAT-P-15 b
@@ -17075,6 +17302,9 @@ KIC 5113822.02,Kepler-199,planet,Kepler-199 c
 Kepler-1199,Kepler-1199,system,Kepler-1199
 Kepler-1199,Kepler-1199,star,Kepler-1199
 Kepler-1199 b,Kepler-1199,planet,Kepler-1199 b
+KIC 6436029,KIC 6436029,system,KIC 6436029
+KIC 6436029,KIC 6436029,star,KIC 6436029
+KIC 6436029 b,KIC 6436029,planet,KIC 6436029 b
 WASP-36,WASP-36,system,WASP-36
 WASP-36,WASP-36,star,WASP-36
 WASP-36 b,WASP-36,planet,WASP-36 b
@@ -17089,6 +17319,12 @@ TYC 6307-1388-1 b,WASP-67,planet,WASP-67 b
 Kepler-1360,Kepler-1360,system,Kepler-1360
 Kepler-1360,Kepler-1360,star,Kepler-1360
 Kepler-1360 b,Kepler-1360,planet,Kepler-1360 b
+HD 224538,HD 224538,system,HD 224538
+HD 224538,HD 224538,star,HD 224538
+HD 224538 b,HD 224538,planet,HD 224538 b
+HAT-P-66,HAT-P-66,system,HAT-P-66
+HAT-P-66,HAT-P-66,star,HAT-P-66
+HAT-P-66 b,HAT-P-66,planet,HAT-P-66 b
 Kepler-771,Kepler-771,system,Kepler-771
 Kepler-771,Kepler-771,star,Kepler-771
 Kepler-771 b,Kepler-771,planet,Kepler-771 b
@@ -17164,6 +17400,9 @@ HD 95086 b,HD 95086,planet,HD 95086 b
 HIP 53524 b,HD 95086,planet,HD 95086 b
 2MASS J10570301-6840023 b,HD 95086,planet,HD 95086 b
 TYC 9212-4675-1 b,HD 95086,planet,HD 95086 b
+OGLE-2012-BLG-0724L,OGLE-2012-BLG-0724L,system,OGLE-2012-BLG-0724L
+OGLE-2012-BLG-0724L,OGLE-2012-BLG-0724L,star,OGLE-2012-BLG-0724L
+OGLE-2012-BLG-0724L b,OGLE-2012-BLG-0724L,planet,OGLE-2012-BLG-0724L b
 Kepler-1269,Kepler-1269,system,Kepler-1269
 Kepler-1269,Kepler-1269,star,Kepler-1269
 Kepler-1269 b,Kepler-1269,planet,Kepler-1269 b
@@ -17418,6 +17657,9 @@ Kepler-1035 b,Kepler-1035,planet,Kepler-1035 b
 Kepler-583,Kepler-583,system,Kepler-583
 Kepler-583,Kepler-583,star,Kepler-583
 Kepler-583 b,Kepler-583,planet,Kepler-583 b
+K2-77,K2-77,system,K2-77
+K2-77,K2-77,star,K2-77
+K2-77 b,K2-77,planet,K2-77 b
 Kepler-521,Kepler-521,system,Kepler-521
 Kepler-521,Kepler-521,star,Kepler-521
 Kepler-521 b,Kepler-521,planet,Kepler-521 b
@@ -17644,6 +17886,9 @@ WASP-5 b,WASP-5,planet,WASP-5 b
 Kepler-542,Kepler-542,system,Kepler-542
 Kepler-542,Kepler-542,star,Kepler-542
 Kepler-542 b,Kepler-542,planet,Kepler-542 b
+HATS-12,HATS-12,system,HATS-12
+HATS-12,HATS-12,star,HATS-12
+HATS-12 b,HATS-12,planet,HATS-12 b
 OGLE-2008-BLG-355L,OGLE-2008-BLG-355L,system,OGLE-2008-BLG-355L
 OGLE-2008-BLG-355L,OGLE-2008-BLG-355L,star,OGLE-2008-BLG-355L
 OGLE-2008-BLG-355L b,OGLE-2008-BLG-355L,planet,OGLE-2008-BLG-355L b
@@ -17755,6 +18000,9 @@ Kepler-823 b,Kepler-823,planet,Kepler-823 b
 Kepler-582,Kepler-582,system,Kepler-582
 Kepler-582,Kepler-582,star,Kepler-582
 Kepler-582 b,Kepler-582,planet,Kepler-582 b
+HD 222076,HD 222076,system,HD 222076
+HD 222076,HD 222076,star,HD 222076
+HD 222076,HD 222076,planet,HD 222076
 WASP-122,WASP-122,system,WASP-122
 WASP-122,WASP-122,star,WASP-122
 TYC 7638-00981-1,WASP-122,star,WASP-122

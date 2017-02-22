@@ -1,10 +1,10 @@
 <statistiscs>
-	<commits>10582</commits>
+	<commits>10661</commits>
 	<contributors num="33">
+		<contributor>Hanno Rein</contributor>
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
-		<contributor>Hanno Rein</contributor>
 		<contributor>Jaroslav Merc</contributor>
 		<contributor>Marc-Antoine Martinod</contributor>
 		<contributor>Knutover</contributor>
@@ -35,8 +35,8 @@
 		<contributor>Orome</contributor>
 		<contributor>Allen Davis</contributor>
 	</contributors>
-	<planets>3435</planets>
-	<systems>2507</systems>
+	<planets>3526</planets>
+	<systems>2585</systems>
 	<binaries>131</binaries>
 	<discoveryyear>
 		<y1992>4</y1992>
@@ -51,7 +51,7 @@
 		<y2001>13</y2001>
 		<y2002>30</y2002>
 		<y2003>24</y2003>
-		<y2004>29</y2004>
+		<y2004>30</y2004>
 		<y2005>34</y2005>
 		<y2006>29</y2006>
 		<y2007>60</y2007>
@@ -59,15 +59,15 @@
 		<y2009>79</y2009>
 		<y2010>114</y2010>
 		<y2011>182</y2011>
-		<y2012>110</y2012>
-		<y2013>123</y2013>
+		<y2012>112</y2012>
+		<y2013>124</y2013>
 		<y2014>904</y2014>
-		<y2015>176</y2015>
-		<y2016>1300</y2016>
-		<y2017>4</y2017>
+		<y2015>179</y2015>
+		<y2016>1379</y2016>
+		<y2017>9</y2017>
 	</discoveryyear>
-	<confirmedplanets>3321</confirmedplanets>
-	<confirmedsystems>2462</confirmedsystems>
+	<confirmedplanets>3412</confirmedplanets>
+	<confirmedsystems>2540</confirmedsystems>
 	<lastupdate>2017-02-21</lastupdate>
-	<lastcommittimestamp>1487724189</lastcommittimestamp>
+	<lastcommittimestamp>1487726068</lastcommittimestamp>
 </statistiscs>
