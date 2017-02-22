@@ -4069,6 +4069,9 @@ KOI-2498 c,Kepler-390,planet,Kepler-390 c
 KOI-2498.02,Kepler-390,planet,Kepler-390 c
 KIC 5959719 c,Kepler-390,planet,Kepler-390 c
 KIC 5959719.02,Kepler-390,planet,Kepler-390 c
+TAP 26,TAP 26,system,TAP 26
+TAP 26,TAP 26,star,TAP 26
+TAP 26 b,TAP 26,planet,TAP 26 b
 1RXS1609,1RXS1609,system,1RXS1609
 1RXS1609,1RXS1609,star,1RXS1609
 1RXS J160929.1-210524,1RXS1609,star,1RXS1609
@@ -10062,6 +10065,9 @@ Kepler-704 b,Kepler-704,planet,Kepler-704 b
 Kepler-573,Kepler-573,system,Kepler-573
 Kepler-573,Kepler-573,star,Kepler-573
 Kepler-573 b,Kepler-573,planet,Kepler-573 b
+Lalande 21185,Lalande 21185,system,Lalande 21185
+Lalande 21185,Lalande 21185,star,Lalande 21185
+Lalande 21185 b,Lalande 21185,planet,Lalande 21185 b
 Kepler-839,Kepler-839,system,Kepler-839
 Kepler-839,Kepler-839,star,Kepler-839
 Kepler-839 b,Kepler-839,planet,Kepler-839 b
@@ -12682,6 +12688,9 @@ HD 4208 b,HD 4208,planet,HD 4208 b
 Kepler-1281,Kepler-1281,system,Kepler-1281
 Kepler-1281,Kepler-1281,star,Kepler-1281
 Kepler-1281 b,Kepler-1281,planet,Kepler-1281 b
+Kepler-433,Kepler-433,system,Kepler-433
+Kepler-433,Kepler-433,star,Kepler-433
+Kepler-433 b,Kepler-433,planet,Kepler-433 b
 Kepler-1272,Kepler-1272,system,Kepler-1272
 Kepler-1272,Kepler-1272,star,Kepler-1272
 Kepler-1272 b,Kepler-1272,planet,Kepler-1272 b
@@ -15704,6 +15713,9 @@ Kepler-1249 b,Kepler-1249,planet,Kepler-1249 b
 Kepler-621,Kepler-621,system,Kepler-621
 Kepler-621,Kepler-621,star,Kepler-621
 Kepler-621 b,Kepler-621,planet,Kepler-621 b
+HD 175370,HD 175370,system,HD 175370
+HD 175370,HD 175370,star,HD 175370
+HD 175370 b,HD 175370,planet,HD 175370 b
 Kepler-604,Kepler-604,system,Kepler-604
 Kepler-604,Kepler-604,star,Kepler-604
 Kepler-604 b,Kepler-604,planet,Kepler-604 b
@@ -16918,6 +16930,9 @@ KOI-284.03,Kepler-132,planet,Kepler-132 b
 KIC 6021275 b,Kepler-132,planet,Kepler-132 b
 KIC 6021275.03,Kepler-132,planet,Kepler-132 b
 Kepler-132 e,Kepler-132,planet,Kepler-132 e
+Kepler-435,Kepler-435,system,Kepler-435
+Kepler-435,Kepler-435,star,Kepler-435
+Kepler-435 b,Kepler-435,planet,Kepler-435 b
 Gliese 849,Gliese 849,system,Gliese 849
 Gliese 849,Gliese 849,star,Gliese 849
 GJ 849,Gliese 849,star,Gliese 849
@@ -17988,6 +18003,9 @@ KOI-1929 b,Kepler-337,planet,Kepler-337 b
 KOI-1929.02,Kepler-337,planet,Kepler-337 b
 KIC 10136549 b,Kepler-337,planet,Kepler-337 b
 KIC 10136549.02,Kepler-337,planet,Kepler-337 b
+GJ 536,GJ 536,system,GJ 536
+GJ 536,GJ 536,star,GJ 536
+GJ 536,GJ 536,planet,GJ 536
 Kepler-1094,Kepler-1094,system,Kepler-1094
 Kepler-1094,Kepler-1094,star,Kepler-1094
 Kepler-1094 b,Kepler-1094,planet,Kepler-1094 b
