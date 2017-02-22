@@ -2,9 +2,10 @@
 	<name>TRAPPIST-1</name>
 	<contributors>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://www.eso.org/public/news/eso1706/</link>
 		<link>http://www.eso.org/public/archives/releases/sciencepapers/eso1615/eso1615a.pdf</link>
 		<link>https://www.eso.org/public/news/eso1615/</link>
 	</links>
