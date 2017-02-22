@@ -1,9 +1,10 @@
 <system>
 	<name>Kepler-1520</name>
 	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

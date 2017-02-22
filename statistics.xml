@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>10706</commits>
+	<commits>10745</commits>
 	<contributors num="33">
 		<contributor>Hanno Rein</contributor>
 		<contributor>Andrew Tribick</contributor>
@@ -35,8 +35,8 @@
 		<contributor>Orome</contributor>
 		<contributor>Allen Davis</contributor>
 	</contributors>
-	<planets>3568</planets>
-	<systems>2624</systems>
+	<planets>3569</planets>
+	<systems>2625</systems>
 	<binaries>133</binaries>
 	<discoveryyear>
 		<y1992>4</y1992>
@@ -61,13 +61,13 @@
 		<y2011>182</y2011>
 		<y2012>114</y2012>
 		<y2013>124</y2013>
-		<y2014>904</y2014>
+		<y2014>905</y2014>
 		<y2015>181</y2015>
 		<y2016>1415</y2016>
 		<y2017>10</y2017>
 	</discoveryyear>
-	<confirmedplanets>3453</confirmedplanets>
-	<confirmedsystems>2578</confirmedsystems>
+	<confirmedplanets>3454</confirmedplanets>
+	<confirmedsystems>2579</confirmedsystems>
 	<lastupdate>2017-02-21</lastupdate>
-	<lastcommittimestamp>1487733818</lastcommittimestamp>
+	<lastcommittimestamp>1487735982</lastcommittimestamp>
 </statistiscs>
