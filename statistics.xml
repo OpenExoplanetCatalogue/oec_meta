@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>10750</commits>
-	<contributors num="34">
+	<commits>10751</commits>
+	<contributors num="35">
 		<contributor>Hanno Rein</contributor>
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
@@ -35,6 +35,7 @@
 		<contributor>Orome</contributor>
 		<contributor>Claudionor Buzzo Raymundo</contributor>
 		<contributor>Allen Davis</contributor>
+		<contributor>Meldonization</contributor>
 	</contributors>
 	<planets>3573</planets>
 	<systems>2625</systems>
@@ -69,6 +70,6 @@
 	</discoveryyear>
 	<confirmedplanets>3457</confirmedplanets>
 	<confirmedsystems>2579</confirmedsystems>
-	<lastupdate>2017-02-22</lastupdate>
-	<lastcommittimestamp>1487818768</lastcommittimestamp>
+	<lastupdate>2017-02-26</lastupdate>
+	<lastcommittimestamp>1488122897</lastcommittimestamp>
 </statistiscs>
