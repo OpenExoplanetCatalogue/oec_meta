@@ -4125,6 +4125,9 @@ Kepler-1531 b,Kepler-1531,planet,Kepler-1531 b
 Kepler-1186,Kepler-1186,system,Kepler-1186
 Kepler-1186,Kepler-1186,star,Kepler-1186
 Kepler-1186 b,Kepler-1186,planet,Kepler-1186 b
+HD 984,HD 984,system,HD 984
+HD 984,HD 984,star,HD 984
+HD 984 b,HD 984,planet,HD 984 b
 Kepler-1382,Kepler-1382,system,Kepler-1382
 Kepler-1382,Kepler-1382,star,Kepler-1382
 Kepler-1382 b,Kepler-1382,planet,Kepler-1382 b
@@ -4625,6 +4628,9 @@ KIC 6871071.03,Kepler-374,planet,Kepler-374 b
 Kepler-1122,Kepler-1122,system,Kepler-1122
 Kepler-1122,Kepler-1122,star,Kepler-1122
 Kepler-1122 b,Kepler-1122,planet,Kepler-1122 b
+JS 183,JS 183,system,JS 183
+JS 183,JS 183,star,JS 183
+JS 183 b,JS 183,planet,JS 183 b
 Kepler-995,Kepler-995,system,Kepler-995
 Kepler-995,Kepler-995,star,Kepler-995
 Kepler-995 b,Kepler-995,planet,Kepler-995 b
@@ -5173,6 +5179,11 @@ HD 86226 b,HD 86226,planet,HD 86226 b
 Kepler-1234,Kepler-1234,system,Kepler-1234
 Kepler-1234,Kepler-1234,star,Kepler-1234
 Kepler-1234 b,Kepler-1234,planet,Kepler-1234 b
+GJ 3138,GJ 3138,system,GJ 3138
+GJ 3138,GJ 3138,star,GJ 3138
+GJ 3138 b,GJ 3138,planet,GJ 3138 b
+GJ 3138 c,GJ 3138,planet,GJ 3138 c
+GJ 3138 d,GJ 3138,planet,GJ 3138 d
 HD 125595,HD 125595,system,HD 125595
 HD 125595,HD 125595,star,HD 125595
 HD 125595 b,HD 125595,planet,HD 125595 b
@@ -5458,6 +5469,9 @@ KOI-510 e,Kepler-172,planet,Kepler-172 e
 KOI-510.04,Kepler-172,planet,Kepler-172 e
 KIC 6422155 e,Kepler-172,planet,Kepler-172 e
 KIC 6422155.04,Kepler-172,planet,Kepler-172 e
+OGLE-2013-BLG-1761L,OGLE-2013-BLG-1761L,system,OGLE-2013-BLG-1761L
+OGLE-2013-BLG-1761L,OGLE-2013-BLG-1761L,star,OGLE-2013-BLG-1761L
+OGLE-2013-BLG-1761L b,OGLE-2013-BLG-1761L,planet,OGLE-2013-BLG-1761L b
 Kepler-1321,Kepler-1321,system,Kepler-1321
 Kepler-1321,Kepler-1321,star,Kepler-1321
 Kepler-1321 b,Kepler-1321,planet,Kepler-1321 b
@@ -10786,6 +10800,9 @@ GSC 6214-210 b,GSC 06214-00210,planet,GSC 06214-00210 b
 Kepler-836,Kepler-836,system,Kepler-836
 Kepler-836,Kepler-836,star,Kepler-836
 Kepler-836 b,Kepler-836,planet,Kepler-836 b
+OGLE-BLG-1195L,OGLE-BLG-1195L,system,OGLE-BLG-1195L
+OGLE-BLG-1195L,OGLE-BLG-1195L,star,OGLE-BLG-1195L
+OGLE-BLG-1195L b,OGLE-BLG-1195L,planet,OGLE-BLG-1195L b
 Kepler-678,Kepler-678,system,Kepler-678
 Kepler-678,Kepler-678,star,Kepler-678
 Kepler-678 b,Kepler-678,planet,Kepler-678 b
@@ -13888,6 +13905,10 @@ Kepler-1008 b,Kepler-1008,planet,Kepler-1008 b
 HD 212301,HD 212301,system,HD 212301
 HD 212301,HD 212301,star,HD 212301
 HD 212301 b,HD 212301,planet,HD 212301 b
+GJ 273,GJ 273,system,GJ 273
+GJ 273,GJ 273,star,GJ 273
+GJ 273 b,GJ 273,planet,GJ 273 b
+GJ 273 c,GJ 273,planet,GJ 273 c
 Kepler-309,Kepler-309,system,Kepler-309
 KOI-1596,Kepler-309,system,Kepler-309
 KIC 10027323,Kepler-309,system,Kepler-309
@@ -15755,6 +15776,10 @@ KIC 5480640.03,Kepler-399,planet,Kepler-399 c
 Kepler-743,Kepler-743,system,Kepler-743
 Kepler-743,Kepler-743,star,Kepler-743
 Kepler-743 b,Kepler-743,planet,Kepler-743 b
+GJ 3323,GJ 3323,system,GJ 3323
+GJ 3323,GJ 3323,star,GJ 3323
+GJ 3323 b,GJ 3323,planet,GJ 3323 b
+GJ 3323 c,GJ 3323,planet,GJ 3323 c
 Gliese 777,Gliese 777,system,Gliese 777
 Gliese 777 A,Gliese 777,star,Gliese 777 A
 HD 190360 A,Gliese 777,star,Gliese 777 A
