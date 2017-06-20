@@ -1,9 +1,9 @@
 <statistiscs>
-	<commits>10766</commits>
+	<commits>10786</commits>
 	<contributors num="35">
+		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
 		<contributor>Andrew Tribick</contributor>
-		<contributor>Christian Sturm</contributor>
 		<contributor>Ryan Varley</contributor>
 		<contributor>Jaroslav Merc</contributor>
 		<contributor>Marc-Antoine Martinod</contributor>
@@ -70,6 +70,6 @@
 	</discoveryyear>
 	<confirmedplanets>3468</confirmedplanets>
 	<confirmedsystems>2586</confirmedsystems>
-	<lastupdate>2017-06-07</lastupdate>
-	<lastcommittimestamp>1496843748</lastcommittimestamp>
+	<lastupdate>2017-06-20</lastupdate>
+	<lastcommittimestamp>1497990714</lastcommittimestamp>
 </statistiscs>
