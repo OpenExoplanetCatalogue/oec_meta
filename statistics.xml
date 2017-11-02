@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>10838</commits>
+	<commits>10840</commits>
 	<contributors num="35">
 		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
@@ -37,8 +37,8 @@
 		<contributor>Allen Davis</contributor>
 		<contributor>Meldonization</contributor>
 	</contributors>
-	<planets>3612</planets>
-	<systems>2655</systems>
+	<planets>3613</planets>
+	<systems>2656</systems>
 	<binaries>133</binaries>
 	<discoveryyear>
 		<y1992>4</y1992>
@@ -66,10 +66,10 @@
 		<y2014>905</y2014>
 		<y2015>182</y2015>
 		<y2016>1414</y2016>
-		<y2017>52</y2017>
+		<y2017>53</y2017>
 	</discoveryyear>
-	<confirmedplanets>3496</confirmedplanets>
-	<confirmedsystems>2609</confirmedsystems>
-	<lastupdate>2017-10-30</lastupdate>
-	<lastcommittimestamp>1509405121</lastcommittimestamp>
+	<confirmedplanets>3497</confirmedplanets>
+	<confirmedsystems>2610</confirmedsystems>
+	<lastupdate>2017-11-01</lastupdate>
+	<lastcommittimestamp>1509578590</lastcommittimestamp>
 </statistiscs>
