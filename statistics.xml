@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>10858</commits>
+	<commits>10864</commits>
 	<contributors num="35">
 		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
@@ -70,6 +70,6 @@
 	</discoveryyear>
 	<confirmedplanets>3497</confirmedplanets>
 	<confirmedsystems>2610</confirmedsystems>
-	<lastupdate>2017-11-17</lastupdate>
-	<lastcommittimestamp>1510951036</lastcommittimestamp>
+	<lastupdate>2017-11-18</lastupdate>
+	<lastcommittimestamp>1511040229</lastcommittimestamp>
 </statistiscs>

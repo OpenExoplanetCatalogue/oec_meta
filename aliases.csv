@@ -3669,7 +3669,9 @@ KELT-12,KELT-12,star,KELT-12
 KELT-12 b,KELT-12,planet,KELT-12 b
 HIP 41378,HIP 41378,system,HIP 41378
 HIP 41378,HIP 41378,star,HIP 41378
+BD+10 1799,HIP 41378,star,HIP 41378
 HIP 41378 b,HIP 41378,planet,HIP 41378 b
+BD+10 1799 b,HIP 41378,planet,HIP 41378 b
 HIP 41378 c,HIP 41378,planet,HIP 41378 c
 HIP 41378 d,HIP 41378,planet,HIP 41378 d
 HIP 41378 e,HIP 41378,planet,HIP 41378 e
@@ -10228,7 +10230,9 @@ Kepler-573,Kepler-573,star,Kepler-573
 Kepler-573 b,Kepler-573,planet,Kepler-573 b
 Lalande 21185,Lalande 21185,system,Lalande 21185
 Lalande 21185,Lalande 21185,star,Lalande 21185
+HD 95735,Lalande 21185,star,Lalande 21185
 Lalande 21185 b,Lalande 21185,planet,Lalande 21185 b
+HD 95735 b,Lalande 21185,planet,Lalande 21185 b
 Kepler-839,Kepler-839,system,Kepler-839
 Kepler-839,Kepler-839,star,Kepler-839
 Kepler-839 b,Kepler-839,planet,Kepler-839 b
