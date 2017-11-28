@@ -826,6 +826,11 @@ LHS 3145,Rho Coronae Borealis,star,Rho Coronae Borealis
 Rho Coronae Borealis b,Rho Coronae Borealis,planet,Rho Coronae Borealis b
 rho CrB b,Rho Coronae Borealis,planet,Rho Coronae Borealis b
 ρ CrB b,Rho Coronae Borealis,planet,Rho Coronae Borealis b
+HD 143761 b,Rho Coronae Borealis,planet,Rho Coronae Borealis b
+Rho Coronae Borealis c,Rho Coronae Borealis,planet,Rho Coronae Borealis c
+rho CrB c,Rho Coronae Borealis,planet,Rho Coronae Borealis c
+ρ CrB c,Rho Coronae Borealis,planet,Rho Coronae Borealis c
+HD 143761 c,Rho Coronae Borealis,planet,Rho Coronae Borealis c
 BD+03 2562,BD+03 2562,system,BD+03 2562
 BD+03 2562,BD+03 2562,star,BD+03 2562
 BD+03 2562 b,BD+03 2562,planet,BD+03 2562 b
@@ -4913,6 +4918,13 @@ GSC 07516-00867,HATS-16,star,HATS-16
 HATS-16 b,HATS-16,planet,HATS-16 b
 HD 40307,HD 40307,system,HD 40307
 HD 40307,HD 40307,star,HD 40307
+HIP 27887,HD 40307,star,HD 40307
+TYC 8892-1247-1,HD 40307,star,HD 40307
+GJ 2046,HD 40307,star,HD 40307
+CD-60 1303,HD 40307,star,HD 40307
+CPD-60 508,HD 40307,star,HD 40307
+SAO 249388,HD 40307,star,HD 40307
+2MASS J05540421-6001245,HD 40307,star,HD 40307
 HD 40307 b,HD 40307,planet,HD 40307 b
 HD 40307 c,HD 40307,planet,HD 40307 c
 HD 40307 d,HD 40307,planet,HD 40307 d
@@ -4969,6 +4981,14 @@ WASP-141 b,WASP-141,planet,WASP-141 b
 Kepler-588,Kepler-588,system,Kepler-588
 Kepler-588,Kepler-588,star,Kepler-588
 Kepler-588 b,Kepler-588,planet,Kepler-588 b
+HD 214823,HD 214823,system,HD 214823
+HD 214823,HD 214823,star,HD 214823
+HIP 111928,HD 214823,star,HD 214823
+TYC 2736-824-1,HD 214823,star,HD 214823
+BD+31 4757,HD 214823,star,HD 214823
+2MASS J22401985+3147155,HD 214823,star,HD 214823
+SAO 72604,HD 214823,star,HD 214823
+HD 214823 b,HD 214823,planet,HD 214823 b
 PH-2,PH-2,system,PH-2
 KIC 12735740,PH-2,system,PH-2
 PH-2,PH-2,star,PH-2
@@ -5337,6 +5357,11 @@ WASP-75,WASP-75,planet,WASP-75 b
 1SWASP J224932.56-104031.8 b,WASP-75,planet,WASP-75 b
 HD 221585,HD 221585,system,HD 221585
 HD 221585,HD 221585,star,HD 221585
+HIP 116221,HD 221585,star,HD 221585
+TYC 4284-1402-1,HD 221585,star,HD 221585
+BD+62 2244,HD 221585,star,HD 221585
+2MASS J23325401+6309198,HD 221585,star,HD 221585
+SAO 20692,HD 221585,star,HD 221585
 HD 221585 b,HD 221585,planet,HD 221585 b
 Gliese 163,Gliese 163,system,Gliese 163
 Gliese 163,Gliese 163,star,Gliese 163
@@ -7376,18 +7401,27 @@ EPIC 220674823 c,EPIC 220674823,planet,EPIC 220674823 c
 Kepler-108,Kepler-108,system,Kepler-108
 KOI-119,Kepler-108,system,Kepler-108
 KIC 9471974,Kepler-108,system,Kepler-108
-Kepler-108,Kepler-108,star,Kepler-108
-KOI-119,Kepler-108,star,Kepler-108
-KIC 9471974,Kepler-108,star,Kepler-108
+Kepler-108 A,Kepler-108,star,Kepler-108 A
+KOI-119 A,Kepler-108,star,Kepler-108 A
+KIC 9471974 A,Kepler-108,star,Kepler-108 A
+Kepler-108 B,Kepler-108,star,Kepler-108 B
+KOI-119 B,Kepler-108,star,Kepler-108 B
+KIC 9471974 B,Kepler-108,star,Kepler-108 B
 Kepler-108 b,Kepler-108,planet,Kepler-108 b
+Kepler-108 B b,Kepler-108,planet,Kepler-108 b
 KOI-119 b,Kepler-108,planet,Kepler-108 b
+KOI-119 B b,Kepler-108,planet,Kepler-108 b
 KOI-119.01,Kepler-108,planet,Kepler-108 b
 KIC 9471974 b,Kepler-108,planet,Kepler-108 b
+KIC 9471974 B b,Kepler-108,planet,Kepler-108 b
 KIC 9471974.01,Kepler-108,planet,Kepler-108 b
 Kepler-108 c,Kepler-108,planet,Kepler-108 c
+Kepler-108 B c,Kepler-108,planet,Kepler-108 c
 KOI-119 c,Kepler-108,planet,Kepler-108 c
+KOI-119 B c,Kepler-108,planet,Kepler-108 c
 KOI-119.02,Kepler-108,planet,Kepler-108 c
 KIC 9471974 c,Kepler-108,planet,Kepler-108 c
+KIC 9471974 B c,Kepler-108,planet,Kepler-108 c
 KIC 9471974.02,Kepler-108,planet,Kepler-108 c
 Kepler-1054,Kepler-1054,system,Kepler-1054
 Kepler-1054,Kepler-1054,star,Kepler-1054
@@ -7464,6 +7498,10 @@ Kepler-1162,Kepler-1162,star,Kepler-1162
 Kepler-1162 b,Kepler-1162,planet,Kepler-1162 b
 HD 16175,HD 16175,system,HD 16175
 HD 16175,HD 16175,star,HD 16175
+HIP 12191,HD 16175,star,HD 16175
+TYC 2840-1669-1,HD 16175,star,HD 16175
+BD+41 496,HD 16175,star,HD 16175
+2MASS J02370189+4203453,HD 16175,star,HD 16175
 HD 16175 b,HD 16175,planet,HD 16175 b
 MOA-2011-BLG-293L,MOA-2011-BLG-293L,system,MOA-2011-BLG-293L
 MOA-2011-BLG-293L,MOA-2011-BLG-293L,star,MOA-2011-BLG-293L
@@ -8075,6 +8113,12 @@ KOI-157 g,Kepler-11,planet,Kepler-11 g
 KIC 6541920 g,Kepler-11,planet,Kepler-11 g
 HD 42618,HD 42618,system,HD 42618
 HD 42618,HD 42618,star,HD 42618
+HIP 29432,HD 42618,star,HD 42618
+TYC 143-1867-1,HD 42618,star,HD 42618
+GJ 3387,HD 42618,star,HD 42618
+BD+06 1155,HD 42618,star,HD 42618
+2MASS J06120056+0646592,HD 42618,star,HD 42618
+SAO 113580,HD 42618,star,HD 42618
 HD 42618 b,HD 42618,planet,HD 42618 b
 Kepler-200,Kepler-200,system,Kepler-200
 KOI-654,Kepler-200,system,Kepler-200
@@ -9520,6 +9564,11 @@ WASP-86,WASP-86,star,WASP-86
 WASP-86 b,WASP-86,planet,WASP-86 b
 HD 191806,HD 191806,system,HD 191806
 HD 191806,HD 191806,star,HD 191806
+HIP 99306,HD 191806,star,HD 191806
+TYC 3571-1270-1,HD 191806,star,HD 191806
+BD+51 2782,HD 191806,star,HD 191806
+SAO 32320,HD 191806,star,HD 191806
+2MASS J20092831+5216347,HD 191806,star,HD 191806
 HD 191806 b,HD 191806,planet,HD 191806 b
 WASP-17,WASP-17,system,WASP-17
 WASP-17,WASP-17,star,WASP-17
@@ -11279,7 +11328,16 @@ Kepler-1480,Kepler-1480,star,Kepler-1480
 Kepler-1480 b,Kepler-1480,planet,Kepler-1480 b
 HD 164922,HD 164922,system,HD 164922
 HD 164922,HD 164922,star,HD 164922
+HIP 88348,HD 164922,star,HD 164922
+TYC 2099-2717-1,HD 164922,star,HD 164922
+Gliese 700.2,HD 164922,star,HD 164922
+GJ 700.2,HD 164922,star,HD 164922
+GJ 9613,HD 164922,star,HD 164922
+BD+26 3151,HD 164922,star,HD 164922
+SAO 85678,HD 164922,star,HD 164922
+2MASS J18023085+2618471,HD 164922,star,HD 164922
 HD 164922 b,HD 164922,planet,HD 164922 b
+HD 164922 c,HD 164922,planet,HD 164922 c
 Kepler-12,Kepler-12,system,Kepler-12
 Kepler-12,Kepler-12,star,Kepler-12
 KOI-20,Kepler-12,star,Kepler-12
@@ -15927,7 +15985,13 @@ Kepler-899,Kepler-899,star,Kepler-899
 Kepler-899 b,Kepler-899,planet,Kepler-899 b
 HD 219828,HD 219828,system,HD 219828
 HD 219828,HD 219828,star,HD 219828
+HIP 115100,HD 219828,star,HD 219828
+TYC 1716-1182-1,HD 219828,star,HD 219828
+BD+17 4896,HD 219828,star,HD 219828
+SAO 108536,HD 219828,star,HD 219828
+2MASS J23184673+1838445,HD 219828,star,HD 219828
 HD 219828 b,HD 219828,planet,HD 219828 b
+HD 219828 c,HD 219828,planet,HD 219828 c
 HD 7449,HD 7449,system,HD 7449
 HD 7449 A,HD 7449,star,HD 7449 A
 HIP 5806,HD 7449,star,HD 7449 A
@@ -17215,7 +17279,24 @@ Kepler-1646 b,Kepler-1646,planet,Kepler-1646 b
 tau Ceti,tau Ceti,system,tau Ceti
 HD 10700,tau Ceti,system,tau Ceti
 tau Ceti,tau Ceti,star,tau Ceti
+tau Cet,tau Ceti,star,tau Ceti
+τ Cet,tau Ceti,star,tau Ceti
 HD 10700,tau Ceti,star,tau Ceti
+52 Cet,tau Ceti,star,tau Ceti
+52 Ceti,tau Ceti,star,tau Ceti
+HIP 8102,tau Ceti,star,tau Ceti
+TYC 5855-2292-1,tau Ceti,star,tau Ceti
+Gliese 71,tau Ceti,star,tau Ceti
+Gliese 71.0,tau Ceti,star,tau Ceti
+Gl 71,tau Ceti,star,tau Ceti
+Gl 71.0,tau Ceti,star,tau Ceti
+GJ 71,tau Ceti,star,tau Ceti
+GJ 71.0,tau Ceti,star,tau Ceti
+HR 509,tau Ceti,star,tau Ceti
+BD-16 205,tau Ceti,star,tau Ceti
+SAO 147986,tau Ceti,star,tau Ceti
+2MASS J01440402-1556141,tau Ceti,star,tau Ceti
+LHS 146,tau Ceti,star,tau Ceti
 tau Ceti b,tau Ceti,planet,tau Ceti b
 HD 10700 b,tau Ceti,planet,tau Ceti b
 tau Ceti c,tau Ceti,planet,tau Ceti c
@@ -17226,6 +17307,10 @@ tau Ceti e,tau Ceti,planet,tau Ceti e
 HD 10700 e,tau Ceti,planet,tau Ceti e
 tau Ceti f,tau Ceti,planet,tau Ceti f
 HD 10700 f,tau Ceti,planet,tau Ceti f
+tau Ceti g,tau Ceti,planet,tau Ceti g
+HD 10700 g,tau Ceti,planet,tau Ceti g
+tau Ceti h,tau Ceti,planet,tau Ceti h
+HD 10700 h,tau Ceti,planet,tau Ceti h
 EPIC 201445392,EPIC 201445392,system,EPIC 201445392
 K2-8,EPIC 201445392,system,EPIC 201445392
 EPIC 201445392,EPIC 201445392,star,EPIC 201445392
