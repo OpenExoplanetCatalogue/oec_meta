@@ -1,9 +1,9 @@
 <statistiscs>
-	<commits>10876</commits>
-	<contributors num="35">
+	<commits>14226</commits>
+	<contributors num="36">
+		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
-		<contributor>Andrew Tribick</contributor>
 		<contributor>Ryan Varley</contributor>
 		<contributor>Jaroslav Merc</contributor>
 		<contributor>Marc-Antoine Martinod</contributor>
@@ -23,6 +23,7 @@
 		<contributor>Miguel De Val-Borro</contributor>
 		<contributor>Darryl Hemsley</contributor>
 		<contributor>Paul A. Wilson</contributor>
+		<contributor>Florian Cabot</contributor>
 		<contributor>Everett Schlawin</contributor>
 		<contributor>Allen Davis</contributor>
 		<contributor>Paul Zwerger</contributor>
@@ -34,12 +35,12 @@
 		<contributor>Dave</contributor>
 		<contributor>Orome</contributor>
 		<contributor>Claudionor Buzzo Raymundo</contributor>
+		<contributor>Dobb13</contributor>
 		<contributor>Allen Davis</contributor>
-		<contributor>Meldonization</contributor>
 	</contributors>
-	<planets>3619</planets>
-	<systems>2657</systems>
-	<binaries>134</binaries>
+	<planets>3855</planets>
+	<systems>2830</systems>
+	<binaries>156</binaries>
 	<discoveryyear>
 		<y1992>4</y1992>
 		<y1993>0</y1993>
@@ -53,23 +54,26 @@
 		<y2001>13</y2001>
 		<y2002>30</y2002>
 		<y2003>24</y2003>
-		<y2004>30</y2004>
-		<y2005>34</y2005>
-		<y2006>29</y2006>
-		<y2007>60</y2007>
-		<y2008>60</y2008>
-		<y2009>79</y2009>
-		<y2010>114</y2010>
+		<y2004>29</y2004>
+		<y2005>32</y2005>
+		<y2006>31</y2006>
+		<y2007>59</y2007>
+		<y2008>59</y2008>
+		<y2009>80</y2009>
+		<y2010>111</y2010>
 		<y2011>182</y2011>
-		<y2012>117</y2012>
-		<y2013>124</y2013>
-		<y2014>905</y2014>
-		<y2015>182</y2015>
-		<y2016>1418</y2016>
-		<y2017>55</y2017>
+		<y2012>114</y2012>
+		<y2013>123</y2013>
+		<y2014>911</y2014>
+		<y2015>181</y2015>
+		<y2016>1429</y2016>
+		<y2017>77</y2017>
+		<y2018>178</y2018>
+		<y2019>13</y2019>
+		<y2020>0</y2020>
 	</discoveryyear>
-	<confirmedplanets>3504</confirmedplanets>
-	<confirmedsystems>2613</confirmedsystems>
-	<lastupdate>2017-11-28</lastupdate>
-	<lastcommittimestamp>1511879233</lastcommittimestamp>
+	<confirmedplanets>3725</confirmedplanets>
+	<confirmedsystems>2782</confirmedsystems>
+	<lastupdate>2020-06-21</lastupdate>
+	<lastcommittimestamp>1592791250</lastcommittimestamp>
 </statistiscs>

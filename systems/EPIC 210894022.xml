@@ -1,6 +1,11 @@
 <system>
 	<name>EPIC 210894022</name>
 	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+	</links>
 </system>

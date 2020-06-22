@@ -2,9 +2,9 @@
 	<name>HAT-P-39</name>
 	<contributors>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
 		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://arxiv.org/pdf/1207.3344v1.pdf</link>
