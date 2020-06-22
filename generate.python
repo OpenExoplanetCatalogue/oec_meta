@@ -106,9 +106,12 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 			if "Confirmed planets" in l.text:
 				totalconfirmedplanets += 1
 				confirmedsystem = 1
-				datet = int(planet.findtext("./discoveryyear"))
-				if datet in discoveryyear:
-					discoveryyear[datet] += 1
+				try:
+					datet = int(planet.findtext("./discoveryyear"))
+					if datet in discoveryyear:
+						discoveryyear[datet] += 1
+				except: 
+					pass
 
 	if confirmedsystem==1:
 		totalconfirmedsystems += 1
