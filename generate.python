@@ -54,6 +54,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 
 	sys.stdout.write('.')
 	sys.stdout.flush()
+	print(filename)
 
 	cstag = ET.SubElement(metaroot,"contributors")
 	for contributor in contributors:
