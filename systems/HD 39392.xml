@@ -1,6 +1,10 @@
 <system>
 	<name>HD 39392</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="2" email="paultheastronomer@users.noreply.github.com">Paul A. Wilson</contributor>
 	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2016A%26A...588A.144W</link>
+	</links>
 </system>

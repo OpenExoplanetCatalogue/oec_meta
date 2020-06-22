@@ -1,10 +1,12 @@
 <system>
 	<name>EPIC 203771098</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1511.09213</link>
 		<link>http://arxiv.org/abs/1511.04497</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+		<link>http://arxiv.org/abs/1511.09213</link>
 	</links>
 </system>

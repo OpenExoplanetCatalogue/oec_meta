@@ -1,10 +1,13 @@
 <system>
 	<name>Pr0201</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2012ApJ...756L..33Q</link>
+	</links>
 </system>

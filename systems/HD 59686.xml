@@ -1,11 +1,13 @@
 <system>
 	<name>HD 59686</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://exoplanet.eu</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2016A%26A...595A..55O</link>
 	</links>
 </system>

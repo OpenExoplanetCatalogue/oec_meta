@@ -1,0 +1,10 @@
+<system>
+	<name>CI Tau</name>
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2016ApJ...826..206J</link>
+	</links>
+</system>

@@ -1,9 +1,11 @@
 <system>
 	<name>CoRoT-29</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 	</contributors>
 	<links>
+		<link>http://adsabs.harvard.edu/abs/2016A%26A...589A..62P</link>
 		<link>http://arxiv.org/abs/1504.01532</link>
 	</links>
 </system>

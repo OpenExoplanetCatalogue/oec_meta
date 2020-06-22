@@ -1,6 +1,7 @@
 <system>
 	<name>Kepler-210</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>

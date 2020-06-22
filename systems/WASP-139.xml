@@ -1,9 +1,11 @@
 <system>
 	<name>WASP-139</name>
 	<contributors>
+		<contributor commits="1" email="florian.cabot@epfl.ch">Florian Cabot</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>https://arxiv.org/pdf/1604.04195.pdf</link>
 		<link>http://exoplanet.eu</link>
 	</links>
 </system>

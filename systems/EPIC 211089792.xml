@@ -1,9 +1,13 @@
 <system>
 	<name>EPIC 211089792</name>
 	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="florian.cabot@epfl.ch">Florian Cabot</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://exoplanet.eu</link>
+		<link>https://arxiv.org/pdf/1601.07680.pdf</link>
 	</links>
 </system>
