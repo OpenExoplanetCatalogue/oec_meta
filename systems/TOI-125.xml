@@ -1,11 +1,9 @@
 <system>
-	<name>MOA-2011-BLG-262L</name>
+	<name>TOI-125</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2014ApJ...785..155B</link>
 		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 	</links>
 </system>
