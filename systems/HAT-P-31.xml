@@ -1,16 +1,4 @@
 <system>
 	<name>HAT-P-31</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://dx.doi.org/10.1088/0004-6256/142/3/95</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://iopscience.iop.org/1538-3881/142/3/95/pdf/aj_142_3_95.pdf</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
-	</links>
+	<contributors />
 </system>

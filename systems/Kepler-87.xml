@@ -1,12 +1,7 @@
 <system>
 	<name>Kepler-87</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1511.00643</link>
-		<link>http://arxiv.org/abs/1310.2064</link>
-	</links>
 </system>

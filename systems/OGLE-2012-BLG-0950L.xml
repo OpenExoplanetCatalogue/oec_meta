@@ -2,10 +2,8 @@
 	<name>OGLE-2012-BLG-0950L</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanet.eu</link>
 		<link>http://adsabs.harvard.edu/abs/2017AJ....153....1K</link>
 	</links>
 </system>

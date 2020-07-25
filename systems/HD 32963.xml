@@ -1,10 +1,4 @@
 <system>
 	<name>HD 32963</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsarc.u-strasbg.fr/viz-bin/Cat?V/137D</link>
-		<link>http://arxiv.org/abs/1512.00417</link>
-	</links>
+	<contributors />
 </system>

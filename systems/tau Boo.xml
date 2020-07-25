@@ -1,15 +1,4 @@
 <system>
 	<name>tau Boo</name>
-	<contributors>
-		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/pdf/1402.0846.pdf</link>
-		<link>http://adsabs.harvard.edu/abs/2014AJ....147...65D</link>
-		<link>http://adsabs.harvard.edu/abs/2015A%26A...578A..64B</link>
-		<link>http://arxiv.org/abs/astro-ph/0610623</link>
-	</links>
+	<contributors />
 </system>

@@ -1,18 +1,7 @@
 <system>
 	<name>Kepler-19</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/pdf/1109.1561v1.pdf</link>
-		<link>http://iopscience.iop.org/0004-637X/743/2/200/</link>
-		<link>http://dx.doi.org/10.1088/0004-637X/743/2/200</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-	</links>
 </system>

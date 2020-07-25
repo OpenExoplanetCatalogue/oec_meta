@@ -2,14 +2,9 @@
 	<name>HD 4203</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://adsabs.harvard.edu/abs/2014ApJ...785...93K</link>
 		<link>http://adsabs.harvard.edu/abs/2016ApJ...821...89B</link>
-		<link>http://arxiv.org/pdf/1401.1544v2.pdf</link>
 	</links>
 </system>

@@ -1,9 +1,4 @@
 <system>
 	<name>WASP-94</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1409.7566</link>
-	</links>
+	<contributors />
 </system>

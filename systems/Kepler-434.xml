@@ -1,10 +1,6 @@
 <system>
 	<name>Kepler-434</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1501.01486</link>
-	</links>
 </system>

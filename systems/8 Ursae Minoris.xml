@@ -1,9 +1,4 @@
 <system>
 	<name>8 Ursae Minoris</name>
-	<contributors>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1509.09012</link>
-	</links>
+	<contributors />
 </system>

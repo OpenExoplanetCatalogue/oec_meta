@@ -1,12 +1,4 @@
 <system>
 	<name>75 Cet</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1207.3141</link>
-		<link>http://adsabs.harvard.edu/abs/2012PASJ...64..135S</link>
-	</links>
+	<contributors />
 </system>

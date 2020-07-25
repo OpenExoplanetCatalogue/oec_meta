@@ -1,12 +1,6 @@
 <system>
 	<name>Kepler-126</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
-		<link>http://arxiv.org/abs/1505.02814</link>
-	</links>
 </system>

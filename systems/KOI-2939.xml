@@ -1,10 +1,7 @@
 <system>
 	<name>KOI-2939</name>
 	<contributors>
-		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1512.00189</link>
-	</links>
 </system>

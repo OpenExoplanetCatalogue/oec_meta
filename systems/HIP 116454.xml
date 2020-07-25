@@ -1,11 +1,6 @@
 <system>
 	<name>HIP 116454</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
-	<links>
-		<link>https://www.cfa.harvard.edu/~avanderb/hip116454b.pdf</link>
-	</links>
 </system>

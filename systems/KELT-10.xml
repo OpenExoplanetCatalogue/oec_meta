@@ -1,9 +1,4 @@
 <system>
 	<name>KELT-10</name>
-	<contributors>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1509.02323</link>
-	</links>
+	<contributors />
 </system>

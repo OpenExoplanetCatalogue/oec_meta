@@ -1,11 +1,4 @@
 <system>
 	<name>EPIC 201754305</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/pdf/1503.07866v1</link>
-		<link>http://arxiv.org/abs/1511.09213</link>
-	</links>
+	<contributors />
 </system>

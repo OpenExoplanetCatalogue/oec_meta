@@ -1,11 +1,6 @@
 <system>
 	<name>Gliese 221</name>
 	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1305.3891</link>
-		<link>http://arxiv.org/abs/1305.2203</link>
-	</links>
 </system>

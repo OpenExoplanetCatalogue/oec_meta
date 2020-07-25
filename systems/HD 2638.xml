@@ -1,14 +1,6 @@
 <system>
 	<name>HD 2638</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
-	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=hd+2567</link>
-		<link>http://arxiv.org/abs/1503.01211</link>
-		<link>http://cdsarc.u-strasbg.fr/viz-bin/VizieR-5?-ref=VIZ54f8b0ae7d41&amp;-out.add=.&amp;-source=B/wds/wds&amp;recno=2398</link>
-	</links>
 </system>

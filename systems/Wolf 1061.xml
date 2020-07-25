@@ -1,10 +1,4 @@
 <system>
 	<name>Wolf 1061</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1512.05154</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2015A%26A...577A.132M</link>
-	</links>
+	<contributors />
 </system>

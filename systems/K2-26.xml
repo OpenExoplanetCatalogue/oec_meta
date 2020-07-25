@@ -1,9 +1,4 @@
 <system>
 	<name>K2-26</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1601.02706</link>
-	</links>
+	<contributors />
 </system>

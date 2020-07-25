@@ -1,10 +1,6 @@
 <system>
 	<name>Kepler-74</name>
 	<contributors>
-		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1501.02653</link>
-	</links>
 </system>

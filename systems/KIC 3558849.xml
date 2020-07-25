@@ -1,11 +1,4 @@
 <system>
 	<name>KIC 3558849</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1512.02559</link>
-		<link>http://exoplanet.eu</link>
-	</links>
+	<contributors />
 </system>

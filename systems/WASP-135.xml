@@ -1,9 +1,4 @@
 <system>
 	<name>WASP-135</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1511.05954</link>
-	</links>
+	<contributors />
 </system>

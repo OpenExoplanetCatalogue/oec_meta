@@ -1,9 +1,4 @@
 <system>
 	<name>HD 33844</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1512.07316</link>
-	</links>
+	<contributors />
 </system>

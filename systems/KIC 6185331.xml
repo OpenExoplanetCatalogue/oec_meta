@@ -1,15 +1,8 @@
 <system>
 	<name>KIC 6185331</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="5" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2008AJ....136..735L</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://arxiv.org/abs/1109.4621</link>
-	</links>
 </system>

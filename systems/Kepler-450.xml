@@ -1,12 +1,7 @@
 <system>
 	<name>Kepler-450</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 	</contributors>
-	<links>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=planets</link>
-		<link>http://arxiv.org/abs/1505.02814</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=cumulative</link>
-	</links>
 </system>
