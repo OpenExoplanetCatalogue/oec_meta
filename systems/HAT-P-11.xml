@@ -1,11 +1,19 @@
 <system>
 	<name>HAT-P-11</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2018AJ....155..255Y</link>
 		<link>http://adsabs.harvard.edu/abs/2011PASJ...63S.531H</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/710/2/1724</link>
 		<link>http://adsabs.harvard.edu/abs/2017A%26A...597A.113H</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
 	</links>
 </system>

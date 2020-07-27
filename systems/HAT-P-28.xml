@@ -1,4 +1,14 @@
 <system>
 	<name>HAT-P-28</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://iopscience.iop.org/0004-637X/733/2/116/pdf/0004-637X_733_2_116.pdf</link>
+	</links>
 </system>

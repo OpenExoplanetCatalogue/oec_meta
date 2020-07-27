@@ -1,4 +1,9 @@
 <system>
 	<name>V830 Tau</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2015MNRAS.453.3706D</link>
+	</links>
 </system>

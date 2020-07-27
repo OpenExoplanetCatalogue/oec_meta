@@ -1,9 +1,11 @@
 <system>
 	<name>EPIC 201613023</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/pdf/1503.07866v1</link>
 		<link>https://archive.stsci.edu/k2/epic/search.php</link>
 		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
 	</links>

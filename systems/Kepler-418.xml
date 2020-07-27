@@ -1,6 +1,15 @@
 <system>
 	<name>Kepler-418</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="rajeewgandhi.jeyaraj@gmail.com">Rajeev-Jeyaraj</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1511.00643</link>
+		<link>http://arxiv.org/abs/1405.5354</link>
+		<link>http://archive.stsci.edu/kepler/kic10/search.php</link>
+	</links>
 </system>

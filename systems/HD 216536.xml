@@ -1,6 +1,11 @@
 <system>
 	<name>HD 216536</name>
 	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1501.07076</link>
+	</links>
 </system>

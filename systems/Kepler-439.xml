@@ -1,6 +1,11 @@
 <system>
 	<name>Kepler-439</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>https://www.cfa.harvard.edu/~torres/smallHZ/smallHZplanets.pdf</link>
+		<link>http://arxiv.org/abs/1501.01101</link>
+	</links>
 </system>

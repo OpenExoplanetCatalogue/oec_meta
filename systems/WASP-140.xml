@@ -2,5 +2,9 @@
 	<name>WASP-140</name>
 	<contributors>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

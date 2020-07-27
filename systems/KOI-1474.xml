@@ -1,6 +1,10 @@
 <system>
 	<name>KOI-1474</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2014ApJ...791...89D</link>
+		<link>http://adsabs.harvard.edu/abs/2012ApJ...761..163D</link>
+	</links>
 </system>

@@ -1,10 +1,16 @@
 <system>
 	<name>Kepler-91</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="6" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1312.3943</link>
+		<link>http://arxiv.org/abs/1501.05415</link>
 		<link>http://adsabs.harvard.edu/abs/2015ApJ...814..147P</link>
 		<link>http://www.mdpi.com/1099-4300/19/10/559/htm</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...788..148S</link>
+		<link>http://arxiv.org/abs/1408.3149</link>
 	</links>
 </system>

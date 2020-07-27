@@ -1,15 +1,45 @@
 <statistiscs>
-	<commits>3783</commits>
-	<contributors num="7">
+	<commits>14367</commits>
+	<contributors num="37">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
 		<contributor>Ryan Varley</contributor>
+		<contributor>Jaroslav Merc</contributor>
+		<contributor>Marc-Antoine Martinod</contributor>
+		<contributor>Knutover</contributor>
+		<contributor>Tobias Mueller</contributor>
+		<contributor>Landrok</contributor>
+		<contributor>Allen B. Davis</contributor>
+		<contributor>Sol-D</contributor>
+		<contributor>Daveshoszowski</contributor>
+		<contributor>Marc-Antoine</contributor>
+		<contributor>Kenneth J Cott</contributor>
+		<contributor>Christian Sturm</contributor>
+		<contributor>Ewan Douglas</contributor>
+		<contributor>Cadenarmstrong</contributor>
+		<contributor>Kevin Knittel</contributor>
+		<contributor>James Gregory</contributor>
+		<contributor>Miguel De Val-Borro</contributor>
+		<contributor>Darryl Hemsley</contributor>
+		<contributor>Paul A. Wilson</contributor>
 		<contributor>Florian Cabot</contributor>
+		<contributor>Everett Schlawin</contributor>
+		<contributor>Allen Davis</contributor>
+		<contributor>Paul Zwerger</contributor>
+		<contributor>Rajeev-Jeyaraj</contributor>
+		<contributor>Senger Hanno</contributor>
+		<contributor>Paul Anthony Wilson</contributor>
+		<contributor>Callum Rodwell</contributor>
+		<contributor>Diamondraph</contributor>
+		<contributor>Planetaryscience</contributor>
+		<contributor>Dave</contributor>
+		<contributor>Orome</contributor>
 		<contributor>Claudionor Buzzo Raymundo</contributor>
 		<contributor>Dobb13</contributor>
+		<contributor>Allen Davis</contributor>
 	</contributors>
-	<planets>4045</planets>
+	<planets>4046</planets>
 	<systems>2960</systems>
 	<binaries>156</binaries>
 	<discoveryyear>
@@ -41,10 +71,10 @@
 		<y2017>85</y2017>
 		<y2018>195</y2018>
 		<y2019>109</y2019>
-		<y2020>66</y2020>
+		<y2020>67</y2020>
 	</discoveryyear>
-	<confirmedplanets>3921</confirmedplanets>
+	<confirmedplanets>3922</confirmedplanets>
 	<confirmedsystems>2917</confirmedsystems>
-	<lastupdate>2020-07-22</lastupdate>
-	<lastcommittimestamp>1595436936</lastcommittimestamp>
+	<lastupdate>2020-07-26</lastupdate>
+	<lastcommittimestamp>1595810801</lastcommittimestamp>
 </statistiscs>

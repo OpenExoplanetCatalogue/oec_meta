@@ -1,6 +1,11 @@
 <system>
 	<name>HAT-P-56</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
 	</contributors>
+	<links>
+		<link>http://exoplanetarchive.ipac.caltech.edu./cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
+		<link>http://arxiv.org/abs/1506.01776</link>
+	</links>
 </system>

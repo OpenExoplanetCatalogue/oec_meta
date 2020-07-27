@@ -1,4 +1,18 @@
 <system>
 	<name>WASP-31</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="Davestom@nbi.dk">Daveshoszowski</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://dx.doi.org/10.1051/0004-6361/201016208</link>
+		<link>http://adsabs.harvard.edu/abs/2012AJ....144..139H</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://adsabs.harvard.edu/abs/2012MNRAS.426..739H</link>
+		<link>http://adsabs.harvard.edu/abs/2011MNRAS.416.2108A</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2010MNRAS.408.1689S</link>
+	</links>
 </system>

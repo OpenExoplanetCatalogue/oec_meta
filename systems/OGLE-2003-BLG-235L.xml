@@ -2,8 +2,10 @@
 	<name>OGLE-2003-BLG-235L</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://exoplanet.eu</link>
 		<link>https://ui.adsabs.harvard.edu/?#abs/2006ApJ...647L.171B</link>
 	</links>
 </system>

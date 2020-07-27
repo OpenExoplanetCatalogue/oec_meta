@@ -1,6 +1,11 @@
 <system>
 	<name>Kepler-424</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1511.00643</link>
+		<link>http://arxiv.org/abs/1409.8156</link>
+	</links>
 </system>

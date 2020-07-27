@@ -1,4 +1,14 @@
 <system>
 	<name>PSR B1620-26</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://cdsarc.u-strasbg.fr/viz-bin/Cat?VII/189</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsads.u-strasbg.fr/abs/1999ApJ...523..763T</link>
+		<link>http://adsabs.harvard.edu/abs/2005ASPC..328..213S</link>
+		<link>http://adsabs.harvard.edu/abs/2003Sci...301..193S</link>
+	</links>
 </system>

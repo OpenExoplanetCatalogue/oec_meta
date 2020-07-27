@@ -1,4 +1,9 @@
 <system>
 	<name>EPIC 201637175</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1504.04379</link>
+	</links>
 </system>

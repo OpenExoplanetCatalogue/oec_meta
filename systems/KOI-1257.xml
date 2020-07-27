@@ -1,6 +1,13 @@
 <system>
 	<name>KOI-1257</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/1512.00189</link>
+		<link>http://arxiv.org/abs/1406.6172</link>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

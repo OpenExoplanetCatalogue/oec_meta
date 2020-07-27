@@ -1,4 +1,9 @@
 <system>
 	<name>HD 1605</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/pdf/1503.07636v1.pdf</link>
+	</links>
 </system>

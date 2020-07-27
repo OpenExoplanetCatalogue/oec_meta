@@ -2,6 +2,10 @@
 	<name>Kepler-255</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
+	<links>
+		<link>http://astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+	</links>
 </system>

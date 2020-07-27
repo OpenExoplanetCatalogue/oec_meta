@@ -1,9 +1,16 @@
 <system>
 	<name>83 Leonis</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2007ApJS..168..297T</link>
+		<link>http://exoplanet.eu</link>
 		<link>http://adsabs.harvard.edu/abs/2016ApJ...820L...5K</link>
+		<link>http://adsabs.harvard.edu/abs/2011ApJ...727..117M</link>
 	</links>
 </system>

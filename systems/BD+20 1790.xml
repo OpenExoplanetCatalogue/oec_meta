@@ -1,4 +1,12 @@
 <system>
 	<name>BD+20 1790</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2015A%26A...576A..66H</link>
+		<link>http://arxiv.org/abs/1502.05223</link>
+	</links>
 </system>

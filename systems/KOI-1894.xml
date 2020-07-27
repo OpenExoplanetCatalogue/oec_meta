@@ -1,6 +1,9 @@
 <system>
 	<name>KOI-1894</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1501.05415</link>
+	</links>
 </system>

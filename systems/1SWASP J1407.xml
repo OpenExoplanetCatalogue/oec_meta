@@ -1,6 +1,9 @@
 <system>
 	<name>1SWASP J1407</name>
 	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1501.05652</link>
+	</links>
 </system>

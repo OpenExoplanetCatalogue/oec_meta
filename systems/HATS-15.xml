@@ -1,4 +1,9 @@
 <system>
 	<name>HATS-15</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1511.06305</link>
+	</links>
 </system>

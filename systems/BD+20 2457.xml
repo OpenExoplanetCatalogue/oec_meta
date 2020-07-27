@@ -1,4 +1,6 @@
 <system>
 	<name>BD+20 2457</name>
-	<contributors />
+	<contributors>
+		<contributor commits="3" email="douglase@bu.edu">Ewan Douglas</contributor>
+	</contributors>
 </system>

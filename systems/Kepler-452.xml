@@ -2,6 +2,9 @@
 	<name>Kepler-452</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://www.nasa.gov/sites/default/files/atoms/files/ms-r1b.pdf</link>
+	</links>
 </system>

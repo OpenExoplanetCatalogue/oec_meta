@@ -1,4 +1,12 @@
 <system>
 	<name>CoRoT-22</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1408.2576</link>
+		<link>http://adsabs.harvard.edu/abs/2014MNRAS.444.2783M</link>
+	</links>
 </system>

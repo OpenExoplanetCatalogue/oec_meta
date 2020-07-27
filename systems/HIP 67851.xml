@@ -1,4 +1,13 @@
 <system>
 	<name>HIP 67851</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2015A%26A...573A...3J</link>
+		<link>http://arxiv.org/abs/1505.06718</link>
+		<link>http://arxiv.org/abs/1412.6889</link>
+	</links>
 </system>

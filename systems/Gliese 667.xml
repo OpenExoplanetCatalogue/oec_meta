@@ -1,4 +1,14 @@
 <system>
 	<name>Gliese 667</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2001A&amp;A...367..521P</link>
+		<link>http://adsabs.harvard.edu/abs/2014MNRAS.437.3540F</link>
+		<link>http://www.eso.org/public/news/eso1328/</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J17190-3459AB</link>
+		<link>http://adsabs.harvard.edu/abs/2008MNRAS.389..925T</link>
+	</links>
 </system>

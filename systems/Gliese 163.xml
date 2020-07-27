@@ -1,4 +1,11 @@
 <system>
 	<name>Gliese 163</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/pdf/1306.0904v1.pdf</link>
+	</links>
 </system>

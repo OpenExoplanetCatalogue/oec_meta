@@ -1,4 +1,15 @@
 <system>
 	<name>HAT-P-9</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
+		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="5" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
+		<link>http://fr.arxiv.org/abs/1006.3580</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+	</links>
 </system>

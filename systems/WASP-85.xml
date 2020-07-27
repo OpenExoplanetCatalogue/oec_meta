@@ -1,4 +1,10 @@
 <system>
 	<name>WASP-85</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1508.07281</link>
+	</links>
 </system>
