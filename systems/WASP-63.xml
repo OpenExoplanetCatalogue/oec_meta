@@ -5,15 +5,17 @@
 		<contributor commits="1" email="dddave@gmail.com">Dave</contributor>
 		<contributor commits="2" email="Davestom@nbi.dk">Daveshoszowski</contributor>
 		<contributor commits="1" email="Davestom@nbi.dk">Davestom</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2012AJ....144..139H</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://adsabs.harvard.edu/abs/2012MNRAS.426..739H</link>
 		<link>http://adsabs.harvard.edu/abs/2011MNRAS.416.2108A</link>
+		<link>http://adsabs.harvard.edu/abs/2012MNRAS.426..739H</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://adsabs.harvard.edu/abs/2012AJ....144..139H</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=wasp-63</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://arxiv.org/abs/1204.5095</link>

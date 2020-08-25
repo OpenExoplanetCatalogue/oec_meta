@@ -2,11 +2,12 @@
 	<name>Kepler-186</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="">Paul Zwerger</contributor>
 		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://exoplanets.eu/</link>
 		<link>http://www.sciencemag.org/content/344/6181/277</link>
 	</links>

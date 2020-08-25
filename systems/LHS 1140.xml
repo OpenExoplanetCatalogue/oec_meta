@@ -2,8 +2,10 @@
 	<name>LHS 1140</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://adsabs.harvard.edu/abs/2017Natur.544..333D</link>
 	</links>
 </system>

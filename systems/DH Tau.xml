@@ -2,11 +2,12 @@
 	<name>DH Tau</name>
 	<contributors>
 		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...784...65B</link>
 		<link>http://iopscience.iop.org/0004-637X/620/2/984/</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2005ApJ...620..984I</link>

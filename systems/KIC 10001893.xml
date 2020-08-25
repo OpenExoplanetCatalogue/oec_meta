@@ -2,9 +2,10 @@
 	<name>KIC 10001893</name>
 	<contributors>
 		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2014A%26A...570A.130S</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

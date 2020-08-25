@@ -2,12 +2,13 @@
 	<name>HD 169830</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="2" email="rajeewgandhi.jeyaraj@gmail.com">Rajeev-Jeyaraj</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2004A%26A...415..391M</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://adsabs.harvard.edu/abs/2016ApJ...821...89B</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>

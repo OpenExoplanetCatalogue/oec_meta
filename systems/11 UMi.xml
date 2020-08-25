@@ -2,13 +2,14 @@
 	<name>11 UMi</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="1" email="lego55100@gmail.com">Planetaryscience</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2009A%26A...505.1311D</link>
 		<link>http://en.wikipedia.org/wiki/11_UMi_b</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

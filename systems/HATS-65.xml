@@ -2,8 +2,10 @@
 	<name>HATS-65</name>
 	<contributors>
 		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>https://arxiv.org/abs/1809.01048</link>
 	</links>
 </system>

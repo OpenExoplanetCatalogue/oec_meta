@@ -2,8 +2,10 @@
 	<name>V830 Tau</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2015MNRAS.453.3706D</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

@@ -3,11 +3,12 @@
 	<contributors>
 		<contributor commits="1" email="abd1@williams.edu">Allen B. Davis</contributor>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1405.2127</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2014A%26A...566A..67L</link>
+		<link>http://arxiv.org/abs/1405.2127</link>
 	</links>
 </system>

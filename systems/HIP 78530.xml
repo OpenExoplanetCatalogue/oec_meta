@@ -2,13 +2,15 @@
 	<name>HIP 78530</name>
 	<contributors>
 		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
 		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://adsabs.harvard.edu/abs/2015ApJ...802...61L</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2011ApJ...730...42L</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

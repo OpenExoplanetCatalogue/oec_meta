@@ -2,12 +2,13 @@
 	<name>Kepler-580</name>
 	<contributors>
 		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="landrok@users.noreply.github.com">Landrok</contributor>
 	</contributors>
 	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue/blob/master/systems/Kepler-580.xml#L3</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=Kepler-580+b&amp;type=CONFIRMED_PLANET</link>
 	</links>
 </system>

@@ -2,11 +2,12 @@
 	<name>LkCa 15</name>
 	<contributors>
 		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2012ApJ...745....5K</link>
-		<link>https://ui.adsabs.harvard.edu/?#abs/2000ApJ...545.1034S</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://adsabs.harvard.edu/abs/2015Natur.527..342S</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2000ApJ...545.1034S</link>
 	</links>
 </system>
