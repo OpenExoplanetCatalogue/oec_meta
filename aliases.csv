@@ -28879,6 +28879,9 @@ KOI-2287.02,Kepler-378,planet,Kepler-378 c
 KIC 9718066 c,Kepler-378,planet,Kepler-378 c
 KIC 9718066.02,Kepler-378,planet,Kepler-378 c
 Gaia DR2 2080095512350543744 c,Kepler-378,planet,Kepler-378 c
+TOI-837,TOI-837,system,TOI-837
+TOI-837,TOI-837,star,TOI-837
+TOI-837 b,TOI-837,planet,TOI-837 b
 91 Aquarii,91 Aquarii,system,91 Aquarii
 91 Aquarii A,91 Aquarii,star,91 Aquarii A
 91 Aqr A,91 Aquarii,star,91 Aquarii A
@@ -30713,6 +30716,9 @@ KOI-1637 b,Kepler-917,planet,Kepler-917 b
 KOI-1637.01,Kepler-917,planet,Kepler-917 b
 KIC 10686864 b,Kepler-917,planet,Kepler-917 b
 Gaia DR2 2085724496490595584 b,Kepler-917,planet,Kepler-917 b
+NGTS-12,NGTS-12,system,NGTS-12
+NGTS-12,NGTS-12,star,NGTS-12
+NGTS-12 b,NGTS-12,planet,NGTS-12 b
 Gliese 328,Gliese 328,system,Gliese 328
 GJ 328,Gliese 328,system,Gliese 328
 Gliese 328,Gliese 328,star,Gliese 328
@@ -39985,6 +39991,10 @@ KOI-2179.02,Kepler-369,planet,Kepler-369 b
 KIC 10670119 b,Kepler-369,planet,Kepler-369 b
 KIC 10670119.02,Kepler-369,planet,Kepler-369 b
 Gaia DR2 2128835935094128512 b,Kepler-369,planet,Kepler-369 b
+GJ 3473,GJ 3473,system,GJ 3473
+GJ 3473,GJ 3473,star,GJ 3473
+GJ 3473 b,GJ 3473,planet,GJ 3473 b
+GJ 3473 c,GJ 3473,planet,GJ 3473 c
 Kepler-125,Kepler-125,system,Kepler-125
 KOI-251,Kepler-125,system,Kepler-125
 KIC 10489206,Kepler-125,system,Kepler-125
