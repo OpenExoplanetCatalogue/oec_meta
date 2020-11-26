@@ -1,9 +1,10 @@
 <system>
 	<name>TOI-1338</name>
 	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>https://exoplanetarchive.ipac.caltech.edu</link>
+		<link>https://arxiv.org/abs/2004.07783</link>
 	</links>
 </system>

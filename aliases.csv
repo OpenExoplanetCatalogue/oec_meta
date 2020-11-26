@@ -4529,18 +4529,9 @@ GJ 876 A e,Gliese 876,planet,Gliese 876 e
 TYC 5819-1255-1 e,Gliese 876,planet,Gliese 876 e
 HIP 113020 e,Gliese 876,planet,Gliese 876 e
 Kepler-595,Kepler-595,system,Kepler-595
-KOI-547,Kepler-595,system,Kepler-595
-KIC 12116489,Kepler-595,system,Kepler-595
 Kepler-595,Kepler-595,star,Kepler-595
-KOI-547,Kepler-595,star,Kepler-595
-KIC 12116489,Kepler-595,star,Kepler-595
-2MASS J19381689+5040228,Kepler-595,star,Kepler-595
-Gaia DR2 2135237601028549888,Kepler-595,star,Kepler-595
 Kepler-595 b,Kepler-595,planet,Kepler-595 b
-KOI-547 b,Kepler-595,planet,Kepler-595 b
-KOI-547.01,Kepler-595,planet,Kepler-595 b
-KIC 12116489 b,Kepler-595,planet,Kepler-595 b
-Gaia DR2 2135237601028549888 b,Kepler-595,planet,Kepler-595 b
+Kepler-595 c,Kepler-595,planet,Kepler-595 c
 Kepler-1319,Kepler-1319,system,Kepler-1319
 KOI-2705,Kepler-1319,system,Kepler-1319
 KIC 11453592,Kepler-1319,system,Kepler-1319
@@ -11548,6 +11539,9 @@ KOI-2602 b,Kepler-1287,planet,Kepler-1287 b
 KOI-2602.01,Kepler-1287,planet,Kepler-1287 b
 KIC 10068659 b,Kepler-1287,planet,Kepler-1287 b
 Gaia DR2 2127802188005355648 b,Kepler-1287,planet,Kepler-1287 b
+EPIC 201757695,EPIC 201757695,system,EPIC 201757695
+EPIC 201757695,EPIC 201757695,star,EPIC 201757695
+EPIC 201757695 b,EPIC 201757695,planet,EPIC 201757695 b
 WASP-141,WASP-141,system,WASP-141
 WASP-141,WASP-141,star,WASP-141
 Gaia DR2 2980392087185289216,WASP-141,star,WASP-141
@@ -25144,6 +25138,9 @@ KOI-1406 b,Kepler-836,planet,Kepler-836 b
 KOI-1406.01,Kepler-836,planet,Kepler-836 b
 KIC 9271752 b,Kepler-836,planet,Kepler-836 b
 Gaia DR2 2130282789316404736 b,Kepler-836,planet,Kepler-836 b
+EPIC 201170410,EPIC 201170410,system,EPIC 201170410
+EPIC 201170410,EPIC 201170410,star,EPIC 201170410
+EPIC 201170410 b,EPIC 201170410,planet,EPIC 201170410 b
 HD 89345,HD 89345,system,HD 89345
 HIP 50496,HD 89345,system,HD 89345
 HD 89345,HD 89345,star,HD 89345
@@ -28885,6 +28882,9 @@ Gaia DR2 2080095512350543744 c,Kepler-378,planet,Kepler-378 c
 TOI-837,TOI-837,system,TOI-837
 TOI-837,TOI-837,star,TOI-837
 TOI-837 b,TOI-837,planet,TOI-837 b
+EPIC 246193072,EPIC 246193072,system,EPIC 246193072
+EPIC 246193072,EPIC 246193072,star,EPIC 246193072
+EPIC 246193072 b,EPIC 246193072,planet,EPIC 246193072 b
 91 Aquarii,91 Aquarii,system,91 Aquarii
 91 Aquarii A,91 Aquarii,star,91 Aquarii A
 91 Aqr A,91 Aquarii,star,91 Aquarii A
@@ -32619,6 +32619,9 @@ KOI-560 b,Kepler-600,planet,Kepler-600 b
 KOI-560.01,Kepler-600,planet,Kepler-600 b
 KIC 6501635 b,Kepler-600,planet,Kepler-600 b
 Gaia DR2 2104875377699739648 b,Kepler-600,planet,Kepler-600 b
+TOI-954,TOI-954,system,TOI-954
+TOI-954,TOI-954,star,TOI-954
+TOI-954 b,TOI-954,planet,TOI-954 b
 KOI-368,KOI-368,system,KOI-368
 KOI-368,KOI-368,star,KOI-368
 KIC 6693943,KOI-368,star,KOI-368
@@ -34962,6 +34965,12 @@ KOI-2338 b,Kepler-1196,planet,Kepler-1196 b
 KOI-2338.01,Kepler-1196,planet,Kepler-1196 b
 KIC 8099138 b,Kepler-1196,planet,Kepler-1196 b
 Gaia DR2 2125962155298608000 b,Kepler-1196,planet,Kepler-1196 b
+Kepler-462,Kepler-462,system,Kepler-462
+Kepler-462,Kepler-462,star,Kepler-462
+Kepler-462 b,Kepler-462,planet,Kepler-462 b
+KOI-89 b,Kepler-462,planet,Kepler-462 b
+Kepler-462 c,Kepler-462,planet,Kepler-462 c
+KOI-89 c,Kepler-462,planet,Kepler-462 c
 Kepler-1441,Kepler-1441,system,Kepler-1441
 KOI-3147,Kepler-1441,system,Kepler-1441
 KIC 7534267,Kepler-1441,system,Kepler-1441
@@ -37984,8 +37993,11 @@ Gaia DR2 95652018353917056 b,HD 10697,planet,HD 10697 b
 HIP 8159 b,HD 10697,planet,HD 10697 b
 GJ 72 b,HD 10697,planet,HD 10697 b
 TOI-1338,TOI-1338,system,TOI-1338
-TOI-1338,TOI-1338,star,TOI-1338
-TOI-1338 b,TOI-1338,planet,TOI-1338 b
+TOI-1338 A,TOI-1338,star,TOI-1338 A
+TOI-1338 B,TOI-1338,star,TOI-1338 B
+TOI-1338 (AB) b,TOI-1338,planet,TOI-1338 (AB) b
+TOI-1338 b,TOI-1338,planet,TOI-1338 (AB) b
+TIC 260128333 b,TOI-1338,planet,TOI-1338 (AB) b
 K2-228,K2-228,system,K2-228
 EPIC 228798746,K2-228,system,K2-228
 K2-228,K2-228,star,K2-228
@@ -42230,22 +42242,6 @@ TYC 4943-726-1,K2-244,star,K2-244
 K2-244 b,K2-244,planet,K2-244 b
 Gaia DR2 3597981377595128704 b,K2-244,planet,K2-244 b
 TYC 4943-726-1 b,K2-244,planet,K2-244 b
-KOI-89,KOI-89,system,KOI-89
-Kepler-462,KOI-89,system,KOI-89
-KIC 8056665,KOI-89,system,KOI-89
-KOI-89,KOI-89,star,KOI-89
-Kepler-462,KOI-89,star,KOI-89
-KIC 8056665,KOI-89,star,KOI-89
-TYC 3149-1163-1,KOI-89,star,KOI-89
-2MASS J19591707+4348513,KOI-89,star,KOI-89
-Gaia DR2 2075998903831657472,KOI-89,star,KOI-89
-KOI-89 b,KOI-89,planet,KOI-89 b
-Kepler-462 b,KOI-89,planet,KOI-89 b
-KOI-89.01,KOI-89,planet,KOI-89 b
-KIC 8056665 b,KOI-89,planet,KOI-89 b
-Gaia DR2 2075998903831657472 b,KOI-89,planet,KOI-89 b
-TYC 3149-1163-1 b,KOI-89,planet,KOI-89 b
-KOI-89.02,KOI-89,planet,KOI-89.02
 Kepler-312,Kepler-312,system,Kepler-312
 KOI-1628,Kepler-312,system,Kepler-312
 KIC 6975129,Kepler-312,system,Kepler-312
