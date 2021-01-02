@@ -49,7 +49,9 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	systemname = root.findtext("./name").encode('utf-8')
 	ET.SubElement(metaroot,"name").text = systemname 
 	
-	contributors = os.popen("cd open_exoplanet_catalogue && git log '"+metafilename+"' | grep '^Author:' | sort |  uniq -c -i ").readlines()
+	os.popen("git --git-dir=open_exoplanet_catalogue/.git/ --no-pager log '"+metafilename+"' >tmp.txt")
+        
+        contributors = os.popen("cat tmp.txt | grep '^Author:' | sort |  uniq -c -i ").readlines()
 
 
 	sys.stdout.write('.')
@@ -74,7 +76,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 			totalcontributorsemail.append(email)
 
 
-	links = os.popen("cd open_exoplanet_catalogue && git --no-pager log '"+metafilename+"' | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
+	links = os.popen("cat tmp.txt | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
 	if len(links)>0:
 		links = set(links)
 		#print "Links: %d" % len(links),
