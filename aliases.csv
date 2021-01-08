@@ -1527,6 +1527,9 @@ KOI-846 b,Kepler-699,planet,Kepler-699 b
 KOI-846.01,Kepler-699,planet,Kepler-699 b
 KIC 6061119 b,Kepler-699,planet,Kepler-699 b
 Gaia DR2 2076838896353601152 b,Kepler-699,planet,Kepler-699 b
+TOI-1601,TOI-1601,system,TOI-1601
+TOI-1601,TOI-1601,star,TOI-1601
+TOI-1601 b,TOI-1601,planet,TOI-1601 b
 Kepler-791,Kepler-791,system,Kepler-791
 KOI-1210,Kepler-791,system,Kepler-791
 KIC 3962357,Kepler-791,system,Kepler-791
@@ -3433,6 +3436,12 @@ WASP-151,WASP-151,star,WASP-151
 Gaia DR2 2657135741633337088,WASP-151,star,WASP-151
 WASP-151 b,WASP-151,planet,WASP-151 b
 Gaia DR2 2657135741633337088 b,WASP-151,planet,WASP-151 b
+TOI-628,TOI-628,system,TOI-628
+HD 288842,TOI-628,system,TOI-628
+TOI-628,TOI-628,star,TOI-628
+HD 288842,TOI-628,star,TOI-628
+TOI-628 b,TOI-628,planet,TOI-628 b
+HD 288842 b,TOI-628,planet,TOI-628 b
 WASP-70,WASP-70,system,WASP-70
 HD 358155,WASP-70,system,WASP-70
 2MASS J21015446-1325595,WASP-70,system,WASP-70
@@ -9421,6 +9430,9 @@ HD 114762,HD 114762,star,HD 114762 A
 HD 114762 B,HD 114762,star,HD 114762 B
 HD 114762 b,HD 114762,planet,HD 114762 b
 HD 114762 A b,HD 114762,planet,HD 114762 b
+TOI-1478,TOI-1478,system,TOI-1478
+TOI-1478,TOI-1478,star,TOI-1478
+TOI-1478 b,TOI-1478,planet,TOI-1478 b
 Kepler-198,Kepler-198,system,Kepler-198
 KOI-624,Kepler-198,system,Kepler-198
 KIC 3541946,Kepler-198,system,Kepler-198
@@ -24388,6 +24400,9 @@ KOI-4234 b,Kepler-1574,planet,Kepler-1574 b
 KOI-4234.01,Kepler-1574,planet,Kepler-1574 b
 KIC 11611275 b,Kepler-1574,planet,Kepler-1574 b
 Gaia DR2 2129858412187969024 b,Kepler-1574,planet,Kepler-1574 b
+TOI-640,TOI-640,system,TOI-640
+TOI-640,TOI-640,star,TOI-640
+TOI-640 b,TOI-640,planet,TOI-640 b
 Kepler-270,Kepler-270,system,Kepler-270
 KOI-1148,Kepler-270,system,Kepler-270
 KIC 8410727,Kepler-270,system,Kepler-270
@@ -25618,6 +25633,9 @@ KOI-1677 b,Kepler-926,planet,Kepler-926 b
 KOI-1677.01,Kepler-926,planet,Kepler-926 b
 KIC 5526717 b,Kepler-926,planet,Kepler-926 b
 Gaia DR2 2101378312251177472 b,Kepler-926,planet,Kepler-926 b
+TOI-1333,TOI-1333,system,TOI-1333
+TOI-1333,TOI-1333,star,TOI-1333
+TOI-1333 b,TOI-1333,planet,TOI-1333 b
 Kepler-441,Kepler-441,system,Kepler-441
 KOI-4622,Kepler-441,system,Kepler-441
 KIC 11284772,Kepler-441,system,Kepler-441
