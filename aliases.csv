@@ -1970,6 +1970,9 @@ TOI-561,TOI-561,system,TOI-561
 TOI-561,TOI-561,star,TOI-561
 TOI-561 b,TOI-561,planet,TOI-561 b
 TOI-561 c,TOI-561,planet,TOI-561 c
+TOI-561 d,TOI-561,planet,TOI-561 d
+TOI-561 e,TOI-561,planet,TOI-561 e
+TOI-561 f,TOI-561,planet,TOI-561 f
 Kepler-890,Kepler-890,system,Kepler-890
 KOI-1553,Kepler-890,system,Kepler-890
 KIC 7951018,Kepler-890,system,Kepler-890
@@ -2893,6 +2896,10 @@ KOI-1215.02,Kepler-277,planet,Kepler-277 c
 KIC 3939150 c,Kepler-277,planet,Kepler-277 c
 KIC 3939150.02,Kepler-277,planet,Kepler-277 c
 Gaia DR2 2100389610777053056 c,Kepler-277,planet,Kepler-277 c
+TOI-776,TOI-776,system,TOI-776
+TOI-776,TOI-776,star,TOI-776
+TOI-776 b,TOI-776,planet,TOI-776 b
+TOI-776 c,TOI-776,planet,TOI-776 c
 Kepler-1273,Kepler-1273,system,Kepler-1273
 KOI-2544,Kepler-1273,system,Kepler-1273
 KIC 8676148,Kepler-1273,system,Kepler-1273
@@ -25286,15 +25293,7 @@ KIC 8543100 b,Kepler-1033,planet,Kepler-1033 b
 Gaia DR2 2106679126525940096 b,Kepler-1033,planet,Kepler-1033 b
 Kepler-1514,Kepler-1514,system,Kepler-1514
 Kepler-1514,Kepler-1514,star,Kepler-1514
-Gaia DR2 2051866238502437632,Kepler-1514,star,Kepler-1514
-KOI-3681,Kepler-1514,star,Kepler-1514
-KIC 2581316,Kepler-1514,star,Kepler-1514
-TYC 3135-497-1,Kepler-1514,star,Kepler-1514
 Kepler-1514 b,Kepler-1514,planet,Kepler-1514 b
-Gaia DR2 2051866238502437632 b,Kepler-1514,planet,Kepler-1514 b
-KOI-3681 b,Kepler-1514,planet,Kepler-1514 b
-KIC 2581316 b,Kepler-1514,planet,Kepler-1514 b
-TYC 3135-497-1 b,Kepler-1514,planet,Kepler-1514 b
 Kepler-1514 c,Kepler-1514,planet,Kepler-1514 c
 Kepler-443,Kepler-443,system,Kepler-443
 KOI-4745,Kepler-443,system,Kepler-443
