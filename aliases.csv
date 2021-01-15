@@ -18144,6 +18144,13 @@ KOI-889.01,Kepler-75,planet,Kepler-75 b
 KIC 757450 b,Kepler-75,planet,Kepler-75 b
 2MASS 19243302+3634385 b,Kepler-75,planet,Kepler-75 b
 Gaia DR2 2050231848829944320 b,Kepler-75,planet,Kepler-75 b
+TOI-1259,TOI-1259,system,TOI-1259
+TOI-1259 A,TOI-1259,star,TOI-1259 A
+TIC 288735205,TOI-1259,star,TOI-1259 A
+TOI-1259 B,TOI-1259,star,TOI-1259 B
+TIC 1718312312,TOI-1259,star,TOI-1259 B
+TOI-1259 A b,TOI-1259,planet,TOI-1259 A b
+TIC 288735205 b,TOI-1259,planet,TOI-1259 A b
 CoRoT-28,CoRoT-28,system,CoRoT-28
 CoRoT-28,CoRoT-28,star,CoRoT-28
 2MASS J18344520+0534254,CoRoT-28,star,CoRoT-28
@@ -30410,6 +30417,13 @@ KOI-581 c,Kepler-610,planet,Kepler-610 c
 KOI-581.02,Kepler-610,planet,Kepler-610 c
 KIC 8822216 c,Kepler-610,planet,Kepler-610 c
 Gaia DR2 2126509364192049152 c,Kepler-610,planet,Kepler-610 c
+NGTS-14,NGTS-14,system,NGTS-14
+NGTS-14 A,NGTS-14,star,NGTS-14 A
+TIC 197643976,NGTS-14,star,NGTS-14 A
+NGTS-14 B,NGTS-14,star,NGTS-14 B
+TIC 197641898,NGTS-14,star,NGTS-14 B
+NGTS-14 A b,NGTS-14,planet,NGTS-14 A b
+TIC 197643976 b,NGTS-14,planet,NGTS-14 A b
 Upsilon Andromedae,Upsilon Andromedae,system,Upsilon Andromedae
 Upsilon Andromedae A,Upsilon Andromedae,star,Upsilon Andromedae A
 ups And A,Upsilon Andromedae,star,Upsilon Andromedae A
@@ -30932,6 +30946,9 @@ KOI-2521 b,Kepler-1266,planet,Kepler-1266 b
 KOI-2521.01,Kepler-1266,planet,Kepler-1266 b
 KIC 7183745 b,Kepler-1266,planet,Kepler-1266 b
 Gaia DR2 2105528350169042560 b,Kepler-1266,planet,Kepler-1266 b
+NGTS-13,NGTS-13,system,NGTS-13
+NGTS-13,NGTS-13,star,NGTS-13
+NGTS-13 b,NGTS-13,planet,NGTS-13 b
 Kepler-940,Kepler-940,system,Kepler-940
 KOI-1723,Kepler-940,system,Kepler-940
 KIC 10213902,Kepler-940,system,Kepler-940
