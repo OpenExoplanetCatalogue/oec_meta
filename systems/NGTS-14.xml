@@ -1,4 +1,9 @@
 <system>
 	<name>NGTS-14</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/2101.01470</link>
+	</links>
 </system>

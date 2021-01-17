@@ -1,4 +1,9 @@
 <system>
 	<name>TOI-1259</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/2101.02707</link>
+	</links>
 </system>
