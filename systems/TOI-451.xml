@@ -1,4 +1,10 @@
 <system>
 	<name>TOI-451</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://iopscience.iop.org/article/10.3847/1538-3881/abccc6</link>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>
