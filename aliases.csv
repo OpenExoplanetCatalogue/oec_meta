@@ -2167,6 +2167,9 @@ LTT 3780 b,LTT 3780,planet,LTT 3780 b
 Gaia DR2 3767281845873242112 b,LTT 3780,planet,LTT 3780 b
 LTT 3780 c,LTT 3780,planet,LTT 3780 c
 Gaia DR2 3767281845873242112 c,LTT 3780,planet,LTT 3780 c
+TYC 0434-04538-1,TYC 0434-04538-1,system,TYC 0434-04538-1
+TYC 0434-04538-1,TYC 0434-04538-1,star,TYC 0434-04538-1
+TYC 0434-04538-1 b,TYC 0434-04538-1,planet,TYC 0434-04538-1 b
 Kepler-518,Kepler-518,system,Kepler-518
 KOI-304,Kepler-518,system,Kepler-518
 KIC 6029239,Kepler-518,system,Kepler-518
@@ -5239,6 +5242,9 @@ KOI-844 b,Kepler-697,planet,Kepler-697 b
 KOI-844.01,Kepler-697,planet,Kepler-697 b
 KIC 6022556 b,Kepler-697,planet,Kepler-697 b
 Gaia DR2 2103728312194385792 b,Kepler-697,planet,Kepler-697 b
+BD+02.3313,BD+02.3313,system,BD+02.3313
+BD+02.3313,BD+02.3313,star,BD+02.3313
+BD+02.3313 b,BD+02.3313,planet,BD+02.3313 b
 Kepler-994,Kepler-994,system,Kepler-994
 KOI-1880,Kepler-994,system,Kepler-994
 KIC 10332883,Kepler-994,system,Kepler-994
@@ -35184,6 +35190,9 @@ KIC 8056665 b,Kepler-462,planet,Kepler-462 b
 TYC 3149-1163-1 b,Kepler-462,planet,Kepler-462 b
 Kepler-462 c,Kepler-462,planet,Kepler-462 c
 KOI-89 c,Kepler-462,planet,Kepler-462 c
+HD 96992,HD 96992,system,HD 96992
+HD 96992,HD 96992,star,HD 96992
+HD 96992 b,HD 96992,planet,HD 96992 b
 Kepler-1441,Kepler-1441,system,Kepler-1441
 KOI-3147,Kepler-1441,system,Kepler-1441
 KIC 7534267,Kepler-1441,system,Kepler-1441
@@ -36436,6 +36445,9 @@ KOI-1958.01,Kepler-66,planet,Kepler-66 b
 KOI-1958 b,Kepler-66,planet,Kepler-66 b
 KIC 9836149 b,Kepler-66,planet,Kepler-66 b
 Gaia DR2 2128198836827103616 b,Kepler-66,planet,Kepler-66 b
+HD 4760,HD 4760,system,HD 4760
+HD 4760,HD 4760,star,HD 4760
+HD 4760 b,HD 4760,planet,HD 4760 b
 Kepler-528,Kepler-528,system,Kepler-528
 KOI-337,Kepler-528,system,Kepler-528
 KIC 10545066,Kepler-528,system,Kepler-528
@@ -40509,6 +40521,16 @@ KOI-1876 b,Kepler-991,planet,Kepler-991 b
 KOI-1876.01,Kepler-991,planet,Kepler-991 b
 KIC 11622600 b,Kepler-991,planet,Kepler-991 b
 Gaia DR2 2087215262455233664 b,Kepler-991,planet,Kepler-991 b
+TOI-178,TOI-178,system,TOI-178
+TYC 6991-475-1,TOI-178,system,TOI-178
+TOI-178,TOI-178,star,TOI-178
+TYC 6991-475-1,TOI-178,star,TOI-178
+TOI-178 b,TOI-178,planet,TOI-178 b
+TOI-178 c,TOI-178,planet,TOI-178 c
+TOI-178 d,TOI-178,planet,TOI-178 d
+TOI-178 e,TOI-178,planet,TOI-178 e
+TOI-178 f,TOI-178,planet,TOI-178 f
+TOI-178 g,TOI-178,planet,TOI-178 g
 GJ 3942,GJ 3942,system,GJ 3942
 HIP 79126,GJ 3942,system,GJ 3942
 GJ 3942,GJ 3942,star,GJ 3942
