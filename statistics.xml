@@ -1,6 +1,6 @@
 <statistiscs>
-	<commits>19443</commits>
-	<contributors num="37">
+	<commits>19449</commits>
+	<contributors num="38">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
 		<contributor>Hanno Rein</contributor>
@@ -34,6 +34,7 @@
 		<contributor>Diamondraph</contributor>
 		<contributor>Planetaryscience</contributor>
 		<contributor>Dave</contributor>
+		<contributor>Randomcoinforall</contributor>
 		<contributor>Orome</contributor>
 		<contributor>Claudionor Buzzo Raymundo</contributor>
 		<contributor>Dobb13</contributor>
@@ -76,6 +77,6 @@
 	</discoveryyear>
 	<confirmedplanets>4390</confirmedplanets>
 	<confirmedsystems>3269</confirmedsystems>
-	<lastupdate>2021-02-01</lastupdate>
-	<lastcommittimestamp>1612194970</lastcommittimestamp>
+	<lastupdate>2021-02-13</lastupdate>
+	<lastcommittimestamp>1613237294</lastcommittimestamp>
 </statistiscs>

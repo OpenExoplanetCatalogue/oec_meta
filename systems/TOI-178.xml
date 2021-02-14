@@ -1,4 +1,10 @@
 <system>
 	<name>TOI-178</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://www.eso.org/public/images/eso2102a/</link>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

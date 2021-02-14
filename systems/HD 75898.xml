@@ -3,10 +3,13 @@
 	<contributors>
 		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
 		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor commits="1" email="31863693+RandomCoinForAll@users.noreply.github.com">Randomcoinforall</contributor>
 	</contributors>
 	<links>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://www.iau.org/public/themes/naming_stars/</link>
+		<link>https://www.iau.org/public/themes/naming_exoplanets/</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>
