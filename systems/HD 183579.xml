@@ -1,4 +1,9 @@
 <system>
 	<name>HD 183579</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/</link>
+	</links>
 </system>
