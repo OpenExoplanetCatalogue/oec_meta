@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>19484</commits>
+	<commits>19518</commits>
 	<contributors num="38">
 		<contributor>Andrew Tribick</contributor>
 		<contributor>Christian Sturm</contributor>
@@ -77,6 +77,6 @@
 	</discoveryyear>
 	<confirmedplanets>4401</confirmedplanets>
 	<confirmedsystems>3278</confirmedsystems>
-	<lastupdate>2021-03-12</lastupdate>
-	<lastcommittimestamp>1615597030</lastcommittimestamp>
+	<lastupdate>2021-03-14</lastupdate>
+	<lastcommittimestamp>1615738623</lastcommittimestamp>
 </statistiscs>
