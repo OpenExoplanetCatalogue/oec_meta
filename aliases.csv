@@ -24120,6 +24120,15 @@ DH Tau,DH Tau,star,DH Tau
 Gaia DR2 151374202498079872,DH Tau,star,DH Tau
 DH Tau B,DH Tau,planet,DH Tau B
 DH Tauri B,DH Tau,planet,DH Tau B
+YSES 2,YSES 2,system,YSES 2
+TYC 8984-2245-1,YSES 2,system,YSES 2
+2MASS J11275535-6626046,YSES 2,system,YSES 2
+YSES 2,YSES 2,star,YSES 2
+TYC 8984-2245-1,YSES 2,star,YSES 2
+2MASS J11275535-6626046,YSES 2,star,YSES 2
+YSES 2 b,YSES 2,planet,YSES 2 b
+TYC 8984-2245-1 b,YSES 2,planet,YSES 2 b
+2MASS J11275535-6626046 b,YSES 2,planet,YSES 2 b
 Kepler-165,Kepler-165,system,Kepler-165
 KOI-475,Kepler-165,system,Kepler-165
 KIC 10577994,Kepler-165,system,Kepler-165
@@ -39878,6 +39887,9 @@ Lupus-TR 3,Lupus-TR 3,star,Lupus-TR 3
 Gaia DR2 6002207725193488640,Lupus-TR 3,star,Lupus-TR 3
 Lupus-TR 3b,Lupus-TR 3,planet,Lupus-TR 3b
 Lupus-TR 3 b,Lupus-TR 3,planet,Lupus-TR 3b
+TOI-1634,TOI-1634,system,TOI-1634
+TOI-1634,TOI-1634,star,TOI-1634
+TOI-1634 b,TOI-1634,planet,TOI-1634 b
 Kepler-167,Kepler-167,system,Kepler-167
 KOI-490,Kepler-167,system,Kepler-167
 KIC 3239945,Kepler-167,system,Kepler-167
