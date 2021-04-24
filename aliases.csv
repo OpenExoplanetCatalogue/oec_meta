@@ -3336,6 +3336,9 @@ KOI-2936 b,Kepler-1390,planet,Kepler-1390 b
 KOI-2936.01,Kepler-1390,planet,Kepler-1390 b
 KIC 10880507 b,Kepler-1390,planet,Kepler-1390 b
 Gaia DR2 2086485186737501696 b,Kepler-1390,planet,Kepler-1390 b
+OGLE-2018-BLG-0567L,OGLE-2018-BLG-0567L,system,OGLE-2018-BLG-0567L
+OGLE-2018-BLG-0567L,OGLE-2018-BLG-0567L,star,OGLE-2018-BLG-0567L
+OGLE-2018-BLG-0567L b,OGLE-2018-BLG-0567L,planet,OGLE-2018-BLG-0567L b
 Gliese 15,Gliese 15,system,Gliese 15
 Gliese 15 A,Gliese 15,star,Gliese 15 A
 GJ 15 A,Gliese 15,star,Gliese 15 A
@@ -7126,28 +7129,23 @@ TYC 6471-465-1 b,HD 30669,planet,HD 30669 b
 Gaia DR2 4880032624440826112 b,HD 30669,planet,HD 30669 b
 HIP 22320 b,HD 30669,planet,HD 30669 b
 Gliese 221,Gliese 221,system,Gliese 221
-GJ 221,Gliese 221,system,Gliese 221
-BD-061339,Gliese 221,system,Gliese 221
-HIP 27803,Gliese 221,system,Gliese 221
 BD-06 1339,Gliese 221,system,Gliese 221
+GJ 221,Gliese 221,system,Gliese 221
 Gliese 221,Gliese 221,star,Gliese 221
+BD-06 1339,Gliese 221,star,Gliese 221
 GJ 221,Gliese 221,star,Gliese 221
-BD-061339,Gliese 221,star,Gliese 221
-HIP 27803,Gliese 221,star,Gliese 221
-Gaia DR2 3022099969137163904,Gliese 221,star,Gliese 221
-TYC 4781-406-1,Gliese 221,star,Gliese 221
 Gliese 221 b,Gliese 221,planet,Gliese 221 b
+BD-06 1339 b,Gliese 221,planet,Gliese 221 b
 GJ 221 b,Gliese 221,planet,Gliese 221 b
-BD-061339 b,Gliese 221,planet,Gliese 221 b
-HIP 27803 b,Gliese 221,planet,Gliese 221 b
-Gaia DR2 3022099969137163904 b,Gliese 221,planet,Gliese 221 b
-TYC 4781-406-1 b,Gliese 221,planet,Gliese 221 b
 Gliese 221 c,Gliese 221,planet,Gliese 221 c
+BD-06 1339 c,Gliese 221,planet,Gliese 221 c
 GJ 221 c,Gliese 221,planet,Gliese 221 c
-BD-061339 c,Gliese 221,planet,Gliese 221 c
-HIP 27803 c,Gliese 221,planet,Gliese 221 c
-Gaia DR2 3022099969137163904 c,Gliese 221,planet,Gliese 221 c
-TYC 4781-406-1 c,Gliese 221,planet,Gliese 221 c
+Gliese 221 d,Gliese 221,planet,Gliese 221 d
+BD-06 1339 d,Gliese 221,planet,Gliese 221 d
+GJ 221 d,Gliese 221,planet,Gliese 221 d
+Gliese 221 e,Gliese 221,planet,Gliese 221 e
+GJ 221 e,Gliese 221,planet,Gliese 221 e
+BD-06 1339 e,Gliese 221,planet,Gliese 221 e
 HD 181720,HD 181720,system,HD 181720
 HD 181720,HD 181720,star,HD 181720
 TYC 7428-2738-1,HD 181720,star,HD 181720
@@ -12609,31 +12607,18 @@ TOI-1130,TOI-1130,star,TOI-1130
 TOI-1130 b,TOI-1130,planet,TOI-1130 b
 TOI-1130 c,TOI-1130,planet,TOI-1130 c
 Gliese 163,Gliese 163,system,Gliese 163
-Gliese 163,Gliese 163,star,Gliese 163
-GJ 163,Gliese 163,star,Gliese 163
-HIP 19394,Gliese 163,star,Gliese 163
-LHS 188,Gliese 163,star,Gliese 163
-TYC 8502-1934-1,Gliese 163,star,Gliese 163
-2MASS J04091567-5322254,Gliese 163,star,Gliese 163
-Gaia DR2 4780294722094459904,Gliese 163,star,Gliese 163
+GJ 163,Gliese 163,system,Gliese 163
+GJ 163,Gliese 163,star,GJ 163
 Gliese 163 b,Gliese 163,planet,Gliese 163 b
 GJ 163 b,Gliese 163,planet,Gliese 163 b
-HIP 19394 b,Gliese 163,planet,Gliese 163 b
-LHS 188 b,Gliese 163,planet,Gliese 163 b
-Gaia DR2 4780294722094459904 b,Gliese 163,planet,Gliese 163 b
-TYC 8502-1934-1 b,Gliese 163,planet,Gliese 163 b
 Gliese 163 c,Gliese 163,planet,Gliese 163 c
 GJ 163 c,Gliese 163,planet,Gliese 163 c
-HIP 19394 c,Gliese 163,planet,Gliese 163 c
-LHS 188 c,Gliese 163,planet,Gliese 163 c
-Gaia DR2 4780294722094459904 c,Gliese 163,planet,Gliese 163 c
-TYC 8502-1934-1 c,Gliese 163,planet,Gliese 163 c
 Gliese 163 d,Gliese 163,planet,Gliese 163 d
 GJ 163 d,Gliese 163,planet,Gliese 163 d
-HIP 19394 d,Gliese 163,planet,Gliese 163 d
-LHS 188 d,Gliese 163,planet,Gliese 163 d
-Gaia DR2 4780294722094459904 d,Gliese 163,planet,Gliese 163 d
-TYC 8502-1934-1 d,Gliese 163,planet,Gliese 163 d
+Gliese 163 e,Gliese 163,planet,Gliese 163 e
+GJ 163 e,Gliese 163,planet,Gliese 163 e
+Gliese 163 f,Gliese 163,planet,Gliese 163 f
+GJ 163 f,Gliese 163,planet,Gliese 163 f
 Kepler-291,Kepler-291,system,Kepler-291
 KOI-1363,Kepler-291,system,Kepler-291
 KIC 6936909,Kepler-291,system,Kepler-291
@@ -23159,6 +23144,9 @@ KOI-4450 b,Kepler-1606,planet,Kepler-1606 b
 KOI-4450.01,Kepler-1606,planet,Kepler-1606 b
 KIC 7429240 b,Kepler-1606,planet,Kepler-1606 b
 Gaia DR2 2105554394851020160 b,Kepler-1606,planet,Kepler-1606 b
+OGLE-2018-BLG-1185,OGLE-2018-BLG-1185,system,OGLE-2018-BLG-1185
+OGLE-2018-BLG-1185,OGLE-2018-BLG-1185,star,OGLE-2018-BLG-1185
+OGLE-2018-BLG-1185 b,OGLE-2018-BLG-1185,planet,OGLE-2018-BLG-1185 b
 HD 50499,HD 50499,system,HD 50499
 HIP 32970,HD 50499,system,HD 50499
 HD 50499,HD 50499,star,HD 50499
@@ -26153,6 +26141,9 @@ KIC 9579641 c,Kepler-105,planet,Kepler-105 c
 KIC 9579641.02,Kepler-105,planet,Kepler-105 c
 Gaia DR2 2130368310704421120 c,Kepler-105,planet,Kepler-105 c
 KOI-115.03,Kepler-105,planet,KOI-115.03
+KMT-2018-BLG-1976L,KMT-2018-BLG-1976L,system,KMT-2018-BLG-1976L
+KMT-2018-BLG-1976L,KMT-2018-BLG-1976L,star,KMT-2018-BLG-1976L
+KMT-2018-BLG-1976L b,KMT-2018-BLG-1976L,planet,KMT-2018-BLG-1976L b
 Kepler-372,Kepler-372,system,Kepler-372
 KOI-2195,Kepler-372,system,Kepler-372
 KIC 11401767,Kepler-372,system,Kepler-372
@@ -27609,6 +27600,9 @@ HIP 105232 b,HD 203030,planet,HD 203030 b
 Gaia DR2 1846882224145757056 b,HD 203030,planet,HD 203030 b
 TYC 2190-1095-1 b,HD 203030,planet,HD 203030 b
 HD 203030A b,HD 203030,planet,HD 203030 b
+HD 29399,HD 29399,system,HD 29399
+HD 29399,HD 29399,star,HD 29399
+HD 29399 b,HD 29399,planet,HD 29399 b
 OGLE-2003-BLG-235L,OGLE-2003-BLG-235L,system,OGLE-2003-BLG-235L
 MOA-2003-BLG-53L,OGLE-2003-BLG-235L,system,OGLE-2003-BLG-235L
 OGLE-2003-BLG-235L,OGLE-2003-BLG-235L,star,OGLE-2003-BLG-235L
@@ -29026,6 +29020,9 @@ KOI-2791 b,Kepler-1348,planet,Kepler-1348 b
 KOI-2791.01,Kepler-1348,planet,Kepler-1348 b
 KIC 11662184 b,Kepler-1348,planet,Kepler-1348 b
 Gaia DR2 2129877825440176512 b,Kepler-1348,planet,Kepler-1348 b
+OGLE-2018-BLG-0962L,OGLE-2018-BLG-0962L,system,OGLE-2018-BLG-0962L
+OGLE-2018-BLG-0962L,OGLE-2018-BLG-0962L,star,OGLE-2018-BLG-0962L
+OGLE-2018-BLG-0962,OGLE-2018-BLG-0962L,planet,OGLE-2018-BLG-0962
 Kepler-1153,Kepler-1153,system,Kepler-1153
 KOI-2242,Kepler-1153,system,Kepler-1153
 KIC 9336200,Kepler-1153,system,Kepler-1153
@@ -32632,6 +32629,10 @@ KOI-3237 b,Kepler-1444,planet,Kepler-1444 b
 KOI-3237.01,Kepler-1444,planet,Kepler-1444 b
 KIC 6587796 b,Kepler-1444,planet,Kepler-1444 b
 Gaia DR2 2104172854190854528 b,Kepler-1444,planet,Kepler-1444 b
+TOI-1260,TOI-1260,system,TOI-1260
+TOI-1260,TOI-1260,star,TOI-1260
+TOI-1260 b,TOI-1260,planet,TOI-1260 b
+TOI-1260 c,TOI-1260,planet,TOI-1260 c
 WASP-117,WASP-117,system,WASP-117
 WASP-117,WASP-117,star,WASP-117
 GSC08055-00876,WASP-117,star,WASP-117
@@ -33669,6 +33670,9 @@ KOI-2403 b,Kepler-1224,planet,Kepler-1224 b
 KOI-2403.01,Kepler-1224,planet,Kepler-1224 b
 KIC 2142522 b,Kepler-1224,planet,Kepler-1224 b
 Gaia DR2 2099122522408063232 b,Kepler-1224,planet,Kepler-1224 b
+KMT-2016-BLG-2605,KMT-2016-BLG-2605,system,KMT-2016-BLG-2605
+KMT-2016-BLG-2605,KMT-2016-BLG-2605,star,KMT-2016-BLG-2605
+KMT-2016-BLG-2605 b,KMT-2016-BLG-2605,planet,KMT-2016-BLG-2605 b
 Gliese 504,Gliese 504,system,Gliese 504
 Gliese 504,Gliese 504,star,Gliese 504
 GJ 504,Gliese 504,star,Gliese 504
