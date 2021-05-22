@@ -654,6 +654,10 @@ KOI-574.02,Kepler-189,planet,Kepler-189 b
 KIC 8355239 b,Kepler-189,planet,Kepler-189 b
 KIC 8355239.02,Kepler-189,planet,Kepler-189 b
 Gaia DR2 2106137960646125312 b,Kepler-189,planet,Kepler-189 b
+TOI-1062,TOI-1062,system,TOI-1062
+TOI-1062,TOI-1062,star,TOI-1062
+TOI-1062 b,TOI-1062,planet,TOI-1062 b
+TOI-1062 c,TOI-1062,planet,TOI-1062 c
 Kepler-327,Kepler-327,system,Kepler-327
 KOI-1867,Kepler-327,system,Kepler-327
 KIC 8167996,Kepler-327,system,Kepler-327
@@ -16797,6 +16801,9 @@ KOI-2432 b,Kepler-1236,planet,Kepler-1236 b
 KOI-2432.01,Kepler-1236,planet,Kepler-1236 b
 KIC 7047363 b,Kepler-1236,planet,Kepler-1236 b
 Gaia DR2 2077894736749534080 b,Kepler-1236,planet,Kepler-1236 b
+TOI-220,TOI-220,system,TOI-220
+TOI-220,TOI-220,star,TOI-220
+TOI-220 b,TOI-220,planet,TOI-220 b
 Kepler-1063,Kepler-1063,system,Kepler-1063
 KOI-2032,Kepler-1063,system,Kepler-1063
 KIC 2985767,Kepler-1063,system,Kepler-1063
@@ -19884,6 +19891,12 @@ KOI-575 b,Kepler-606,planet,Kepler-606 b
 KOI-575.01,Kepler-606,planet,Kepler-606 b
 KIC 8367113 b,Kepler-606,planet,Kepler-606 b
 Gaia DR2 2126360831342941696 b,Kepler-606,planet,Kepler-606 b
+TOI-1231,TOI-1231,system,TOI-1231
+NLTT 24399,TOI-1231,system,TOI-1231
+TOI-1231,TOI-1231,star,TOI-1231
+NLTT 24399,TOI-1231,star,TOI-1231
+TOI-1231 b,TOI-1231,planet,TOI-1231 b
+NLTT  24399,TOI-1231,planet,TOI-1231 b
 GJ 433,GJ 433,system,GJ 433
 HIP 56528,GJ 433,system,GJ 433
 GJ 433,GJ 433,star,GJ 433
@@ -34423,6 +34436,9 @@ Gaia DR2 2051106987063242880 d,Kepler-19,planet,Kepler-19 d
 KOI-84 d,Kepler-19,planet,Kepler-19 d
 KIC 2571238 d,Kepler-19,planet,Kepler-19 d
 TYC 3134-1549-1 d,Kepler-19,planet,Kepler-19 d
+GJ 9689,GJ 9689,system,GJ 9689
+GJ 9689,GJ 9689,star,GJ 9689
+GJ 9689 b,GJ 9689,planet,GJ 9689 b
 Kepler-1366,Kepler-1366,system,Kepler-1366
 KOI-2839,Kepler-1366,system,Kepler-1366
 KIC 6186964,Kepler-1366,system,Kepler-1366
@@ -37170,6 +37186,10 @@ TYC 3131-1036-1 b,HD 175370,planet,HD 175370 b
 KIC 7940959 b,HD 175370,planet,HD 175370 b
 HIP 92668 b,HD 175370,planet,HD 175370 b
 Gaia DR2 2105114899436625792 b,HD 175370,planet,HD 175370 b
+TOI-1444,TOI-1444,system,TOI-1444
+TOI-1444,TOI-1444,star,TOI-1444
+TOI-1444 b,TOI-1444,planet,TOI-1444 b
+TOI-1444 c,TOI-1444,planet,TOI-1444 c
 Kepler-604,Kepler-604,system,Kepler-604
 KOI-566,Kepler-604,system,Kepler-604
 KIC 7119481,Kepler-604,system,Kepler-604
@@ -41582,6 +41602,14 @@ HD 207832 c,HD 207832,planet,HD 207832 c
 TYC 6956-378-1 c,HD 207832,planet,HD 207832 c
 Gaia DR2 6812056381881853056 c,HD 207832,planet,HD 207832 c
 HIP 107985 c,HD 207832,planet,HD 207832 c
+HD 152843,HD 152843,system,HD 152843
+TOI-2319,HD 152843,system,HD 152843
+HD 152843,HD 152843,star,HD 152843
+TOI-2319,HD 152843,star,HD 152843
+HD 152843 b,HD 152843,planet,HD 152843 b
+TOI-2319 b,HD 152843,planet,HD 152843 b
+HD 152843 c,HD 152843,planet,HD 152843 c
+TOI-2319 c,HD 152843,planet,HD 152843 c
 Kepler-1173,Kepler-1173,system,Kepler-1173
 KOI-2281,Kepler-1173,system,Kepler-1173
 KIC 9221517,Kepler-1173,system,Kepler-1173
