@@ -20508,6 +20508,14 @@ KOI-2051.02,Kepler-355,planet,Kepler-355 b
 KIC 7265298 b,Kepler-355,planet,Kepler-355 b
 KIC 7265298.02,Kepler-355,planet,Kepler-355 b
 Gaia DR2 2105535462635217792 b,Kepler-355,planet,Kepler-355 b
+Wolf 359,Wolf 359,system,Wolf 359
+GJ 406,Wolf 359,system,Wolf 359
+Wolf 359,Wolf 359,star,Wolf 359
+GJ 406,Wolf 359,star,Wolf 359
+Wolf 359 b,Wolf 359,planet,Wolf 359 b
+GJ 406 b,Wolf 359,planet,Wolf 359 b
+Wolf 359 c,Wolf 359,planet,Wolf 359 c
+GJ 406 c,Wolf 359,planet,Wolf 359 c
 Kepler-1060,Kepler-1060,system,Kepler-1060
 KOI-2024,Kepler-1060,system,Kepler-1060
 KIC 4544907,Kepler-1060,system,Kepler-1060
@@ -24907,12 +24915,8 @@ GJ 9446 b,70 Vir,planet,70 Vir b
 GJ 512.1 b,70 Vir,planet,70 Vir b
 LHS 1140,LHS 1140,system,LHS 1140
 LHS 1140,LHS 1140,star,LHS 1140
-Gaia DR2 2371032916186181760,LHS 1140,star,LHS 1140
-GJ 3053,LHS 1140,star,LHS 1140
-LHS 1140 c,LHS 1140,planet,LHS 1140 c
-Gaia DR2 2371032916186181760 c,LHS 1140,planet,LHS 1140 c
-GJ 3053 c,LHS 1140,planet,LHS 1140 c
 LHS 1140 b,LHS 1140,planet,LHS 1140 b
+LHS 1140 c,LHS 1140,planet,LHS 1140 c
 WASP-159,WASP-159,system,WASP-159
 WASP-159,WASP-159,star,WASP-159
 1SWASP J043232.73-385805.8,WASP-159,star,WASP-159
