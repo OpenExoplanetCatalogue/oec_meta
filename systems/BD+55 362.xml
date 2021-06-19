@@ -1,4 +1,9 @@
 <system>
 	<name>BD+55 362</name>
-	<contributors />
+	<contributors>
+		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/2105.09741</link>
+	</links>
 </system>
