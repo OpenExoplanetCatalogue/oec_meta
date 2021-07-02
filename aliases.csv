@@ -1080,6 +1080,8 @@ EPIC 212828909.01,K2-200,planet,K2-200 b
 Gaia DR2 3635174042031610496 b,K2-200,planet,K2-200 b
 Gliese 1002,Gliese 1002,system,Gliese 1002
 Gliese 1002,Gliese 1002,star,Gliese 1002
+GJ 1002,Gliese 1002,star,Gliese 1002
+Gaia DR2 2441630500517079808,Gliese 1002,star,Gliese 1002
 Kepler-761,Kepler-761,system,Kepler-761
 KOI-1072,Kepler-761,system,Kepler-761
 KIC 8229696,Kepler-761,system,Kepler-761
@@ -2381,6 +2383,9 @@ Gliese 83.1,L 1159-16,system,L 1159-16
 L 1159-16,L 1159-16,star,L 1159-16
 TZ Arietis,L 1159-16,star,L 1159-16
 Gliese 83.1,L 1159-16,star,L 1159-16
+Gaia DR2 76868614540049408,L 1159-16,star,L 1159-16
+GJ 9066,L 1159-16,star,L 1159-16
+GJ 83.1,L 1159-16,star,L 1159-16
 TYC 3667-1280-1,TYC 3667-1280-1,system,TYC 3667-1280-1
 TYC 3667-1280-1,TYC 3667-1280-1,star,TYC 3667-1280-1
 GSC 03667-01280,TYC 3667-1280-1,star,TYC 3667-1280-1
@@ -8016,6 +8021,8 @@ Ross 248,Ross 248,system,Ross 248
 HH Andromedae,Ross 248,system,Ross 248
 Ross 248,Ross 248,star,Ross 248
 HH Andromedae,Ross 248,star,Ross 248
+Gaia DR2 1926461164913660160,Ross 248,star,Ross 248
+GJ 905,Ross 248,star,Ross 248
 Kepler-572,Kepler-572,system,Kepler-572
 KOI-484,Kepler-572,system,Kepler-572
 KIC 12061222,Kepler-572,system,Kepler-572
@@ -8442,6 +8449,11 @@ Gliese 1,Gliese 1,system,Gliese 1
 CD-3715492),Gliese 1,system,Gliese 1
 Gliese 1,Gliese 1,star,Gliese 1
 CD-3715492),Gliese 1,star,Gliese 1
+TYC 6995-1264-1,Gliese 1,star,Gliese 1
+Gaia DR2 2306965202564506752,Gliese 1,star,Gliese 1
+HIP 439,Gliese 1,star,Gliese 1
+GJ 1,Gliese 1,star,Gliese 1
+HD 225213,Gliese 1,star,Gliese 1
 Kepler-1370,Kepler-1370,system,Kepler-1370
 KOI-2857,Kepler-1370,system,Kepler-1370
 KIC 6345732,Kepler-1370,system,Kepler-1370
@@ -8964,6 +8976,9 @@ KIC 11457726 b,Kepler-1070,planet,Kepler-1070 b
 Gaia DR2 2129064874031303936 b,Kepler-1070,planet,Kepler-1070 b
 Betelgeuse,Betelgeuse,system,Betelgeuse
 Betelgeuse,Betelgeuse,star,Betelgeuse
+HIP 27989,Betelgeuse,star,Betelgeuse
+HD 39801,Betelgeuse,star,Betelgeuse
+TYC 129-1873-1,Betelgeuse,star,Betelgeuse
 Kepler-599,Kepler-599,system,Kepler-599
 KOI-557,Kepler-599,system,Kepler-599
 KIC 5774349,Kepler-599,system,Kepler-599
@@ -9320,6 +9335,10 @@ YZ Ceti,YZ Ceti,system,YZ Ceti
 LHS 138,YZ Ceti,system,YZ Ceti
 YZ Ceti,YZ Ceti,star,YZ Ceti
 LHS 138,YZ Ceti,star,YZ Ceti
+HIP 5643,YZ Ceti,star,YZ Ceti
+Gaia DR2 2358524597030794112,YZ Ceti,star,YZ Ceti
+TYC 5851-171-1,YZ Ceti,star,YZ Ceti
+GJ 54.1,YZ Ceti,star,YZ Ceti
 Kepler-1313,Kepler-1313,system,Kepler-1313
 KOI-2678,Kepler-1313,system,Kepler-1313
 KIC 6779260,Kepler-1313,system,Kepler-1313
@@ -9567,6 +9586,11 @@ Lacaille 8760,Lacaille 8760,system,Lacaille 8760
 AX Microscopii,Lacaille 8760,system,Lacaille 8760
 Lacaille 8760,Lacaille 8760,star,Lacaille 8760
 AX Microscopii,Lacaille 8760,star,Lacaille 8760
+Gaia DR2 6583272171335359360,Lacaille 8760,star,Lacaille 8760
+TYC 7966-1201-1,Lacaille 8760,star,Lacaille 8760
+HIP 105090,Lacaille 8760,star,Lacaille 8760
+GJ 825,Lacaille 8760,star,Lacaille 8760
+HD 202560,Lacaille 8760,star,Lacaille 8760
 Kepler-904,Kepler-904,system,Kepler-904
 KOI-1603,Kepler-904,system,Kepler-904
 KIC 5177104,Kepler-904,system,Kepler-904
@@ -19419,6 +19443,8 @@ LHS 292,LHS 292,system,LHS 292
 LP 731-58,LHS 292,system,LHS 292
 LHS 292,LHS 292,star,LHS 292
 LP 731-58,LHS 292,star,LHS 292
+Gaia DR2 3757613049856225792,LHS 292,star,LHS 292
+GJ 3622,LHS 292,star,LHS 292
 K2-177,K2-177,system,K2-177
 EPIC 210857328,K2-177,system,K2-177
 K2-177,K2-177,star,K2-177
@@ -22059,6 +22085,8 @@ DX Cancri,DX Cancri,system,DX Cancri
 G 51-15,DX Cancri,system,DX Cancri
 DX Cancri,DX Cancri,star,DX Cancri
 G 51-15,DX Cancri,star,DX Cancri
+Gaia DR2 703790044252850688,DX Cancri,star,DX Cancri
+GJ 1111,DX Cancri,star,DX Cancri
 K2-160,K2-160,system,K2-160
 EPIC 201227197,K2-160,system,K2-160
 K2-160,K2-160,star,K2-160
@@ -23014,6 +23042,10 @@ SWEEPS-11 b,SWEEPS-11,planet,SWEEPS-11
 SWEEPS J175902.67-291153.5 b,SWEEPS-11,planet,SWEEPS-11
 AD Leonis,AD Leonis,system,AD Leonis
 AD Leonis,AD Leonis,star,AD Leonis
+Gaia DR2 625453654702751872,AD Leonis,star,AD Leonis
+TYC 1423-174-1,AD Leonis,star,AD Leonis
+GJ 388 A,AD Leonis,star,AD Leonis
+GJ 388,AD Leonis,star,AD Leonis
 Kepler-944,Kepler-944,system,Kepler-944
 KOI-1732,Kepler-944,system,Kepler-944
 KIC 6869184,Kepler-944,system,Kepler-944
@@ -29065,28 +29097,10 @@ KOI-1146.01,Kepler-779,planet,Kepler-779 b
 KIC 8351704 b,Kepler-779,planet,Kepler-779 b
 Gaia DR2 2105915343901864832 b,Kepler-779,planet,Kepler-779 b
 Kepler-129,Kepler-129,system,Kepler-129
-KOI-275,Kepler-129,system,Kepler-129
-KIC 10586004,Kepler-129,system,Kepler-129
 Kepler-129,Kepler-129,star,Kepler-129
-KOI-275,Kepler-129,star,Kepler-129
-KIC 10586004,Kepler-129,star,Kepler-129
-2MASS J19011470+4750549,Kepler-129,star,Kepler-129
-Gaia DR2 2131494313689868416,Kepler-129,star,Kepler-129
-TYC 3545-1418-1,Kepler-129,star,Kepler-129
 Kepler-129 b,Kepler-129,planet,Kepler-129 b
-KOI-275 b,Kepler-129,planet,Kepler-129 b
-KOI-275.01,Kepler-129,planet,Kepler-129 b
-KIC 10586004 b,Kepler-129,planet,Kepler-129 b
-KIC 10586004.01,Kepler-129,planet,Kepler-129 b
-Gaia DR2 2131494313689868416 b,Kepler-129,planet,Kepler-129 b
-TYC 3545-1418-1 b,Kepler-129,planet,Kepler-129 b
+Kepler-129 d,Kepler-129,planet,Kepler-129 d
 Kepler-129 c,Kepler-129,planet,Kepler-129 c
-KOI-275 c,Kepler-129,planet,Kepler-129 c
-KOI-275.02,Kepler-129,planet,Kepler-129 c
-KIC 10586004 c,Kepler-129,planet,Kepler-129 c
-KIC 10586004.02,Kepler-129,planet,Kepler-129 c
-Gaia DR2 2131494313689868416 c,Kepler-129,planet,Kepler-129 c
-TYC 3545-1418-1 c,Kepler-129,planet,Kepler-129 c
 K2-131,K2-131,system,K2-131
 EPIC 228732031,K2-131,system,K2-131
 K2-131,K2-131,star,K2-131
@@ -31965,6 +31979,10 @@ BD+68946,Gliese 687,system,Gliese 687
 Gliese 687,Gliese 687,star,Gliese 687
 LHS 450,Gliese 687,star,Gliese 687
 BD+68946,Gliese 687,star,Gliese 687
+Gaia DR2 1637645127018395776,Gliese 687,star,Gliese 687
+HIP 86162,Gliese 687,star,Gliese 687
+GJ 687,Gliese 687,star,Gliese 687
+TYC 4428-1943-1,Gliese 687,star,Gliese 687
 Kepler-624,Kepler-624,system,Kepler-624
 KOI-626,Kepler-624,system,Kepler-624
 KIC 4478168,Kepler-624,system,Kepler-624
@@ -32615,6 +32633,8 @@ LHS 288,LHS 288,system,LHS 288
 Luyten 143-23,LHS 288,system,LHS 288
 LHS 288,LHS 288,star,LHS 288
 Luyten 143-23,LHS 288,star,LHS 288
+Gaia DR2 5254061535097566848,LHS 288,star,LHS 288
+GJ 3618,LHS 288,star,LHS 288
 Kepler-1691,Kepler-1691,system,Kepler-1691
 Kepler-1691,Kepler-1691,star,Kepler-1691
 Kepler-1691 b,Kepler-1691,planet,Kepler-1691 b
@@ -33774,6 +33794,12 @@ Barnard's Star,Barnard's Star,system,Barnard's Star
 BD+043561a,Barnard's Star,system,Barnard's Star
 Barnard's Star,Barnard's Star,star,Barnard's Star
 BD+043561a,Barnard's Star,star,Barnard's Star
+GJ 699,Barnard's Star,star,Barnard's Star
+Gaia DR2 4472832130942575872,Barnard's Star,star,Barnard's Star
+TYC 425-2502-1,Barnard's Star,star,Barnard's Star
+HIP 87937,Barnard's Star,star,Barnard's Star
+Barnard Star,Barnard's Star,star,Barnard's Star
+Barnard's star,Barnard's Star,star,Barnard's Star
 HD 30177,HD 30177,system,HD 30177
 HIP 21850,HD 30177,system,HD 30177
 HD 30177,HD 30177,star,HD 30177
@@ -38631,6 +38657,11 @@ RAVE J051546.7-311746 b,Gliese 3341,planet,Gliese 3341 b
 Gaia DR2 4827532078086044416 b,Gliese 3341,planet,Gliese 3341 b
 Vega,Vega,system,Vega
 Vega,Vega,star,Vega
+HIP 91262,Vega,star,Vega
+HD 172167,Vega,star,Vega
+GJ 721.0,Vega,star,Vega
+TYC 3105-2070-1,Vega,star,Vega
+GJ 721,Vega,star,Vega
 Kepler-655,Kepler-655,system,Kepler-655
 KOI-722,Kepler-655,system,Kepler-655
 KIC 9965439,Kepler-655,system,Kepler-655
@@ -39266,6 +39297,10 @@ Ross 154,Ross 154,system,Ross 154
 V1216 Sagittarii,Ross 154,system,Ross 154
 Ross 154,Ross 154,star,Ross 154
 V1216 Sagittarii,Ross 154,star,Ross 154
+Gaia DR2 4075141768785646848,Ross 154,star,Ross 154
+HIP 92403,Ross 154,star,Ross 154
+GJ 729,Ross 154,star,Ross 154
+TYC 6859-1332-1,Ross 154,star,Ross 154
 Kepler-1695,Kepler-1695,system,Kepler-1695
 Kepler-1695,Kepler-1695,star,Kepler-1695
 Kepler-1695 b,Kepler-1695,planet,Kepler-1695 b
@@ -39649,6 +39684,11 @@ Groombridge 1618,Groombridge 1618,system,Groombridge 1618
 Gliese 380,Groombridge 1618,system,Groombridge 1618
 Groombridge 1618,Groombridge 1618,star,Groombridge 1618
 Gliese 380,Groombridge 1618,star,Groombridge 1618
+Gaia DR2 823773494718931968,Groombridge 1618,star,Groombridge 1618
+TYC 3437-811-1,Groombridge 1618,star,Groombridge 1618
+HIP 49908,Groombridge 1618,star,Groombridge 1618
+GJ 380,Groombridge 1618,star,Groombridge 1618
+HD 88230,Groombridge 1618,star,Groombridge 1618
 Kepler-1301,Kepler-1301,system,Kepler-1301
 KOI-2643,Kepler-1301,system,Kepler-1301
 KIC 6933567,Kepler-1301,system,Kepler-1301
@@ -41400,6 +41440,18 @@ HAT-P-66,HAT-P-66,star,HAT-P-66
 Gaia DR2 852608874351434752,HAT-P-66,star,HAT-P-66
 HAT-P-66 b,HAT-P-66,planet,HAT-P-66 b
 Gaia DR2 852608874351434752 b,HAT-P-66,planet,HAT-P-66 b
+GJ 1148,GJ 1148,system,GJ 1148
+HIP 57050,GJ 1148,system,GJ 1148
+GJ 1148,GJ 1148,star,GJ 1148
+HIP 57050,GJ 1148,star,GJ 1148
+Gaia DR2 772430527947893632,GJ 1148,star,GJ 1148
+TYC 3016-1877-1,GJ 1148,star,GJ 1148
+GJ 1148 c,GJ 1148,planet,GJ 1148 c
+HIP 57050 c,GJ 1148,planet,GJ 1148 c
+Gaia DR2 772430527947893632 c,GJ 1148,planet,GJ 1148 c
+TYC 3016-1877-1 c,GJ 1148,planet,GJ 1148 c
+GJ 1148 b,GJ 1148,planet,GJ 1148 b
+HIP 57050 b,GJ 1148,planet,GJ 1148 b
 Kepler-771,Kepler-771,system,Kepler-771
 KOI-1110,Kepler-771,system,Kepler-771
 KIC 2837111,Kepler-771,system,Kepler-771

@@ -1,4 +1,6 @@
 <system>
 	<name>DEN 0255-4700</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 </system>

@@ -1,4 +1,6 @@
 <system>
 	<name>LHS 292</name>
-	<contributors />
+	<contributors>
+		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 </system>
