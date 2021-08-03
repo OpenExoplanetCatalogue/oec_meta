@@ -7283,6 +7283,9 @@ KOI-1078.03,Kepler-267,planet,Kepler-267 d
 KIC 10166274 d,Kepler-267,planet,Kepler-267 d
 KIC 10166274.03,Kepler-267,planet,Kepler-267 d
 Gaia DR2 2085626983551485440 d,Kepler-267,planet,Kepler-267 d
+HAT-P-58,HAT-P-58,system,HAT-P-58
+HAT-P-58,HAT-P-58,star,HAT-P-58
+HAT-P-58 b,HAT-P-58,planet,HAT-P-58 b
 OGLE-2016-BLG-1067L,OGLE-2016-BLG-1067L,system,OGLE-2016-BLG-1067L
 OGLE-2016-BLG-1067L,OGLE-2016-BLG-1067L,star,OGLE-2016-BLG-1067L
 OGLE-2016-BLG-1067L b,OGLE-2016-BLG-1067L,planet,OGLE-2016-BLG-1067L b
@@ -11114,6 +11117,9 @@ KOI-1511 b,Kepler-872,planet,Kepler-872 b
 KOI-1511.01,Kepler-872,planet,Kepler-872 b
 KIC 7901948 b,Kepler-872,planet,Kepler-872 b
 Gaia DR2 2078097665364576384 b,Kepler-872,planet,Kepler-872 b
+HAT-P-64,HAT-P-64,system,HAT-P-64
+HAT-P-64,HAT-P-64,star,HAT-P-64
+HAT-P-64 b,HAT-P-64,planet,HAT-P-64 b
 K2-221,K2-221,system,K2-221
 EPIC 220650439,K2-221,system,K2-221
 K2-221,K2-221,star,K2-221
@@ -20544,6 +20550,9 @@ KOI-1938 b,Kepler-1020,planet,Kepler-1020 b
 KOI-1938.01,Kepler-1020,planet,Kepler-1020 b
 KIC 9651234 b,Kepler-1020,planet,Kepler-1020 b
 Gaia DR2 2128262161823652480 b,Kepler-1020,planet,Kepler-1020 b
+HAT-P-60,HAT-P-60,system,HAT-P-60
+HAT-P-60,HAT-P-60,star,HAT-P-60
+HAT-P-60 b,HAT-P-60,planet,HAT-P-60 b
 Kepler-339,Kepler-339,system,Kepler-339
 KOI-1931,Kepler-339,system,Kepler-339
 KIC 10978763,Kepler-339,system,Kepler-339
@@ -22570,6 +22579,9 @@ KOI-4009 b,Kepler-1538,planet,Kepler-1538 b
 KOI-4009.01,Kepler-1538,planet,Kepler-1538 b
 KIC 8934103 b,Kepler-1538,planet,Kepler-1538 b
 Gaia DR2 2106988158011587072 b,Kepler-1538,planet,Kepler-1538 b
+HAT-P-61,HAT-P-61,system,HAT-P-61
+HAT-P-61,HAT-P-61,star,HAT-P-61
+HAT-P-61 b,HAT-P-61,planet,HAT-P-61 b
 HD 158996,HD 158996,system,HD 158996
 HIP 84769,HD 158996,system,HD 158996
 HD 158996,HD 158996,star,HD 158996
@@ -36647,6 +36659,9 @@ KOI-416.02,Kepler-152,planet,Kepler-152 c
 KIC 6508221 c,Kepler-152,planet,Kepler-152 c
 KIC 6508221.02,Kepler-152,planet,Kepler-152 c
 Gaia DR2 2105435544515167232 c,Kepler-152,planet,Kepler-152 c
+HAT-P-62,HAT-P-62,system,HAT-P-62
+HAT-P-62,HAT-P-62,star,HAT-P-62
+HAT-P-62 b,HAT-P-62,planet,HAT-P-62 b
 KIC 9663113,KIC 9663113,system,KIC 9663113
 KOI-179,KIC 9663113,system,KIC 9663113
 Kepler-458,KIC 9663113,system,KIC 9663113
@@ -37885,6 +37900,11 @@ KIC 4157325 c,KOI-1860,planet,KOI-1860 c
 Gaia DR2 2052975370856687744 c,KOI-1860,planet,KOI-1860 c
 KOI-1860.03,KOI-1860,planet,KOI-1860.03
 KOI-1860.04,KOI-1860,planet,KOI-1860.04
+TOI-1749,TOI-1749,system,TOI-1749
+TOI-1749,TOI-1749,star,TOI-1749
+TOI-1749 b,TOI-1749,planet,TOI-1749 b
+TOI-1749 c,TOI-1749,planet,TOI-1749 c
+TOI-1749 d,TOI-1749,planet,TOI-1749 d
 Kepler-1537,Kepler-1537,system,Kepler-1537
 KOI-3984,Kepler-1537,system,Kepler-1537
 KIC 8036287,Kepler-1537,system,Kepler-1537
@@ -39386,6 +39406,9 @@ HIP 28941,DMPP-3 A,star,DMPP-3 A
 DMPP-3 A b,DMPP-3 A,planet,DMPP-3 A b
 HD 42936 b,DMPP-3 A,planet,DMPP-3 A b
 HIP 28941 b,DMPP-3 A,planet,DMPP-3 A b
+Kepler-1704,Kepler-1704,system,Kepler-1704
+Kepler-1704,Kepler-1704,star,Kepler-1704
+Kepler-1704 b,Kepler-1704,planet,Kepler-1704 b
 Kepler-1610,Kepler-1610,system,Kepler-1610
 KOI-4500,Kepler-1610,system,Kepler-1610
 KIC 9100953,Kepler-1610,system,Kepler-1610
@@ -40559,6 +40582,9 @@ KOI-2409 b,Kepler-1228,planet,Kepler-1228 b
 KOI-2409.01,Kepler-1228,planet,Kepler-1228 b
 KIC 10024051 b,Kepler-1228,planet,Kepler-1228 b
 Gaia DR2 2080534148769345408 b,Kepler-1228,planet,Kepler-1228 b
+HAT-P-63,HAT-P-63,system,HAT-P-63
+HAT-P-63,HAT-P-63,star,HAT-P-63
+HAT-P-63 b,HAT-P-63,planet,HAT-P-63 b
 Kepler-1646,Kepler-1646,system,Kepler-1646
 KOI-6863,Kepler-1646,system,Kepler-1646
 KIC 7350067,Kepler-1646,system,Kepler-1646
@@ -42582,6 +42608,9 @@ HIP 65426 b,HIP 65426,planet,HIP 65426 b
 TYC 8260-1526-1 b,HIP 65426,planet,HIP 65426 b
 Gaia DR2 6070080754075553792 b,HIP 65426,planet,HIP 65426 b
 HD 116434 b,HIP 65426,planet,HIP 65426 b
+HAT-P-59,HAT-P-59,system,HAT-P-59
+HAT-P-59,HAT-P-59,star,HAT-P-59
+HAT-P-59 b,HAT-P-59,planet,HAT-P-59 b
 K2-281,K2-281,system,K2-281
 K2-281,K2-281,star,K2-281
 Gaia DR2 2577432178095422976,K2-281,star,K2-281
