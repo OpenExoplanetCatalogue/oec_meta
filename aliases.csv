@@ -33913,6 +33913,9 @@ HD 73526 c,HD 73526,planet,HD 73526 c
 TYC 7670-3068-1 c,HD 73526,planet,HD 73526 c
 Gaia DR2 5528196343922685056 c,HD 73526,planet,HD 73526 c
 HIP 42282 c,HD 73526,planet,HD 73526 c
+TOI-2406,TOI-2406,system,TOI-2406
+TOI-2406,TOI-2406,star,TOI-2406
+TOI-2406 b,TOI-2406,planet,TOI-2406 b
 Kepler-228,Kepler-228,system,Kepler-228
 KOI-756,Kepler-228,system,Kepler-228
 KIC 10872983,Kepler-228,system,Kepler-228
@@ -35795,6 +35798,9 @@ Gaia DR2 4572835535272064768 b,Gliese 649,planet,Gliese 649 b
 TYC 2063-479-1 b,Gliese 649,planet,Gliese 649 b
 HIP 83043 b,Gliese 649,planet,Gliese 649 b
 GJ 649.02,Gliese 649,planet,GJ 649.02
+TOI-532,TOI-532,system,TOI-532
+TOI-532,TOI-532,star,TOI-532
+TOI-532 b,TOI-532,planet,TOI-532 b
 Kepler-720,Kepler-720,system,Kepler-720
 KOI-908,Kepler-720,system,Kepler-720
 KIC 8255887,Kepler-720,system,Kepler-720
