@@ -1,4 +1,9 @@
 <system>
 	<name>K2-335</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
+	</links>
 </system>
