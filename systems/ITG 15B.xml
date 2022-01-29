@@ -1,4 +1,6 @@
 <system>
 	<name>ITG 15B</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 </system>

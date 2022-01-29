@@ -1,4 +1,6 @@
 <system>
 	<name>OGLE-2014-BLG-0319</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 </system>
