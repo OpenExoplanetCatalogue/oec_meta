@@ -1,4 +1,9 @@
 <system>
 	<name>OGLE-2019-BLG-1470LAB</name>
-	<contributors />
+	<contributors>
+		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>
