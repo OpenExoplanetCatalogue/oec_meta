@@ -12940,17 +12940,21 @@ Gaia DR2 3582057258065666816,K2-248,star,K2-248
 K2-248 b,K2-248,planet,K2-248 b
 Gaia DR2 3582057258065666816 b,K2-248,planet,K2-248 b
 GJ 411,GJ 411,system,GJ 411
+Lalande 21185,GJ 411,system,GJ 411
 HD 95735,GJ 411,system,GJ 411
 HIP 54035,GJ 411,system,GJ 411
 GJ 411,GJ 411,star,GJ 411
+Lalande 21185,GJ 411,star,GJ 411
 HD 95735,GJ 411,star,GJ 411
 HIP 54035,GJ 411,star,GJ 411
 TYC 2521-2279-1,GJ 411,star,GJ 411
 GJ 411 b,GJ 411,planet,GJ 411 b
+Lalande 21185 b,GJ 411,planet,GJ 411 b
 HD 95735 b,GJ 411,planet,GJ 411 b
 HIP 54035 b,GJ 411,planet,GJ 411 b
 TYC 2521-2279-1 b,GJ 411,planet,GJ 411 b
 GJ 411 c,GJ 411,planet,GJ 411 c
+Lalande 21185 c,GJ 411,planet,GJ 411 c
 HD 95735 c,GJ 411,planet,GJ 411 c
 HIP 54035 c,GJ 411,planet,GJ 411 c
 K2-241,K2-241,system,K2-241
@@ -24538,17 +24542,6 @@ Gaia DR2 2133242846415831936 b,Kepler-573,planet,Kepler-573 b
 TOI-2048,TOI-2048,system,TOI-2048
 TOI-2048,TOI-2048,star,TOI-2048
 TOI-2048 b,TOI-2048,planet,TOI-2048 b
-Lalande 21185,Lalande 21185,system,Lalande 21185
-Lalande 21185,Lalande 21185,star,Lalande 21185
-HD 95735,Lalande 21185,star,Lalande 21185
-HIP 54035,Lalande 21185,star,Lalande 21185
-GJ 411,Lalande 21185,star,Lalande 21185
-TYC 2521-2279-1,Lalande 21185,star,Lalande 21185
-Lalande 21185 b,Lalande 21185,planet,Lalande 21185 b
-HD 95735 b,Lalande 21185,planet,Lalande 21185 b
-HIP 54035 b,Lalande 21185,planet,Lalande 21185 b
-GJ 411 b,Lalande 21185,planet,Lalande 21185 b
-TYC 2521-2279-1 b,Lalande 21185,planet,Lalande 21185 b
 Kepler-839,Kepler-839,system,Kepler-839
 KOI-1412,Kepler-839,system,Kepler-839
 KIC 8950853,Kepler-839,system,Kepler-839
