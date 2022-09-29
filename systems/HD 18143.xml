@@ -1,4 +1,6 @@
 <system>
 	<name>HD 18143</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 </system>
