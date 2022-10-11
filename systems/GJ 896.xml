@@ -1,4 +1,9 @@
 <system>
 	<name>GJ 896</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="56284207+SevenSpheres@users.noreply.github.com">Sevenspheres</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/2208.14553</link>
+	</links>
 </system>

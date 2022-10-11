@@ -1,4 +1,9 @@
 <system>
 	<name>TVLM 513-46546</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="56284207+SevenSpheres@users.noreply.github.com">Sevenspheres</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/2008.01595</link>
+	</links>
 </system>
