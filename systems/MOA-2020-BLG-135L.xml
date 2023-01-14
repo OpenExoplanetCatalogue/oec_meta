@@ -1,4 +1,6 @@
 <system>
 	<name>MOA-2020-BLG-135L</name>
-	<contributors />
+	<contributors>
+		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+	</contributors>
 </system>
