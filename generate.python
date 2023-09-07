@@ -128,7 +128,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	ET.ElementTree(metaroot).write(metafilename) 
 	#if totalsystems >3: break
 
-print ""
+print("")
 statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 contributors = ET.SubElement(statroot,"contributors")
