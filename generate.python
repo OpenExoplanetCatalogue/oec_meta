@@ -40,101 +40,101 @@ totalcontributorsemail = []
 aliases = []
 
 for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
-	metafilename = '/'.join(filename.split("/")[1:])
+    metafilename = '/'.join(filename.split("/")[1:])
     print(metafilename)
-	f = open(filename, 'rt')
-	root = ET.parse(f).getroot()
-	f.close()
+    f = open(filename, 'rt')
+    root = ET.parse(f).getroot()
+    f.close()
 
-	metaroot = ET.Element("system")
-	systemname = root.findtext("./name").encode('utf-8')
-	ET.SubElement(metaroot,"name").text = systemname 
-	
-	os.popen("git --git-dir=open_exoplanet_catalogue/.git/ --no-pager log '"+metafilename+"' >tmp.txt")
+    metaroot = ET.Element("system")
+    systemname = root.findtext("./name").encode('utf-8')
+    ET.SubElement(metaroot,"name").text = systemname 
+    
+    os.popen("git --git-dir=open_exoplanet_catalogue/.git/ --no-pager log '"+metafilename+"' >tmp.txt")
         
-	contributors = os.popen("cat tmp.txt | grep '^Author:' | sort |  uniq -c -i ").readlines()
+    contributors = os.popen("cat tmp.txt | grep '^Author:' | sort |  uniq -c -i ").readlines()
 
 
-	sys.stdout.write('.')
-	sys.stdout.flush()
-	print(filename)
+    sys.stdout.write('.')
+    sys.stdout.flush()
+    print(filename)
 
-	cstag = ET.SubElement(metaroot,"contributors")
-	for contributor in contributors:
-		if len(contributor.strip())<1:
-			continue
-		rows= [contributor[0:7], contributor[16:].strip()]
-		commits = int(rows[0])
-		email = re.search('<(.*)>', rows[1]).group(1)
-		name = re.search('(.*) <', rows[1]).group(1).title()
-		ctag = ET.SubElement(cstag,"contributor")
-		ctag.text = unicode(name,'utf-8')
-		ctag.attrib['email'] = email
-		ctag.attrib['commits'] = "%d"% commits
-		totalcommits += commits
-		if not email in totalcontributorsemail:
-			totalcontributors.append(name)
-			totalcontributorsemail.append(email)
+    cstag = ET.SubElement(metaroot,"contributors")
+    for contributor in contributors:
+        if len(contributor.strip())<1:
+            continue
+        rows= [contributor[0:7], contributor[16:].strip()]
+        commits = int(rows[0])
+        email = re.search('<(.*)>', rows[1]).group(1)
+        name = re.search('(.*) <', rows[1]).group(1).title()
+        ctag = ET.SubElement(cstag,"contributor")
+        ctag.text = unicode(name,'utf-8')
+        ctag.attrib['email'] = email
+        ctag.attrib['commits'] = "%d"% commits
+        totalcommits += commits
+        if not email in totalcontributorsemail:
+            totalcontributors.append(name)
+            totalcontributorsemail.append(email)
 
 
-	links = os.popen("cat tmp.txt | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
-	if len(links)>0:
-		links = set(links)
-		#print "Links: %d" % len(links),
-		astag = ET.SubElement(metaroot,"links")
-		for link in links:
-			atag = ET.SubElement(astag,"link")
-			atag.text = unicode(link.strip(),'utf-8')
-	
-	names = root.findall("./name")
-	for name in names:
-		aliases.append([name.text.encode('utf-8'),systemname,"system",names[0].text.encode('utf-8')])
-		
-	
-	stars = root.findall(".//star")
-	for star in stars:
-		names = star.findall("./name")
-		for name in names:
-			aliases.append([name.text.encode('utf-8'),systemname,"star",names[0].text.encode('utf-8')])
+    links = os.popen("cat tmp.txt | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
+    if len(links)>0:
+        links = set(links)
+        #print "Links: %d" % len(links),
+        astag = ET.SubElement(metaroot,"links")
+        for link in links:
+            atag = ET.SubElement(astag,"link")
+            atag.text = unicode(link.strip(),'utf-8')
+    
+    names = root.findall("./name")
+    for name in names:
+        aliases.append([name.text.encode('utf-8'),systemname,"system",names[0].text.encode('utf-8')])
+        
+    
+    stars = root.findall(".//star")
+    for star in stars:
+        names = star.findall("./name")
+        for name in names:
+            aliases.append([name.text.encode('utf-8'),systemname,"star",names[0].text.encode('utf-8')])
 
-	#print ""
-	confirmedsystem = 0
-	planets = root.findall(".//planet")
-	for planet in planets:
-		names = planet.findall("./name")
-		for name in names:
-			aliases.append([name.text.encode('utf-8'),systemname,"planet",names[0].text.encode('utf-8')])
-		lists = planet.findall(".//list")
-		totalplanets += 1
-		for l in lists:
-			if "Confirmed planets" in l.text:
-				totalconfirmedplanets += 1
-				confirmedsystem = 1
-				try:
-					datet = int(planet.findtext("./discoveryyear"))
-					if datet in discoveryyear:
-						discoveryyear[datet] += 1
-				except: 
-					pass
+    #print ""
+    confirmedsystem = 0
+    planets = root.findall(".//planet")
+    for planet in planets:
+        names = planet.findall("./name")
+        for name in names:
+            aliases.append([name.text.encode('utf-8'),systemname,"planet",names[0].text.encode('utf-8')])
+        lists = planet.findall(".//list")
+        totalplanets += 1
+        for l in lists:
+            if "Confirmed planets" in l.text:
+                totalconfirmedplanets += 1
+                confirmedsystem = 1
+                try:
+                    datet = int(planet.findtext("./discoveryyear"))
+                    if datet in discoveryyear:
+                        discoveryyear[datet] += 1
+                except: 
+                    pass
 
-	if confirmedsystem==1:
-		totalconfirmedsystems += 1
-	totalsystems +=1
+    if confirmedsystem==1:
+        totalconfirmedsystems += 1
+    totalsystems +=1
 
-	binaries = root.findall(".//binary")
-	if binaries:
-		totalbinaries += 1
+    binaries = root.findall(".//binary")
+    if binaries:
+        totalbinaries += 1
 
-	indent(metaroot)
-	ET.ElementTree(metaroot).write(metafilename) 
-	#if totalsystems >3: break
+    indent(metaroot)
+    ET.ElementTree(metaroot).write(metafilename) 
+    #if totalsystems >3: break
 
 print("")
 statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 contributors = ET.SubElement(statroot,"contributors")
 for c in totalcontributors:
-	ET.SubElement(contributors,"contributor").text = unicode(c,'utf-8')
+    ET.SubElement(contributors,"contributor").text = unicode(c,'utf-8')
 contributors.attrib["num"] = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
@@ -153,7 +153,7 @@ indent(statroot)
 ET.ElementTree(statroot).write("statistics.xml") 
 
 with open('aliases.csv', 'wb') as csvfile:
-	spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-	spamwriter.writerows(aliases)
+    spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+    spamwriter.writerows(aliases)
 
 
