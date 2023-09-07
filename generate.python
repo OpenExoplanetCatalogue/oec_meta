@@ -51,7 +51,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 	
 	os.popen("git --git-dir=open_exoplanet_catalogue/.git/ --no-pager log '"+metafilename+"' >tmp.txt")
         
-    contributors = os.popen("cat tmp.txt | grep '^Author:' | sort |  uniq -c -i ").readlines()
+	contributors = os.popen("cat tmp.txt | grep '^Author:' | sort |  uniq -c -i ").readlines()
 
 
 	sys.stdout.write('.')
