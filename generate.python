@@ -29,7 +29,7 @@ totalplanets = 0
 totalsystems = 0
 totalbinaries = 0
 discoveryyear= {}
-for i in xrange(1992,date.today().year+1):
+for i in range(1992,date.today().year+1):
     discoveryyear[i] = 0
 
 totalconfirmedsystems = 0
@@ -139,7 +139,7 @@ ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
 ET.SubElement(statroot,"binaries").text = "%d" % totalbinaries
 dytag = ET.SubElement(statroot,"discoveryyear")
-for i in xrange(1992,date.today().year+1):
+for i in range(1992,date.today().year+1):
     ET.SubElement(dytag,"y%d"%i).text = "%d" % discoveryyear[i]
 
 ET.SubElement(statroot,"confirmedplanets").text = "%d" % totalconfirmedplanets
