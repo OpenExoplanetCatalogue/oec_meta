@@ -67,7 +67,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         email = re.search('<(.*)>', rows[1]).group(1)
         name = re.search('(.*) <', rows[1]).group(1).title()
         ctag = ET.SubElement(cstag,"contributor")
-        ctag.text = unicode(name,'utf-8')
+        ctag.text = name.encode('utf-8')
         ctag.attrib['email'] = email
         ctag.attrib['commits'] = "%d"% commits
         totalcommits += commits
