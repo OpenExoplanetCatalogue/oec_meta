@@ -126,7 +126,8 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 
     indent(metaroot)
     print("meta", metafilename)
-    ET.ElementTree(metaroot).write(metafilename, encoding="utf-8") 
+    with open(metafilename, "w") as f:
+        ET.ElementTree(metaroot).write(f, encoding="utf-8") 
     #if totalsystems >3: break
 
 print("")
