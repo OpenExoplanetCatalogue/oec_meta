@@ -1,11 +1,4 @@
 <system>
 	<name>K2-254</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1810.02341</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-	</links>
+	<contributors />
 </system>

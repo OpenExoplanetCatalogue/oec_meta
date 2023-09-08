@@ -1,6 +1,9 @@
 <system>
 	<name>Kepler-1854</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>https://arxiv.org/abs/1810.02341</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

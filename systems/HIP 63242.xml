@@ -1,14 +1,9 @@
 <system>
 	<name>HIP 63242</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="jamoes129@gmail.com">James Gregory</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://exoplanet.eu</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://github.com/hannorein/open_exoplanet_catalogue</link>
-		<link>http://arxiv.org/abs/1306.3939</link>
 	</links>
 </system>

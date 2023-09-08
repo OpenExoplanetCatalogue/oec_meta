@@ -1,11 +1,4 @@
 <system>
 	<name>MOA-2013-BLG-220L</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2016ApJ...830..150P</link>
-		<link>https://ui.adsabs.harvard.edu/?#abs/2014ApJ...790...14Y</link>
-	</links>
+	<contributors />
 </system>

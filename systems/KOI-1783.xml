@@ -1,10 +1,8 @@
 <system>
 	<name>KOI-1783</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 	</links>
 </system>

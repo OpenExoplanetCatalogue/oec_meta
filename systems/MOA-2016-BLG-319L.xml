@@ -1,6 +1,9 @@
 <system>
 	<name>MOA-2016-BLG-319L</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2013ApJ...770...53N</link>
+		<link>http://arxiv.org/abs/1304.6755</link>
+	</links>
 </system>

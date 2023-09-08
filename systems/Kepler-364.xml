@@ -1,12 +1,11 @@
 <system>
 	<name>Kepler-364</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="3">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

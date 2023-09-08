@@ -1,12 +1,10 @@
 <system>
 	<name>WASP-189</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/pdf/1809.04897.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
 	</links>
 </system>

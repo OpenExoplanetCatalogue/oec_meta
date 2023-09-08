@@ -1,14 +1,12 @@
 <system>
 	<name>BD+15 2940</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1304.6755</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://adsabs.harvard.edu/abs/2013ApJ...770...53N</link>
+		<link>http://arxiv.org/abs/1511.00643</link>
 	</links>
 </system>

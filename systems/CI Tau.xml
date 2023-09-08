@@ -1,13 +1,12 @@
 <system>
 	<name>CI Tau</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2016ApJ...826..206J</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://arxiv.org/abs/1809.00678</link>
 	</links>
 </system>

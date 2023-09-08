@@ -1,12 +1,12 @@
 <system>
 	<name>Kepler-572</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html</link>
+		<link>http://publications.edpsciences.org/10.1051/0004-6361:20020749</link>
+		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t2.txt</link>
+		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t1.txt</link>
 	</links>
 </system>

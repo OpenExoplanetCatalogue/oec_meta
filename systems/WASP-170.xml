@@ -1,9 +1,4 @@
 <system>
 	<name>WASP-170</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-	</links>
+	<contributors />
 </system>

@@ -1,10 +1,9 @@
 <system>
 	<name>LP 791-18</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

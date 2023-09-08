@@ -1,12 +1,23 @@
 <system>
 	<name>Kepler-381</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ma.martinod@free.fr" commits="2">Marc-Antoine</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="6">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://arxiv.org/abs/1307.6857</link>
+		<link>http://fr.arxiv.org/pdf/0812.1161v1</link>
+		<link>http://arxiv.org/abs/1212.3701</link>
+		<link>http://arxiv.org/abs/1105.3849</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://fr.arxiv.org/abs/1006.3580</link>
 	</links>
 </system>

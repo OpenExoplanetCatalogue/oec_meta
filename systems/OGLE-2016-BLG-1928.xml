@@ -1,9 +1,4 @@
 <system>
 	<name>OGLE-2016-BLG-1928</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://exoplanet.eu</link>
-	</links>
+	<contributors />
 </system>

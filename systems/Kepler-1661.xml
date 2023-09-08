@@ -1,11 +1,9 @@
 <system>
 	<name>Kepler-1661</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

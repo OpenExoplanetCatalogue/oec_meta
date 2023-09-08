@@ -1,12 +1,9 @@
 <system>
 	<name>Kepler-565</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2014A%26A...561L...9B</link>
+		<link>http://adsabs.harvard.edu/abs/2017A%26A...603A..85B</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

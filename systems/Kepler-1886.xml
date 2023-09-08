@@ -1,6 +1,8 @@
 <system>
 	<name>Kepler-1886</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://arxiv.org/abs/1312.4938</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J18526%2b4508AB</link>
+	</links>
 </system>

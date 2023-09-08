@@ -1,12 +1,9 @@
 <system>
 	<name>HD 196885</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://en.wikipedia.org/wiki/HD_196885</link>
-		<link>http://arxiv.org/pdf/0710.5918v1.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

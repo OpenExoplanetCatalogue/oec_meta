@@ -1,12 +1,12 @@
 <system>
 	<name>Kepler-1000</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1406.5587</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

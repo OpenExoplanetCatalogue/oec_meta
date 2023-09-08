@@ -1,13 +1,9 @@
 <system>
 	<name>EPIC 220674823</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://exoplanet.eu</link>
+		<link>http://adsabs.harvard.edu/abs/2014ApJ...787...27Q</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://archive.stsci.edu/k2/epic/search.php</link>
-		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+		<link>http://arxiv.org/abs/1310.7328</link>
 	</links>
 </system>

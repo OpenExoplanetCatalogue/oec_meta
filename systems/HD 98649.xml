@@ -1,10 +1,8 @@
 <system>
 	<name>HD 98649</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://adsabs.harvard.edu/abs/2017Natur.544..333D</link>
 	</links>
 </system>

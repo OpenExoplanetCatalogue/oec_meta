@@ -1,9 +1,4 @@
 <system>
 	<name>Kepler-1677</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
-	</links>
+	<contributors />
 </system>

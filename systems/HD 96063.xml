@@ -1,14 +1,4 @@
 <system>
 	<name>HD 96063</name>
-	<contributors>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="31114721+dobb13@users.noreply.github.com">Dobb13</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-	</contributors>
-	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=hd96063&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
-	</links>
+	<contributors />
 </system>

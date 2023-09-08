@@ -1,12 +1,4 @@
 <system>
 	<name>KELT-17</name>
-	<contributors>
-		<contributor commits="1" email="granfalloonToyballoon@hotmail.com">Everett Schlawin</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="landrok@users.noreply.github.com">Landrok</contributor>
-	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1607.03512</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-	</links>
+	<contributors />
 </system>

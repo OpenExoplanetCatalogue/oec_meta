@@ -1,11 +1,6 @@
 <system>
 	<name>WASP-104</name>
 	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://arxiv.org/abs/1408.0887</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-	</links>
 </system>

@@ -1,12 +1,10 @@
 <system>
 	<name>Kepler-842</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr</link>
 		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

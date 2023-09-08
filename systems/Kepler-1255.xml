@@ -1,11 +1,10 @@
 <system>
 	<name>Kepler-1255</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://exoplanet.eu</link>
+		<link>https://iopscience.iop.org/article/10.3847/1538-3881/abccc6</link>
 	</links>
 </system>

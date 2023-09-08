@@ -1,10 +1,16 @@
 <system>
 	<name>RR Cae</name>
 	<contributors>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="cadenarmstrong@gmail.com" commits="2">Cadenarmstrong</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2007MNRAS.376..919M</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1404.7462</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://adsabs.harvard.edu/abs/2016A%26A...588A.145H</link>
 	</links>
 </system>

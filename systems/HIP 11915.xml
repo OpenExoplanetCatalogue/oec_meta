@@ -1,12 +1,11 @@
 <system>
 	<name>HIP 11915</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://fr.arxiv.org/abs/1507.03998</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2014A%26A...572A..48R</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

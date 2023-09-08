@@ -1,6 +1,14 @@
 <system>
 	<name>K2-388</name>
 	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2012PASJ...64..135S</link>
+		<link>http://adsabs.harvard.edu/abs/2010ApJ...709..396B</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

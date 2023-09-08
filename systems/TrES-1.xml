@@ -1,13 +1,9 @@
 <system>
 	<name>TrES-1</name>
-	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://fr.arxiv.org/abs/astro-ph/0702707</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/pdf/astro-ph/0408421v1.pdf</link>
+		<link>http://arxiv.org/abs/1307.2886</link>
 	</links>
 </system>

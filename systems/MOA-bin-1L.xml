@@ -1,10 +1,4 @@
 <system>
 	<name>MOA-bin-1L</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2012ApJ...757..119B</link>
-	</links>
+	<contributors />
 </system>

@@ -1,9 +1,4 @@
 <system>
 	<name>HD 202772 A</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://arxiv.org/abs/1810.02341</link>
-	</links>
+	<contributors />
 </system>

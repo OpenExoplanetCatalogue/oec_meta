@@ -1,12 +1,7 @@
 <system>
 	<name>HATS-24</name>
 	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1810.02341</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://exoplanet.eu</link>
-	</links>
 </system>

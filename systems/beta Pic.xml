@@ -1,21 +1,8 @@
 <system>
 	<name>beta Pic</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="12" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://arxiv.org/pdf/1403.7520v1.pdf</link>
-		<link>http://adsabs.harvard.edu/abs/2013ApJ...776...15C</link>
-		<link>http://arxiv.org/abs/1508.04787</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://adsabs.harvard.edu/abs/2014MNRAS.445.2169M</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1404.7506</link>
-		<link>http://adsabs.harvard.edu/abs/2014Natur.509...63S</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

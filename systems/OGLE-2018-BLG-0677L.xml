@@ -1,9 +1,4 @@
 <system>
 	<name>OGLE-2018-BLG-0677L</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-	</links>
+	<contributors />
 </system>

@@ -1,12 +1,12 @@
 <system>
 	<name>NSVS 14256825</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="11" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2013MNRAS.431.2150W</link>
-		<link>http://www.konkoly.hu/cgi-bin/IBVSpdf?5800</link>
+		<link>http://adsabs.harvard.edu/abs/2013Sci...342..331H</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1310.4503</link>
+		<link>http://arxiv.org/pdf/1208.3499v1.pdf</link>
 	</links>
 </system>

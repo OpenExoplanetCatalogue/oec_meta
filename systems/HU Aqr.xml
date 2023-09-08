@@ -1,11 +1,6 @@
 <system>
 	<name>HU Aqr</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2015MNRAS.448.1118G</link>
-		<link>http://adsabs.harvard.edu/abs/2011A%26A...531A..34S</link>
-	</links>
 </system>

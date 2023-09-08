@@ -1,10 +1,16 @@
 <system>
 	<name>HD 1397</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="rajeewgandhi.jeyaraj@gmail.com" commits="1">Rajeev-Jeyaraj</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://archive.stsci.edu/kepler/kic10/search.php</link>
+		<link>http://arxiv.org/abs/1405.5354</link>
 	</links>
 </system>

@@ -1,12 +1,12 @@
 <system>
 	<name>Kepler-95</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://arxiv.org/abs/1401.4195</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://arxiv.org/abs/1808.01183v1</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2011A&amp;A...527A..25L/abstract</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2010ApJ...711L..24A/abstract</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-ref=VIZ5b7334319f78&amp;-out.add=.&amp;-source=B/wds/wds&amp;recno=106640</link>
+		<link>https://arxiv.org/abs/0912.0003v2</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2009ApJ...700..623P</link>
 	</links>
 </system>

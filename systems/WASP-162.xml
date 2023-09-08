@@ -1,11 +1,12 @@
 <system>
 	<name>WASP-162</name>
 	<contributors>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/pdf/1803.02224.pdf</link>
+		<link>http://arxiv.org/abs/1311.7664</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...781...20K</link>
 	</links>
 </system>

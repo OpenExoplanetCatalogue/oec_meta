@@ -1,11 +1,4 @@
 <system>
 	<name>2MASS 0122-2439</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2013ApJ...774...55B</link>
-	</links>
+	<contributors />
 </system>

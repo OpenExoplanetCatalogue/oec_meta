@@ -1,0 +1,12 @@
+<system>
+	<name>HD 18599</name>
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...474..273E</link>
+	</links>
+</system>

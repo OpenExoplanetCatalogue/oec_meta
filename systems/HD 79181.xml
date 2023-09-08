@@ -1,6 +1,9 @@
 <system>
 	<name>HD 79181</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1509.02210</link>
+	</links>
 </system>

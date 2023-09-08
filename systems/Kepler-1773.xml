@@ -1,6 +1,8 @@
 <system>
 	<name>Kepler-1773</name>
-	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

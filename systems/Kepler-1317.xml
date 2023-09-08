@@ -1,12 +1,21 @@
 <system>
 	<name>Kepler-1317</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="31114721+dobb13@users.noreply.github.com" commits="1">Dobb13</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="kennethjcott@gmail.com" commits="1">Kenneth J Cott</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="4">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="Tobias_Mueller@twam.info" commits="1">Tobias Mueller</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://arxiv.org/pdf/0902.4616v2.pdf</link>
+		<link>http://arxiv.org/pdf/1506.07144.pdf</link>
+		<link>http://en.wikipedia.org/wiki/HD_80606_b</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%402873262&amp;Name=GJ%20%20%20777%20B</link>
+		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...462..345D</link>
 	</links>
 </system>

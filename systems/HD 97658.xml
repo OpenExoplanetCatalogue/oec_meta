@@ -1,19 +1,9 @@
 <system>
 	<name>HD 97658</name>
 	<contributors>
-		<contributor commits="9" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2010MNRAS.403.1949K</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1305.7260</link>
-		<link>http://arxiv.org/pdf/1402.5850v2.pdf</link>
-		<link>http://arxiv.org/pdf/1109.2549v1.pdf</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

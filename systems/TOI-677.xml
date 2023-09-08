@@ -1,10 +1,4 @@
 <system>
 	<name>TOI-677</name>
-	<contributors>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://arxiv.org/abs/1911.05574</link>
-	</links>
+	<contributors />
 </system>

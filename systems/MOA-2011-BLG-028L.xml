@@ -1,10 +1,10 @@
 <system>
 	<name>MOA-2011-BLG-028L</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://arxiv.org/abs/1512.03422</link>
+		<link>http://arxiv.org/abs/1505.02778</link>
+		<link>http://arxiv.org/pdf/1406.0818v1.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2016ApJ...830...74A</link>
+		<link>http://adsabs.harvard.edu/abs/2014MNRAS.443L..89A</link>
 	</links>
 </system>

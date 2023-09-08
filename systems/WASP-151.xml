@@ -1,6 +1,8 @@
 <system>
 	<name>WASP-151</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

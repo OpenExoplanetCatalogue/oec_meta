@@ -1,13 +1,11 @@
 <system>
 	<name>Kepler-34</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/pdf/1204.3955v1.pdf</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

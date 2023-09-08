@@ -1,12 +1,12 @@
 <system>
 	<name>Kepler-373</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://arxiv.org/abs/1812.07668</link>
 	</links>
 </system>

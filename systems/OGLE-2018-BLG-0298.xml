@@ -1,9 +1,4 @@
 <system>
 	<name>OGLE-2018-BLG-0298</name>
-	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://exoplanet.eu</link>
-	</links>
+	<contributors />
 </system>

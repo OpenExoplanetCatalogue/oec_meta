@@ -1,12 +1,9 @@
 <system>
 	<name>Kepler-1070</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://dx.doi.org/10.1051/0004-6361/201425392</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2010MNRAS.408L..51O</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2010MNRAS.409.1470O</link>
 	</links>
 </system>

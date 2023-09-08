@@ -1,14 +1,9 @@
 <system>
 	<name>EPIC 206011691</name>
-	<contributors>
-		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://arxiv.org/abs/1507.08256</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

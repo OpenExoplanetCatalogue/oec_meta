@@ -1,11 +1,6 @@
 <system>
 	<name>HD 155233</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1510.04343</link>
-	</links>
 </system>

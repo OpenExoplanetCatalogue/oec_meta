@@ -1,12 +1,15 @@
 <system>
 	<name>Kepler-1289</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=CCDM%20J17206-1920%20A</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J17206-1920B</link>
+		<link>http://adsabs.harvard.edu/abs/2011A%26A...527A.140R</link>
+		<link>http://adsabs.harvard.edu/abs/2011ApJ...733...28K</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2008A%26A...480L..33T</link>
 	</links>
 </system>

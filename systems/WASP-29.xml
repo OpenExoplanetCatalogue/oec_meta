@@ -1,14 +1,13 @@
 <system>
 	<name>WASP-29</name>
 	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://dx.doi.org/10.1088/2041-8205/723/1/L60</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://arxiv.org/pdf/1503.07866v1</link>
 	</links>
 </system>

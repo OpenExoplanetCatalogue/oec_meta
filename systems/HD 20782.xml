@@ -1,16 +1,9 @@
 <system>
 	<name>HD 20782</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://arxiv.org/abs/1511.08679</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://arxiv.org/abs/astro-ph/0610623</link>
-		<link>http://arxiv.org/abs/1109.2497</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2008A%26A...487..373S</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>https://arxiv.org/abs/1810.02341</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

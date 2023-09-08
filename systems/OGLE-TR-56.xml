@@ -1,13 +1,4 @@
 <system>
 	<name>OGLE-TR-56</name>
-	<contributors>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/pdf/1108.4423v1.pdf</link>
-	</links>
+	<contributors />
 </system>

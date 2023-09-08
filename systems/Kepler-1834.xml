@@ -1,6 +1,9 @@
 <system>
 	<name>Kepler-1834</name>
 	<contributors>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/1810.02341</link>
+	</links>
 </system>

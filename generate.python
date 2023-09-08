@@ -56,7 +56,6 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
 
     sys.stdout.write('.')
     sys.stdout.flush()
-    print(filename)
 
     cstag = ET.SubElement(metaroot,"contributors")
     for contributor in contributors:
@@ -125,10 +124,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         totalbinaries += 1
 
     indent(metaroot)
-    print("meta", metafilename)
-    print(ET.tostring(metaroot))
-    with open(metafilename, "w") as f:
-        ET.ElementTree(metaroot).write(f, encoding="utf-8") 
+    ET.ElementTree(metaroot).write(metafilename, encoding="utf-8") 
     #if totalsystems >3: break
 
 print("")

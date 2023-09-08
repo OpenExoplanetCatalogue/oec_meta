@@ -1,9 +1,8 @@
 <system>
 	<name>BD+63 1405</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>https://arxiv.org/abs/2105.09741</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
 	</links>
 </system>

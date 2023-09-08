@@ -1,10 +1,11 @@
 <system>
 	<name>HD 206255</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2013MNRAS.431.2150W</link>
+		<link>http://www.konkoly.hu/cgi-bin/IBVSpdf?5800</link>
 	</links>
 </system>

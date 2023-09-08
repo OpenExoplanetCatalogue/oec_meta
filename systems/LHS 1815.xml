@@ -1,10 +1,4 @@
 <system>
 	<name>LHS 1815</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-	</links>
+	<contributors />
 </system>

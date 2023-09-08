@@ -1,9 +1,7 @@
 <system>
 	<name>GJ 9827</name>
-	<contributors>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
 	</links>
 </system>

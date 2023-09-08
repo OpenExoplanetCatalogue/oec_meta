@@ -1,16 +1,4 @@
 <system>
 	<name>CoRoT-19</name>
-	<contributors>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="5" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://dx.doi.org/10.1051/0004-6361/201117706</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2012A%26A...537A.136G</link>
-	</links>
+	<contributors />
 </system>

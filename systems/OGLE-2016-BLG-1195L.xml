@@ -1,10 +1,9 @@
 <system>
 	<name>OGLE-2016-BLG-1195L</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2017ApJ...840L...3S</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

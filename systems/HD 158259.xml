@@ -1,11 +1,4 @@
 <system>
 	<name>HD 158259</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-	</links>
+	<contributors />
 </system>

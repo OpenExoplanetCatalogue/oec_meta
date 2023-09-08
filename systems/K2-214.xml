@@ -1,12 +1,10 @@
 <system>
 	<name>K2-214</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://archive.stsci.edu/k2/epic/search.php</link>
-		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/742/2/116</link>
 	</links>
 </system>

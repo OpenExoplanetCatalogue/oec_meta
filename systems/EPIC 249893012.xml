@@ -1,11 +1,11 @@
 <system>
 	<name>EPIC 249893012</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2017MNRAS.466.2710R</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

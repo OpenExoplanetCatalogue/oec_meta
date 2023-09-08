@@ -1,11 +1,10 @@
 <system>
 	<name>Kepler-939</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>https://arxiv.org/abs/1911.05574</link>
 	</links>
 </system>

@@ -1,18 +1,17 @@
 <system>
 	<name>CoRoT-3</name>
 	<contributors>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="Tobias_Mueller@twam.info" commits="1">Tobias Mueller</contributor>
 	</contributors>
 	<links>
-		<link>https://github.com/ryanvarley/open_exoplanet_catalogue_advanced/issues/2</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2009A%26A...506..501C</link>
-		<link>http://dx.doi.org/10.1051/0004-6361:200810625</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2011AIPC.1331...88E</link>
+		<link>http://dx.doi.org/10.1051/0004-6361:20066581</link>
+		<link>http://dx.doi.org/10.1063/1.3556187</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://iopscience.iop.org/article/10.3847/2515-5172/aabe7e/meta</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2007A%26A...462..777N</link>
 	</links>
 </system>

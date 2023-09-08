@@ -1,11 +1,8 @@
 <system>
 	<name>HATS-9</name>
-	<contributors>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://arxiv.org/abs/1503.00062</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

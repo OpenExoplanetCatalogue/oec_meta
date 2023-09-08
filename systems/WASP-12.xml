@@ -1,18 +1,4 @@
 <system>
 	<name>WASP-12</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="cadenarmstrong@gmail.com">Cadenarmstrong</contributor>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="3" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...788....2B</link>
-		<link>http://arxiv.org/abs/1307.6857</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://dx.doi.org/10.1088/0004-6256/141/6/179</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://adsabs.harvard.edu/abs/2015ApJ...800..138N</link>
-	</links>
+	<contributors />
 </system>

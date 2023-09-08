@@ -1,11 +1,4 @@
 <system>
 	<name>K2-138</name>
-	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://adsabs.harvard.edu/abs/2018AJ....155...57C</link>
-	</links>
+	<contributors />
 </system>

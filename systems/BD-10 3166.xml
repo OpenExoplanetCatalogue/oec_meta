@@ -1,18 +1,4 @@
 <system>
 	<name>BD-10 3166</name>
-	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2006ApJ...646..505B</link>
-		<link>http://adsabs.harvard.edu/abs/2014AJ....148...91L</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2006ApJ...646..523R</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2007ApJS..168..297T</link>
-	</links>
+	<contributors />
 </system>

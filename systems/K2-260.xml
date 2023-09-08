@@ -1,10 +1,7 @@
 <system>
 	<name>K2-260</name>
-	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1810.02341</link>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
 	</links>
 </system>

@@ -1,10 +1,4 @@
 <system>
 	<name>HD 42012</name>
-	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-	</links>
+	<contributors />
 </system>
