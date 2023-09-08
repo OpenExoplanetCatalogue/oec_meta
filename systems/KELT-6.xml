@@ -1,10 +1,14 @@
 <system>
 	<name>KELT-6</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1308.2296</link>
+		<link>http://arxiv.org/abs/1508.06520</link>
 	</links>
 </system>

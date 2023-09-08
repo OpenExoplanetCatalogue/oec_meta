@@ -1,4 +1,6 @@
 <system>
 	<name>KIC 5095269(AB)</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 </system>

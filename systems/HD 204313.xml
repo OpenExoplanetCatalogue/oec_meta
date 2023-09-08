@@ -1,14 +1,14 @@
 <system>
 	<name>HD 204313</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>https://ui.adsabs.harvard.edu/?#abs/2016A%26A...585A.134D</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://adsabs.harvard.edu/abs/2012ApJ...754...50R</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2016A%26A...585A.134D</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

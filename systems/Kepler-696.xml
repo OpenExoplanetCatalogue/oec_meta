@@ -1,8 +1,8 @@
 <system>
 	<name>Kepler-696</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>

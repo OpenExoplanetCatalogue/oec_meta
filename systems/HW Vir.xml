@@ -1,4 +1,14 @@
 <system>
 	<name>HW Vir</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="11">Hanno Rein</contributor>
+		<contributor email="kennethjcott@gmail.com" commits="1">Kenneth J Cott</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2012MNRAS.427.2812H</link>
+	</links>
 </system>

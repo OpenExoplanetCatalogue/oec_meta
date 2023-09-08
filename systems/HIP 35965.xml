@@ -1,8 +1,6 @@
 <system>
 	<name>HIP 35965</name>
-	<contributors />
-	<links>
-		<link>http://arxiv.org/abs/1304.4283</link>
-		<link>https://arxiv.org/abs/1810.02341</link>
-	</links>
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 </system>

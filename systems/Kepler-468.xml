@@ -2,13 +2,10 @@
 	<name>Kepler-468</name>
 	<contributors>
 		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1508.06520</link>
-		<link>http://arxiv.org/abs/1308.2296</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

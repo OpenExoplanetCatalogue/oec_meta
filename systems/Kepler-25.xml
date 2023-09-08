@@ -1,9 +1,19 @@
 <system>
 	<name>Kepler-25</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="4">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="11">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanet.eu</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
+		<link>http://arxiv.org/pdf/1201.5412v1.pdf</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
+		<link>http://adsabs.harvard.edu/abs/2014PASJ...66...94B</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1401.4195</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
 	</links>
 </system>

@@ -1,11 +1,13 @@
 <system>
 	<name>CoRoT-24</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1312.1827</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/pdf/1406.1270v1.pdf</link>
 	</links>
 </system>

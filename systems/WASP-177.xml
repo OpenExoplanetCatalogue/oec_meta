@@ -1,4 +1,11 @@
 <system>
 	<name>WASP-177</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/1903.06622</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

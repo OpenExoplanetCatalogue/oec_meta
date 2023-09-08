@@ -1,10 +1,14 @@
 <system>
 	<name>AB Pic</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://cdsads.u-strasbg.fr/abs/2010A%26A...512A..52B</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2005A%26A...438L..29C</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

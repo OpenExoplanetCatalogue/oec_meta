@@ -1,15 +1,15 @@
 <system>
 	<name>KOI-55</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="royl@aldaron.com">Orome</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="royl@aldaron.com" commits="1">Orome</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://www.nature.com/nature/journal/v480/n7378/pdf/nature10631.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://www.aanda.org/articles/aa/abs/2015/09/aa26346-15/aa26346-15.html</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

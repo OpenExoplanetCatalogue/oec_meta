@@ -1,10 +1,11 @@
 <system>
 	<name>LTT 3780</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://arxiv.org/abs/1401.5525</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 	</links>
 </system>

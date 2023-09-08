@@ -1,4 +1,10 @@
 <system>
 	<name>BD+14 4559</name>
-	<contributors />
+	<contributors>
+		<contributor email="douglase@bu.edu" commits="3">Ewan Douglas</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+	</links>
 </system>

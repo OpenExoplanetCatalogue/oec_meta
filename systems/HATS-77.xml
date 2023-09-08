@@ -1,8 +1,6 @@
 <system>
 	<name>HATS-77</name>
-	<contributors />
-	<links>
-		<link>http://iopscience.iop.org/0004-637X/711/2/1087/pdf/0004-637X_711_2_1087.pdf</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-	</links>
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 </system>

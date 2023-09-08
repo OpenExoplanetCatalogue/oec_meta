@@ -1,11 +1,14 @@
 <system>
 	<name>BD+20 1790</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://adsabs.harvard.edu/abs/2015A%26A...576A..66H</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1502.05223</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

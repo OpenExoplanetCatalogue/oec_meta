@@ -1,19 +1,11 @@
 <system>
 	<name>K2-295</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Marc-Antoine</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://arxiv.org/abs/1511.00643</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://dx.doi.org/10.1088/2041-8205/735/1/L12</link>
+		<link>https://arxiv.org/abs/1810.02341</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

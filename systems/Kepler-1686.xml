@@ -1,11 +1,9 @@
 <system>
 	<name>Kepler-1686</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1511.00643</link>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
 	</links>
 </system>

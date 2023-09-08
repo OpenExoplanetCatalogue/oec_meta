@@ -1,13 +1,13 @@
 <system>
 	<name>HAT-P-56</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanetarchive.ipac.caltech.edu./cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://arxiv.org/abs/1506.01776</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu./cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
 	</links>
 </system>

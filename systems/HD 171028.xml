@@ -1,4 +1,11 @@
 <system>
 	<name>HD 171028</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

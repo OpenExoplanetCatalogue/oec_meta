@@ -1,7 +1,12 @@
 <system>
 	<name>TrES-3</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1011.5595</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

@@ -1,4 +1,17 @@
 <system>
 	<name>HD 17156</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="5">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/pdf/0812.0785v1.pdf</link>
+		<link>http://arxiv.org/abs/1011.0440</link>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/4181/fp_2mass.fp_psc4181.tbl</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+	</links>
 </system>

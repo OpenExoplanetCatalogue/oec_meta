@@ -1,4 +1,9 @@
 <system>
 	<name>AB Aur</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

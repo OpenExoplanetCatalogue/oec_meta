@@ -1,4 +1,16 @@
 <system>
 	<name>KOI-1873</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="cadenarmstrong@gmail.com" commits="1">Cadenarmstrong</contributor>
+		<contributor email="d.hemsley79@gmail.com" commits="1">Darryl Hemsley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1309.2329</link>
+		<link>http://arxiv.org/abs/1111.5107</link>
+		<link>http://arxiv.org/abs/1309.2329v1</link>
+	</links>
 </system>

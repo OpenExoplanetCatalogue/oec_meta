@@ -1,4 +1,11 @@
 <system>
 	<name>OGLE-2008-BLG-355L</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="jaroslav.merc@gmail.com" commits="1">Jaroslav Merc</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2014ApJ...788..128K</link>
+	</links>
 </system>

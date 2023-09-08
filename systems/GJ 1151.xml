@@ -1,4 +1,10 @@
 <system>
 	<name>GJ 1151</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr</link>
+	</links>
 </system>

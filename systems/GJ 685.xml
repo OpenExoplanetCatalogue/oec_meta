@@ -1,7 +1,7 @@
 <system>
 	<name>GJ 685</name>
 	<contributors>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>https://arxiv.org/abs/1810.02341</link>

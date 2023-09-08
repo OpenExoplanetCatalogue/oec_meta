@@ -1,9 +1,11 @@
 <system>
 	<name>Kepler-190</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

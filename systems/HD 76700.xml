@@ -1,14 +1,13 @@
 <system>
 	<name>HD 76700</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
-		<contributor email="cadenarmstrong@gmail.com" commits="2">Cadenarmstrong</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1207.3141</link>
-		<link>http://adsabs.harvard.edu/abs/2012PASJ...64..135S</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

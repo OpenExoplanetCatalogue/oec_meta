@@ -1,11 +1,11 @@
 <system>
 	<name>FL Lyr</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/1986AJ.....91..383P</link>
 		<link>http://arxiv.org/abs/1510.02111</link>
+		<link>http://cdsads.u-strasbg.fr/abs/1986AJ.....91..383P</link>
 	</links>
 </system>

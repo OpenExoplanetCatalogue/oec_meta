@@ -1,4 +1,16 @@
 <system>
 	<name>HD 33142</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2011ApJS..197...26J</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2016ApJ...821...89B</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://www.lx200.de/img/ep-hd33142-20150206.jpg</link>
+	</links>
 </system>

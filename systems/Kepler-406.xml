@@ -2,15 +2,13 @@
 	<name>Kepler-406</name>
 	<contributors>
 		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="christian.sturm@csturm.de" commits="1">Sol-D</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2013ApJ...764....3R</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://adsabs.harvard.edu/abs/2014arXiv1407.1049R</link>
-		<link>http://www.sciencemag.org/content/early/2014/07/02/science.1253253.abstract</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1401.4195</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

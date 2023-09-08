@@ -1,8 +1,10 @@
 <system>
 	<name>TOI-451</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>https://iopscience.iop.org/article/10.3847/1538-3881/abccc6</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

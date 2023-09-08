@@ -1,4 +1,11 @@
 <system>
 	<name>HAT-P-51</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1503.04149</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

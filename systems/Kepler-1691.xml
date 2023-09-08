@@ -1,10 +1,9 @@
 <system>
 	<name>Kepler-1691</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>https://arxiv.org/abs/1812.07668</link>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
 	</links>
 </system>

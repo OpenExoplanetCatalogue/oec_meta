@@ -1,17 +1,17 @@
 <system>
 	<name>WASP-66</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="4">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2016ApJ...823...29A</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/pdf/1204.5095v1.pdf</link>
-		<link>http://arxiv.org/abs/1204.5095</link>
 		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/13238/fp_2mass.fp_psc13238.tbl</link>
+		<link>http://arxiv.org/abs/1204.5095</link>
+		<link>http://arxiv.org/pdf/1204.5095v1.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2016ApJ...823...29A</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

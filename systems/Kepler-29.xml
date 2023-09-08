@@ -1,18 +1,18 @@
 <system>
 	<name>Kepler-29</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="11" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="11">Hanno Rein</contributor>
+		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://arxiv.org/abs/1512.02003</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://dx.doi.org/10.1088/0004-637X/750/2/114</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

@@ -1,9 +1,12 @@
 <system>
 	<name>TYC 3667-1280-1</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1603.07581v1</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1810.02341</link>
 	</links>
 </system>

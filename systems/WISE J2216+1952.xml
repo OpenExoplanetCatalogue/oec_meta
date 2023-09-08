@@ -1,4 +1,6 @@
 <system>
 	<name>WISE J2216+1952</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 </system>

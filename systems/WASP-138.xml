@@ -1,4 +1,11 @@
 <system>
 	<name>WASP-138</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

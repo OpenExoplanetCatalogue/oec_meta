@@ -1,12 +1,11 @@
 <system>
 	<name>Kepler-352</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2017PASJ...69L...2O</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1506.08719</link>
-		<link>http://adsabs.harvard.edu/abs/2016A%26A...593A..75S</link>
-		<link>http://adsabs.harvard.edu/abs/2012ApJ...755...42V</link>
 	</links>
 </system>

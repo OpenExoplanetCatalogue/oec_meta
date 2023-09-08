@@ -1,4 +1,11 @@
 <system>
 	<name>Kepler-454</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1511.09097</link>
+	</links>
 </system>

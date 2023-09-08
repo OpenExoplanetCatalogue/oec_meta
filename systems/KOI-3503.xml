@@ -1,4 +1,6 @@
 <system>
 	<name>KOI-3503</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
 </system>

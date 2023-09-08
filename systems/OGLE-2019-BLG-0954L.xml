@@ -1,4 +1,9 @@
 <system>
 	<name>OGLE-2019-BLG-0954L</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

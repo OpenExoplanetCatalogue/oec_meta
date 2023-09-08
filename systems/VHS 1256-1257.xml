@@ -1,12 +1,12 @@
 <system>
 	<name>VHS 1256-1257</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2015ApJ...804...96G</link>
 		<link>http://adsabs.harvard.edu/abs/2016ApJ...818L..12S</link>
+		<link>http://adsabs.harvard.edu/abs/2015ApJ...804...96G</link>
 	</links>
 </system>

@@ -1,8 +1,13 @@
 <system>
 	<name>Kepler-75</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="jaroslav.merc@gmail.com" commits="3">Jaroslav Merc</contributor>
+	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1501.02653</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

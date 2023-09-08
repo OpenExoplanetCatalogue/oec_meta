@@ -1,14 +1,14 @@
 <system>
 	<name>KOI-314</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="12" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="12">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
 		<link>http://www.cfa.harvard.edu/HEK/HEK_IV.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2015Natur.522..321J</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://www.nature.com/nature/journal/v522/n7556/pdf/nature14494.pdf</link>
-		<link>http://adsabs.harvard.edu/abs/2015Natur.522..321J</link>
 	</links>
 </system>

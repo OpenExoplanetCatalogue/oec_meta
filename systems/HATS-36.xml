@@ -1,4 +1,11 @@
 <system>
 	<name>HATS-36</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="3">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

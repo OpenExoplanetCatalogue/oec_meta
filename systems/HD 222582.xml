@@ -1,7 +1,12 @@
 <system>
 	<name>HD 222582</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/pdf/astro-ph/0603836v1.pdf</link>
 	</links>
 </system>

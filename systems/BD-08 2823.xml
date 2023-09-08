@@ -1,9 +1,9 @@
 <system>
 	<name>BD-08 2823</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="douglase@bu.edu">Ewan Douglas</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="douglase@bu.edu" commits="2">Ewan Douglas</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>

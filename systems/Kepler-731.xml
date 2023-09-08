@@ -1,9 +1,11 @@
 <system>
 	<name>Kepler-731</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://arxiv.org/pdf/0710.5918v1.pdf</link>
-		<link>http://en.wikipedia.org/wiki/HD_196885</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

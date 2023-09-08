@@ -1,14 +1,12 @@
 <system>
 	<name>Kepler-933</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1308.6574</link>
-		<link>https://archive.stsci.edu/k2/epic/search.php</link>
-		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

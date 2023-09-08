@@ -1,21 +1,21 @@
 <system>
 	<name>HAT-P-7</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="kennethjcott@gmail.com">Kenneth J Cott</contributor>
-		<contributor commits="1" email="ma.martinod@free.fr">Marc-Antoine</contributor>
-		<contributor commits="5" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="kennethjcott@gmail.com" commits="1">Kenneth J Cott</contributor>
+		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="5">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1301.0250</link>
 		<link>http://fr.arxiv.org/abs/0906.3486</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://adsabs.harvard.edu/abs/2014PASJ...66...94B</link>
+		<link>http://arxiv.org/abs/1301.0250</link>
 		<link>http://arxiv.org/pdf/1301.4503.pdf</link>
 		<link>http://adsabs.harvard.edu/abs/2015ApJ...800..138N</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
 	</links>
 </system>

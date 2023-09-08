@@ -1,18 +1,11 @@
 <system>
 	<name>Kepler-354</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-		<contributor email="kennethjcott@gmail.com" commits="1">Kenneth J Cott</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://www.ctio.noao.edu/~atokovin/stars/index.php?cat=HD&amp;number=219449</link>
-		<link>http://adsabs.harvard.edu/abs/2006ApJ...646..523R</link>
-		<link>http://arxiv.org/abs/1305.5107</link>
-		<link>http://adsabs.harvard.edu/abs/2013A%26A...555A..87M</link>
-		<link>http://www.usno.navy.mil/USNO/astrometry/optical-IR-prod/wds/orb6</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

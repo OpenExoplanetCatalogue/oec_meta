@@ -1,13 +1,13 @@
 <system>
 	<name>OGLE-2012-BLG-0358L</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://arxiv.org/abs/1307.6335</link>
 		<link>http://adsabs.harvard.edu/abs/2013ApJ...778...38H</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

@@ -1,4 +1,13 @@
 <system>
 	<name>KOI-1474</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2014ApJ...791...89D</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://adsabs.harvard.edu/abs/2012ApJ...761..163D</link>
+	</links>
 </system>

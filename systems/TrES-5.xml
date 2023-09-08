@@ -1,10 +1,13 @@
 <system>
 	<name>TrES-5</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://exoplanet.eu</link>
+		<link>http://arxiv.org/pdf/1108.3572v1.pdf</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/741/2/114</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://archive.stsci.edu/k2/epic/search.php</link>
-		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
 	</links>
 </system>

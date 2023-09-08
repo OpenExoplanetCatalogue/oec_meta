@@ -1,4 +1,12 @@
 <system>
 	<name>MOA-2013-BLG-605L</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1512.00134</link>
+		<link>http://arxiv.org/pdf/1512.00134v1.pdf</link>
+	</links>
 </system>

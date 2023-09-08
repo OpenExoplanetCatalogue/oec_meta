@@ -1,19 +1,11 @@
 <system>
 	<name>Kepler-346</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
 		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="4">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=WASP-60&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
-		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/5769/fp_2mass.fp_psc5769.tbl</link>
-		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A.134H</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/pdf/1211.0810v1.pdf</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=wasp-60</link>
 	</links>
 </system>

@@ -1,19 +1,12 @@
 <system>
 	<name>EPIC 203311200</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
-		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://arxiv.org/pdf/1109.1561v1.pdf</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-ref=VIZ5a2c3f1e4b46&amp;-out.add=.&amp;-source=I/337/tgas&amp;recno=1835925&amp;-out.orig=o</link>
+		<link>http://adsabs.harvard.edu/abs/2016MNRAS.457.2273O</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://iopscience.iop.org/0004-637X/743/2/200/</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://dx.doi.org/10.1088/0004-637X/743/2/200</link>
 	</links>
 </system>

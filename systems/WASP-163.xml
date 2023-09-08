@@ -1,9 +1,9 @@
 <system>
 	<name>WASP-163</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

@@ -1,4 +1,10 @@
 <system>
 	<name>HD 3167</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

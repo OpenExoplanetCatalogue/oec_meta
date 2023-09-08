@@ -1,4 +1,18 @@
 <system>
 	<name>eps Eridani</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://cdsads.u-strasbg.fr/abs/2012ApJS..200...15A</link>
+		<link>http://adsabs.harvard.edu/abs/2012ApJS..200...15A</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2004A%26A...426..601D</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2013A%26A...552A..78Z</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2013A%26A...552A..78Z</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

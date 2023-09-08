@@ -1,4 +1,9 @@
 <system>
 	<name>GJ 486</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

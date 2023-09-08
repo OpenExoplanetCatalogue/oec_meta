@@ -1,17 +1,17 @@
 <system>
 	<name>HD 126614</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="2" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
 		<link>http://adsabs.harvard.edu/abs/2012MNRAS.421.2498G</link>
+		<link>http://arxiv.org/pdf/1408.1208v1.pdf</link>
 		<link>http://adsabs.harvard.edu/abs/2010ApJ...721.1467H</link>
 		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J14268-0511A</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://arxiv.org/pdf/1408.1208v1.pdf</link>
 		<link>http://arxiv.org/abs/1408.1208</link>
 	</links>
 </system>

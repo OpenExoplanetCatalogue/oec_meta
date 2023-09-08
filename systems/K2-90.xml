@@ -1,10 +1,6 @@
 <system>
 	<name>K2-90</name>
-	<contributors />
-	<links>
-		<link>http://exoplanet.eu</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>https://ui.adsabs.harvard.edu/?#abs/2016A%26A...591A.146D</link>
-	</links>
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 </system>

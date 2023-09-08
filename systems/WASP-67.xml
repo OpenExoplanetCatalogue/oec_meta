@@ -1,4 +1,16 @@
 <system>
 	<name>WASP-67</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1204.5095</link>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/24633/fp_2mass.fp_psc24633.tbl</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=wasp-67</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

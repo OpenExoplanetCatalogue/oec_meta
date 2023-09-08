@@ -1,4 +1,10 @@
 <system>
 	<name>WASP-180</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/1903.08002</link>
+	</links>
 </system>

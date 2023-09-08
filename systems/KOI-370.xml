@@ -1,12 +1,12 @@
 <system>
 	<name>KOI-370</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="7" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1309.2329</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://arxiv.org/abs/1505.02814</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1309.2329</link>
 	</links>
 </system>

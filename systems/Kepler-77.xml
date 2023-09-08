@@ -1,13 +1,13 @@
 <system>
 	<name>Kepler-77</name>
 	<contributors>
-		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="4" email="jaroslav.merc@gmail.com">Jaroslav Merc</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="4">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="jaroslav.merc@gmail.com" commits="4">Jaroslav Merc</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1511.00643</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1511.00643</link>
 	</links>
 </system>

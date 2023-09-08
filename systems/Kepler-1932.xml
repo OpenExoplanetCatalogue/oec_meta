@@ -1,7 +1,6 @@
 <system>
 	<name>Kepler-1932</name>
-	<contributors />
-	<links>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-	</links>
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 </system>

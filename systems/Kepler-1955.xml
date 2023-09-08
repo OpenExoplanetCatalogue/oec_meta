@@ -1,11 +1,6 @@
 <system>
 	<name>Kepler-1955</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-	</links>
 </system>

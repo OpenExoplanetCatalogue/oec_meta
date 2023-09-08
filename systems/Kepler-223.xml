@@ -1,11 +1,11 @@
 <system>
 	<name>Kepler-223</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2007ApJ...659.1629L</link>
-		<link>http://adsabs.harvard.edu/abs/2012ApJ...746..154P</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J16224-2405A</link>
 	</links>
 </system>

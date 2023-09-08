@@ -1,4 +1,12 @@
 <system>
 	<name>WASP-189</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/pdf/1809.04897.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

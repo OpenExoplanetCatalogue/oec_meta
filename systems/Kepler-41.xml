@@ -1,17 +1,17 @@
 <system>
 	<name>Kepler-41</name>
 	<contributors>
-		<contributor commits="4" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
-		<contributor commits="1" email="christian.sturm@csturm.de">Sol-D</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="4">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+		<contributor email="christian.sturm@csturm.de" commits="1">Sol-D</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/pdf/1207.5796v1.pdf</link>
+		<link>http://arxiv.org/abs/1501.02653</link>
 		<link>http://arxiv.org/abs/1303.0858</link>
 		<link>http://arxiv.org/abs/1511.00643</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/pdf/1207.5796v1.pdf</link>
-		<link>http://arxiv.org/abs/1501.02653</link>
 	</links>
 </system>

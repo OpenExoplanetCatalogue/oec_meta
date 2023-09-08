@@ -1,4 +1,13 @@
 <system>
 	<name>ROXs 12</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...781...20K</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1311.7664</link>
+	</links>
 </system>

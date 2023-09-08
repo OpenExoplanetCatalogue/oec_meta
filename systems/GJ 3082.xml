@@ -1,6 +1,11 @@
 <system>
 	<name>GJ 3082</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
+	</links>
 </system>

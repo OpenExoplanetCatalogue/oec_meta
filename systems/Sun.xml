@@ -1,12 +1,12 @@
 <system>
 	<name>Sun</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="12">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t2.txt</link>
+		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t1.txt</link>
+		<link>http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html</link>
+		<link>http://publications.edpsciences.org/10.1051/0004-6361:20020749</link>
 	</links>
 </system>

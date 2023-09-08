@@ -1,4 +1,11 @@
 <system>
 	<name>LHS 1140</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2017Natur.544..333D</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

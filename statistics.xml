@@ -1,45 +1,85 @@
 <statistiscs>
-	<commits>0</commits>
-	<contributors num="0" />
-	<planets>1</planets>
-	<systems>1</systems>
-	<binaries>0</binaries>
+	<commits>24121</commits>
+	<contributors num="39">
+		<contributor>Hanno Rein</contributor>
+		<contributor>Andrew Tribick</contributor>
+		<contributor>Marc-Antoine Martinod</contributor>
+		<contributor>Ryan Varley</contributor>
+		<contributor>Cadenarmstrong</contributor>
+		<contributor>Miguel De Val-Borro</contributor>
+		<contributor>Christian Sturm</contributor>
+		<contributor>Marc-Antoine</contributor>
+		<contributor>Chrissy Teagan</contributor>
+		<contributor>Senger Hanno</contributor>
+		<contributor>Kenneth J Cott</contributor>
+		<contributor>Everett Schlawin</contributor>
+		<contributor>Landrok</contributor>
+		<contributor>Sol-D</contributor>
+		<contributor>James Gregory</contributor>
+		<contributor>Daveshoszowski</contributor>
+		<contributor>Planetaryscience</contributor>
+		<contributor>Ewan Douglas</contributor>
+		<contributor>Rajeev-Jeyaraj</contributor>
+		<contributor>Sevenspheres</contributor>
+		<contributor>Jaroslav Merc</contributor>
+		<contributor>Claudionor Buzzo Raymundo</contributor>
+		<contributor>Dobb13</contributor>
+		<contributor>Knutover</contributor>
+		<contributor>Orome</contributor>
+		<contributor>Kevin Knittel</contributor>
+		<contributor>Allen Davis</contributor>
+		<contributor>Tobias Mueller</contributor>
+		<contributor>Florian Cabot</contributor>
+		<contributor>Allen B. Davis</contributor>
+		<contributor>Allen Davis</contributor>
+		<contributor>Paul Anthony Wilson</contributor>
+		<contributor>Diamondraph</contributor>
+		<contributor>Randomcoinforall</contributor>
+		<contributor>Darryl Hemsley</contributor>
+		<contributor>Dave</contributor>
+		<contributor>Callum Rodwell</contributor>
+		<contributor>Paul A. Wilson</contributor>
+		<contributor>Christian Sturm</contributor>
+	</contributors>
+	<planets>5187</planets>
+	<systems>3891</systems>
+	<binaries>181</binaries>
 	<discoveryyear>
-		<y1992>0</y1992>
+		<y1992>4</y1992>
 		<y1993>0</y1993>
-		<y1994>0</y1994>
-		<y1995>0</y1995>
-		<y1996>0</y1996>
-		<y1997>0</y1997>
-		<y1998>0</y1998>
-		<y1999>0</y1999>
-		<y2000>0</y2000>
-		<y2001>0</y2001>
-		<y2002>0</y2002>
-		<y2003>0</y2003>
-		<y2004>0</y2004>
-		<y2005>0</y2005>
-		<y2006>0</y2006>
-		<y2007>0</y2007>
-		<y2008>0</y2008>
-		<y2009>0</y2009>
-		<y2010>0</y2010>
-		<y2011>0</y2011>
-		<y2012>0</y2012>
-		<y2013>0</y2013>
-		<y2014>0</y2014>
-		<y2015>0</y2015>
-		<y2016>0</y2016>
-		<y2017>0</y2017>
-		<y2018>0</y2018>
-		<y2019>0</y2019>
-		<y2020>0</y2020>
-		<y2021>0</y2021>
-		<y2022>0</y2022>
-		<y2023>1</y2023>
+		<y1994>1</y1994>
+		<y1995>1</y1995>
+		<y1996>6</y1996>
+		<y1997>1</y1997>
+		<y1998>5</y1998>
+		<y1999>12</y1999>
+		<y2000>19</y2000>
+		<y2001>13</y2001>
+		<y2002>30</y2002>
+		<y2003>24</y2003>
+		<y2004>28</y2004>
+		<y2005>34</y2005>
+		<y2006>29</y2006>
+		<y2007>59</y2007>
+		<y2008>60</y2008>
+		<y2009>81</y2009>
+		<y2010>109</y2010>
+		<y2011>181</y2011>
+		<y2012>119</y2012>
+		<y2013>123</y2013>
+		<y2014>918</y2014>
+		<y2015>175</y2015>
+		<y2016>1491</y2016>
+		<y2017>143</y2017>
+		<y2018>350</y2018>
+		<y2019>186</y2019>
+		<y2020>229</y2020>
+		<y2021>343</y2021>
+		<y2022>279</y2022>
+		<y2023>8</y2023>
 	</discoveryyear>
-	<confirmedplanets>1</confirmedplanets>
-	<confirmedsystems>1</confirmedsystems>
+	<confirmedplanets>5061</confirmedplanets>
+	<confirmedsystems>3813</confirmedsystems>
 	<lastupdate>2023-09-07</lastupdate>
 	<lastcommittimestamp>1694129789</lastcommittimestamp>
 </statistiscs>

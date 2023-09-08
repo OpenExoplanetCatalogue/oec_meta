@@ -1,9 +1,11 @@
 <system>
 	<name>HATS-59</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>https://arxiv.org/abs/1805.05925</link>
 	</links>
 </system>

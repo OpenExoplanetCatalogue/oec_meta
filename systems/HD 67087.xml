@@ -1,4 +1,11 @@
 <system>
 	<name>HD 67087</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/pdf/1503.07636v1.pdf</link>
+	</links>
 </system>

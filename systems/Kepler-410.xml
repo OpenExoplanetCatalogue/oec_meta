@@ -1,9 +1,13 @@
 <system>
 	<name>Kepler-410</name>
-	<contributors />
+	<contributors>
+		<contributor email="allen.b.davis@williams.edu" commits="1">Allen Davis</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="4">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1312.4938</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J18526%2b4508AB</link>
 	</links>
 </system>

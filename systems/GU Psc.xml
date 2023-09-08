@@ -1,13 +1,13 @@
 <system>
 	<name>GU Psc</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="6" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...787....5N</link>
-		<link>http://iopscience.iop.org/0004-637X/787/1/5/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://iopscience.iop.org/0004-637X/787/1/5/</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...787....5N</link>
 	</links>
 </system>

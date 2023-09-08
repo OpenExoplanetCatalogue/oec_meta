@@ -1,18 +1,18 @@
 <system>
 	<name>Kepler-26</name>
 	<contributors>
-		<contributor commits="3" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="12" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="2" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="3" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="12">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://arxiv.org/abs/1510.02476</link>
-		<link>http://arxiv.org/abs/1512.02003</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://arxiv.org/pdf/1201.5412v1.pdf</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
+		<link>http://arxiv.org/abs/1512.02003</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

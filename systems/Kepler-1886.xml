@@ -1,15 +1,6 @@
 <system>
 	<name>Kepler-1886</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="cadenarmstrong@gmail.com" commits="2">Cadenarmstrong</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="kevin.knittel@mail.utoronto.ca" commits="1">Kevin Knittel</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-		<link>http://www.aanda.org/articles/aa/abs/2014/02/aa23014-13/aa23014-13.html</link>
-		<link>http://arxiv.org/abs/1411.2767</link>
-	</links>
 </system>

@@ -1,4 +1,13 @@
 <system>
 	<name>K2-195</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+	</links>
 </system>

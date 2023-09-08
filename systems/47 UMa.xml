@@ -1,12 +1,13 @@
 <system>
 	<name>47 UMa</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://cdsads.u-strasbg.fr/abs/2007ApJS..168..297T</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2007A%26A...468..663T</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2010MNRAS.403..731G</link>
 	</links>
 </system>

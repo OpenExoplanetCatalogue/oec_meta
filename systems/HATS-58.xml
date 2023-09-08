@@ -1,4 +1,10 @@
 <system>
 	<name>HATS-58</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/1812.07668</link>
+	</links>
 </system>

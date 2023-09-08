@@ -1,4 +1,6 @@
 <system>
 	<name>TYC 4282-00605-1</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 </system>

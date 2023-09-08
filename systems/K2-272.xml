@@ -1,15 +1,10 @@
 <system>
 	<name>K2-272</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="4">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="4">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://adsabs.harvard.edu/abs/2012ApJ...746..123H</link>
-		<link>http://arxiv.org/abs/1601.01524</link>
+		<link>https://arxiv.org/abs/1810.02341</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

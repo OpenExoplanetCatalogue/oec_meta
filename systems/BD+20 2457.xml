@@ -1,8 +1,8 @@
 <system>
 	<name>BD+20 2457</name>
 	<contributors>
-		<contributor commits="3" email="douglase@bu.edu">Ewan Douglas</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="douglase@bu.edu" commits="3">Ewan Douglas</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>

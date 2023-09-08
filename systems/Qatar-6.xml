@@ -1,8 +1,6 @@
 <system>
 	<name>Qatar-6</name>
-	<contributors />
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1805.05925</link>
-	</links>
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 </system>

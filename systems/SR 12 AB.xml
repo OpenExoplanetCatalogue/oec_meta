@@ -1,4 +1,11 @@
 <system>
 	<name>SR 12 AB</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://cdsads.u-strasbg.fr/abs/2002ApJ...566..993A</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

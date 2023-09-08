@@ -1,4 +1,10 @@
 <system>
 	<name>OGLE-2017-BLG-0373L</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2018AcA....68...43S</link>
+	</links>
 </system>

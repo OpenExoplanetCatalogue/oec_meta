@@ -1,13 +1,12 @@
 <system>
 	<name>K2-210</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2010MNRAS.403..731G</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2007A%26A...468..663T</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2007ApJS..168..297T</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
 	</links>
 </system>

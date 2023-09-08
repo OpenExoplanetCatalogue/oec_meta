@@ -1,7 +1,6 @@
 <system>
 	<name>HIP 105854</name>
-	<contributors />
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-	</links>
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 </system>

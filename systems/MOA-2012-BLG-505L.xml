@@ -1,4 +1,6 @@
 <system>
 	<name>MOA-2012-BLG-505L</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 </system>

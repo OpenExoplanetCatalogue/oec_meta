@@ -1,17 +1,17 @@
 <system>
 	<name>WTS-1</name>
 	<contributors>
-		<contributor commits="1" email="sol-d@gravitonmail.de">Christian Sturm</contributor>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="8" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="sol-d@gravitonmail.de" commits="1">Christian Sturm</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
+		<link>http://arxiv.org/abs/1210.1217</link>
+		<link>http://cas.sdss.org/astrodr7/en/tools/explore/obj.asp?id=758879745081674546</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1210.1217</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://cas.sdss.org/astrodr7/en/tools/explore/obj.asp?id=758879745081674546</link>
 	</links>
 </system>

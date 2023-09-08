@@ -1,10 +1,14 @@
 <system>
 	<name>omi UMa</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="cadenarmstrong@gmail.com" commits="2">Cadenarmstrong</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2007MNRAS.376..919M</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1207.3141</link>
+		<link>http://adsabs.harvard.edu/abs/2012PASJ...64..135S</link>
 	</links>
 </system>

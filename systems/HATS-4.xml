@@ -1,14 +1,14 @@
 <system>
 	<name>HATS-4</name>
 	<contributors>
-		<contributor commits="1" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="3" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
-		<contributor commits="2" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="miguel.deval@gmail.com" commits="1">Miguel De Val-Borro</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://arxiv.org/abs/1402.6546</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

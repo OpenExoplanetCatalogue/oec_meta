@@ -1,4 +1,15 @@
 <system>
 	<name>Fomalhaut</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://www.nasa.gov/mission_pages/hubble/science/rogue-fomalhaut.html</link>
+		<link>http://arxiv.org/abs/1305.2222</link>
+		<link>http://adsabs.harvard.edu/abs/2013AJ....146..154M</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

@@ -1,11 +1,17 @@
 <system>
 	<name>PH-2</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="jaroslav.merc@gmail.com" commits="1">Jaroslav Merc</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/pdf/1803.02224.pdf</link>
+		<link>http://arxiv.org/pdf/1301.0644v1.pdf</link>
+		<link>http://blog.planethunters.org</link>
+		<link>http://arxiv.org/pdf/1301.0644.pdf</link>
+		<link>http://arxiv.org/abs/1511.00643</link>
+		<link>http://arxiv.org/abs/1301.6555</link>
 	</links>
 </system>

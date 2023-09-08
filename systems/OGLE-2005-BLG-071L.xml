@@ -1,4 +1,10 @@
 <system>
 	<name>OGLE-2005-BLG-071L</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2009ApJ...695..970D</link>
+	</links>
 </system>

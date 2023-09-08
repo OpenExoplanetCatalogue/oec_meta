@@ -2,16 +2,11 @@
 	<name>Kepler-96</name>
 	<contributors>
 		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="10">Hanno Rein</contributor>
-		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="5">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1304.7387</link>
-		<link>http://www.sciencemag.org/content/340/6130/262.full</link>
-		<link>http://www.sciencemag.org/content/early/2013/04/17/science.1234702.full.pdf</link>
-		<link>http://arxiv.org/abs/1304.6002</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
-		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
+		<link>http://arxiv.org/abs/1401.4195</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

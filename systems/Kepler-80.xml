@@ -1,4 +1,15 @@
 <system>
 	<name>Kepler-80</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2016AJ....152..105M</link>
+		<link>https://arxiv.org/abs/1712.05044v1</link>
+		<link>http://astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=Kepler-80+f&amp;type=KEPLER_CANDIDATE</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

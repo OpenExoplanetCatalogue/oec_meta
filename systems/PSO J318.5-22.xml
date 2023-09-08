@@ -1,4 +1,10 @@
 <system>
 	<name>PSO J318.5-22</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1310.0457</link>
+	</links>
 </system>

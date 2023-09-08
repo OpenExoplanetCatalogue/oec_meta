@@ -1,9 +1,9 @@
 <system>
 	<name>K2-342</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 	</links>
 </system>

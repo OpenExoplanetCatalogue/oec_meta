@@ -1,10 +1,10 @@
 <system>
 	<name>HATS-72</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 	</links>
 </system>

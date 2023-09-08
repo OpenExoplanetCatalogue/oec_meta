@@ -1,4 +1,14 @@
 <system>
 	<name>Kepler-186</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="10">Hanno Rein</contributor>
+		<contributor email="" commits="1">Paul Zwerger</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://www.sciencemag.org/content/344/6181/277</link>
+		<link>http://exoplanets.eu/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

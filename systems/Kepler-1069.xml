@@ -1,14 +1,11 @@
 <system>
 	<name>Kepler-1069</name>
 	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
 		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-		<contributor email="jamoes129@gmail.com" commits="1">James Gregory</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1306.3939</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://github.com/hannorein/open_exoplanet_catalogue</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

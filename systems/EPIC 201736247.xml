@@ -1,12 +1,12 @@
 <system>
 	<name>EPIC 201736247</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="Sol-d@users.noreply.github.com">Christian Sturm</contributor>
-		<contributor commits="2" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="4">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/pdf/1503.07866v1</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/pdf/1503.07866v1</link>
 	</links>
 </system>

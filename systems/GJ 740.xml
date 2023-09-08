@@ -1,10 +1,10 @@
 <system>
 	<name>GJ 740</name>
 	<contributors>
-		<contributor commits="5" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr</link>
 		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr</link>
 	</links>
 </system>

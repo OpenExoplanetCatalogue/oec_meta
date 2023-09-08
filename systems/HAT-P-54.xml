@@ -1,4 +1,13 @@
 <system>
 	<name>HAT-P-54</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="miguel.deval@gmail.com" commits="1">Miguel De Val-Borro</contributor>
+		<contributor email="royl@aldaron.com" commits="1">Orome</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1404.4417</link>
+	</links>
 </system>

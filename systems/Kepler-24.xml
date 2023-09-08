@@ -1,15 +1,15 @@
 <system>
 	<name>Kepler-24</name>
 	<contributors>
-		<contributor commits="1" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="10" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="marc-antoine.martinod@ens-cachan.fr">Marc-Antoine Martinod</contributor>
-		<contributor commits="1" email="miguel.deval@gmail.com">Miguel De Val-Borro</contributor>
-		<contributor commits="5" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="10">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+		<contributor email="miguel.deval@gmail.com" commits="1">Miguel De Val-Borro</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="5">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://dx.doi.org/10.1088/0004-637X/750/2/113</link>
 	</links>

@@ -1,4 +1,13 @@
 <system>
 	<name>KIC 3558849</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1512.02559</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

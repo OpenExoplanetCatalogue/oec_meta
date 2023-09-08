@@ -1,13 +1,9 @@
 <system>
 	<name>2MASS J06023447-0034369</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-		<contributor email="knutover@gmail.com" commits="1">Knutover</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
 		<link>http://exoplanet.eu</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1310.5607</link>
 	</links>
 </system>

@@ -1,10 +1,10 @@
 <system>
 	<name>GJ 414</name>
 	<contributors>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 		<link>http://exoplanet.eu</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
 	</links>
 </system>

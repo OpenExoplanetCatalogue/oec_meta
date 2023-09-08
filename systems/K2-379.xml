@@ -1,12 +1,6 @@
 <system>
 	<name>K2-379</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>https://exoplanetarchive.ipac.caltech.edu</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-	</links>
 </system>

@@ -1,4 +1,10 @@
 <system>
 	<name>OGLE-2015-BLG-0966L</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1508.07027</link>
+	</links>
 </system>

@@ -1,4 +1,15 @@
 <system>
 	<name>HD 40307</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
+		<contributor email="kennethjcott@gmail.com" commits="1">Kenneth J Cott</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2016A%26A...585A.134D</link>
+		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A..48T</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

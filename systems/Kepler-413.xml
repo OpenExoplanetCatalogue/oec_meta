@@ -1,7 +1,12 @@
 <system>
 	<name>Kepler-413</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://exoplanet.eu</link>
+		<link>http://arxiv.org/abs/1401.7275</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...784...14K</link>
 	</links>
 </system>

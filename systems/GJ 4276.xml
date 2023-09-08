@@ -1,4 +1,9 @@
 <system>
 	<name>GJ 4276</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/1810.02341</link>
+	</links>
 </system>

@@ -1,4 +1,6 @@
 <system>
 	<name>2MASS J22362452+4751425</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 </system>

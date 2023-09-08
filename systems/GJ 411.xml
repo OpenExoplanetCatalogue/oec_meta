@@ -1,4 +1,7 @@
 <system>
 	<name>GJ 411</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+		<contributor email="56284207+SevenSpheres@users.noreply.github.com" commits="1">Sevenspheres</contributor>
+	</contributors>
 </system>

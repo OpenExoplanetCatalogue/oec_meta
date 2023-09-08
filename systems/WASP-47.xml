@@ -1,8 +1,23 @@
 <system>
 	<name>WASP-47</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="7">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1510.04343</link>
+		<link>http://arxiv.org/abs/1204.5095</link>
+		<link>http://arxiv.org/abs/1510.03811</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2012MNRAS.426..739H</link>
+		<link>http://arxiv.org/abs/1509.07750</link>
+		<link>http://arxiv.org/abs/1509.05337</link>
+		<link>http://arxiv.org/pdf/1508.02411.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1508.02411v2</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 	</links>
 </system>

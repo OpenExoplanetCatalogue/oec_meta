@@ -1,13 +1,13 @@
 <system>
 	<name>FW Tau</name>
 	<contributors>
-		<contributor commits="2" email="ajtribick@googlemail.com">Andrew Tribick</contributor>
-		<contributor commits="4" email="hanno@hanno-rein.de">Hanno Rein</contributor>
-		<contributor commits="1" email="ryanjvarley@gmail.com">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2001ApJ...556..265W</link>
-		<link>http://arxiv.org/abs/1311.7664</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...781...20K</link>
+		<link>http://arxiv.org/abs/1311.7664</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2001ApJ...556..265W</link>
 	</links>
 </system>

@@ -1,9 +1,12 @@
 <system>
 	<name>Kepler-421</name>
 	<contributors>
-		<contributor email="56284207+SevenSpheres@users.noreply.github.com" commits="1">Sevenspheres</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>https://arxiv.org/abs/2008.01595</link>
+		<link>http://arxiv.org/abs/1407.4807</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>
