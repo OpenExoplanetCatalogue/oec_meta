@@ -41,7 +41,6 @@ aliases = []
 
 for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
     metafilename = '/'.join(filename.split("/")[1:])
-    print(metafilename)
     f = open(filename, 'rt')
     root = ET.parse(f).getroot()
     f.close()
@@ -126,6 +125,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         totalbinaries += 1
 
     indent(metaroot)
+    print(metafilename)
     ET.ElementTree(metaroot).write(metafilename) 
     #if totalsystems >3: break
 
