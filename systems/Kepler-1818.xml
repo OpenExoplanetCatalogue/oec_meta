@@ -1,14 +1,9 @@
 <system>
 	<name>Kepler-1818</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2016ApJ...826..206J</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
-		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2016ApJ...826..206J</link>
 	</links>
 </system>

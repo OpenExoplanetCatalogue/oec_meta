@@ -1,4 +1,9 @@
 <system>
 	<name>TOI-2260</name>
 	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1512.02559</link>
+	</links>
 </system>

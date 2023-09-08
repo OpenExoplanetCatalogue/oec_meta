@@ -1,6 +1,8 @@
 <system>
 	<name>TOI-451</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+	</links>
 </system>

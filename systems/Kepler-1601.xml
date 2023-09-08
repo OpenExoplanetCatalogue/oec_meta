@@ -1,4 +1,11 @@
 <system>
 	<name>Kepler-1601</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/pdf/1410.3449</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

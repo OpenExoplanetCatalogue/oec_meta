@@ -1,11 +1,9 @@
 <system>
 	<name>TYC 3667-1280-1</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>https://arxiv.org/abs/1810.02341</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://arxiv.org/abs/1810.02341</link>
 	</links>
 </system>

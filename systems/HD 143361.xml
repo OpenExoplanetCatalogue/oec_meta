@@ -1,4 +1,9 @@
 <system>
 	<name>HD 143361</name>
 	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2012PASJ...64..135S</link>
+	</links>
 </system>

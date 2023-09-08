@@ -1,13 +1,9 @@
 <system>
 	<name>Kepler-758</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://simbad.u-strasbg.fr</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

@@ -1,8 +1,8 @@
 <statistiscs>
 	<commits>0</commits>
 	<contributors num="0" />
-	<planets>0</planets>
-	<systems>0</systems>
+	<planets>1</planets>
+	<systems>1</systems>
 	<binaries>0</binaries>
 	<discoveryyear>
 		<y1992>0</y1992>
@@ -36,10 +36,10 @@
 		<y2020>0</y2020>
 		<y2021>0</y2021>
 		<y2022>0</y2022>
-		<y2023>0</y2023>
+		<y2023>1</y2023>
 	</discoveryyear>
-	<confirmedplanets>0</confirmedplanets>
-	<confirmedsystems>0</confirmedsystems>
+	<confirmedplanets>1</confirmedplanets>
+	<confirmedsystems>1</confirmedsystems>
 	<lastupdate>2023-09-07</lastupdate>
 	<lastcommittimestamp>1694129789</lastcommittimestamp>
 </statistiscs>

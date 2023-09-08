@@ -1,4 +1,8 @@
 <system>
 	<name>XO-2</name>
 	<contributors />
+	<links>
+		<link>http://exoplanet.eu</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+	</links>
 </system>

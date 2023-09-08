@@ -1,14 +1,4 @@
 <system>
 	<name>Kepler-620</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1210.4257</link>
-	</links>
+	<contributors />
 </system>

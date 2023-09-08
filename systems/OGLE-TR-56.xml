@@ -1,4 +1,6 @@
 <system>
 	<name>OGLE-TR-56</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 </system>

@@ -1,11 +1,8 @@
 <system>
 	<name>HD 38858</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

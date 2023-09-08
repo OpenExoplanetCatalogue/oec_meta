@@ -1,11 +1,7 @@
 <system>
 	<name>Kepler-364</name>
-	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="3">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>

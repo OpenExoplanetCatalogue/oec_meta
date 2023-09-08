@@ -1,13 +1,8 @@
 <system>
 	<name>Kepler-314</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>https://arxiv.org/abs/1810.02341</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://exoplanet.eu</link>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2017AJ....154....1H</link>
 	</links>
 </system>

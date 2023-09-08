@@ -1,4 +1,10 @@
 <system>
 	<name>omi UMa</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://adsabs.harvard.edu/abs/2007MNRAS.376..919M</link>
+	</links>
 </system>

@@ -1,13 +1,4 @@
 <system>
 	<name>Kepler-554</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1507.08256</link>
-	</links>
+	<contributors />
 </system>

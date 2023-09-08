@@ -1,4 +1,8 @@
 <system>
 	<name>Kepler-1172</name>
 	<contributors />
+	<links>
+		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

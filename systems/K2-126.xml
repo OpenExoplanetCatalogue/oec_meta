@@ -1,11 +1,7 @@
 <system>
 	<name>K2-126</name>
-	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1503.04149</link>
 	</links>
 </system>

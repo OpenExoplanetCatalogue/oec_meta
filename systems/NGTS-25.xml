@@ -1,9 +1,4 @@
 <system>
 	<name>NGTS-25</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
-	</links>
+	<contributors />
 </system>

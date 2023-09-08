@@ -1,4 +1,10 @@
 <system>
 	<name>KELT-6</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

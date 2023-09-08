@@ -1,8 +1,6 @@
 <system>
 	<name>K2-124</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
 		<link>https://arxiv.org/abs/1903.08002</link>
 	</links>

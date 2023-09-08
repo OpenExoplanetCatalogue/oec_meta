@@ -1,8 +1,11 @@
 <system>
 	<name>Kepler-1264</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

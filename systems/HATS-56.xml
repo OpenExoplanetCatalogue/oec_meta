@@ -1,4 +1,12 @@
 <system>
 	<name>HATS-56</name>
-	<contributors />
+	<contributors>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
+	</links>
 </system>

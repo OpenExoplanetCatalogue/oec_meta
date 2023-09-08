@@ -1,8 +1,10 @@
 <system>
 	<name>AB Pic</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 	<links>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/pdf/1809.04897.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

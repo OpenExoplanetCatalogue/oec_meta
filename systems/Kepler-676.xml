@@ -1,6 +1,8 @@
 <system>
 	<name>Kepler-676</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+	</links>
 </system>

@@ -1,4 +1,7 @@
 <system>
 	<name>TrES-3</name>
 	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

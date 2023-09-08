@@ -1,10 +1,7 @@
 <system>
 	<name>Kepler-925</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

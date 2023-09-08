@@ -1,15 +1,14 @@
 <system>
 	<name>HAT-P-49</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
 		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2014ApJ...780L...4B</link>
-		<link>https://arxiv.org/abs/1708.05747</link>
-		<link>http://arxiv.org/abs/1312.1265</link>
-		<link>http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1703.01857</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2000A%26A...355L..27H</link>
+		<link>http://dx.doi.org/10.1051/0004-6361/201220727</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
 	</links>
 </system>

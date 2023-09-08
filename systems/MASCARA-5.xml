@@ -1,8 +1,12 @@
 <system>
 	<name>MASCARA-5</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/750/2/113</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
 	</links>
 </system>

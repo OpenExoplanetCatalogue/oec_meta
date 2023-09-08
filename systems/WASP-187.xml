@@ -1,4 +1,10 @@
 <system>
 	<name>WASP-187</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://arxiv.org/abs/1810.02341</link>
+	</links>
 </system>

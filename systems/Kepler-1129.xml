@@ -1,11 +1,16 @@
 <system>
 	<name>Kepler-1129</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://dx.doi.org/10.1088/0004-6256/142/3/86</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

@@ -1,4 +1,6 @@
 <system>
 	<name>HAT-P-33</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+	</contributors>
 </system>

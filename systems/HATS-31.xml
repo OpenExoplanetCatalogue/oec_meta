@@ -1,6 +1,9 @@
 <system>
 	<name>HATS-31</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+	</links>
 </system>

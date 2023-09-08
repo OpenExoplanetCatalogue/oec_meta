@@ -50,8 +50,8 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
     ET.SubElement(metaroot,"name").text = systemname 
     
     os.popen("git --git-dir=open_exoplanet_catalogue/.git/ --no-pager log '"+metafilename+"' >tmp.txt")
-        
-    contributors = os.popen("cat tmp.txt | grep '^Author:' | sort |  uniq -c -i ").readlines()
+         
+    contributors = os.popen("cat tmp.txt | grep -a '^Author:' | sort |  uniq -c -i ").readlines()
 
 
     sys.stdout.write('.')
@@ -75,7 +75,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
             totalcontributorsemail.append(email)
 
 
-    links = os.popen("cat tmp.txt | grep -oE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
+    links = os.popen("cat tmp.txt | grep -aoE '\\b(https?)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]*[-A-Za-z0-9+&@#/%=~_|]'").readlines()
     if len(links)>0:
         links = set(links)
         #print "Links: %d" % len(links),
@@ -86,14 +86,14 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
     
     names = root.findall("./name")
     for name in names:
-        aliases.append([name.text.encode('utf-8'),systemname,"system",names[0].text.encode('utf-8')])
+        aliases.append([name.text,systemname,"system",names[0].text])
         
     
     stars = root.findall(".//star")
     for star in stars:
         names = star.findall("./name")
         for name in names:
-            aliases.append([name.text.encode('utf-8'),systemname,"star",names[0].text.encode('utf-8')])
+            aliases.append([name.text,systemname,"star",names[0].text])
 
     #print ""
     confirmedsystem = 0
@@ -101,7 +101,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
     for planet in planets:
         names = planet.findall("./name")
         for name in names:
-            aliases.append([name.text.encode('utf-8'),systemname,"planet",names[0].text.encode('utf-8')])
+            aliases.append([name.text,systemname,"planet",names[0].text])
         lists = planet.findall(".//list")
         totalplanets += 1
         for l in lists:
@@ -127,12 +127,12 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
     ET.ElementTree(metaroot).write(metafilename, encoding="utf-8") 
     #if totalsystems >3: break
 
-print("")
+print("Working on Statistics")
 statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 contributors = ET.SubElement(statroot,"contributors")
 for c in totalcontributors:
-    ET.SubElement(contributors,"contributor").text = c.encode('utf-8')
+    ET.SubElement(contributors,"contributor").text = c
 contributors.attrib["num"] = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
@@ -150,7 +150,7 @@ ET.SubElement(statroot,"lastcommittimestamp").text = os.popen("cd ../open_exopla
 indent(statroot)
 ET.ElementTree(statroot).write("statistics.xml") 
 
-with open('aliases.csv', 'wb') as csvfile:
+with open('aliases.csv', 'w', encoding='utf-8') as csvfile:
     spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     spamwriter.writerows(aliases)
 

@@ -1,10 +1,4 @@
 <system>
 	<name>Kepler-842</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr</link>
-		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
-	</links>
+	<contributors />
 </system>

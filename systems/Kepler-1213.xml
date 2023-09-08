@@ -1,9 +1,4 @@
 <system>
 	<name>Kepler-1213</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/</link>
-	</links>
+	<contributors />
 </system>

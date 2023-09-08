@@ -1,12 +1,7 @@
 <system>
 	<name>CI Tau</name>
-	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1809.00678</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

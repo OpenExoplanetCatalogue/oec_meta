@@ -1,4 +1,8 @@
 <system>
 	<name>Kepler-627</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
 </system>

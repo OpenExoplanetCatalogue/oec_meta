@@ -1,4 +1,9 @@
 <system>
 	<name>Kepler-421</name>
-	<contributors />
+	<contributors>
+		<contributor email="56284207+SevenSpheres@users.noreply.github.com" commits="1">Sevenspheres</contributor>
+	</contributors>
+	<links>
+		<link>https://arxiv.org/abs/2008.01595</link>
+	</links>
 </system>

@@ -1,9 +1,4 @@
 <system>
 	<name>HAT-P-48</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-	</links>
+	<contributors />
 </system>

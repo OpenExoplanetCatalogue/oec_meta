@@ -1,13 +1,4 @@
 <system>
 	<name>K2-253</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gliese+328</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1307.7640</link>
-	</links>
+	<contributors />
 </system>

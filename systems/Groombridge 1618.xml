@@ -1,13 +1,4 @@
 <system>
 	<name>Groombridge 1618</name>
-	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="3">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1509.02210</link>
-		<link>http://arxiv.org/abs/1509.08953</link>
-	</links>
+	<contributors />
 </system>

@@ -1,12 +1,21 @@
 <system>
 	<name>TOI-178</name>
 	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="7">Andrew Tribick</contributor>
+		<contributor email="" commits="1">Chrissy Teagan</contributor>
 		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+		<contributor email="hanno.senger@hotmail.de" commits="1">Senger Hanno</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1501.06227</link>
 		<link>http://exoplanet.eu</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1512.03428</link>
+		<link>http://openexoplanetcatalogue.com/planet/Kepler-444%20f/</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2015ApJ...799..170C</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
 	</links>
 </system>

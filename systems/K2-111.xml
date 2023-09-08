@@ -1,7 +1,11 @@
 <system>
 	<name>K2-111</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
+	<links>
+		<link>http://exoplanet.eu</link>
+		<link>https://arxiv.org/abs/1608.06216</link>
+	</links>
 </system>

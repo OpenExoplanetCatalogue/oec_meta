@@ -1,11 +1,9 @@
 <system>
 	<name>CoRoT-12</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
 		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1503.00062</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>

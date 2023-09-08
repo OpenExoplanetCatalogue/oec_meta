@@ -1,14 +1,13 @@
 <system>
 	<name>WASP-130</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://arxiv.org/abs/1612.04166</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
 	</links>
 </system>

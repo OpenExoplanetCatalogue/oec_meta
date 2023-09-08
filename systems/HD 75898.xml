@@ -1,18 +1,4 @@
 <system>
 	<name>HD 75898</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://adsabs.harvard.edu/abs/2014ApJ...787...80H</link>
-		<link>http://exoplanet.eu</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://adsabs.harvard.edu/abs/2016MNRAS.455L.104G</link>
-		<link>http://arxiv.org/pdf/1208.3499v1.pdf</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-	</links>
+	<contributors />
 </system>

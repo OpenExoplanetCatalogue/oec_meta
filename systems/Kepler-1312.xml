@@ -1,9 +1,4 @@
 <system>
 	<name>Kepler-1312</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2007MNRAS.376..919M</link>
-	</links>
+	<contributors />
 </system>

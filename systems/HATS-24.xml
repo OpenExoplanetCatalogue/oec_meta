@@ -1,7 +1,16 @@
 <system>
 	<name>HATS-24</name>
 	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
 		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
+	<links>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://arxiv.org/pdf/1506.07144.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...462..345D</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%402873262&amp;Name=GJ%20%20%20777%20B</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

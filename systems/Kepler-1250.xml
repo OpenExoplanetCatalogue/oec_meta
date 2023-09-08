@@ -1,4 +1,18 @@
 <system>
 	<name>Kepler-1250</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="3">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/pdf/1503.07866v1</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1602.01851v1</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+	</links>
 </system>

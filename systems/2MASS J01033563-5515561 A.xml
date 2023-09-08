@@ -1,11 +1,11 @@
 <system>
 	<name>2MASS J01033563-5515561 A</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1512.02003</link>
-		<link>http://arxiv.org/abs/1510.02476</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 	</links>
 </system>

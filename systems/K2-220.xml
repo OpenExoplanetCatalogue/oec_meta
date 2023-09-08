@@ -1,9 +1,13 @@
 <system>
 	<name>K2-220</name>
 	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
 		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanet.eu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>https://archive.stsci.edu/k2/epic/search.php</link>
+		<link>http://adsabs.harvard.edu/abs/2018arXiv180205277M</link>
 	</links>
 </system>

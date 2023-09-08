@@ -1,4 +1,10 @@
 <system>
 	<name>Kepler-1668</name>
 	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://arxiv.org/abs/1207.3141</link>
+		<link>http://adsabs.harvard.edu/abs/2012PASJ...64..135S</link>
+	</links>
 </system>

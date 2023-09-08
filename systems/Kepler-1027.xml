@@ -1,4 +1,12 @@
 <system>
 	<name>Kepler-1027</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+	</contributors>
+	<links>
+		<link>https://ui.adsabs.harvard.edu/?#abs/2014ApJ...790...14Y</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://adsabs.harvard.edu/abs/2016ApJ...830..150P</link>
+	</links>
 </system>

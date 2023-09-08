@@ -1,10 +1,6 @@
 <system>
 	<name>Kepler-939</name>
 	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="2">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
-	<links>
-		<link>https://arxiv.org/abs/1911.05574</link>
-	</links>
 </system>

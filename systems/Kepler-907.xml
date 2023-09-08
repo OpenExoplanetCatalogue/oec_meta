@@ -1,10 +1,4 @@
 <system>
 	<name>Kepler-907</name>
-	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
-	</links>
+	<contributors />
 </system>

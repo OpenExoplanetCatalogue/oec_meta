@@ -1,10 +1,14 @@
 <system>
 	<name>GJ 27.1</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
+		<contributor email="landrok@users.noreply.github.com" commits="1">Landrok</contributor>
+	</contributors>
 	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://arxiv.org/abs/1103.1325</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=Kepler-1487+b&amp;type=CONFIRMED_PLANET</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue/blob/master/systems/Kepler-1487.xml#L3</link>
 	</links>
 </system>

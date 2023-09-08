@@ -1,4 +1,9 @@
 <system>
 	<name>OGLE-2013-BLG-0102L</name>
 	<contributors />
+	<links>
+		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+	</links>
 </system>

@@ -1,6 +1,7 @@
 <system>
 	<name>TOI-169</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://exoplanet.eu</link>
+	</links>
 </system>

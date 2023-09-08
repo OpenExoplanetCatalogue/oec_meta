@@ -1,4 +1,8 @@
 <system>
 	<name>2M 1252+2735</name>
 	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>https://arxiv.org/abs/1903.06622</link>
+	</links>
 </system>

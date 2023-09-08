@@ -1,4 +1,10 @@
 <system>
 	<name>HATS-72</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="9">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
+	</contributors>
+	<links>
+		<link>https://www.nature.com/articles/s41586-020-2713-y</link>
+	</links>
 </system>

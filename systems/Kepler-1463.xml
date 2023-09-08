@@ -1,12 +1,14 @@
 <system>
 	<name>Kepler-1463</name>
 	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1509.09012</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1401.4195</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2013MNRAS.430..652F</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2006ApJ...646..505B</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/694/2/1085</link>
+		<link>http://dx.doi.org/10.1086/591785</link>
+		<link>http://dx.doi.org/10.1093/mnras/sts677</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

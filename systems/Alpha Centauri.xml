@@ -1,14 +1,9 @@
 <system>
 	<name>Alpha Centauri</name>
-	<contributors>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="31114721+dobb13@users.noreply.github.com" commits="2">Dobb13</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=hd96063&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
+		<link>http://arxiv.org/abs/1302.3093</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>

@@ -1,4 +1,8 @@
 <system>
 	<name>Kepler-68</name>
 	<contributors />
+	<links>
+		<link>http://arxiv.org/abs/1407.4807</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+	</links>
 </system>

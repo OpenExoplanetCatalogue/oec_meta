@@ -1,4 +1,9 @@
 <system>
 	<name>K2-119</name>
 	<contributors />
+	<links>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://adsabs.harvard.edu/abs/2009A%26A...499..935D</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

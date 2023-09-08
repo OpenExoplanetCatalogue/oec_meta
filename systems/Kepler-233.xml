@@ -1,4 +1,22 @@
 <system>
 	<name>Kepler-233</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="2">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
+		<contributor email="ma.martinod@free.fr" commits="2">Marc-Antoine</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="6">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
+	</contributors>
+	<links>
+		<link>http://arxiv.org/abs/1307.6857</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://arxiv.org/abs/1212.3701</link>
+		<link>http://fr.arxiv.org/pdf/0812.1161v1</link>
+		<link>http://arxiv.org/abs/1105.3849</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://adsabs.harvard.edu/abs/2015ApJ...800..138N</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014ApJ...788....2B</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://fr.arxiv.org/abs/1006.3580</link>
+	</links>
 </system>

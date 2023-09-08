@@ -1,9 +1,12 @@
 <system>
 	<name>Kepler-906</name>
-	<contributors />
+	<contributors>
+		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
+		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="3">Hanno Rein</contributor>
+	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/abs/1505.01747</link>
+		<link>http://adsabs.harvard.edu/abs/2015ApJ...806..254A</link>
 	</links>
 </system>

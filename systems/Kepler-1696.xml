@@ -1,18 +1,4 @@
 <system>
 	<name>Kepler-1696</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="8">Hanno Rein</contributor>
-		<contributor email="ma.martinod@free.fr" commits="1">Marc-Antoine</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="4">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
-		<link>http://xxx.lanl.gov/abs/1201.0659</link>
-		<link>http://xxx.lanl.gov/pdf/1201.0659v2.pdf</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-	</links>
+	<contributors />
 </system>

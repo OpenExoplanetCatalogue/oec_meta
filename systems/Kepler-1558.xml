@@ -1,12 +1,8 @@
 <system>
 	<name>Kepler-1558</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="1">Andrew Tribick</contributor>
-		<contributor email="Sol-d@users.noreply.github.com" commits="1">Christian Sturm</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>

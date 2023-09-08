@@ -1,9 +1,4 @@
 <system>
 	<name>MOA-2012-BLG-505L</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="3">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="7">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
-	</contributors>
+	<contributors />
 </system>

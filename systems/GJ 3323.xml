@@ -1,16 +1,4 @@
 <system>
 	<name>GJ 3323</name>
-	<contributors>
-		<contributor email="ajtribick@googlemail.com" commits="4">Andrew Tribick</contributor>
-		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
-		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
-		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
-	</contributors>
-	<links>
-		<link>http://adsabs.harvard.edu/abs/2015ApJ...800..138N</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2013MNRAS.428..182B</link>
-		<link>http://arxiv.org/pdf/0902.2179v1.pdf</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
-		<link>http://dx.doi.org/10.1088/0004-637X/726/2/94</link>
-	</links>
+	<contributors />
 </system>

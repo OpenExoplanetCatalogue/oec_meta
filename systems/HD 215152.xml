@@ -1,6 +1,17 @@
 <system>
 	<name>HD 215152</name>
 	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
+		<contributor email="" commits="1">Alex Storrs</contributor>
+		<contributor email="ajtribick@googlemail.com" commits="5">Andrew Tribick</contributor>
+		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
+		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
+		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
+	<links>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://archive.stsci.edu/kepler/</link>
+		<link>http://adsabs.harvard.edu/abs/2013ApJ...766...40G</link>
+		<link>http://arxiv.org/abs/1601.01524</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
+	</links>
 </system>

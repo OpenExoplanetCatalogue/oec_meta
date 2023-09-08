@@ -1,4 +1,10 @@
 <system>
 	<name>HD 45350</name>
 	<contributors />
+	<links>
+		<link>https://exoplanetarchive.ipac.caltech.edu</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+	</links>
 </system>

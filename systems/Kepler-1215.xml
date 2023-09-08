@@ -1,9 +1,4 @@
 <system>
 	<name>Kepler-1215</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
-	</contributors>
-	<links>
-		<link>https://arxiv.org/abs/1810.02341</link>
-	</links>
+	<contributors />
 </system>

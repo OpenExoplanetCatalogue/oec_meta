@@ -1,6 +1,9 @@
 <system>
 	<name>Kepler-666</name>
-	<contributors>
-		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
-	</contributors>
+	<contributors />
+	<links>
+		<link>http://exoplanets.eu/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://www.sciencemag.org/content/344/6181/277</link>
+	</links>
 </system>
