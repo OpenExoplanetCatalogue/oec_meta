@@ -6,7 +6,7 @@ commit (){
 }
 
 
-python generate.python
+python3 generate.python
 commit "automatic update: generate"
 
 git push
