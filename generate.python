@@ -125,7 +125,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         totalbinaries += 1
 
     indent(metaroot)
-    ET.ElementTree(metaroot).write(metafilename.decode("utf-8")) 
+    ET.ElementTree(metaroot).write(metafilename) 
     #if totalsystems >3: break
 
 print("")
