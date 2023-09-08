@@ -83,7 +83,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         astag = ET.SubElement(metaroot,"links")
         for link in links:
             atag = ET.SubElement(astag,"link")
-            atag.text = unicode(link.strip(),'utf-8')
+            atag.text = link.strip().enocde('utf-8')
     
     names = root.findall("./name")
     for name in names:
@@ -135,7 +135,7 @@ statroot = ET.Element("statistiscs")
 ET.SubElement(statroot,"commits").text = "%d" % totalcommits
 contributors = ET.SubElement(statroot,"contributors")
 for c in totalcontributors:
-    ET.SubElement(contributors,"contributor").text = unicode(c,'utf-8')
+    ET.SubElement(contributors,"contributor").text = c.encode('utf-8')
 contributors.attrib["num"] = "%d" % len(totalcontributors)
 ET.SubElement(statroot,"planets").text = "%d" % totalplanets
 ET.SubElement(statroot,"systems").text = "%d" % totalsystems
