@@ -46,7 +46,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
     f.close()
 
     metaroot = ET.Element("system")
-    systemname = root.findtext("./name").encode('utf-8')
+    systemname = root.findtext("./name")
     ET.SubElement(metaroot,"name").text = systemname 
     
     os.popen("git --git-dir=open_exoplanet_catalogue/.git/ --no-pager log '"+metafilename+"' >tmp.txt")
@@ -67,7 +67,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         email = re.search('<(.*)>', rows[1]).group(1)
         name = re.search('(.*) <', rows[1]).group(1).title()
         ctag = ET.SubElement(cstag,"contributor")
-        ctag.text = name.encode('utf-8')
+        ctag.text = name
         ctag.attrib['email'] = email
         ctag.attrib['commits'] = "%d"% commits
         totalcommits += commits
@@ -83,7 +83,7 @@ for filename in glob.glob("open_exoplanet_catalogue/systems/*.xml"):
         astag = ET.SubElement(metaroot,"links")
         for link in links:
             atag = ET.SubElement(astag,"link")
-            atag.text = link.strip().enocde('utf-8')
+            atag.text = link.strip()
     
     names = root.findall("./name")
     for name in names:
