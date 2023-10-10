@@ -1,5 +1,5 @@
 <statistiscs>
-	<commits>24121</commits>
+	<commits>24129</commits>
 	<contributors num="39">
 		<contributor>Hanno Rein</contributor>
 		<contributor>Andrew Tribick</contributor>
@@ -80,6 +80,6 @@
 	</discoveryyear>
 	<confirmedplanets>5061</confirmedplanets>
 	<confirmedsystems>3813</confirmedsystems>
-	<lastupdate>2023-09-07</lastupdate>
-	<lastcommittimestamp>1694129789</lastcommittimestamp>
+	<lastupdate>2023-10-10</lastupdate>
+	<lastcommittimestamp>1696921337</lastcommittimestamp>
 </statistiscs>
