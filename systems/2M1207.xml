@@ -5,9 +5,9 @@
 		<contributor email="hanno@hanno-rein.de" commits="10">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2006ApJ...652..724S</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>
