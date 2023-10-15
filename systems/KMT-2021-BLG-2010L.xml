@@ -1,4 +1,6 @@
 <system>
 	<name>KMT-2021-BLG-2010L</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
 </system>

@@ -1,4 +1,6 @@
 <system>
 	<name>TOI-5704</name>
-	<contributors />
+	<contributors>
+		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
+	</contributors>
 </system>
