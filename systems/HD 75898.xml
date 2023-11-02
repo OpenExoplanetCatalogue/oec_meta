@@ -6,10 +6,10 @@
 		<contributor email="31863693+RandomCoinForAll@users.noreply.github.com" commits="1">Randomcoinforall</contributor>
 	</contributors>
 	<links>
-		<link>https://www.iau.org/public/themes/naming_stars/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://www.iau.org/public/themes/naming_exoplanets/</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>https://www.iau.org/public/themes/naming_stars/</link>
+		<link>https://www.iau.org/public/themes/naming_exoplanets/</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>
