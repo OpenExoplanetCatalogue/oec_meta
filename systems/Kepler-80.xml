@@ -6,10 +6,10 @@
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>https://arxiv.org/abs/1712.05044v1</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>https://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=Kepler-80+f&amp;type=KEPLER_CANDIDATE</link>
-		<link>http://astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://adsabs.harvard.edu/abs/2016AJ....152..105M</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
+		<link>https://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=Kepler-80+f&amp;type=KEPLER_CANDIDATE</link>
+		<link>https://arxiv.org/abs/1712.05044v1</link>
 	</links>
 </system>
