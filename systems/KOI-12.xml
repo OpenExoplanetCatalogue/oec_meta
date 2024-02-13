@@ -5,10 +5,10 @@
 		<contributor email="hanno@hanno-rein.de" commits="4">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1511.00643</link>
-		<link>http://arxiv.org/abs/1504.04130</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1511.00643</link>
+		<link>http://arxiv.org/abs/1504.04130</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=K00012.01&amp;type=KEPLER_CANDIDATE</link>
 	</links>
 </system>
