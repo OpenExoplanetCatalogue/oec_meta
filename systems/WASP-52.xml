@@ -7,12 +7,12 @@
 		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://dx.doi.org/10.1051/0004-6361/201220363</link>
 		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A.134H</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=wasp-52&amp;submit=SIMBAD+search</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://dx.doi.org/10.1051/0004-6361/201220363</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=wasp-52&amp;submit=SIMBAD+search</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
 	</links>
 </system>
