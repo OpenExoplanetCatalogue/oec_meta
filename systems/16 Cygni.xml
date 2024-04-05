@@ -6,10 +6,10 @@
 		<contributor email="kennethjcott@gmail.com" commits="1">Kenneth J Cott</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2015MNRAS.446.2959D</link>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J19418%2b5032A</link>
-		<link>http://adsabs.harvard.edu/abs/2007ApJ...654..625W</link>
 		<link>http://cdsarc.u-strasbg.fr/viz-bin/Cat?I/311</link>
+		<link>http://adsabs.harvard.edu/abs/2007ApJ...654..625W</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J19418%2b5032A</link>
 	</links>
 </system>
