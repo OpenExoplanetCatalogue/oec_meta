@@ -6,10 +6,10 @@
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2011A%26A...527A.140R</link>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J17206-1920B</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=CCDM%20J17206-1920%20A</link>
-		<link>http://adsabs.harvard.edu/abs/2011ApJ...733...28K</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2008A%26A...480L..33T</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=CCDM%20J17206-1920%20A</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J17206-1920B</link>
+		<link>http://adsabs.harvard.edu/abs/2011ApJ...733...28K</link>
+		<link>http://adsabs.harvard.edu/abs/2011A%26A...527A.140R</link>
 	</links>
 </system>
