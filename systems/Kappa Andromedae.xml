@@ -7,10 +7,10 @@
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2014A%26A...562A.111B</link>
 		<link>http://adsabs.harvard.edu/abs/2016ApJ...822L...3J</link>
-		<link>http://adsabs.harvard.edu/abs/2013ApJ...779..153H</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2013ApJ...779..153H</link>
+		<link>http://adsabs.harvard.edu/abs/2013ApJ...779..153H</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2014A%26A...562A.111B</link>
 	</links>
 </system>
