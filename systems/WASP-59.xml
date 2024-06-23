@@ -7,12 +7,12 @@
 		<contributor email="ryanjvarley@gmail.com" commits="3">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/649/fp_2mass.fp_psc649.tbl</link>
-		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A.134H</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=WASP-59&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
 		<link>http://arxiv.org/pdf/1211.0810v1.pdf</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_zI03Rv_25120/Gator/irsa/649/fp_2mass.fp_psc649.tbl</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://adsabs.harvard.edu/abs/2013A%26A...549A.134H</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=WASP-59&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
 	</links>
 </system>
