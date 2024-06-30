@@ -9,13 +9,13 @@
 		<contributor email="christian.sturm@csturm.de" commits="1">Sol-D</contributor>
 	</contributors>
 	<links>
-		<link>http://kepler.nasa.gov/Mission/discoveries/</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://arxiv.org/abs/1511.00643</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=kepler-12&amp;submit=SIMBAD+search</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://kepler.nasa.gov/Mission/discoveries/</link>
 		<link>http://arxiv.org/abs/1109.1611</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=kepler-12&amp;submit=SIMBAD+search</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 	</links>
 </system>
