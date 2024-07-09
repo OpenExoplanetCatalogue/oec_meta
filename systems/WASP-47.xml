@@ -8,16 +8,16 @@
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://arxiv.org/abs/1204.5095</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
-		<link>http://arxiv.org/abs/1509.07750</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2012MNRAS.426..739H</link>
-		<link>http://arxiv.org/abs/1510.03811</link>
+		<link>http://arxiv.org/abs/1508.02411v2</link>
+		<link>http://arxiv.org/abs/1509.07750</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://arxiv.org/pdf/1508.02411.pdf</link>
 		<link>http://arxiv.org/abs/1509.05337</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1508.02411v2</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://arxiv.org/abs/1204.5095</link>
+		<link>http://arxiv.org/abs/1510.03811</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>
