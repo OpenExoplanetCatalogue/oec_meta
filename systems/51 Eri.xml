@@ -5,11 +5,11 @@
 		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1508.03084</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2012A%26A...539A..72D</link>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J04376-0228Ca%2cCb</link>
 		<link>http://arxiv.org/abs/1508.05945</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2012ApJ...754...44J</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2012A%26A...539A..72D</link>
+		<link>http://arxiv.org/abs/1508.03084</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J04376-0228Ca%2cCb</link>
 		<link>http://arxiv.org/abs/1509.07514</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2012ApJ...754...44J</link>
 	</links>
 </system>
