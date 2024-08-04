@@ -7,14 +7,14 @@
 		<contributor email="ryanjvarley@gmail.com" commits="4">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://dx.doi.org/10.1051/0004-6361/200913096</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=corot-7&amp;submit=SIMBAD+search</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
+		<link>http://dx.doi.org/10.1051/0004-6361/200913096</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=corot-7&amp;submit=SIMBAD+search</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>https://github.com/ryanvarley/open_exoplanet_catalogue_advanced/issues/2</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>
