@@ -6,9 +6,9 @@
 		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="2">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2007A%26A...472..657L</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://adsabs.harvard.edu/abs/2007A%26A...472..657L</link>
 	</links>
 </system>
