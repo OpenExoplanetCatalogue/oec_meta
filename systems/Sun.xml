@@ -4,9 +4,9 @@
 		<contributor email="hanno@hanno-rein.de" commits="12">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://publications.edpsciences.org/10.1051/0004-6361:20020749</link>
-		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t2.txt</link>
-		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t1.txt</link>
 		<link>http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html</link>
+		<link>http://publications.edpsciences.org/10.1051/0004-6361:20020749</link>
+		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t1.txt</link>
+		<link>http://ssd.jpl.nasa.gov/txt/p_elem_t2.txt</link>
 	</links>
 </system>
