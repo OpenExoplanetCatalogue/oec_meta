@@ -6,9 +6,9 @@
 		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
 	<links>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=planets</link>
+		<link>http://arxiv.org/abs/1505.02814</link>
 		<link>http://adsabs.harvard.edu/abs/2012AJ....144...42A</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=cumulative</link>
-		<link>http://arxiv.org/abs/1505.02814</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=planets</link>
 	</links>
 </system>
