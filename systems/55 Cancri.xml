@@ -7,16 +7,16 @@
 		<contributor email="ryanjvarley@gmail.com" commits="5">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1511.03197</link>
-		<link>https://arxiv.org/abs/1807.04301v1</link>
 		<link>http://dx.doi.org/10.1086/525512</link>
-		<link>http://arxiv.org/abs/1505.00269</link>
+		<link>https://arxiv.org/abs/1807.04301v1</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://arxiv.org/abs/1302.3321</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2009ApJ...694.1085V</link>
-		<link>http://adsabs.harvard.edu/abs/2017AJ....154..232A</link>
+		<link>http://arxiv.org/abs/1511.03197</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2009ApJ...694.1085V</link>
+		<link>http://arxiv.org/abs/1505.00269</link>
 		<link>http://adsabs.harvard.edu/abs/2015MNRAS.446.1493B</link>
+		<link>http://adsabs.harvard.edu/abs/2017AJ....154..232A</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>
