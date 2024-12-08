@@ -6,11 +6,11 @@
 		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2015ApJ...815...32K</link>
-		<link>http://sb9.astro.ulb.ac.be/</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2009A%26A...507.1659G</link>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J02370%2b2439A</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=30+Ari+A</link>
 		<link>http://arxiv.org/abs/1503.01211</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J02370%2b2439A</link>
+		<link>http://sb9.astro.ulb.ac.be/</link>
+		<link>http://adsabs.harvard.edu/abs/2015ApJ...815...32K</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=30+Ari+A</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2009A%26A...507.1659G</link>
 	</links>
 </system>
