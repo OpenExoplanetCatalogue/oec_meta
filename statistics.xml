@@ -78,9 +78,10 @@
 		<y2022>314</y2022>
 		<y2023>195</y2023>
 		<y2024>0</y2024>
+		<y2025>0</y2025>
 	</discoveryyear>
 	<confirmedplanets>5288</confirmedplanets>
 	<confirmedsystems>4003</confirmedsystems>
-	<lastupdate>2024-12-31</lastupdate>
-	<lastcommittimestamp>1735628551</lastcommittimestamp>
+	<lastupdate>2025-01-01</lastupdate>
+	<lastcommittimestamp>1735714873</lastcommittimestamp>
 </statistiscs>
