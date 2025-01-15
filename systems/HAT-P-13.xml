@@ -8,13 +8,13 @@
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://dx.doi.org/10.1088/0004-637X/707/1/446</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
-		<link>http://iopscience.iop.org/0004-637X/707/1/446/pdf/apj_707_1_446.pdf</link>
 		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
+		<link>http://dx.doi.org/10.1088/0004-637X/707/1/446</link>
+		<link>http://iopscience.iop.org/0004-637X/707/1/446/pdf/apj_707_1_446.pdf</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=planets</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>
