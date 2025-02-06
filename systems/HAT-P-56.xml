@@ -6,8 +6,8 @@
 		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanetarchive.ipac.caltech.edu./cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://arxiv.org/abs/1506.01776</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu./cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;config=k2names</link>
 	</links>
 </system>
