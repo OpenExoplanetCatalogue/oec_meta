@@ -7,10 +7,10 @@
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=cumulative_only</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://adsabs.harvard.edu/abs/2013ApJ...773L..15R</link>
-		<link>http://arxiv.org/abs/1307.4080</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=cumulative_only</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1307.4080</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
 	</links>
 </system>
