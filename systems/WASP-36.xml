@@ -7,11 +7,11 @@
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
+		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=wasp-36&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://simbad.u-strasbg.fr/simbad/sim-id?Ident=wasp-36&amp;NbIdent=1&amp;Radius=2&amp;Radius.unit=arcmin&amp;submit=submit+id</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://dx.doi.org/10.1088/0004-6256/143/4/81</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 	</links>
 </system>
