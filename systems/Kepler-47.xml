@@ -8,9 +8,9 @@
 		<contributor email="Tobias_Mueller@twam.info" commits="1">Tobias Müller</contributor>
 	</contributors>
 	<links>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://arxiv.org/pdf/1208.5489.pdf</link>
 		<link>http://dx.doi.org/10.1126%2Fscience.1228380</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2003yCat.2246....0C</link>
 	</links>
 </system>
