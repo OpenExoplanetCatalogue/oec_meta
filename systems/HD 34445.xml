@@ -6,10 +6,10 @@
 		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://adsabs.harvard.edu/abs/2017AJ....154..181V</link>
 		<link>http://adsabs.harvard.edu/abs/2010ApJ...721.1467H</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>
