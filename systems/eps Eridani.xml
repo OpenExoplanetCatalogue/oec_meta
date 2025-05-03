@@ -7,12 +7,12 @@
 		<contributor email="ryanjvarley@gmail.com" commits="1">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://cdsads.u-strasbg.fr/abs/2004A%26A...426..601D</link>
-		<link>http://adsabs.harvard.edu/abs/2013A%26A...552A..78Z</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://cdsads.u-strasbg.fr/abs/2012ApJS..200...15A</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2013A%26A...552A..78Z</link>
 		<link>http://adsabs.harvard.edu/abs/2012ApJS..200...15A</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2004A%26A...426..601D</link>
+		<link>http://adsabs.harvard.edu/abs/2013A%26A...552A..78Z</link>
+		<link>http://cdsads.u-strasbg.fr/abs/2012ApJS..200...15A</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>
