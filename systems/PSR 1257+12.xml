@@ -5,10 +5,10 @@
 		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://adsabs.harvard.edu/abs/2003ApJ...591L.147K</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2011Sci...333.1717B</link>
-		<link>http://cdsads.u-strasbg.fr/abs/1992Natur.355..145W</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2013MNRAS.433..162Y</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsads.u-strasbg.fr/abs/1992Natur.355..145W</link>
+		<link>http://adsabs.harvard.edu/abs/2003ApJ...591L.147K</link>
 	</links>
 </system>
