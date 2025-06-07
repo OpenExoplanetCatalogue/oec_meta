@@ -5,9 +5,9 @@
 		<contributor email="hanno@hanno-rein.de" commits="2">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=K00372.01&amp;type=KEPLER_CANDIDATE</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>http://arxiv.org/abs/1504.04625</link>
 		<link>http://adsabs.harvard.edu/abs/2016A%26A...590A.112M</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=K00372.01&amp;type=KEPLER_CANDIDATE</link>
 	</links>
 </system>
