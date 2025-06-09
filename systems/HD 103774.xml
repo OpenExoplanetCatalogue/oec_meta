@@ -5,11 +5,11 @@
 		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://simbad.u-strasbg.fr</link>
+		<link>http://arxiv.org/abs/1301.6555</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://arxiv.org/pdf/1301.2741.pdf</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://arxiv.org/abs/1301.6555</link>
-		<link>http://arxiv.org/pdf/1301.2741.pdf</link>
-		<link>http://simbad.u-strasbg.fr</link>
 	</links>
 </system>
