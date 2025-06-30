@@ -5,10 +5,10 @@
 		<contributor email="hanno@hanno-rein.de" commits="5">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://exoplanet.eu</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://adsabs.harvard.edu/abs/2017AJ....153...64M</link>
 		<link>https://ui.adsabs.harvard.edu/?#abs/2017AJ....153...64M</link>
+		<link>http://exoplanet.eu</link>
 	</links>
 </system>
