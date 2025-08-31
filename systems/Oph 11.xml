@@ -5,10 +5,10 @@
 		<contributor email="hanno@hanno-rein.de" commits="6">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J16224-2405A</link>
 		<link>http://cdsads.u-strasbg.fr/abs/2007ApJ...659.1629L</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J16224-2405A</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://adsabs.harvard.edu/abs/2012ApJ...746..154P</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://adsabs.harvard.edu/abs/2012ApJ...746..154P</link>
 	</links>
 </system>
