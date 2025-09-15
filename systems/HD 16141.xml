@@ -6,10 +6,10 @@
 		<contributor email="marc-antoine.martinod@ens-cachan.fr" commits="1">Marc-Antoine Martinod</contributor>
 	</contributors>
 	<links>
+		<link>http://apod.nasa.gov/apod/ap000330.html</link>
+		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...474..273E</link>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=hd+16141+B</link>
 		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://adsabs.harvard.edu/abs/2007A&amp;A...474..273E</link>
 		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J02353-0334B</link>
-		<link>http://apod.nasa.gov/apod/ap000330.html</link>
 	</links>
 </system>
