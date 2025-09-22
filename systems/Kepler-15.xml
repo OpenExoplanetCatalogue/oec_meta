@@ -9,13 +9,13 @@
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
-		<link>http://arxiv.org/abs/1107.2596</link>
-		<link>http://arxiv.org/pdf/1107.2596v1.pdf</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://archive.stsci.edu/kepler/kic10/search.php</link>
+		<link>http://arxiv.org/abs/1107.2596</link>
 		<link>http://arxiv.org/abs/1511.00643</link>
+		<link>http://arxiv.org/pdf/1107.2596v1.pdf</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
+		<link>http://archive.stsci.edu/kepler/kic10/search.php</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2003yCat.2246....0C</link>
 	</links>
 </system>
