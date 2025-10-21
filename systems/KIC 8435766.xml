@@ -9,10 +9,10 @@
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1305.4180</link>
-		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
-		<link>http://irsa.ipac.caltech.edu/workspace/TMP_kytXoA_18060/Gator/irsa/18826/fp_2mass.fp_psc18826.tbl</link>
+		<link>http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2000A%26A...355L..27H</link>
 		<link>http://arxiv.org/abs/1310.7988</link>
+		<link>http://arxiv.org/abs/1305.4180</link>
+		<link>http://irsa.ipac.caltech.edu/workspace/TMP_kytXoA_18060/Gator/irsa/18826/fp_2mass.fp_psc18826.tbl</link>
 	</links>
 </system>
