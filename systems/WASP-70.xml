@@ -7,9 +7,9 @@
 		<contributor email="ryanjvarley@gmail.com" commits="4">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1310.5654</link>
-		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 		<link>http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=2MASS+J21015446-1325595&amp;NbIdent=1</link>
+		<link>http://arxiv.org/abs/1310.5654</link>
 		<link>http://adsabs.harvard.edu/abs/2013arXiv1310.5654A</link>
+		<link>http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database</link>
 	</links>
 </system>
