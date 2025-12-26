@@ -6,10 +6,10 @@
 		<contributor email="landrok@users.noreply.github.com" commits="1">Landrok</contributor>
 	</contributors>
 	<links>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
-		<link>http://simbad.u-strasbg.fr/simbad</link>
 		<link>https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue/blob/master/systems/Kepler-1190.xml#L3</link>
 		<link>http://www.astro.princeton.edu/~tdm/koi-fpp/ms.pdf</link>
 		<link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-DisplayOverview?objname=Kepler-1190+b&amp;type=CONFIRMED_PLANET</link>
+		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
 	</links>
 </system>
