@@ -6,9 +6,9 @@
 		<contributor email="ryanjvarley@gmail.com" commits="2">Ryan Varley</contributor>
 	</contributors>
 	<links>
-		<link>http://arxiv.org/abs/1408.2576</link>
-		<link>http://simbad.u-strasbg.fr/simbad/</link>
 		<link>http://simbad.u-strasbg.fr/simbad</link>
+		<link>http://simbad.u-strasbg.fr/simbad/</link>
+		<link>http://arxiv.org/abs/1408.2576</link>
 		<link>http://adsabs.harvard.edu/abs/2014MNRAS.444.2783M</link>
 	</links>
 </system>
