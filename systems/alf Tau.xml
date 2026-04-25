@@ -6,9 +6,9 @@
 		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2015A%26A...580A..31H</link>
-		<link>http://arxiv.org/abs/1505.03454</link>
-		<link>http://simbad.cfa.harvard.edu/simbad/sim-id?Ident=%40719242&amp;Name=</link>
 		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J04359%2b1631A</link>
+		<link>http://arxiv.org/abs/1505.03454</link>
+		<link>http://adsabs.harvard.edu/abs/2015A%26A...580A..31H</link>
+		<link>http://simbad.cfa.harvard.edu/simbad/sim-id?Ident=%40719242&amp;Name=</link>
 	</links>
 </system>
