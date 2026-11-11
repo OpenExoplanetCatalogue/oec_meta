@@ -5,8 +5,8 @@
 		<contributor email="hanno@hanno-rein.de" commits="1">Hanno Rein</contributor>
 	</contributors>
 	<links>
-		<link>http://adsabs.harvard.edu/abs/2012A%26A...546A...5L</link>
-		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J15576%2b2653AB</link>
 		<link>http://cdsarc.u-strasbg.fr/viz-bin/Cat?J/MNRAS/389/869</link>
+		<link>http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WDS%20J15576%2b2653AB</link>
+		<link>http://adsabs.harvard.edu/abs/2012A%26A...546A...5L</link>
 	</links>
 </system>
